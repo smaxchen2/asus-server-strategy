@@ -33,6 +33,7 @@ export type Company = {
   keyPerson?: KeyPerson;
   siDist?: SiDistEntry[];
   volumeSource?: string;
+  industry?: string;
 };
 
 export type RegionKey = "na" | "apac" | "emea" | "china";

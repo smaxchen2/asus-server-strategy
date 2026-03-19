@@ -42,7 +42,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://finance.yahoo.com/news/amazons-data-center-spend-tops-130400662.html"
+      "volumeSource": "https://finance.yahoo.com/news/amazons-data-center-spend-tops-130400662.html",
+      "industry": "科技/雲端"
     },
     {
       "rank": 2,
@@ -81,7 +82,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.cnbc.com/2025/01/03/microsoft-expects-to-spend-80-billion-on-ai-data-centers-in-fy-2025.html"
+      "volumeSource": "https://www.cnbc.com/2025/01/03/microsoft-expects-to-spend-80-billion-on-ai-data-centers-in-fy-2025.html",
+      "industry": "科技/雲端"
     },
     {
       "rank": 3,
@@ -120,7 +122,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://en.wikipedia.org/wiki/Google_data_centers"
+      "volumeSource": "https://en.wikipedia.org/wiki/Google_data_centers",
+      "industry": "科技/雲端"
     },
     {
       "rank": 4,
@@ -159,7 +162,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://finance.yahoo.com/news/meta-microsoft-both-blew-data-012942413.html"
+      "volumeSource": "https://finance.yahoo.com/news/meta-microsoft-both-blew-data-012942413.html",
+      "industry": "科技/社群"
     },
     {
       "rank": 5,
@@ -176,9 +180,9 @@
       "challenges": "Apple 對於其供應鏈有著極高的保密要求和品質標準，且其伺服器設計高度客製化。要打入其供應鏈，不僅需要卓越的技術實力，更需要通過其嚴格的供應商審核流程，並在保密協議下進行合作。克服的關鍵在於擁有領先的製造工藝、嚴格的品管體系，並能配合 Apple 的節奏進行快速的產品迭代。",
       "entryPoint": "鑑於 Apple 的封閉體系，直接切入核心伺服器供應鏈難度極高。可以嘗試從周邊的基礎設施或非核心業務著手，例如提供資料中心內的客製化機櫃、網路設備或儲存解決方案。執行上，需要透過長期的關係建立，並在品質、交期、成本上展現出絕對的優勢，以爭取到小規模的合作機會，逐步建立信任關係。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP of IT Infrastructure",
-        "linkedin": "",
+        "name": "Priya Balasubramaniam",
+        "title": "VP, Operations - Procurement",
+        "linkedin": "https://www.linkedin.com/in/priya-balasubramaniam-7963b52/",
         "source": ""
       },
       "siDist": [
@@ -188,7 +192,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.datacenterdynamics.com/en/news/apple-anticipates-substantial-capex-growth-with-investment-in-ai-infrastructure/"
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/apple-anticipates-substantial-capex-growth-with-investment-in-ai-infrastructure/",
+      "industry": "科技/消費電子"
     },
     {
       "rank": 6,
@@ -237,7 +242,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://cloudwars.com/cloud/oracle-dominates-competitors-in-cloud-region-buildout-microsoft-2-google-cloud-3-aws-4/"
+      "volumeSource": "https://cloudwars.com/cloud/oracle-dominates-competitors-in-cloud-region-buildout-microsoft-2-google-cloud-3-aws-4/",
+      "industry": "科技/企業軟體"
     },
     {
       "rank": 7,
@@ -266,7 +272,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://finance.yahoo.com/news/elon-musks-xai-reportedly-shifts-190811861.html"
+      "volumeSource": "https://finance.yahoo.com/news/elon-musks-xai-reportedly-shifts-190811861.html",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 8,
@@ -295,7 +302,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.cnbc.com/2025/05/15/coreweave-earnings-ai.html"
+      "volumeSource": "https://www.cnbc.com/2025/05/15/coreweave-earnings-ai.html",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 9,
@@ -329,7 +337,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://finance.yahoo.com/news/openais-stargate-project-cost-500-155233761.html"
+      "volumeSource": "https://finance.yahoo.com/news/openais-stargate-project-cost-500-155233761.html",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 10,
@@ -368,7 +377,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://finance.yahoo.com/news/walmart-supply-chain-spending-set-125000538.html"
+      "volumeSource": "https://finance.yahoo.com/news/walmart-supply-chain-spending-set-125000538.html",
+      "industry": "零售"
     },
     {
       "rank": 11,
@@ -427,7 +437,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.jpmorganchase.com/about/technology"
+      "volumeSource": "https://www.jpmorganchase.com/about/technology",
+      "industry": "金融"
     },
     {
       "rank": 12,
@@ -444,9 +455,9 @@
       "challenges": "Elon Musk 的公司傾向於與少數幾家大型、可靠的供應商建立深度合作關係，訂單規模巨大，對供應鏈的交付能力是極大考驗。Dell 和 HPE 已佔據領先位置，ASUS 作為後來者，需要提供極具吸引力的條件，並可能需要公司高層直接介入以建立關係。",
       "entryPoint": "鑑於直接競爭的難度，可以嘗試從供應鏈的靈活性和客製化能力切入。例如，針對 xAI 的特殊需求，提出基於 ASUS 自家主機板和散熱技術的高度客製化伺服器方案。另一個策略是成為其第二或第三供應商，以分擔 Dell/HPE 的供應風險，初期可從少量非核心業務的訂單開始，逐步建立信任。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP of IT Infrastructure",
-        "linkedin": "",
+        "name": "Dantley Davis",
+        "title": "VP of Infrastructure Engineering",
+        "linkedin": "https://www.linkedin.com/in/dantley/",
         "source": ""
       },
       "siDist": [
@@ -456,7 +467,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.reuters.com/technology/musk-orders-twitter-cut-infrastructure-costs-by-1-bln-sources-2022-11-03/"
+      "volumeSource": "https://www.reuters.com/technology/musk-orders-twitter-cut-infrastructure-costs-by-1-bln-sources-2022-11-03/",
+      "industry": "科技/社群"
     },
     {
       "rank": 13,
@@ -485,7 +497,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.crusoe.ai/resources/newsroom/crusoe-expands-ai-data-center-campus-in-abilene-to-1-2-gigawatts"
+      "volumeSource": "https://www.crusoe.ai/resources/newsroom/crusoe-expands-ai-data-center-campus-in-abilene-to-1-2-gigawatts",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 14,
@@ -514,7 +527,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://investor.visa.com/news/news-details/2025/Visa-Extends-Cybersecurity-Expertise-Prioritizing-Proactive-Defense-Strategies-for-Clients/default.aspx"
+      "volumeSource": "https://investor.visa.com/news/news-details/2025/Visa-Extends-Cybersecurity-Expertise-Prioritizing-Proactive-Defense-Strategies-for-Clients/default.aspx",
+      "industry": "金融"
     },
     {
       "rank": 15,
@@ -553,7 +567,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.datacenterdynamics.com/en/news/unitedhealth-data-center-in-minnesota-sold-for-90-million/"
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/unitedhealth-data-center-in-minnesota-sold-for-90-million/",
+      "industry": "醫療"
     },
     {
       "rank": 16,
@@ -592,7 +607,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.goldmansachs.com/insights/articles/how-ai-is-transforming-data-centers-and-ramping-up-power-demand"
+      "volumeSource": "https://www.goldmansachs.com/insights/articles/how-ai-is-transforming-data-centers-and-ramping-up-power-demand",
+      "industry": "金融"
     },
     {
       "rank": 17,
@@ -631,7 +647,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.datacenterdynamics.com/en/news/salesforce-increases-data-center-spend-in-202122/"
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/salesforce-increases-data-center-spend-in-202122/",
+      "industry": "科技/企業軟體"
     },
     {
       "rank": 18,
@@ -670,7 +687,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.emarketer.com/content/bank-of-america-investor-day-ai-tech-budget"
+      "volumeSource": "https://www.emarketer.com/content/bank-of-america-investor-day-ai-tech-budget",
+      "industry": "金融"
     },
     {
       "rank": 19,
@@ -699,7 +717,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.datacenterdynamics.com/en/news/mastercard-to-invest-250m-in-three-data-centers-in-france/"
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/mastercard-to-invest-250m-in-three-data-centers-in-france/",
+      "industry": "金融"
     },
     {
       "rank": 20,
@@ -728,7 +747,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.datacenterknowledge.com/investing/gm-plans-258-million-data-center-in-michigan"
+      "volumeSource": "https://www.datacenterknowledge.com/investing/gm-plans-258-million-data-center-in-michigan",
+      "industry": "汽車/製造"
     },
     {
       "rank": 21,
@@ -745,9 +765,9 @@
       "challenges": "AT&T已將其5G核心網路的營運和基礎設施外包給Microsoft Azure for Operators。這意味著其主要的伺服器採購決策權已轉移至微軟，ASUS需要通過微軟的供應鏈體系才能進入。克服方式：成為Microsoft Azure for Operators的認證硬體供應商。這需要投入大量資源進行產品驗證和整合，並與微軟建立深厚的合作關係。",
       "entryPoint": "由於AT&T已將其網路雲平台轉移給微軟，直接切入點非常有限。唯一的機會在於成為微軟Azure for Operators的伺服器供應商之一。ASUS可以專注於提供針對電信工作負載優化的高密度、高效能伺服器，特別是在AI和邊緣運算領域，例如符合NVIDIA MGX或HGX標準的AI伺服器(ESC8000-E12P, ESC N8-E11)。這需要一個長期的策略，首先要成為微軟的合作夥伴，並在Azure Marketplace上架產品，再逐步爭取進入AT&T的專用雲端基礎設施。",
       "keyPerson": {
-        "name": "Steven Dewey",
-        "title": "Associate Director Of Data Center Operations",
-        "linkedin": "",
+        "name": "Chris Sambar",
+        "title": "EVP, Network",
+        "linkedin": "https://www.linkedin.com/in/chrissambar/",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -757,7 +777,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.lightreading.com/open-ran/at-t-s-spending-to-hit-six-year-high-as-it-ramps-ericsson-open-ran-"
+      "volumeSource": "https://www.lightreading.com/open-ran/at-t-s-spending-to-hit-six-year-high-as-it-ramps-ericsson-open-ran-",
+      "industry": "電信"
     },
     {
       "rank": 22,
@@ -774,9 +795,9 @@
       "challenges": "Nutanix 已與多家一線 OEM 建立深厚的合作關係，市場競爭激烈。ASUS 作為後來者，需要證明其產品的獨特價值與競爭力，並投入行銷資源建立通路關係。克服方式是專注於特定應用場景，例如針對 AI/ML 或邊緣運算提供最佳化的伺服器解決方案，並提供比競爭對手更具吸引力的合作夥伴計畫，以吸引通路夥伴的青睞。",
       "entryPoint": "切入點是成為 Nutanix 的認證硬體夥伴。ASUS 需要將其伺服器產品提交給 Nutanix 進行嚴格的相容性與效能測試，以確保其平台的穩定性。執行上，建議先從利基市場開始，例如提供高密度或特定 GPU 配置的伺服器，滿足特定客戶群的需求。同時，積極參與 Nutanix 的全球用戶大會 (.NEXT Conference)，直接與客戶和合作夥伴互動，展示 ASUS 的技術實力與解決方案。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP of IT Infrastructure",
-        "linkedin": "",
+        "name": "Wendy Pfeiffer",
+        "title": "CIO",
+        "linkedin": "https://www.linkedin.com/in/wendympfeiffer/",
         "source": ""
       },
       "siDist": [
@@ -806,7 +827,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.nutanix.com/impact-report"
+      "volumeSource": "https://www.nutanix.com/impact-report",
+      "industry": "科技/基礎設施"
     },
     {
       "rank": 23,
@@ -835,7 +857,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://finance.yahoo.com/news/citigroup-forecasts-big-techs-ai-111915251.html"
+      "volumeSource": "https://finance.yahoo.com/news/citigroup-forecasts-big-techs-ai-111915251.html",
+      "industry": "金融"
     },
     {
       "rank": 24,
@@ -864,7 +887,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://infotechlead.com/cio/ai-and-digital-spending-drive-american-express-2025-growth-and-premium-performance-93469"
+      "volumeSource": "https://infotechlead.com/cio/ai-and-digital-spending-drive-american-express-2025-growth-and-premium-performance-93469",
+      "industry": "金融"
     },
     {
       "rank": 25,
@@ -893,7 +917,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.ciodive.com/news/target-AI-investments-michael-fiddelke/813839/"
+      "volumeSource": "https://www.ciodive.com/news/target-AI-investments-michael-fiddelke/813839/",
+      "industry": "零售"
     },
     {
       "rank": 26,
@@ -922,7 +947,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.fromtheroad.ford.com/us/en/articles/2025/ford-reinvests-trucks-hybrids-affordable-electric-vehicles"
+      "volumeSource": "https://www.fromtheroad.ford.com/us/en/articles/2025/ford-reinvests-trucks-hybrids-affordable-electric-vehicles",
+      "industry": "汽車/製造"
     },
     {
       "rank": 27,
@@ -951,7 +977,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-signs-usd1-5-billion-deal-with-cloud-startup-lambda-to-rent-back-its-own-ai-chips-18-000-gpus-will-be-leased-over-4-years-as-lambda-gears-up-for-its-ipo"
+      "volumeSource": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-signs-usd1-5-billion-deal-with-cloud-startup-lambda-to-rent-back-its-own-ai-chips-18-000-gpus-will-be-leased-over-4-years-as-lambda-gears-up-for-its-ipo",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 28,
@@ -968,9 +995,9 @@
       "challenges": "LinkedIn 雖為 Microsoft 子公司，但 DC 基礎設施獨立運營，有自己的採購流程與技術標準。其伺服器多為客製化設計，對供應商的技術能力要求高。此外，Microsoft 體系內的供應商關係可能影響外部供應商的進入。需要展示在大規模部署、客製化設計與成本控制方面的能力。",
       "entryPoint": "LinkedIn 暫停遷移至 Azure 後，持續獨立採購伺服器。可從 AI 推薦系統所需的 GPU 伺服器切入，或從下一代通用伺服器的替換週期切入。透過 Microsoft 體系內的 SI 夥伴（如 Accenture）進行引薦，並展示 ASUS 在 AMD EPYC 平台的性價比優勢。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP of IT Infrastructure",
-        "linkedin": "",
+        "name": "Mohak Shroff",
+        "title": "SVP of Engineering",
+        "linkedin": "https://www.linkedin.com/in/mohakshroff/",
         "source": ""
       },
       "siDist": [
@@ -1040,7 +1067,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.datacenterdynamics.com/en/news/microsoft-spent-111bn-on-data-center-leases-alone-in-q1-2026/"
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/microsoft-spent-111bn-on-data-center-leases-alone-in-q1-2026/",
+      "industry": "科技/社群"
     },
     {
       "rank": 29,
@@ -1069,7 +1097,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.wagnerlawgroup.com/wp-content/uploads/sites/1101401/2025/11/111725RIABizArticleAJSQuote.pdf"
+      "volumeSource": "https://www.wagnerlawgroup.com/wp-content/uploads/sites/1101401/2025/11/111725RIABizArticleAJSQuote.pdf",
+      "industry": "金融"
     },
     {
       "rank": 30,
@@ -1108,7 +1137,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://blog.cloudflare.com/backbone2024/"
+      "volumeSource": "https://blog.cloudflare.com/backbone2024/",
+      "industry": "科技/基礎設施"
     },
     {
       "rank": 31,
@@ -1147,7 +1177,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.ir.akamai.com/static-files/7b277c5f-83d7-46dd-b28a-5757026f09a7"
+      "volumeSource": "https://www.ir.akamai.com/static-files/7b277c5f-83d7-46dd-b28a-5757026f09a7",
+      "industry": "科技/基礎設施"
     },
     {
       "rank": 32,
@@ -1164,9 +1195,9 @@
       "challenges": "Iris Energy 專注於利用 100% 再生能源建立大規模、高效率的 AI 資料中心，對散熱 (特別是液冷技術) 和能源效率有極高要求。ASUS 需證明其液冷解決方案 (如 ASUS AI POD) 在大規模部署下的穩定性與成本效益，並提供具競爭力的總體擁有成本 (TCO) 分析，以挑戰其現有供應商。",
       "entryPoint": "以 ASUS 最新的 NVIDIA Blackwell 架構伺服器 (ESC NB8-E11) 及 GB200 NVL72 AI POD 解決方案作為切入點，強調 ASUS 在主機板設計和散熱技術的領先優勢。主動提供樣機進行效能和功耗測試 (Proof of Concept)，並展示 ASUS 供應鏈的彈性，以滿足其快速擴展的部署時程。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP of IT Infrastructure",
-        "linkedin": "",
+        "name": "Daniel Roberts",
+        "title": "Co-Founder & Co-CEO",
+        "linkedin": "https://www.linkedin.com/in/daniel-roberts-iris/",
         "source": ""
       },
       "siDist": [
@@ -1176,7 +1207,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.datacenterdynamics.com/en/news/ai-cloud-iren-purchases-50000-nvidia-b300-gpus/"
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/ai-cloud-iren-purchases-50000-nvidia-b300-gpus/",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 33,
@@ -1215,7 +1247,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.lightreading.com/ai-machine-learning/comcast-takes-ai-to-the-edge"
+      "volumeSource": "https://www.lightreading.com/ai-machine-learning/comcast-takes-ai-to-the-edge",
+      "industry": "電信/媒體"
     },
     {
       "rank": 34,
@@ -1259,7 +1292,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.sec.gov/Archives/edgar/data/732712/000073271224000010/vz-20231231.htm"
+      "volumeSource": "https://www.sec.gov/Archives/edgar/data/732712/000073271224000010/vz-20231231.htm",
+      "industry": "電信"
     },
     {
       "rank": 35,
@@ -1276,9 +1310,9 @@
       "challenges": "Tesla的採購決策高度集中且變動快速，常由Elon Musk親自拍板。其自研Dojo專案的起落，顯示其在技術路線上的不確定性。要與Tesla合作，必須能快速回應其需求變化，並提供具備極致效能與成本效益的解決方案。此外，Tesla對供應鏈的掌控慾望強烈，可能會要求供應商開放技術細節或配合其進行客製化開發。",
       "entryPoint": "緊跟Elon Musk的公開發言與Tesla的技術發表，掌握其最新的AI基礎設施發展方向。在Dojo專案暫緩後，Tesla對NVIDIA GPU的需求大增，此為切入的絕佳時機。可積極展示自家在NVIDIA平台上的整合能力與效能優勢，並提供彈性的供應鏈方案，以滿足其快速擴張的需求。同時，可關注其在車用AI晶片 (AI5) 上的發展，尋找在車載電腦或邊緣運算領域的合作機會。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP of IT Infrastructure",
-        "linkedin": "",
+        "name": "Ganesh Venkataramanan",
+        "title": "VP of Hardware Engineering (Dojo)",
+        "linkedin": "https://www.linkedin.com/in/ganeshv/",
         "source": ""
       },
       "siDist": [
@@ -1288,7 +1322,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://finance.yahoo.com/news/tesla-unveils-20-billion-capex-161113987.html"
+      "volumeSource": "https://finance.yahoo.com/news/tesla-unveils-20-billion-capex-161113987.html",
+      "industry": "汽車/製造"
     },
     {
       "rank": 36,
@@ -1317,7 +1352,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.moomoo.com/news/post/60768562/morgan-stanley-2026-will-be-the-year-of-ai-technology"
+      "volumeSource": "https://www.moomoo.com/news/post/60768562/morgan-stanley-2026-will-be-the-year-of-ai-technology",
+      "industry": "金融"
     },
     {
       "rank": 37,
@@ -1346,7 +1382,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.jobsohio.com/newsroom/news-press/vultr-announces-1-billion-data-center-investment-in-springfield"
+      "volumeSource": "https://www.jobsohio.com/newsroom/news-press/vultr-announces-1-billion-data-center-investment-in-springfield",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 38,
@@ -1375,7 +1412,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/"
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/",
+      "industry": "物流"
     },
     {
       "rank": 39,
@@ -1392,9 +1430,9 @@
       "challenges": "Inflection AI 在被 Microsoft 大部分團隊收購後，其未來發展方向與硬體需求變得較不確定，且與 Microsoft 和 Intel 有深度綁定。要切入其供應鏈，困難度較高。克服方式是專注於其轉向企業市場後的新需求，提供比現有合作夥伴更具彈性或更高性價比的客製化硬體方案。",
       "entryPoint": "切入點在於其新推出的企業級 AI 應用，以及與 Intel 合作的本地部署方案。可以與 Intel 合作，成為其 AI 硬體應用的供應商之一，或是直接向尋求私有雲 AI 解決方案的企業客戶，提供整合了 Inflection AI 軟體的 ASUS 伺服器。執行上，需要與 Intel 建立合作關係，並同時接觸 Inflection AI 的企業客戶，了解其在本地部署上的具體需求。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP of IT Infrastructure",
-        "linkedin": "",
+        "name": "Sean White",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/seanwhite/",
         "source": ""
       },
       "siDist": [
@@ -1404,7 +1442,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://insidehpc.com/2023/06/22000-gpus-inflection-ai-building-22-exaflops-generative-ai-cluster/"
+      "volumeSource": "https://insidehpc.com/2023/06/22000-gpus-inflection-ai-building-22-exaflops-generative-ai-cluster/",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 40,
@@ -1493,7 +1532,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=charles-schwab&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=charles-schwab&CIK=&type=10-K",
+      "industry": "金融"
     },
     {
       "rank": 41,
@@ -1522,7 +1562,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://finance.yahoo.com/news/exclusive-cvs-lays-out-20b-plan-to-modernize-us-consumer-healthcare-experience-154127371.html"
+      "volumeSource": "https://finance.yahoo.com/news/exclusive-cvs-lays-out-20b-plan-to-modernize-us-consumer-healthcare-experience-154127371.html",
+      "industry": "醫療"
     },
     {
       "rank": 42,
@@ -1551,7 +1592,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.intricately.com/reports/boeing"
+      "volumeSource": "https://www.intricately.com/reports/boeing",
+      "industry": "國防/航太"
     },
     {
       "rank": 43,
@@ -1580,7 +1622,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://ir.applieddigital.com/news-events/press-releases/detail/144/applied-digital-breaks-ground-on-delta-forge-1-a-430-mw-ai"
+      "volumeSource": "https://ir.applieddigital.com/news-events/press-releases/detail/144/applied-digital-breaks-ground-on-delta-forge-1-a-430-mw-ai",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 44,
@@ -1614,7 +1657,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=t-mobile-us&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=t-mobile-us&CIK=&type=10-K",
+      "industry": "電信"
     },
     {
       "rank": 45,
@@ -1643,7 +1687,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=walt-disney-company&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=walt-disney-company&CIK=&type=10-K",
+      "industry": "媒體/娛樂"
     },
     {
       "rank": 46,
@@ -1672,7 +1717,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://us.nttdata.com/en/news/press-release/2025/march/ntt-data-selected-by-ups-for-digital-transformation-and-modernization"
+      "volumeSource": "https://us.nttdata.com/en/news/press-release/2025/march/ntt-data-selected-by-ups-for-digital-transformation-and-modernization",
+      "industry": "物流"
     },
     {
       "rank": 47,
@@ -1701,7 +1747,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.healthdatamanagement.com/news/epic-purchase-of-mayo-data-center-brings-benefits-to-both"
+      "volumeSource": "https://www.healthdatamanagement.com/news/epic-purchase-of-mayo-data-center-brings-benefits-to-both",
+      "industry": "醫療"
     },
     {
       "rank": 48,
@@ -1735,7 +1782,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.leidos.com/insights/leidos-helps-utilities-and-developers-tackle-ai-data-centers-power-demands"
+      "volumeSource": "https://www.leidos.com/insights/leidos-helps-utilities-and-developers-tackle-ai-data-centers-power-demands",
+      "industry": "國防/IT服務"
     },
     {
       "rank": 49,
@@ -1752,9 +1800,9 @@
       "challenges": "Hut 8 正在從比特幣挖礦快速轉型為 AI 基礎設施供應商，對伺服器的交付速度和規模要求極高，且已與 Supermicro 等建立合作。克服方式為，強調 ASUS 在高密度 AI 伺服器上的設計能力與供應鏈彈性，並提供具競爭力的價格與快速交付的承諾。",
       "entryPoint": "切入點為其新建的大規模 AI 資料中心，特別是與 Google/Anthropic 合作的專案。執行上，應直接與 Hut 8 的高層和技術團隊接觸，提供完整的 AI POD 解決方案，從設計、建置到維運提供一站式服務，並強調 ASUS 在大規模 AI 基礎設施部署上的成功案例。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP of IT Infrastructure",
-        "linkedin": "",
+        "name": "Asher Genoot",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/ashergenoot/",
         "source": ""
       },
       "siDist": [
@@ -1764,7 +1812,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.newswire.ca/news-releases/hut-8-mining-advances-high-performance-computing-capabilities-with-procurement-of-tier-1-server-hardware-853480692.html"
+      "volumeSource": "https://www.newswire.ca/news-releases/hut-8-mining-advances-high-performance-computing-capabilities-with-procurement-of-tier-1-server-hardware-853480692.html",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 50,
@@ -1793,7 +1842,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.investing.com/news/transcripts/digitalocean-at-morgan-stanley-conference-ai-growth-and-strategic-expansion-93CH-4538836"
+      "volumeSource": "https://www.investing.com/news/transcripts/digitalocean-at-morgan-stanley-conference-ai-growth-and-strategic-expansion-93CH-4538836",
+      "industry": "科技/雲端"
     },
     {
       "rank": 51,
@@ -1822,7 +1872,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.amd.com/content/dam/amd/en/documents/resources/case-studies/rackspace-case-study.pdf"
+      "volumeSource": "https://www.amd.com/content/dam/amd/en/documents/resources/case-studies/rackspace-case-study.pdf",
+      "industry": "科技/雲端"
     },
     {
       "rank": 52,
@@ -1866,7 +1917,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.digitimes.com/news/a20260305VL208/broadcom-chips-server-rack-shipments-gross-margin.html"
+      "volumeSource": "https://www.digitimes.com/news/a20260305VL208/broadcom-chips-server-rack-shipments-gross-margin.html",
+      "industry": "科技/半導體"
     },
     {
       "rank": 53,
@@ -1905,7 +1957,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.sec.gov/Archives/edgar/data/804328/000080432822000021/qcom-20220925.htm"
+      "volumeSource": "https://www.sec.gov/Archives/edgar/data/804328/000080432822000021/qcom-20220925.htm",
+      "industry": "科技/半導體"
     },
     {
       "rank": 54,
@@ -1934,7 +1987,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.dell.com/en-in/dt/corporate/newsroom/announcements/detailpage.press-releases~usa~2025~03~together-ai-taps-dell-technologies-to-scale-ai-acceleration-cloud-for-the-enterprise.htm"
+      "volumeSource": "https://www.dell.com/en-in/dt/corporate/newsroom/announcements/detailpage.press-releases~usa~2025~03~together-ai-taps-dell-technologies-to-scale-ai-acceleration-cloud-for-the-enterprise.htm",
+      "industry": "NeoCloud/AI"
     },
     {
       "company": "Twitch (Amazon)",
@@ -1963,7 +2017,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://trembit.com/blog/how-much-does-it-cost-to-maintain-twitch-infrastructure/"
+      "volumeSource": "https://trembit.com/blog/how-much-does-it-cost-to-maintain-twitch-infrastructure/",
+      "industry": "媒體/娛樂"
     },
     {
       "rank": 56,
@@ -1992,7 +2047,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=charter-communications&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=charter-communications&CIK=&type=10-K",
+      "industry": "電信"
     },
     {
       "rank": 57,
@@ -2021,7 +2077,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=warner-bros-discovery&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=warner-bros-discovery&CIK=&type=10-K",
+      "industry": "媒體/娛樂"
     },
     {
       "rank": 58,
@@ -2060,7 +2117,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=saic&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=saic&CIK=&type=10-K",
+      "industry": "國防/IT服務"
     },
     {
       "rank": 59,
@@ -2089,7 +2147,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://urielbitton.substack.com/p/how-much-money-does-netflix-spend"
+      "volumeSource": "https://urielbitton.substack.com/p/how-much-money-does-netflix-spend",
+      "industry": "媒體/娛樂"
     },
     {
       "rank": 60,
@@ -2118,7 +2177,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.datacenterdynamics.com/en/news/lockheed-martin-awarded-213-million-f-35-data-center-modernization-contract-in-florida/"
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/lockheed-martin-awarded-213-million-f-35-data-center-modernization-contract-in-florida/",
+      "industry": "國防/航太"
     },
     {
       "rank": 61,
@@ -2147,7 +2207,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.trendforce.com/news/2026/03/10/news-samsung-may-see-groq-orders-jump-70-to-15k-wafers-tesla-reportedly-delays-other-foundry-clients/"
+      "volumeSource": "https://www.trendforce.com/news/2026/03/10/news-samsung-may-see-groq-orders-jump-70-to-15k-wafers-tesla-reportedly-delays-other-foundry-clients/",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 62,
@@ -2164,9 +2225,9 @@
       "challenges": "Zoom 採用混合雲架構，自建數據中心主要依賴現有供應商。克服方式：針對其新推出的 AI Companion 功能，提供高性價比的 AI 推理伺服器",
       "entryPoint": "從 AI 推理場景切入，提供 ESC4000-E11 進行 POC 測試，展示在語音轉文字和會議摘要場景的效能優勢",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP of IT Infrastructure",
-        "linkedin": "",
+        "name": "Xuedong Huang",
+        "title": "CTO",
+        "linkedin": "https://www.linkedin.com/in/xuedonghuang/",
         "source": ""
       },
       "siDist": [
@@ -2186,7 +2247,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=zoom-video-communications&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=zoom-video-communications&CIK=&type=10-K",
+      "industry": "科技/通訊"
     },
     {
       "rank": 63,
@@ -2215,7 +2277,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=elevance-health&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=elevance-health&CIK=&type=10-K",
+      "industry": "醫療"
     },
     {
       "rank": 64,
@@ -2249,7 +2312,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://ir.homedepot.com/annual-reports"
+      "volumeSource": "https://ir.homedepot.com/annual-reports",
+      "industry": "零售"
     },
     {
       "rank": 65,
@@ -2278,7 +2342,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.sec.gov/Archives/edgar/data/1819989/000181998925000005/cifr-20241231.htm"
+      "volumeSource": "https://www.sec.gov/Archives/edgar/data/1819989/000181998925000005/cifr-20241231.htm",
+      "industry": "NeoCloud/AI"
     },
     {
       "company": "eBay",
@@ -2312,7 +2377,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://investors.ebayinc.com/financial-information/annual-reports"
+      "volumeSource": "https://investors.ebayinc.com/financial-information/annual-reports",
+      "industry": "科技/電商"
     },
     {
       "company": "ServiceNow",
@@ -2341,7 +2407,8 @@
         }
       ],
       "volumeSource": "https://www.datacenterdynamics.com/en/news/servicenow-signs-12bn-contract-with-google-cloud-report/",
-      "rank": 67
+      "rank": 67,
+      "industry": "科技/企業軟體"
     },
     {
       "rank": 68,
@@ -2380,7 +2447,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.aol.com/articles/northrop-grumman-29-2026-95-130452515.html"
+      "volumeSource": "https://www.aol.com/articles/northrop-grumman-29-2026-95-130452515.html",
+      "industry": "國防/航太"
     },
     {
       "rank": 69,
@@ -2414,7 +2482,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.rtx.com/investors"
+      "volumeSource": "https://www.rtx.com/investors",
+      "industry": "國防/航太"
     },
     {
       "rank": 70,
@@ -2453,7 +2522,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.drugdiscoverytrends.com/pfizer-exec-frames-digital-as-a-core-business-strategy/"
+      "volumeSource": "https://www.drugdiscoverytrends.com/pfizer-exec-frames-digital-as-a-core-business-strategy/",
+      "industry": "醫療/製藥"
     },
     {
       "rank": 71,
@@ -2470,9 +2540,9 @@
       "challenges": "**困難點:** GE 內部 IT 架構龐大且複雜，供應商關係穩固，且對供應鏈穩定性要求極高。**克服方式:** 針對其工業物聯網或特定數據分析場景，提供高效能的 AI 伺服器 (如 ESC8000 系列) 進行 PoC，並證明 ASUS 在特定工作負載下的效能與 TCO 優勢。",
       "entryPoint": "**切入點:** GE 分拆後的 GE Vernova (能源) 和 GE Aerospace (航太) 對於數位轉型和 AI 應用有強烈需求。**執行方式:** 透過 WWT 等大型 SI，了解其新專案的硬體需求，並以 ASUS 的 AI POD 解決方案，針對其大規模 AI 訓練需求提出客製化方案。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP of IT Infrastructure",
-        "linkedin": "",
+        "name": "Vince Campisi",
+        "title": "SVP & CIO",
+        "linkedin": "https://www.linkedin.com/in/vincecampisi/",
         "source": ""
       },
       "siDist": [
@@ -2492,7 +2562,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.globaldata.com/store/report/general-electric-enterprise-tech-analysis/"
+      "volumeSource": "https://www.globaldata.com/store/report/general-electric-enterprise-tech-analysis/",
+      "industry": "工業/製造"
     },
     {
       "rank": 72,
@@ -2509,9 +2580,9 @@
       "challenges": "**困難點:** 與 Northrop Grumman 類似，L3Harris 的供應鏈受到嚴格的安全和法規控制。產品需要滿足嚴苛的環境和效能標準 (SWaP-C)。**克服方式:** 尋求與其下游整合商或子公司合作的機會，提供標準 COTS 伺服器作為其非關鍵任務系統的一部分。建立長期合作關係，逐步進入其供應鏈。",
       "entryPoint": "**切入點:** 專注於其基礎設施管理服務 (Infrastructure Managed Services) 或網路營運中心 (NOC) 的商業 IT 需求。**執行方式:** 透過與 Leidos 等大型國防整合商合作，將 ASUS 的標準伺服器產品作為其向 L3Harris 提供的整體解決方案的一部分，用於後端支援或開發環境。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP of IT Infrastructure",
-        "linkedin": "",
+        "name": "Ross Niebergall",
+        "title": "CTO",
+        "linkedin": "https://www.linkedin.com/in/ross-niebergall/",
         "source": ""
       },
       "siDist": [
@@ -2536,7 +2607,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=l3harris-technologies&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=l3harris-technologies&CIK=&type=10-K",
+      "industry": "國防/航太"
     },
     {
       "rank": 73,
@@ -2575,7 +2647,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.merck.com/investor-relations/annual-report/"
+      "volumeSource": "https://www.merck.com/investor-relations/annual-report/",
+      "industry": "醫療/製藥"
     },
     {
       "rank": 74,
@@ -2604,7 +2677,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://investor.uber.com/financial-information/annual-reports"
+      "volumeSource": "https://investor.uber.com/financial-information/annual-reports",
+      "industry": "科技/交通"
     },
     {
       "rank": 75,
@@ -2633,7 +2707,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://cerebras.ai/press-releases"
+      "volumeSource": "https://cerebras.ai/press-releases",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 76,
@@ -2662,7 +2737,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://investors.fastly.com/financial-information/annual-reports"
+      "volumeSource": "https://investors.fastly.com/financial-information/annual-reports",
+      "industry": "科技/基礎設施"
     },
     {
       "rank": 77,
@@ -2696,7 +2772,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=instacart&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=instacart&CIK=&type=10-K",
+      "industry": "科技/電商"
     },
     {
       "rank": 78,
@@ -2713,9 +2790,9 @@
       "challenges": "Costco IT 系統成熟，供應商關係穩定，切入不易。需要展現 ASUS 產品在性價比、客製化及節能方面的優勢，並提供優於現有供應商的服務。",
       "entryPoint": "從其快速增長的電商及數據分析業務著手，提供高效能的 AI/ML 解決方案。可先從部門級或邊緣運算等小型專案開始，建立成功案例後再逐步擴大。",
       "keyPerson": {
-        "name": "John Sullivan",
-        "title": "VP of IT",
-        "linkedin": "",
+        "name": "Sandy Torchia",
+        "title": "SVP & CIO",
+        "linkedin": "https://www.linkedin.com/in/sandytorchia/",
         "source": ""
       },
       "siDist": [
@@ -2730,7 +2807,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://investor.costco.com/financial-information/annual-reports"
+      "volumeSource": "https://investor.costco.com/financial-information/annual-reports",
+      "industry": "零售"
     },
     {
       "company": "Dropbox",
@@ -2759,7 +2837,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://investors.dropbox.com/financial-information/annual-reports"
+      "volumeSource": "https://investors.dropbox.com/financial-information/annual-reports",
+      "industry": "科技/雲端"
     },
     {
       "company": "Yahoo (Apollo Global)",
@@ -2788,7 +2867,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=yahoo&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=yahoo&CIK=&type=10-K",
+      "industry": "科技/媒體"
     },
     {
       "rank": 81,
@@ -2817,7 +2897,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=lumen-technologies&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=lumen-technologies&CIK=&type=10-K",
+      "industry": "電信"
     },
     {
       "rank": 82,
@@ -2851,7 +2932,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://investors.palantir.com/financial-information/sec-filings"
+      "volumeSource": "https://investors.palantir.com/financial-information/sec-filings",
+      "industry": "科技/AI"
     },
     {
       "rank": 83,
@@ -2890,7 +2972,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.investor.jnj.com/annual-meeting-materials"
+      "volumeSource": "https://www.investor.jnj.com/annual-meeting-materials",
+      "industry": "醫療/製藥"
     },
     {
       "rank": 84,
@@ -2919,7 +3002,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=kroger&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=kroger&CIK=&type=10-K",
+      "industry": "零售"
     },
     {
       "rank": 85,
@@ -2953,7 +3037,8 @@
       ],
       "volumeSource": "https://investor.uber.com/financial-information/annual-reports/",
       "company": "Uber Technologies",
-      "volume": "約 4,000 - 8,000 台/年"
+      "volume": "約 4,000 - 8,000 台/年",
+      "industry": "科技/交通"
     },
     {
       "rank": 86,
@@ -2992,7 +3077,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.globaldata.com/store/report/procter-and-gamble-company-enterprise-tech-analysis/"
+      "volumeSource": "https://www.globaldata.com/store/report/procter-and-gamble-company-enterprise-tech-analysis/",
+      "industry": "消費品/製造"
     },
     {
       "rank": 87,
@@ -3046,7 +3132,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://everus.com/projects/adobe-or1-data-center-dh2-expansion/"
+      "volumeSource": "https://everus.com/projects/adobe-or1-data-center-dh2-expansion/",
+      "industry": "科技"
     },
     {
       "rank": 88,
@@ -3075,7 +3162,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=sambanova-systems&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=sambanova-systems&CIK=&type=10-K",
+      "industry": "科技"
     },
     {
       "rank": 89,
@@ -3092,9 +3180,9 @@
       "challenges": "Micron 作為半導體大廠，對伺服器的可靠性與效能要求極高，尤其在 EDA 與製程模擬方面。其 IT 採購有嚴格的供應商認證流程。但 Micron 與 ASUS 在記憶體供應鏈上有長期合作關係，這是重要的互惠基礎。",
       "entryPoint": "ASUS 大量採購 Micron 記憶體產品（DRAM/SSD），可利用此互惠關係推動伺服器合作。從 AI 伺服器切入（Micron 正在大力投資 AI 用於半導體製造），搭配 ASUS 伺服器搭載 Micron HBM/DDR5 的整合方案。透過 CDW 或 SHI 進行推廣，並安排高層互訪建立策略夥伴關係。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP of IT Infrastructure",
-        "linkedin": "",
+        "name": "April Arnzen",
+        "title": "SVP & Chief People Officer",
+        "linkedin": "https://www.linkedin.com/in/aprilarnzen/",
         "source": ""
       },
       "siDist": [
@@ -3114,7 +3202,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=micron-technology&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=micron-technology&CIK=&type=10-K",
+      "industry": "科技/半導體"
     },
     {
       "rank": 90,
@@ -3131,9 +3220,9 @@
       "challenges": "John Deere 與 Dell 和 HPE 有長期穩固的合作關係，且其供應鏈管理嚴格，新供應商難以切入。克服方式為，可以從其積極發展的 AI 與自動駕駛領域著手，提供具備高效能與客製化彈性的 NVIDIA AI 伺服器解決方案，並強調 ASUS 在 AI 伺服器領域的技術領先地位。",
       "entryPoint": "切入點為其在精準農業與自動駕駛領域的龐大運算需求。執行上，可透過與 NVIDIA 的合作關係，共同向 John Deere 的研發部門推薦 ASUS 的 AI 伺服器，並提供樣機進行測試，展示其在處理複雜 AI 模型上的優異性能與穩定性。",
       "keyPerson": {
-        "name": "Culley Marshall",
-        "title": "IT Division Leader",
-        "linkedin": "",
+        "name": "Ganesh Jayaram",
+        "title": "VP & CIO",
+        "linkedin": "https://www.linkedin.com/in/ganeshjayaram/",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -3143,7 +3232,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=john-deere&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=john-deere&CIK=&type=10-K",
+      "industry": "工業/製造"
     },
     {
       "rank": 91,
@@ -3177,7 +3267,8 @@
       ],
       "volumeSource": "https://investors.broadcom.com/financial-information/annual-reports",
       "company": "Broadcom (VMware)",
-      "volume": "約 3,000 - 6,000 台/年"
+      "volume": "約 3,000 - 6,000 台/年",
+      "industry": "科技/半導體"
     },
     {
       "rank": 92,
@@ -3211,7 +3302,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.workday.com/en-us/company/investor-relations.html"
+      "volumeSource": "https://www.workday.com/en-us/company/investor-relations.html",
+      "industry": "科技"
     },
     {
       "rank": 93,
@@ -3228,9 +3320,9 @@
       "challenges": "PayPal 的基礎設施正在轉型中，採購決策可能較為混亂且分散。要克服此點，需要同時與其數據中心運營團隊和雲端策略團隊建立聯繫，理解他們對於不同工作負載 (workload) 的規劃，找出哪些應用會保留在自有數據中心，哪些會上雲。",
       "entryPoint": "切入點在於其基礎設施重組帶來的機會。他們需要「簡化營運」和「統一平台」，這正是 ASUS 這類能提供從通用伺服器到 AI POD 完整解決方案的供應商的優勢。可以主動提出一個整合方案，展示如何透過標準化的 ASUS 伺服器平台，簡化其自有數據中心的管理，並提供比公有雲更有成本效益的 AI 解決方案。針對其大量的詐欺偵測及 AI 應用，強調整機櫃/POD 方案 (如 ASUS AI POD) 在快速部署和高效能運算上的優勢。",
       "keyPerson": {
-        "name": "Richard Reyher",
-        "title": "Sr. Director of Data Centers",
-        "linkedin": "",
+        "name": "Archana Singh",
+        "title": "CTO",
+        "linkedin": "https://www.linkedin.com/in/archanasingh/",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -3260,7 +3352,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=paypal&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=paypal&CIK=&type=10-K",
+      "industry": "金融/科技"
     },
     {
       "rank": 94,
@@ -3289,7 +3382,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=caterpillar&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=caterpillar&CIK=&type=10-K",
+      "industry": "工業/製造"
     },
     {
       "company": "Reddit",
@@ -3318,7 +3412,8 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=reddit&CIK=&type=10-K",
-      "rank": 95
+      "rank": 95,
+      "industry": "科技"
     },
     {
       "rank": 96,
@@ -3347,7 +3442,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://enkiai.com/ai-market-intelligence/3ms-2025-ai-data-center-strategy-revealed"
+      "volumeSource": "https://enkiai.com/ai-market-intelligence/3ms-2025-ai-data-center-strategy-revealed",
+      "industry": "工業/製造"
     },
     {
       "rank": 97,
@@ -3376,7 +3472,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=block&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=block&CIK=&type=10-K",
+      "industry": "科技"
     },
     {
       "rank": 98,
@@ -3440,7 +3537,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=palo-alto-networks&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=palo-alto-networks&CIK=&type=10-K",
+      "industry": "科技"
     },
     {
       "rank": 99,
@@ -3479,7 +3577,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=crowdstrike&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=crowdstrike&CIK=&type=10-K",
+      "industry": "科技"
     },
     {
       "rank": 100,
@@ -3508,7 +3607,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=corebridge-financial&CIK=&type=10-K"
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=corebridge-financial&CIK=&type=10-K",
+      "industry": "金融"
     }
   ],
   "asusProducts": [

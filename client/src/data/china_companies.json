@@ -30,7 +30,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.reuters.com/technology/bytedance-2024-revenue-grew-about-40-information-reports-2025-01-07/"
+      "volumeSource": "https://www.reuters.com/technology/bytedance-2024-revenue-grew-about-40-information-reports-2025-01-07/",
+      "industry": "科技/社群"
     },
     {
       "rank": 2,
@@ -59,7 +60,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.alibabagroup.com/en-US/ir"
+      "volumeSource": "https://www.alibabagroup.com/en-US/ir",
+      "industry": "科技/雲端"
     },
     {
       "rank": 3,
@@ -88,7 +90,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.tencent.com/en-us/investors.html"
+      "volumeSource": "https://www.tencent.com/en-us/investors.html",
+      "industry": "科技/社群"
     },
     {
       "rank": 4,
@@ -117,7 +120,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://ir.baidu.com/"
+      "volumeSource": "https://ir.baidu.com/",
+      "industry": "科技/AI"
     },
     {
       "rank": 5,
@@ -146,7 +150,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://ir.jd.com/"
+      "volumeSource": "https://ir.jd.com/",
+      "industry": "科技/電商"
     },
     {
       "rank": 6,
@@ -175,7 +180,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.meituan.com/en-US/investor"
+      "volumeSource": "https://www.meituan.com/en-US/investor",
+      "industry": "科技/電商"
     },
     {
       "rank": 7,
@@ -204,7 +210,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://investor.pddholdings.com/"
+      "volumeSource": "https://investor.pddholdings.com/",
+      "industry": "金融"
     },
     {
       "rank": 8,
@@ -233,7 +240,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://ir.netease.com/"
+      "volumeSource": "https://ir.netease.com/",
+      "industry": "科技/遊戲"
     },
     {
       "rank": 9,
@@ -262,7 +270,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://ir.kuaishou.com/"
+      "volumeSource": "https://ir.kuaishou.com/",
+      "industry": "電信"
     },
     {
       "rank": 10,
@@ -291,7 +300,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS小紅書"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS小紅書",
+      "industry": "科技"
     },
     {
       "rank": 11,
@@ -320,7 +330,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS螞蟻集團"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS螞蟻集團",
+      "industry": "金融/科技"
     },
     {
       "rank": 12,
@@ -349,7 +360,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://ir.bilibili.com/"
+      "volumeSource": "https://ir.bilibili.com/",
+      "industry": "科技/媒體"
     },
     {
       "rank": 13,
@@ -378,7 +390,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://ir.didiglobal.com/"
+      "volumeSource": "https://ir.didiglobal.com/",
+      "industry": "科技/交通"
     },
     {
       "rank": 14,
@@ -397,7 +410,7 @@
       "keyPerson": {
         "name": "鄒濤 (Zou Tao)",
         "title": "CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=鄒濤%20(Zou%20Tao)%20金山雲%20(Kingsoft%20Cloud)",
         "source": ""
       },
       "siDist": [
@@ -407,7 +420,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://ir.ksyun.com/"
+      "volumeSource": "https://ir.ksyun.com/",
+      "industry": "金融"
     },
     {
       "rank": 15,
@@ -426,7 +440,7 @@
       "keyPerson": {
         "name": "黃宇翔 (Huang Yuxiang)",
         "title": "CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=黃宇翔%20(Huang%20Yuxiang)%20平安科技%20(Ping%20An%20Technology)",
         "source": ""
       },
       "siDist": [
@@ -436,7 +450,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://group.pingan.com/investor_relations/"
+      "volumeSource": "https://group.pingan.com/investor_relations/",
+      "industry": "金融"
     },
     {
       "rank": 16,
@@ -465,7 +480,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.baichuan-ai.com"
+      "volumeSource": "https://www.baichuan-ai.com",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 17,
@@ -494,7 +510,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://ir.weibo.com/"
+      "volumeSource": "https://ir.weibo.com/",
+      "industry": "科技/社群"
     },
     {
       "rank": 18,
@@ -523,7 +540,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://investors.trip.com/"
+      "volumeSource": "https://investors.trip.com/",
+      "industry": "科技/旅遊"
     },
     {
       "rank": 19,
@@ -552,7 +570,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://ir.mi.com/"
+      "volumeSource": "https://ir.mi.com/",
+      "industry": "科技/消費電子"
     },
     {
       "rank": 20,
@@ -571,7 +590,7 @@
       "keyPerson": {
         "name": "張鵬 (Zhang Peng)",
         "title": "CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=張鵬%20(Zhang%20Peng)%20智譜%20AI%20(Zhipu%20AI)",
         "source": ""
       },
       "siDist": [
@@ -581,7 +600,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.zhipuai.cn"
+      "volumeSource": "https://www.zhipuai.cn",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 21,
@@ -610,7 +630,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS順豐科技"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS順豐科技",
+      "industry": "物流"
     },
     {
       "rank": 22,
@@ -639,7 +660,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS月之暗面"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS月之暗面",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 23,
@@ -658,7 +680,7 @@
       "keyPerson": {
         "name": "梁文鋒 (Liang Wenfeng)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=梁文鋒%20(Liang%20Wenfeng)%20深度求索%20(DeepSeek)",
         "source": ""
       },
       "siDist": [
@@ -668,7 +690,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.deepseek.com"
+      "volumeSource": "https://www.deepseek.com",
+      "industry": "NeoCloud/AI"
     },
     {
       "company": "幻方量化 (High-Flyer Capital)",
@@ -686,7 +709,7 @@
       "keyPerson": {
         "name": "梁文鋒 (Liang Wenfeng)",
         "title": "Founder (同 DeepSeek)",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=梁文鋒%20(Liang%20Wenfeng)%20幻方量化%20(High-Flyer%20Capital)",
         "source": ""
       },
       "siDist": [
@@ -697,7 +720,8 @@
         }
       ],
       "volumeSource": "https://www.high-flyer.cn",
-      "rank": 24
+      "rank": 24,
+      "industry": "金融"
     },
     {
       "rank": 25,
@@ -716,7 +740,7 @@
       "keyPerson": {
         "name": "閆俊傑 (Yan Junjie)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=閆俊傑%20(Yan%20Junjie)%20MiniMax",
         "source": ""
       },
       "siDist": [
@@ -726,7 +750,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.minimaxi.com"
+      "volumeSource": "https://www.minimaxi.com",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 26,
@@ -745,7 +770,7 @@
       "keyPerson": {
         "name": "張強 (Zhang Qiang)",
         "title": "CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=張強%20(Zhang%20Qiang)%20聯影醫療%20(United%20Imaging)",
         "source": ""
       },
       "siDist": [
@@ -755,7 +780,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS聯影醫療"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS聯影醫療",
+      "industry": "金融"
     },
     {
       "rank": 27,
@@ -784,7 +810,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.catl.com/en/investor/"
+      "volumeSource": "https://www.catl.com/en/investor/",
+      "industry": "能源/製造"
     },
     {
       "rank": 28,
@@ -813,7 +840,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.byd.com/en/InvestorRelations.html"
+      "volumeSource": "https://www.byd.com/en/InvestorRelations.html",
+      "industry": "汽車/製造"
     },
     {
       "rank": 29,
@@ -842,7 +870,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS海爾卡奧斯"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS海爾卡奧斯",
+      "industry": "科技/製造"
     },
     {
       "rank": 30,
@@ -861,7 +890,7 @@
       "keyPerson": {
         "name": "王文京 (Wang Wenjing)",
         "title": "Founder & Chairman",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=王文京%20(Wang%20Wenjing)%20用友網絡%20(Yonyou)",
         "source": ""
       },
       "siDist": [
@@ -871,7 +900,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS用友網絡"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS用友網絡",
+      "industry": "科技"
     },
     {
       "rank": 31,
@@ -890,7 +920,7 @@
       "keyPerson": {
         "name": "彭永東 (Peng Yongdong)",
         "title": "CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=彭永東%20(Peng%20Yongdong)%20貝殼找房%20(KE%20Holdings%20/%20Beike)",
         "source": ""
       },
       "siDist": [
@@ -900,7 +930,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://investors.ke.com/"
+      "volumeSource": "https://investors.ke.com/",
+      "industry": "金融"
     },
     {
       "rank": 32,
@@ -929,7 +960,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUStcl-科技"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUStcl-科技",
+      "industry": "科技/製造"
     },
     {
       "rank": 33,
@@ -958,7 +990,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://ir.wuxiapptec.com/"
+      "volumeSource": "https://ir.wuxiapptec.com/",
+      "industry": "醫療/製藥"
     },
     {
       "company": "階躍星辰 (StepFun)",
@@ -976,7 +1009,7 @@
       "keyPerson": {
         "name": "姜大昕 (Jiang Daxin)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=姜大昕%20(Jiang%20Daxin)%20階躍星辰%20(StepFun)",
         "source": ""
       },
       "siDist": [
@@ -987,7 +1020,8 @@
         }
       ],
       "volumeSource": "https://www.stepfun.com",
-      "rank": 34
+      "rank": 34,
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 35,
@@ -1016,7 +1050,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.01.ai"
+      "volumeSource": "https://www.01.ai",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 36,
@@ -1045,7 +1080,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://ir.lixiang.com/"
+      "volumeSource": "https://ir.lixiang.com/",
+      "industry": "汽車/製造"
     },
     {
       "rank": 37,
@@ -1074,7 +1110,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://ir.nio.com/"
+      "volumeSource": "https://ir.nio.com/",
+      "industry": "汽車/製造"
     },
     {
       "rank": 38,
@@ -1103,7 +1140,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://ir.xiaopeng.com/"
+      "volumeSource": "https://ir.xiaopeng.com/",
+      "industry": "汽車/製造"
     },
     {
       "rank": 39,
@@ -1132,7 +1170,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSoppo-/-一加"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSoppo-/-一加",
+      "industry": "科技/消費電子"
     },
     {
       "rank": 40,
@@ -1151,7 +1190,7 @@
       "keyPerson": {
         "name": "沈煒 (Shen Wei)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=沈煒%20(Shen%20Wei)%20vivo",
         "source": ""
       },
       "siDist": [
@@ -1161,7 +1200,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSvivo"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSvivo",
+      "industry": "科技/消費電子"
     },
     {
       "rank": 41,
@@ -1180,7 +1220,7 @@
       "keyPerson": {
         "name": "徐少春 (Xu Shaochun)",
         "title": "Founder & Chairman",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=徐少春%20(Xu%20Shaochun)%20金蝶國際%20(Kingdee)",
         "source": ""
       },
       "siDist": [
@@ -1190,7 +1230,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.kingdee.com/investor/"
+      "volumeSource": "https://www.kingdee.com/investor/",
+      "industry": "金融"
     },
     {
       "rank": 42,
@@ -1219,7 +1260,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS地平線"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS地平線",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 43,
@@ -1238,7 +1280,7 @@
       "keyPerson": {
         "name": "安聰慧 (An Conghui)",
         "title": "CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=安聰慧%20(An%20Conghui)%20極氪%20(Zeekr)",
         "source": ""
       },
       "siDist": [
@@ -1248,7 +1290,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://ir.zeekrlife.com/"
+      "volumeSource": "https://ir.zeekrlife.com/",
+      "industry": "科技"
     },
     {
       "rank": 44,
@@ -1277,7 +1320,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://ir.pony.ai/"
+      "volumeSource": "https://ir.pony.ai/",
+      "industry": "科技"
     },
     {
       "company": "光年之外 (Lightspeed)",
@@ -1295,7 +1339,7 @@
       "keyPerson": {
         "name": "王慧文 (Wang Huiwen)",
         "title": "Founder",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=王慧文%20(Wang%20Huiwen)%20光年之外%20(Lightspeed)",
         "source": ""
       },
       "siDist": [
@@ -1306,7 +1350,8 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS光年之外",
-      "rank": 45
+      "rank": 45,
+      "industry": "NeoCloud/AI"
     },
     {
       "company": "深信服 (Sangfor Technologies)",
@@ -1324,7 +1369,7 @@
       "keyPerson": {
         "name": "何朝曦 (He Zhaoxi)",
         "title": "Founder & Chairman",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=何朝曦%20(He%20Zhaoxi)%20深信服%20(Sangfor%20Technologies)",
         "source": ""
       },
       "siDist": [
@@ -1335,7 +1380,8 @@
         }
       ],
       "volumeSource": "https://www.sangfor.com/en/about/investor-relations",
-      "rank": 46
+      "rank": 46,
+      "industry": "科技"
     },
     {
       "company": "匯豐軟件 (HSBC Software Development China)",
@@ -1353,7 +1399,7 @@
       "keyPerson": {
         "name": "翁富澤 (Weng Fuze)",
         "title": "CTO HSBC China",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=翁富澤%20(Weng%20Fuze)%20匯豐軟件%20(HSBC%20Software%20Development%20China)",
         "source": ""
       },
       "siDist": [
@@ -1364,7 +1410,8 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS匯豐軟件",
-      "rank": 47
+      "rank": 47,
+      "industry": "金融"
     },
     {
       "rank": 48,
@@ -1383,7 +1430,7 @@
       "keyPerson": {
         "name": "馬和平 (Ma Heping)",
         "title": "CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=馬和平%20(Ma%20Heping)%20同程旅行%20(Tongcheng%20Travel)",
         "source": ""
       },
       "siDist": [
@@ -1393,7 +1440,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://ir.ly.com/"
+      "volumeSource": "https://ir.ly.com/",
+      "industry": "科技"
     },
     {
       "rank": 49,
@@ -1422,7 +1470,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://ir.bilibili.com/"
+      "volumeSource": "https://ir.bilibili.com/",
+      "industry": "科技/媒體"
     },
     {
       "rank": 50,
@@ -1440,8 +1489,8 @@
       "entryPoint": "聯影智能正在訓練醫療大模型。可從 GPU 伺服器切入。",
       "keyPerson": {
         "name": "待查詢",
-        "title": "",
-        "linkedin": "",
+        "title": "VP, AI Infrastructure",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20聯影智能%20(United%20Imaging%20Intelligence)",
         "source": ""
       },
       "siDist": [
@@ -1451,7 +1500,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS聯影智能"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS聯影智能",
+      "industry": "金融"
     },
     {
       "rank": 51,
@@ -1470,7 +1520,7 @@
       "keyPerson": {
         "name": "朱光 (Zhu Guang)",
         "title": "CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=朱光%20(Zhu%20Guang)%20度小滿金融%20(Du%20Xiaoman%20Financial)",
         "source": ""
       },
       "siDist": [
@@ -1480,7 +1530,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS度小滿金融"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS度小滿金融",
+      "industry": "金融"
     },
     {
       "rank": 52,
@@ -1499,7 +1550,7 @@
       "keyPerson": {
         "name": "趙容奭 (Cho Yongseok)",
         "title": "Co-CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=趙容奭%20(Cho%20Yongseok)%20陸金所控股%20(Lufax%20Holding)",
         "source": ""
       },
       "siDist": [
@@ -1509,7 +1560,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://ir.lufaxholding.com/"
+      "volumeSource": "https://ir.lufaxholding.com/",
+      "industry": "金融"
     },
     {
       "rank": 53,
@@ -1528,7 +1580,7 @@
       "keyPerson": {
         "name": "楊磊 (Yang Lei)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=楊磊%20(Yang%20Lei)%20哈囉出行%20(Hello%20Inc.)",
         "source": ""
       },
       "siDist": [
@@ -1538,7 +1590,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS哈囉出行"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS哈囉出行",
+      "industry": "科技"
     },
     {
       "rank": 54,
@@ -1557,7 +1610,7 @@
       "keyPerson": {
         "name": "何輝劍 (He Huijian)",
         "title": "CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=何輝劍%20(He%20Huijian)%20達達集團%20(Dada%20Group%20/%20JD%20Logistics)",
         "source": ""
       },
       "siDist": [
@@ -1567,7 +1620,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS達達集團"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS達達集團",
+      "industry": "科技"
     },
     {
       "rank": 55,
@@ -1586,7 +1640,7 @@
       "keyPerson": {
         "name": "竺兆江 (Zhu Zhaojiang)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=竺兆江%20(Zhu%20Zhaojiang)%20傳音控股%20(Transsion%20Holdings)",
         "source": ""
       },
       "siDist": [
@@ -1596,7 +1650,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS傳音控股"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS傳音控股",
+      "industry": "金融"
     },
     {
       "rank": 56,
@@ -1625,7 +1680,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS藥明生物"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS藥明生物",
+      "industry": "醫療/製藥"
     },
     {
       "rank": 57,
@@ -1654,7 +1710,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS第四範式"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS第四範式",
+      "industry": "科技"
     },
     {
       "rank": 58,
@@ -1673,7 +1730,7 @@
       "keyPerson": {
         "name": "白鴉 (Bai Ya)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=白鴉%20(Bai%20Ya)%20有贊%20(Youzan)",
         "source": ""
       },
       "siDist": [
@@ -1683,7 +1740,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS有贊"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS有贊",
+      "industry": "科技"
     },
     {
       "rank": 59,
@@ -1702,7 +1760,7 @@
       "keyPerson": {
         "name": "段威 (Duan Wei)",
         "title": "CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=段威%20(Duan%20Wei)%20匯量科技%20(Mobvista%20/%20Mintegral)",
         "source": ""
       },
       "siDist": [
@@ -1712,7 +1770,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS匯量科技"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS匯量科技",
+      "industry": "科技"
     },
     {
       "rank": 60,
@@ -1731,7 +1790,7 @@
       "keyPerson": {
         "name": "孫濤勇 (Sun Taoyong)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=孫濤勇%20(Sun%20Taoyong)%20微盟集團%20(Weimob)",
         "source": ""
       },
       "siDist": [
@@ -1741,7 +1800,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS微盟集團"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS微盟集團",
+      "industry": "科技"
     },
     {
       "rank": 61,
@@ -1760,7 +1820,7 @@
       "keyPerson": {
         "name": "高宇 (Gao Yu)",
         "title": "CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=高宇%20(Gao%20Yu)%20明源雲%20(MingYuan%20Cloud)",
         "source": ""
       },
       "siDist": [
@@ -1770,7 +1830,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS明源雲"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS明源雲",
+      "industry": "金融"
     },
     {
       "rank": 62,
@@ -1799,7 +1860,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://ir.tuya.com/"
+      "volumeSource": "https://ir.tuya.com/",
+      "industry": "零售"
     },
     {
       "rank": 63,
@@ -1818,7 +1880,7 @@
       "keyPerson": {
         "name": "張勇 (Zhang Yong)",
         "title": "CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=張勇%20(Zhang%20Yong)%20哪吒汽車%20(Neta%20Auto%20/%20Hozon)",
         "source": ""
       },
       "siDist": [
@@ -1828,7 +1890,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS哪吒汽車"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS哪吒汽車",
+      "industry": "汽車/製造"
     },
     {
       "rank": 64,
@@ -1847,7 +1910,7 @@
       "keyPerson": {
         "name": "朱江明 (Zhu Jiangming)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=朱江明%20(Zhu%20Jiangming)%20零跑汽車%20(Leapmotor)",
         "source": ""
       },
       "siDist": [
@@ -1857,7 +1920,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://ir.leapmotor.com/"
+      "volumeSource": "https://ir.leapmotor.com/",
+      "industry": "汽車/製造"
     },
     {
       "rank": 65,
@@ -1876,7 +1940,7 @@
       "keyPerson": {
         "name": "趙立東 (Zhao Lidong)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=趙立東%20(Zhao%20Lidong)%20燧原科技%20(Enflame%20Technology)",
         "source": ""
       },
       "siDist": [
@@ -1886,7 +1950,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.enflame-tech.com"
+      "volumeSource": "https://www.enflame-tech.com",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 66,
@@ -1905,7 +1970,7 @@
       "keyPerson": {
         "name": "王志國 (Wang Zhiguo)",
         "title": "CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=王志國%20(Wang%20Zhiguo)%20創維集團%20(Skyworth)",
         "source": ""
       },
       "siDist": [
@@ -1915,7 +1980,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS創維集團"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS創維集團",
+      "industry": "科技/半導體"
     },
     {
       "rank": 67,
@@ -1944,7 +2010,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://ir.weride.ai/"
+      "volumeSource": "https://ir.weride.ai/",
+      "industry": "科技"
     },
     {
       "company": "面壁智能 (ModelBest)",
@@ -1973,7 +2040,8 @@
         }
       ],
       "volumeSource": "https://modelbest.cn",
-      "rank": 68
+      "rank": 68,
+      "industry": "科技"
     },
     {
       "company": "吉利汽車 (Geely Auto)",
@@ -1991,7 +2059,7 @@
       "keyPerson": {
         "name": "李書福 (Li Shufu)",
         "title": "Founder & Chairman",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=李書福%20(Li%20Shufu)%20吉利汽車%20(Geely%20Auto)",
         "source": ""
       },
       "siDist": [
@@ -2002,7 +2070,8 @@
         }
       ],
       "volumeSource": "https://global.geely.com/investor-relations",
-      "rank": 69
+      "rank": 69,
+      "industry": "汽車/製造"
     },
     {
       "company": "奇安信 (QiAnXin)",
@@ -2020,7 +2089,7 @@
       "keyPerson": {
         "name": "齊向東 (Qi Xiangdong)",
         "title": "Founder & Chairman",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=齊向東%20(Qi%20Xiangdong)%20奇安信%20(QiAnXin)",
         "source": ""
       },
       "siDist": [
@@ -2031,7 +2100,8 @@
         }
       ],
       "volumeSource": "https://www.qianxin.com",
-      "rank": 70
+      "rank": 70,
+      "industry": "科技"
     },
     {
       "company": "九坤投資 (Ubiquant)",
@@ -2049,7 +2119,7 @@
       "keyPerson": {
         "name": "王琛 (Wang Chen)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=王琛%20(Wang%20Chen)%20九坤投資%20(Ubiquant)",
         "source": ""
       },
       "siDist": [
@@ -2060,7 +2130,8 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS九坤投資",
-      "rank": 71
+      "rank": 71,
+      "industry": "科技"
     },
     {
       "company": "星環科技 (Transwarp)",
@@ -2078,7 +2149,7 @@
       "keyPerson": {
         "name": "孫元浩 (Sun Yuanhao)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=孫元浩%20(Sun%20Yuanhao)%20星環科技%20(Transwarp)",
         "source": ""
       },
       "siDist": [
@@ -2089,7 +2160,8 @@
         }
       ],
       "volumeSource": "https://www.transwarp.cn/en/investor",
-      "rank": 72
+      "rank": 72,
+      "industry": "科技"
     },
     {
       "rank": 73,
@@ -2118,7 +2190,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://ir.cmcm.com/"
+      "volumeSource": "https://ir.cmcm.com/",
+      "industry": "電信"
     },
     {
       "rank": 74,
@@ -2137,7 +2210,7 @@
       "keyPerson": {
         "name": "高始興 (Gao Shixing)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=高始興%20(Gao%20Shixing)%20思必馳%20(AISpeech)",
         "source": ""
       },
       "siDist": [
@@ -2147,7 +2220,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS思必馳"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS思必馳",
+      "industry": "電信"
     },
     {
       "rank": 75,
@@ -2166,7 +2240,7 @@
       "keyPerson": {
         "name": "宋克 (Song Ke)",
         "title": "CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=宋克%20(Song%20Ke)%20趣丸科技%20(TT%20Voice%20/%20Quwanke)",
         "source": ""
       },
       "siDist": [
@@ -2176,7 +2250,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS趣丸科技"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS趣丸科技",
+      "industry": "科技"
     },
     {
       "rank": 76,
@@ -2195,7 +2270,7 @@
       "keyPerson": {
         "name": "沈斐 (Shen Fei)",
         "title": "SVP NIO Power",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=沈斐%20(Shen%20Fei)%20蔚來能源%20(NIO%20Power)",
         "source": ""
       },
       "siDist": [
@@ -2205,7 +2280,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS蔚來能源"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS蔚來能源",
+      "industry": "汽車/製造"
     },
     {
       "rank": 77,
@@ -2224,7 +2300,7 @@
       "keyPerson": {
         "name": "葉小平 (Ye Xiaoping)",
         "title": "Founder & Chairman",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=葉小平%20(Ye%20Xiaoping)%20泰格醫藥%20(Tigermed)",
         "source": ""
       },
       "siDist": [
@@ -2234,7 +2310,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS泰格醫藥"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS泰格醫藥",
+      "industry": "醫療"
     },
     {
       "rank": 78,
@@ -2268,7 +2345,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.transwarp.cn/investor"
+      "volumeSource": "https://www.transwarp.cn/investor",
+      "industry": "科技"
     },
     {
       "company": "長城汽車 (Great Wall Motor)",
@@ -2286,7 +2364,7 @@
       "keyPerson": {
         "name": "魏建軍 (Wei Jianjun)",
         "title": "Founder & Chairman",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=魏建軍%20(Wei%20Jianjun)%20長城汽車%20(Great%20Wall%20Motor)",
         "source": ""
       },
       "siDist": [
@@ -2297,7 +2375,8 @@
         }
       ],
       "volumeSource": "https://www.gwm.com.cn/investor.html",
-      "rank": 79
+      "rank": 79,
+      "industry": "汽車/製造"
     },
     {
       "company": "三一重工 (SANY Heavy Industry)",
@@ -2315,7 +2394,7 @@
       "keyPerson": {
         "name": "梁穩根 (Liang Wengen)",
         "title": "Founder & Chairman",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=梁穩根%20(Liang%20Wengen)%20三一重工%20(SANY%20Heavy%20Industry)",
         "source": ""
       },
       "siDist": [
@@ -2331,7 +2410,8 @@
         }
       ],
       "volumeSource": "https://www.sanygroup.com/en/investor.html",
-      "rank": 80
+      "rank": 80,
+      "industry": "科技"
     },
     {
       "company": "眾安在線 (ZhongAn Online)",
@@ -2349,7 +2429,7 @@
       "keyPerson": {
         "name": "姜興 (Jiang Xing)",
         "title": "CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=姜興%20(Jiang%20Xing)%20眾安在線%20(ZhongAn%20Online)",
         "source": ""
       },
       "siDist": [
@@ -2360,7 +2440,8 @@
         }
       ],
       "volumeSource": "https://www.zhongan.com/open/investor",
-      "rank": 81
+      "rank": 81,
+      "industry": "科技/社群"
     },
     {
       "company": "富途控股 (Futu Holdings)",
@@ -2389,7 +2470,8 @@
         }
       ],
       "volumeSource": "https://ir.futuholdings.com/",
-      "rank": 82
+      "rank": 82,
+      "industry": "金融"
     },
     {
       "company": "嘉實基金 (Harvest Fund)",
@@ -2407,7 +2489,7 @@
       "keyPerson": {
         "name": "趙學軍 (Zhao Xuejun)",
         "title": "Chairman",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=趙學軍%20(Zhao%20Xuejun)%20嘉實基金%20(Harvest%20Fund)",
         "source": ""
       },
       "siDist": [
@@ -2418,7 +2500,8 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS嘉實基金",
-      "rank": 83
+      "rank": 83,
+      "industry": "科技"
     },
     {
       "company": "明略科技 (MiningLamp)",
@@ -2436,7 +2519,7 @@
       "keyPerson": {
         "name": "吳明輝 (Wu Minghui)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=吳明輝%20(Wu%20Minghui)%20明略科技%20(MiningLamp)",
         "source": ""
       },
       "siDist": [
@@ -2447,7 +2530,8 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS明略科技",
-      "rank": 84
+      "rank": 84,
+      "industry": "金融"
     },
     {
       "company": "數夢工場 (DTDream)",
@@ -2465,7 +2549,7 @@
       "keyPerson": {
         "name": "王巍 (Wang Wei)",
         "title": "CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=王巍%20(Wang%20Wei)%20數夢工場%20(DTDream)",
         "source": ""
       },
       "siDist": [
@@ -2476,7 +2560,8 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS數夢工場",
-      "rank": 85
+      "rank": 85,
+      "industry": "科技"
     },
     {
       "company": "雲天勵飛 (Intellifusion)",
@@ -2494,7 +2579,7 @@
       "keyPerson": {
         "name": "陳寧 (Chen Ning)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=陳寧%20(Chen%20Ning)%20雲天勵飛%20(Intellifusion)",
         "source": ""
       },
       "siDist": [
@@ -2505,7 +2590,8 @@
         }
       ],
       "volumeSource": "https://www.intellif.com",
-      "rank": 86
+      "rank": 86,
+      "industry": "科技"
     },
     {
       "company": "涂鴉智能海外 (Tuya Global)",
@@ -2534,7 +2620,8 @@
         }
       ],
       "volumeSource": "https://ir.tuya.com/",
-      "rank": 87
+      "rank": 87,
+      "industry": "科技"
     },
     {
       "company": "雲知聲 (Unisound)",
@@ -2552,7 +2639,7 @@
       "keyPerson": {
         "name": "黃偉 (Huang Wei)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=黃偉%20(Huang%20Wei)%20雲知聲%20(Unisound)",
         "source": ""
       },
       "siDist": [
@@ -2563,7 +2650,8 @@
         }
       ],
       "volumeSource": "https://www.unisound.com",
-      "rank": 88
+      "rank": 88,
+      "industry": "科技"
     },
     {
       "company": "思謀科技 (SmartMore)",
@@ -2592,7 +2680,8 @@
         }
       ],
       "volumeSource": "https://www.smartmore.com",
-      "rank": 89
+      "rank": 89,
+      "industry": "零售"
     },
     {
       "company": "衛星化學 (Satellite Chemical)",
@@ -2610,7 +2699,7 @@
       "keyPerson": {
         "name": "楊衛東 (Yang Weidong)",
         "title": "VP IT",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=楊衛東%20(Yang%20Weidong)%20衛星化學%20(Satellite%20Chemical)",
         "source": ""
       },
       "siDist": [
@@ -2621,7 +2710,8 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS衛星化學",
-      "rank": 90
+      "rank": 90,
+      "industry": "科技"
     },
     {
       "company": "萬興科技 (Wondershare)",
@@ -2639,7 +2729,7 @@
       "keyPerson": {
         "name": "吳太兵 (Wu Taibing)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=吳太兵%20(Wu%20Taibing)%20萬興科技%20(Wondershare)",
         "source": ""
       },
       "siDist": [
@@ -2650,7 +2740,8 @@
         }
       ],
       "volumeSource": "https://ir.wondershare.com/",
-      "rank": 91
+      "rank": 91,
+      "industry": "科技"
     },
     {
       "company": "商米科技 (Sunmi Technology)",
@@ -2668,7 +2759,7 @@
       "keyPerson": {
         "name": "林喆 (Lin Zhe)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=林喆%20(Lin%20Zhe)%20商米科技%20(Sunmi%20Technology)",
         "source": ""
       },
       "siDist": [
@@ -2679,7 +2770,8 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS商米科技",
-      "rank": 92
+      "rank": 92,
+      "industry": "科技"
     },
     {
       "company": "老虎證券 (Tiger Brokers / UP Fintech)",
@@ -2708,7 +2800,8 @@
         }
       ],
       "volumeSource": "https://ir.itigerup.com/",
-      "rank": 93
+      "rank": 93,
+      "industry": "金融"
     },
     {
       "company": "達觀數據 (Datagrand)",
@@ -2726,7 +2819,7 @@
       "keyPerson": {
         "name": "陳運文 (Chen Yunwen)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=陳運文%20(Chen%20Yunwen)%20達觀數據%20(Datagrand)",
         "source": ""
       },
       "siDist": [
@@ -2737,7 +2830,8 @@
         }
       ],
       "volumeSource": "https://www.datagrand.com",
-      "rank": 94
+      "rank": 94,
+      "industry": "科技"
     },
     {
       "company": "聯易融 (Linklogis)",
@@ -2755,7 +2849,7 @@
       "keyPerson": {
         "name": "宋群 (Song Qun)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=宋群%20(Song%20Qun)%20聯易融%20(Linklogis)",
         "source": ""
       },
       "siDist": [
@@ -2766,7 +2860,8 @@
         }
       ],
       "volumeSource": "https://www.linklogis.com/investor.html",
-      "rank": 95
+      "rank": 95,
+      "industry": "科技"
     },
     {
       "company": "華勤技術 (Huaqin Technology)",
@@ -2784,7 +2879,7 @@
       "keyPerson": {
         "name": "邱文生 (Qiu Wensheng)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=邱文生%20(Qiu%20Wensheng)%20華勤技術%20(Huaqin%20Technology)",
         "source": ""
       },
       "siDist": [
@@ -2795,7 +2890,8 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS華勤技術",
-      "rank": 96
+      "rank": 96,
+      "industry": "科技"
     },
     {
       "company": "陽光電源 (Sungrow Power)",
@@ -2813,7 +2909,7 @@
       "keyPerson": {
         "name": "曹仁賢 (Cao Renxian)",
         "title": "Founder & Chairman",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=曹仁賢%20(Cao%20Renxian)%20陽光電源%20(Sungrow%20Power)",
         "source": ""
       },
       "siDist": [
@@ -2824,7 +2920,8 @@
         }
       ],
       "volumeSource": "https://www.sungrowpower.com/en/investor-relations",
-      "rank": 97
+      "rank": 97,
+      "industry": "能源"
     },
     {
       "company": "安克創新 (Anker Innovations)",
@@ -2853,7 +2950,8 @@
         }
       ],
       "volumeSource": "https://ir.anker-in.com/",
-      "rank": 98
+      "rank": 98,
+      "industry": "科技"
     },
     {
       "company": "聯想之星 (Legend Star) / 聯泓新科",
@@ -2871,7 +2969,7 @@
       "keyPerson": {
         "name": "王明耀 (Wang Mingyao)",
         "title": "President",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=王明耀%20(Wang%20Mingyao)%20聯想之星%20(Legend%20Star)%20/%20聯泓新科",
         "source": ""
       },
       "siDist": [
@@ -2882,7 +2980,8 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS聯想之星",
-      "rank": 99
+      "rank": 99,
+      "industry": "科技"
     },
     {
       "company": "火花思維 (Spark Education)",
@@ -2900,7 +2999,7 @@
       "keyPerson": {
         "name": "羅劍 (Luo Jian)",
         "title": "Founder & CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=羅劍%20(Luo%20Jian)%20火花思維%20(Spark%20Education)",
         "source": ""
       },
       "siDist": [
@@ -2911,7 +3010,8 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS火花思維",
-      "rank": 100
+      "rank": 100,
+      "industry": "科技"
     }
   ]
 }

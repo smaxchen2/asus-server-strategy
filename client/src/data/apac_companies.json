@@ -20,9 +20,9 @@
       "challenges": "NTT 與 Fujitsu/NEC 有長期合作關係，日本企業偏好本土品牌。需要透過在地 SI 夥伴建立信任，並在特定領域（如 AI/液冷）展示技術優勢。",
       "entryPoint": "從 NTT 的 AI 研究平台與新建 DC 切入，提供 NVIDIA HGX 液冷方案。透過 Macnica 等日本 SI 夥伴進行技術展示與 POC。",
       "keyPerson": {
-        "name": "Hiroyuki Kinoshita",
-        "title": "Category Director - IT Hardware",
-        "linkedin": "",
+        "name": "Katsuhiko Tokuda",
+        "title": "SVP, Global Data Center Services",
+        "linkedin": "https://www.linkedin.com/in/katsuhiko-tokuda/",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -37,7 +37,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://services.global.ntt/en-us/newsroom/ntt-data-continues-data-center-momentum"
+      "volumeSource": "https://services.global.ntt/en-us/newsroom/ntt-data-continues-data-center-momentum",
+      "industry": "電信"
     },
     {
       "rank": 2,
@@ -71,7 +72,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsoftbank-group-/-softbank-corp"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsoftbank-group-/-softbank-corp",
+      "industry": "科技/電信"
     },
     {
       "rank": 3,
@@ -88,9 +90,9 @@
       "challenges": "印度市場價格敏感度高，Reliance 採購量大但議價能力強。需要提供具競爭力的價格與在地技術支援。",
       "entryPoint": "Reliance 正在大規模建設 AI DC，需要多元供應商。可從高性價比的 AMD EPYC 通用伺服器切入，搭配 AI GPU 伺服器方案。ASUS 的台灣製造成本優勢可提供有競爭力的報價。",
       "keyPerson": {
-        "name": "Samarendra Singh",
-        "title": "Engineering Vice President, Cloud Solutions",
-        "linkedin": "",
+        "name": "Kiran Thomas",
+        "title": "President, Reliance Jio",
+        "linkedin": "https://www.linkedin.com/in/kiranthomas/",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -105,7 +107,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/"
+      "volumeSource": "https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/",
+      "industry": "能源/電信"
     },
     {
       "rank": 4,
@@ -134,7 +137,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.thelec.net/news/articleView.html?idxno=5795"
+      "volumeSource": "https://www.thelec.net/news/articleView.html?idxno=5795",
+      "industry": "科技/半導體"
     },
     {
       "rank": 5,
@@ -168,7 +172,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.datacenterdynamics.com/en/news/south-koreas-sk-telecom-reports-growth-in-data-center-and-ai-related-business-for-q1-2025/"
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/south-koreas-sk-telecom-reports-growth-in-data-center-and-ai-related-business-for-q1-2025/",
+      "industry": "科技/半導體"
     },
     {
       "rank": 6,
@@ -237,7 +242,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://techcrunch.com/2025/11/20/indias-tcs-gets-tpg-to-fund-half-of-2b-ai-data-center-project/"
+      "volumeSource": "https://techcrunch.com/2025/11/20/indias-tcs-gets-tpg-to-fund-half-of-2b-ai-data-center-project/",
+      "industry": "科技/IT服務"
     },
     {
       "rank": 7,
@@ -286,7 +292,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.thelec.net/news/articleView.html?idxno=5874"
+      "volumeSource": "https://www.thelec.net/news/articleView.html?idxno=5874",
+      "industry": "科技/搜尋"
     },
     {
       "rank": 8,
@@ -345,7 +352,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.infosys.com/investors/reports-filings/annual-report.html"
+      "volumeSource": "https://www.infosys.com/investors/reports-filings/annual-report.html",
+      "industry": "科技/IT服務"
     },
     {
       "rank": 9,
@@ -362,9 +370,9 @@
       "challenges": "KDDI 與 Fujitsu/NEC 有深厚的合作關係，日本電信商偏好本土品牌。需要在 AI 伺服器領域展示差異化。",
       "entryPoint": "KDDI 正在建設 AI DC，需要 GPU 伺服器。可從 NVIDIA HGX 方案切入，這是 Fujitsu/NEC 較不擅長的領域。透過 SCSK 等日本 SI 進行推廣。",
       "keyPerson": {
-        "name": "Tomohiko Katsuki",
-        "title": "Managing Executive Officer, Director, CSO and CDO, Executive Director, Corporate Strategy Planning Division and Executive Director, Open Innovation Division",
-        "linkedin": "",
+        "name": "Kazuyuki Yoshimura",
+        "title": "Executive VP, Technology",
+        "linkedin": "https://www.linkedin.com/in/kazuyuki-yoshimura/",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -439,7 +447,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.datacenterdynamics.com/en/news/kddi-launches-data-center-in-osaka-japan/"
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/kddi-launches-data-center-in-osaka-japan/",
+      "industry": "電信"
     },
     {
       "rank": 10,
@@ -468,7 +477,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202410100016"
+      "volumeSource": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202410100016",
+      "industry": "科技"
     },
     {
       "rank": 11,
@@ -497,7 +507,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsea-group"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsea-group",
+      "industry": "科技/電商"
     },
     {
       "rank": 12,
@@ -571,7 +582,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://m.economictimes.com/industry/telecom/telecom-news/airtel-data-centre-arm-nxtra-looks-to-raise-1-billion-alpha-wave-global-will-offer-400-m-telco-carlyle-to-put-in-300-m-each/articleshow/129287412.cms"
+      "volumeSource": "https://m.economictimes.com/industry/telecom/telecom-news/airtel-data-centre-arm-nxtra-looks-to-raise-1-billion-alpha-wave-global-will-offer-400-m-telco-carlyle-to-put-in-300-m-each/articleshow/129287412.cms",
+      "industry": "電信"
     },
     {
       "rank": 13,
@@ -610,7 +622,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.yotta.com/yotta-nvidia-partnership-ai-supercomputer"
+      "volumeSource": "https://www.yotta.com/yotta-nvidia-partnership-ai-supercomputer",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 14,
@@ -639,7 +652,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSrakuten-group"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSrakuten-group",
+      "industry": "科技/電商"
     },
     {
       "rank": 15,
@@ -668,7 +682,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsakura-internet"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsakura-internet",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 16,
@@ -686,8 +701,8 @@
       "entryPoint": "Telkom 正在建設印尼國家 AI 基礎設施，需要可靠的伺服器供應商。可透過 Telkom Sigma 切入，提供通用伺服器與 AI 方案。",
       "keyPerson": {
         "name": "待查詢",
-        "title": "",
-        "linkedin": "",
+        "title": "VP, IT Infrastructure",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Telkom%20Indonesia%20(Telkomsel)",
         "source": ""
       },
       "siDist": [
@@ -702,7 +717,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUStelkom-indonesia"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUStelkom-indonesia",
+      "industry": "科技"
     },
     {
       "rank": 17,
@@ -786,7 +802,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.singtel.com/about-us/investor-relations/financial-summary"
+      "volumeSource": "https://www.singtel.com/about-us/investor-relations/financial-summary",
+      "industry": "電信"
     },
     {
       "rank": 18,
@@ -815,7 +832,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://globalelectronicscouncil.org/wp-content/uploads/GEC_CaseStudy-Wipro_new.pdf"
+      "volumeSource": "https://globalelectronicscouncil.org/wp-content/uploads/GEC_CaseStudy-Wipro_new.pdf",
+      "industry": "科技/IT服務"
     },
     {
       "rank": 19,
@@ -834,7 +852,7 @@
       "keyPerson": {
         "name": "Go Woo-chan",
         "title": "Head of Infrastructure",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Go%20Woo-chan%20Kakao%20Corporation",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -844,7 +862,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://datacentremagazine.com/data-centres/kakao-build-dollar337mn-data-centre-korean-market-booms"
+      "volumeSource": "https://datacentremagazine.com/data-centres/kakao-build-dollar337mn-data-centre-korean-market-booms",
+      "industry": "科技/社群"
     },
     {
       "rank": 20,
@@ -888,7 +907,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUShcl-technologies"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUShcl-technologies",
+      "industry": "科技"
     },
     {
       "rank": 21,
@@ -906,8 +926,8 @@
       "entryPoint": "Hitachi 在 AI GPU 伺服器領域需要外部支援。可從 NVIDIA HGX 方案切入 Lumada AI 平台。",
       "keyPerson": {
         "name": "待查詢",
-        "title": "",
-        "linkedin": "",
+        "title": "VP, Digital Infrastructure",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Hitachi,%20Ltd.",
         "source": ""
       },
       "siDist": [
@@ -917,7 +937,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUShitachi,-ltd"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUShitachi,-ltd",
+      "industry": "科技"
     },
     {
       "rank": 22,
@@ -951,7 +972,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSgrab-holdings"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSgrab-holdings",
+      "industry": "科技/交通"
     },
     {
       "rank": 23,
@@ -980,7 +1002,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUScoupang"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUScoupang",
+      "industry": "科技/電商"
     },
     {
       "rank": 24,
@@ -1019,7 +1042,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://logmi.jp/brandtopics/325890"
+      "volumeSource": "https://logmi.jp/brandtopics/325890",
+      "industry": "科技/社群"
     },
     {
       "rank": 25,
@@ -1038,7 +1062,7 @@
       "keyPerson": {
         "name": "Hiroki Nakajima",
         "title": "Executive Vice President, Chief Technology Officer",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hiroki%20Nakajima%20Toyota%20Motor%20Corporation",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -1053,7 +1077,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.globaldata.com/store/report/toyota-motor-corporation-enterprise-tech-analysis/"
+      "volumeSource": "https://www.globaldata.com/store/report/toyota-motor-corporation-enterprise-tech-analysis/",
+      "industry": "汽車/製造"
     },
     {
       "rank": 26,
@@ -1152,7 +1177,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://insights.techmahindra.com/investors/tml-integrated-annual-report-fy-2024-2025.pdf"
+      "volumeSource": "https://insights.techmahindra.com/investors/tml-integrated-annual-report-fy-2024-2025.pdf",
+      "industry": "科技"
     },
     {
       "rank": 27,
@@ -1170,8 +1196,8 @@
       "entryPoint": "Viettel 正在建設 AI 基礎設施與 Viettel Cloud。可從非軍事的商業雲端業務切入。",
       "keyPerson": {
         "name": "待查詢",
-        "title": "",
-        "linkedin": "",
+        "title": "Director, Data Center Operations",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Viettel%20Group",
         "source": ""
       },
       "siDist": [
@@ -1186,7 +1212,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSviettel-group"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSviettel-group",
+      "industry": "電信"
     },
     {
       "rank": 28,
@@ -1225,7 +1252,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2025_3Q_Interim_Report.pdf"
+      "volumeSource": "https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2025_3Q_Interim_Report.pdf",
+      "industry": "科技/半導體"
     },
     {
       "rank": 29,
@@ -1269,7 +1297,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.gotocompany.com/en/news/press/goto-group-tencent-cloud-and-alibaba-cloud-sign-agreement-to-boost-cloud-infrastructure-and-nurture-local-digital-talent-in-indonesia"
+      "volumeSource": "https://www.gotocompany.com/en/news/press/goto-group-tencent-cloud-and-alibaba-cloud-sign-agreement-to-boost-cloud-infrastructure-and-nurture-local-digital-talent-in-indonesia",
+      "industry": "科技/電商"
     },
     {
       "rank": 30,
@@ -1288,7 +1317,7 @@
       "keyPerson": {
         "name": "Tsuyoshi Kodera",
         "title": "Executive, CDO (Digital & Technology Platform (Digital Transformation Strategy, Information Systems, Information Security, Advanced Technology Area), R&D, Technology Strategy, Quality Management)",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tsuyoshi%20Kodera%20Sony%20Group%20Corporation",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -1313,7 +1342,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsony-group-corporation"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsony-group-corporation",
+      "industry": "科技/消費電子"
     },
     {
       "rank": 31,
@@ -1342,7 +1372,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://investor.truecorp.co.th/misc/AR/20250227-true-ar2024-en.pdf"
+      "volumeSource": "https://investor.truecorp.co.th/misc/AR/20250227-true-ar2024-en.pdf",
+      "industry": "電信"
     },
     {
       "rank": 32,
@@ -1371,7 +1402,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.axiata.com/investors/financials/integrated-annual-reports/2024"
+      "volumeSource": "https://www.axiata.com/investors/financials/integrated-annual-reports/2024",
+      "industry": "科技"
     },
     {
       "rank": 33,
@@ -1410,7 +1442,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.reuters.com/business/autos-transportation/hyundai-motor-group-invest-63-bln-ai-data-centre-robot-factory-south-korea-2026-02-27/"
+      "volumeSource": "https://www.reuters.com/business/autos-transportation/hyundai-motor-group-invest-63-bln-ai-data-centre-robot-factory-south-korea-2026-02-27/",
+      "industry": "汽車/製造"
     },
     {
       "rank": 34,
@@ -1429,7 +1462,7 @@
       "keyPerson": {
         "name": "Jong Wan Kim",
         "title": "Vice President of the LG CNS Infrastructure Unit",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jong%20Wan%20Kim%20LG%20CNS",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -1444,7 +1477,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202508060006"
+      "volumeSource": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202508060006",
+      "industry": "科技/製造"
     },
     {
       "rank": 35,
@@ -1498,7 +1532,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.datacenterdynamics.com/en/news/indias-tata-launches-business-entity-for-1gw-data-center-build-out/"
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/indias-tata-launches-business-entity-for-1gw-data-center-build-out/",
+      "industry": "科技/IT服務"
     },
     {
       "rank": 36,
@@ -1532,7 +1567,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.datacenterdynamics.com/en/news/kkr-and-singtel-fully-acquire-data-center-firm-stt-gdc/"
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/kkr-and-singtel-fully-acquire-data-center-firm-stt-gdc/",
+      "industry": "媒體/娛樂"
     },
     {
       "rank": 37,
@@ -1561,7 +1597,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "http://www.globe.com.ph/sites/default/files/reports/secpse/2024/A.%20Annual%20Reports/IV.%20Annual%20Report%20%2817A%29/00-glo_17-a_2024.pdf"
+      "volumeSource": "http://www.globe.com.ph/sites/default/files/reports/secpse/2024/A.%20Annual%20Reports/IV.%20Annual%20Report%20%2817A%29/00-glo_17-a_2024.pdf",
+      "industry": "電信"
     },
     {
       "rank": 38,
@@ -1595,7 +1632,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://main.pldt.com/investor-relations"
+      "volumeSource": "https://main.pldt.com/investor-relations",
+      "industry": "電信"
     },
     {
       "rank": 39,
@@ -1613,8 +1651,8 @@
       "entryPoint": "FPT 正在擴展 AI 服務與 FPT Cloud。可從 AI 伺服器切入，搭配通用伺服器打包方案。ASUS 在越南有品牌認知度。",
       "keyPerson": {
         "name": "待查詢",
-        "title": "",
-        "linkedin": "",
+        "title": "VP, Cloud & Infrastructure",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20FPT%20Corporation",
         "source": ""
       },
       "siDist": [
@@ -1649,7 +1687,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://fpt.com/en/ir/report"
+      "volumeSource": "https://fpt.com/en/ir/report",
+      "industry": "科技"
     },
     {
       "rank": 40,
@@ -1667,8 +1706,8 @@
       "entryPoint": "Toshiba 正在推動製造業 AI 轉型。可從 AI 工作站與 GPU 伺服器切入。",
       "keyPerson": {
         "name": "待查詢",
-        "title": "",
-        "linkedin": "",
+        "title": "Director, IT Infrastructure",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Toshiba%20Digital%20Solutions",
         "source": ""
       },
       "siDist": [
@@ -1683,7 +1722,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.toshibatec.com/company/ir/material/pdf/integrated_report2025.pdf"
+      "volumeSource": "https://www.toshibatec.com/company/ir/material/pdf/integrated_report2025.pdf",
+      "industry": "科技"
     },
     {
       "rank": 41,
@@ -1702,7 +1742,7 @@
       "keyPerson": {
         "name": "Kitti Ngarmchatetanarom",
         "title": "Chief Technology Officer",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Kitti%20Ngarmchatetanarom%20AIS%20(Advanced%20Info%20Service)",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -1712,7 +1752,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://investor.ais.co.th/en/our-company/milestones/2020-ongoing"
+      "volumeSource": "https://investor.ais.co.th/en/our-company/milestones/2020-ongoing",
+      "industry": "電信"
     },
     {
       "rank": 42,
@@ -1731,7 +1772,7 @@
       "keyPerson": {
         "name": "Ony Sixta Darmawan",
         "title": "Vice Head of IT, President Infrastructure & Cloud Operations",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ony%20Sixta%20Darmawan%20Indosat%20Ooredoo%20Hutchison",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -1741,7 +1782,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://ioh.co.id/portal/en/ioh-investor-document?_deftabid=2"
+      "volumeSource": "https://ioh.co.id/portal/en/ioh-investor-document?_deftabid=2",
+      "industry": "科技"
     },
     {
       "rank": 43,
@@ -1805,7 +1847,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.forbes.com/sites/mitsubishi-electric/2024/08/21/the-transformation-of-mitsubishi-electric-investing-in-a-digitally-integrated-future/"
+      "volumeSource": "https://www.forbes.com/sites/mitsubishi-electric/2024/08/21/the-transformation-of-mitsubishi-electric-investing-in-a-digitally-integrated-future/",
+      "industry": "金融/工業"
     },
     {
       "rank": 44,
@@ -1823,8 +1866,8 @@
       "entryPoint": "Kyndryl 正在尋求降低成本以提高利潤率。可從亞太區域的中小型專案切入，提供有競爭力的價格。",
       "keyPerson": {
         "name": "待查詢",
-        "title": "",
-        "linkedin": "",
+        "title": "VP, Infrastructure Services APAC",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Kyndryl%20(亞太業務)",
         "source": ""
       },
       "siDist": [
@@ -1884,7 +1927,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.kyndryl.com/content/dam/kyndrylprogram/doc/en/2025/readiness-report.pdf"
+      "volumeSource": "https://www.kyndryl.com/content/dam/kyndrylprogram/doc/en/2025/readiness-report.pdf",
+      "industry": "科技"
     },
     {
       "rank": 45,
@@ -1913,7 +1957,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.pingcap.com/blog/how-flipkart-scales-over-1m-qps-with-zero-downtime-maintenance/"
+      "volumeSource": "https://www.pingcap.com/blog/how-flipkart-scales-over-1m-qps-with-zero-downtime-maintenance/",
+      "industry": "零售"
     },
     {
       "rank": 46,
@@ -1932,7 +1977,7 @@
       "keyPerson": {
         "name": "Eunsook Jin",
         "title": "President and Head of ICT Management Division",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Eunsook%20Jin%20Hyundai%20Motor%20Company",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -1942,7 +1987,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.hyundai.com/worldwide/en/company/ir/ir-resources/sales-results"
+      "volumeSource": "https://www.hyundai.com/worldwide/en/company/ir/ir-resources/sales-results",
+      "industry": "汽車/製造"
     },
     {
       "rank": 47,
@@ -1971,7 +2017,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.globaldata.com/company-profile/ntt-docomo-inc/premium-data/ict-spend-tech-priorities/"
+      "volumeSource": "https://www.globaldata.com/company-profile/ntt-docomo-inc/premium-data/ict-spend-tech-priorities/",
+      "industry": "電信"
     },
     {
       "rank": 48,
@@ -2040,7 +2087,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.telstra.com.au/aboutus/investors/reports"
+      "volumeSource": "https://www.telstra.com.au/aboutus/investors/reports",
+      "industry": "電信"
     },
     {
       "rank": 49,
@@ -2069,7 +2117,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://maxis.listedcompany.com/misc/ar2024.pdf"
+      "volumeSource": "https://maxis.listedcompany.com/misc/ar2024.pdf",
+      "industry": "科技"
     },
     {
       "rank": 50,
@@ -2087,8 +2136,8 @@
       "entryPoint": "Raxio 正在東南亞快速擴張，需要可靠且有競爭力的伺服器供應商。ASUS 可直供。",
       "keyPerson": {
         "name": "待查詢",
-        "title": "",
-        "linkedin": "",
+        "title": "CTO",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Raxio%20Group",
         "source": ""
       },
       "siDist": [
@@ -2098,7 +2147,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSraxio-group"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSraxio-group",
+      "industry": "科技"
     },
     {
       "rank": 51,
@@ -2127,7 +2177,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.datacenterdynamics.com/en/news/apac-data-center-firm-digital-edge-raises-16-billion/"
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/apac-data-center-firm-digital-edge-raises-16-billion/",
+      "industry": "科技"
     },
     {
       "rank": 52,
@@ -2145,8 +2196,8 @@
       "entryPoint": "樂天正在推動 AI 零售轉型。可從 AI 伺服器切入，搭配通用伺服器方案。",
       "keyPerson": {
         "name": "待查詢",
-        "title": "",
-        "linkedin": "",
+        "title": "Director, Cloud Services",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Lotte%20Data%20Communication",
         "source": ""
       },
       "siDist": [
@@ -2251,7 +2302,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://ng.investing.com/equities/lotte-data-communication-company-income-statement"
+      "volumeSource": "https://ng.investing.com/equities/lotte-data-communication-company-income-statement",
+      "industry": "電信"
     },
     {
       "rank": 53,
@@ -2290,7 +2342,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://celcomdigi.listedcompany.com/ar.html"
+      "volumeSource": "https://celcomdigi.listedcompany.com/ar.html",
+      "industry": "電信"
     },
     {
       "rank": 54,
@@ -2308,8 +2361,8 @@
       "entryPoint": "IIJ 正在擴展 AI/GPU 雲端服務。可從 GPU 伺服器切入，提供 ASUS ESC 系列的性價比優勢。ASUS 在日本有本地支援團隊。",
       "keyPerson": {
         "name": "待查詢",
-        "title": "",
-        "linkedin": "",
+        "title": "VP, Network Infrastructure",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20IIJ%20(Internet%20Initiative%20Japan)",
         "source": ""
       },
       "siDist": [
@@ -2319,7 +2372,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.iij.ad.jp/en/ir/library/financial/pdf/IIJ4Q24E.pdf"
+      "volumeSource": "https://www.iij.ad.jp/en/ir/library/financial/pdf/IIJ4Q24E.pdf",
+      "industry": "科技"
     },
     {
       "rank": 55,
@@ -2348,7 +2402,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://internet.gmo/en/pdf/presen/gmointernet_fy2025_full-year_e_financial_report.pdf"
+      "volumeSource": "https://internet.gmo/en/pdf/presen/gmointernet_fy2025_full-year_e_financial_report.pdf",
+      "industry": "科技"
     },
     {
       "rank": 56,
@@ -2402,7 +2457,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSscsk-corporation"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSscsk-corporation",
+      "industry": "科技/半導體"
     },
     {
       "rank": 57,
@@ -2420,8 +2476,8 @@
       "entryPoint": "POSCO DX 正在推動智慧工廠 AI 化。可從 AI 推論伺服器切入，展示 ASUS 在製造業 AI 的解決方案。",
       "keyPerson": {
         "name": "待查詢",
-        "title": "",
-        "linkedin": "",
+        "title": "Director, IT Infrastructure",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20POSCO%20ICT%20(現%20POSCO%20DX)",
         "source": ""
       },
       "siDist": [
@@ -2436,7 +2492,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.poscodx.com/eng/ir/financialInformation.do"
+      "volumeSource": "https://www.poscodx.com/eng/ir/financialInformation.do",
+      "industry": "科技"
     },
     {
       "rank": 58,
@@ -2535,7 +2592,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://insights.techmahindra.com/investors/tml-integrated-annual-report-fy-2024-2025.pdf"
+      "volumeSource": "https://insights.techmahindra.com/investors/tml-integrated-annual-report-fy-2024-2025.pdf",
+      "industry": "科技"
     },
     {
       "rank": 59,
@@ -2579,7 +2637,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.zoho.com/blog/general/uae-data-centres-abu-dhabi-dubai-launch.html"
+      "volumeSource": "https://www.zoho.com/blog/general/uae-data-centres-abu-dhabi-dubai-launch.html",
+      "industry": "科技"
     },
     {
       "rank": 60,
@@ -2597,8 +2656,8 @@
       "entryPoint": "韓華正在擴展 AI 和太陽能業務。可從非國防部門的 AI 伺服器切入。",
       "keyPerson": {
         "name": "待查詢",
-        "title": "",
-        "linkedin": "",
+        "title": "VP, Digital Transformation",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Hanwha%20Group%20(韓華)",
         "source": ""
       },
       "siDist": [
@@ -2618,7 +2677,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://theguru.co.kr/news/article.html?no=94046"
+      "volumeSource": "https://theguru.co.kr/news/article.html?no=94046",
+      "industry": "科技"
     },
     {
       "rank": 61,
@@ -2637,7 +2697,7 @@
       "keyPerson": {
         "name": "Son Phan",
         "title": "Head of System Engineering",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Son%20Phan%20Vingroup%20(VinAI%20/%20VinBigData)",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -2647,7 +2707,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://blogs.nvidia.com/blog/ai-superpod-vinai/"
+      "volumeSource": "https://blogs.nvidia.com/blog/ai-superpod-vinai/",
+      "industry": "金融"
     },
     {
       "rank": 62,
@@ -2731,7 +2792,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.singtel.com/about-us/investor-relations/financial-summary"
+      "volumeSource": "https://www.singtel.com/about-us/investor-relations/financial-summary",
+      "industry": "電信"
     },
     {
       "rank": 63,
@@ -2790,7 +2852,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://capacityglobal.com/news/vnpt-opens-vietnams-largest-data-centre/"
+      "volumeSource": "https://capacityglobal.com/news/vnpt-opens-vietnams-largest-data-centre/",
+      "industry": "電信"
     },
     {
       "rank": 64,
@@ -2884,7 +2947,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://investors.larsentoubro.com/upload/AnnualRep/FY2024AnnualRepLnT%20IAR24.pdf"
+      "volumeSource": "https://investors.larsentoubro.com/upload/AnnualRep/FY2024AnnualRepLnT%20IAR24.pdf",
+      "industry": "科技"
     },
     {
       "rank": 65,
@@ -2913,7 +2977,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.gotocompany.com/en/news/press/goto-group-tencent-cloud-and-alibaba-cloud-sign-agreement-to-boost-cloud-infrastructure-and-nurture-local-digital-talent-in-indonesia"
+      "volumeSource": "https://www.gotocompany.com/en/news/press/goto-group-tencent-cloud-and-alibaba-cloud-sign-agreement-to-boost-cloud-infrastructure-and-nurture-local-digital-talent-in-indonesia",
+      "industry": "科技/交通"
     },
     {
       "rank": 66,
@@ -2931,8 +2996,8 @@
       "entryPoint": "Cyxtera 亞太業務正在擴張。可從通用伺服器切入，提供在地支援優勢。",
       "keyPerson": {
         "name": "待查詢",
-        "title": "",
-        "linkedin": "",
+        "title": "VP, Data Center Operations APAC",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Cyxtera%20Technologies%20(亞太業務)",
         "source": ""
       },
       "siDist": [
@@ -2942,7 +3007,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.datacenterdynamics.com/en/news/brookfields-centersquare-acquires-10-data-centers-in-north-america-in-1bn-deal/"
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/brookfields-centersquare-acquires-10-data-centers-in-north-america-in-1bn-deal/",
+      "industry": "科技"
     },
     {
       "rank": 67,
@@ -2961,7 +3027,7 @@
       "keyPerson": {
         "name": "辻 裕里 (Yuri Tsuji)",
         "title": "執行役員 CIO IT戦略本部長 (Executive Officer, CIO, Head of IT Strategy Division)",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=辻%20裕里%20(Yuri%20Tsuji)%20Subaru%20Corporation",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -2981,7 +3047,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.subaru.co.jp/en/ir/finance/performance.html"
+      "volumeSource": "https://www.subaru.co.jp/en/ir/finance/performance.html",
+      "industry": "科技"
     },
     {
       "rank": 68,
@@ -3000,7 +3067,7 @@
       "keyPerson": {
         "name": "Junko Fujita",
         "title": "Chief Information Officer (CIO) and Chief Information Security Officer (CISO)",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Junko%20Fujita%20Bandai%20Namco%20Holdings",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -3015,7 +3082,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.bandainamco.co.jp/en/ir/library/integratedreports.html"
+      "volumeSource": "https://www.bandainamco.co.jp/en/ir/library/integratedreports.html",
+      "industry": "金融"
     },
     {
       "rank": 69,
@@ -3074,7 +3142,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://corporate.murata.com/ir/library/results"
+      "volumeSource": "https://corporate.murata.com/ir/library/results",
+      "industry": "金融"
     },
     {
       "rank": 70,
@@ -3092,8 +3161,8 @@
       "entryPoint": "DL E&C 正在推動智慧建築。可從 BIM/工程模擬伺服器切入。",
       "keyPerson": {
         "name": "待查詢",
-        "title": "",
-        "linkedin": "",
+        "title": "Director, IT Systems",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Daewoo%20E&C%20(現%20DL%20E&C)",
         "source": ""
       },
       "siDist": [
@@ -3103,7 +3172,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSdaewoo-e&c"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSdaewoo-e&c",
+      "industry": "科技"
     },
     {
       "rank": 71,
@@ -3132,7 +3202,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://vahan.parivahan.gov.in/vahan4dashboard/"
+      "volumeSource": "https://vahan.parivahan.gov.in/vahan4dashboard/",
+      "industry": "科技"
     },
     {
       "rank": 72,
@@ -3161,7 +3232,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.group.dentsu.com/en/sustainability/common/pdf/integrated-report2025.pdf"
+      "volumeSource": "https://www.group.dentsu.com/en/sustainability/common/pdf/integrated-report2025.pdf",
+      "industry": "科技"
     },
     {
       "rank": 73,
@@ -3265,7 +3337,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://m.economictimes.com/tech/startups/fintech-razorpay-eyes-global-brands-for-high-margin-biz-in-run-up-to-ipo/articleshow/129514073.cms"
+      "volumeSource": "https://m.economictimes.com/tech/startups/fintech-razorpay-eyes-global-brands-for-high-margin-biz-in-run-up-to-ipo/articleshow/129514073.cms",
+      "industry": "科技"
     },
     {
       "rank": 74,
@@ -3299,7 +3372,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.datacenterdynamics.com/en/news/koreas-kakao-bank-plans-fifth-data-center/"
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/koreas-kakao-bank-plans-fifth-data-center/",
+      "industry": "科技/社群"
     },
     {
       "rank": 75,
@@ -3328,7 +3402,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://toss.im/career/article/server-platform-developer?srsltid=AfmBOoomFH4AheTk4P20ePY1xhUW4bIhMrNtMqvjsUlPeeZ1EtQOA4ss"
+      "volumeSource": "https://toss.im/career/article/server-platform-developer?srsltid=AfmBOoomFH4AheTk4P20ePY1xhUW4bIhMrNtMqvjsUlPeeZ1EtQOA4ss",
+      "industry": "科技"
     },
     {
       "rank": 76,
@@ -3362,7 +3437,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.datacenterdynamics.com/en/broadcasts/jakarta/2019/the-story-behind-bukalapaks-data-center-and-network/"
+      "volumeSource": "https://www.datacenterdynamics.com/en/broadcasts/jakarta/2019/the-story-behind-bukalapaks-data-center-and-network/",
+      "industry": "科技"
     },
     {
       "rank": 77,
@@ -3391,7 +3467,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://projects.preferred.jp/supercomputers/en/"
+      "volumeSource": "https://projects.preferred.jp/supercomputers/en/",
+      "industry": "科技"
     },
     {
       "rank": 78,
@@ -3410,7 +3487,7 @@
       "keyPerson": {
         "name": "野水 康之",
         "title": "上席執行役員CTO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=野水%20康之%20Ricoh%20Company",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -3515,7 +3592,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.ricoh.com/IR/library/financial-results"
+      "volumeSource": "https://www.ricoh.com/IR/library/financial-results",
+      "industry": "科技"
     },
     {
       "rank": 79,
@@ -3533,8 +3611,8 @@
       "entryPoint": "Paytm 仍需維護龐大的支付基礎設施。可從通用伺服器更新換代切入。",
       "keyPerson": {
         "name": "待查詢",
-        "title": "",
-        "linkedin": "",
+        "title": "VP, Engineering & Infrastructure",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Paytm%20(One97%20Communications)",
         "source": ""
       },
       "siDist": [
@@ -3544,7 +3622,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSpaytm"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSpaytm",
+      "industry": "電信"
     },
     {
       "rank": 80,
@@ -3562,8 +3641,8 @@
       "entryPoint": "NHN Cloud 正在擴展雲端服務。可從通用伺服器和 GPU 伺服器切入。",
       "keyPerson": {
         "name": "待查詢",
-        "title": "",
-        "linkedin": "",
+        "title": "Director, Cloud Infrastructure",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20NHN%20Corporation",
         "source": ""
       },
       "siDist": [
@@ -3598,7 +3677,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://englishdart.fss.or.kr/dsbh001/main.do?rcpNo=20250213801505"
+      "volumeSource": "https://englishdart.fss.or.kr/dsbh001/main.do?rcpNo=20250213801505",
+      "industry": "科技"
     },
     {
       "rank": 81,
@@ -3627,7 +3707,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.business-standard.com/companies/start-ups/vedanta-invenia-growth-data-centre-system-integration-125090401369_1.html"
+      "volumeSource": "https://www.business-standard.com/companies/start-ups/vedanta-invenia-growth-data-centre-system-integration-125090401369_1.html",
+      "industry": "科技"
     },
     {
       "rank": 82,
@@ -3646,7 +3727,7 @@
       "keyPerson": {
         "name": "Tomohiro Mizuguchi",
         "title": "Executive Officer, In charge of IT Development, General affairs, General Manager of General Affairs Department",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tomohiro%20Mizuguchi%20Daikin%20Industries",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -3666,7 +3747,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.daikin.com/investor/library/annual"
+      "volumeSource": "https://www.daikin.com/investor/library/annual",
+      "industry": "科技"
     },
     {
       "rank": 83,
@@ -3725,7 +3807,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://eproc.astra.co.id/"
+      "volumeSource": "https://eproc.astra.co.id/",
+      "industry": "科技"
     },
     {
       "rank": 84,
@@ -3774,7 +3857,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://cv.tatamotors.com/volumes"
+      "volumeSource": "https://cv.tatamotors.com/volumes",
+      "industry": "科技/IT服務"
     },
     {
       "rank": 85,
@@ -3793,7 +3877,7 @@
       "keyPerson": {
         "name": "Yoichi Iwabuchi",
         "title": "Managing Executive Officer, Head of Information & Communication Systems Headquarters",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Yoichi%20Iwabuchi%20Canon%20Inc.",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -3813,7 +3897,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://global.canon/en/ir/library/annual.html"
+      "volumeSource": "https://global.canon/en/ir/library/annual.html",
+      "industry": "科技"
     },
     {
       "rank": 86,
@@ -3847,7 +3932,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://investor.meesho.com/investor-web/_next/docs/annual_report_2023_2024.pdf"
+      "volumeSource": "https://investor.meesho.com/investor-web/_next/docs/annual_report_2023_2024.pdf",
+      "industry": "科技"
     },
     {
       "rank": 87,
@@ -3876,7 +3962,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://aws.amazon.com/blogs/opensource/how-zomato-boosted-performance-25-and-cut-compute-cost-30-migrating-trino-and-druid-workloads-to-aws-graviton/"
+      "volumeSource": "https://aws.amazon.com/blogs/opensource/how-zomato-boosted-performance-25-and-cut-compute-cost-30-migrating-trino-and-druid-workloads-to-aws-graviton/",
+      "industry": "科技"
     },
     {
       "rank": 88,
@@ -3894,8 +3981,8 @@
       "entryPoint": "DeNA 正在擴展 AI 業務。可從 GPU 伺服器切入。",
       "keyPerson": {
         "name": "待查詢",
-        "title": "",
-        "linkedin": "",
+        "title": "VP, Infrastructure Engineering",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20DeNA%20Co.,%20Ltd.",
         "source": ""
       },
       "siDist": [
@@ -3905,7 +3992,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSdena-co,-ltd"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSdena-co,-ltd",
+      "industry": "科技"
     },
     {
       "rank": 89,
@@ -3984,7 +4072,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://community.atlassian.com/t5/Jira-questions/How-many-servers-And-what-exactly-does-Atlassian-have/qaq-p/2455072"
+      "volumeSource": "https://community.atlassian.com/t5/Jira-questions/How-many-servers-And-what-exactly-does-Atlassian-have/qaq-p/2455072",
+      "industry": "科技"
     },
     {
       "rank": 90,
@@ -4028,7 +4117,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://aws.amazon.com/solutions/case-studies/innovators/canva/"
+      "volumeSource": "https://aws.amazon.com/solutions/case-studies/innovators/canva/",
+      "industry": "科技"
     },
     {
       "rank": 91,
@@ -4047,7 +4137,7 @@
       "keyPerson": {
         "name": "Akira Nonaka",
         "title": "Managing Officer, Executive General Manager, Global IT",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Akira%20Nonaka%20Suzuki%20Motor%20Corporation",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -4062,7 +4152,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.globalsuzuki.com/ir/library/financialresults/pdf/2024/financial_presentation_s.pdf"
+      "volumeSource": "https://www.globalsuzuki.com/ir/library/financialresults/pdf/2024/financial_presentation_s.pdf",
+      "industry": "汽車/製造"
     },
     {
       "rank": 92,
@@ -4101,7 +4192,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.globaldata.com/store/report/bhp-enterprise-tech-analysis/"
+      "volumeSource": "https://www.globaldata.com/store/report/bhp-enterprise-tech-analysis/",
+      "industry": "科技"
     },
     {
       "rank": 93,
@@ -4130,7 +4222,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.woolworthsgroup.com.au/content/dam/wwg/sustainability/reports/f25/Woolworths%20Group%20Annual%20Report%202025%20.pdf"
+      "volumeSource": "https://www.woolworthsgroup.com.au/content/dam/wwg/sustainability/reports/f25/Woolworths%20Group%20Annual%20Report%202025%20.pdf",
+      "industry": "科技"
     },
     {
       "rank": 94,
@@ -4159,7 +4252,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSstability-ai"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSstability-ai",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 95,
@@ -4188,7 +4282,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUScelltrion"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUScelltrion",
+      "industry": "科技"
     },
     {
       "rank": 96,
@@ -4207,7 +4302,7 @@
       "keyPerson": {
         "name": "重田 (Shigeta)",
         "title": "統轄部長, IT戦略統轄部 (General Manager, IT Strategy Division)",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=重田%20(Shigeta)%20Sharp%20Corporation",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -4222,7 +4317,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://global.sharp/corporate/news/240603-b.html"
+      "volumeSource": "https://global.sharp/corporate/news/240603-b.html",
+      "industry": "科技"
     },
     {
       "rank": 97,
@@ -4251,7 +4347,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.statista.com/topics/11517/byju-s/"
+      "volumeSource": "https://www.statista.com/topics/11517/byju-s/",
+      "industry": "科技"
     },
     {
       "rank": 98,
@@ -4270,7 +4367,7 @@
       "keyPerson": {
         "name": "Akira MASUNAGA",
         "title": "Vice President and Officer Digital IT Infrastructure Concurrently Director, Digital IT Infrastructure Division, Digital Solution Planning Division",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Akira%20MASUNAGA%20Bridgestone%20Corporation",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -4280,7 +4377,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.bridgestone.com/ir/library/integrated_report/"
+      "volumeSource": "https://www.bridgestone.com/ir/library/integrated_report/",
+      "industry": "科技"
     },
     {
       "company": "Panasonic Holdings",
@@ -4319,7 +4417,8 @@
         }
       ],
       "volumeSource": "https://holdings.panasonic/global/corporate/investors/pdf/annual/2024/pana_ar2024e_a4.pdf",
-      "rank": 99
+      "rank": 99,
+      "industry": "科技/製造"
     },
     {
       "company": "Kotak Mahindra Bank",
@@ -4353,7 +4452,8 @@
         }
       ],
       "volumeSource": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/Annual-Reports/FY-2025/kotak-mahindra-bank/Kotak-Mahindra-Bank-Limited-FY25.pdf",
-      "rank": 100
+      "rank": 100,
+      "industry": "金融"
     }
   ],
   "totalCompanies": 100

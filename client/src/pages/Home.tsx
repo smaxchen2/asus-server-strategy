@@ -16,7 +16,70 @@ import {
   Globe,
   User,
   Link as LinkIcon,
+  Download,
+  Tag,
 } from "lucide-react";
+
+/* ─── CSV Export ─── */
+function exportToCSV(companies: Company[], regionLabel: string) {
+  const BOM = "\uFEFF";
+  const headers = [
+    "排名", "企業名稱", "產業分類", "區域", "年採購量", "伺服器平台架構", "伺服器應用",
+    "目前供應商", "ODM/OEM", "ASUS 對應型號", "通路", "難易度 (1-10)",
+    "困難點及如何克服", "切入點及如何執行",
+    "Key Person 姓名", "Key Person 職稱", "Key Person LinkedIn",
+    "SI/DIST 通路明細", "採購量數據來源"
+  ];
+
+  const escapeCSV = (val: string) => {
+    if (!val) return "";
+    const s = String(val);
+    if (s.includes(",") || s.includes('"') || s.includes("\n")) {
+      return '"' + s.replace(/"/g, '""') + '"';
+    }
+    return s;
+  };
+
+  const rows = companies.map((c) => {
+    const siDistStr = (c.siDist || []).map(s => `[${s.type}] ${s.name}${s.website ? " (" + s.website + ")" : ""}`).join("; ");
+    return [
+      String(c.rank),
+      c.company || "",
+      c.industry || "",
+      c.region || "",
+      c.volume || "",
+      c.platform || "",
+      c.application || "",
+      c.currentSuppliers || "",
+      c.odmOem || "",
+      c.asusModel || "",
+      c.channel || "",
+      String(c.difficulty),
+      c.challenges || "",
+      c.entryPoint || "",
+      c.keyPerson?.name || "",
+      c.keyPerson?.title || "",
+      c.keyPerson?.linkedin || "",
+      siDistStr,
+      c.volumeSource || ""
+    ].map(v => escapeCSV(v));
+  });
+
+  const csvContent = BOM + [headers.join(","), ...rows.map(r => r.join(","))].join("\r\n");
+  const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  const timestamp = new Date().toISOString().slice(0, 10);
+  a.download = `ASUS_Server_Strategy_${regionLabel}_${timestamp}.csv`;
+  a.style.display = "none";
+  document.body.appendChild(a);
+  a.click();
+  setTimeout(() => {
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }, 100);
+}
 
 type SortField = "rank" | "difficulty" | "company";
 type SortDir = "asc" | "desc";
@@ -28,6 +91,24 @@ const regionLabels: Record<RegionKey, { label: string; short: string; flag: stri
   emea: { label: "歐洲中東非洲", short: "EMEA", flag: "🇪🇺" },
   china: { label: "中國大陸", short: "China", flag: "🇨🇳" },
 };
+
+/* ─── Industry categories ─── */
+const INDUSTRY_CATEGORIES = [
+  { label: "全部", value: "all" },
+  { label: "NeoCloud/AI", value: "NeoCloud/AI" },
+  { label: "科技", value: "科技" },
+  { label: "金融", value: "金融" },
+  { label: "醫療", value: "醫療" },
+  { label: "國防", value: "國防" },
+  { label: "電信", value: "電信" },
+  { label: "能源", value: "能源" },
+  { label: "汽車/製造", value: "汽車" },
+  { label: "零售", value: "零售" },
+  { label: "媒體", value: "媒體" },
+  { label: "物流", value: "物流" },
+  { label: "工業", value: "工業" },
+  { label: "其他", value: "其他" },
+];
 
 /* ─── Difficulty helpers ─── */
 function getDifficultyColor(score: number) {
@@ -48,7 +129,7 @@ function DifficultyBar({ score }: { score: number }) {
   );
 }
 
-/* ─── Expanded Row with new fields ─── */
+/* ─── Expanded Row with all fields ─── */
 function ExpandedRow({ company, regionKey }: { company: Company; regionKey: string }) {
   const basePath = regionKey === "na" ? "" : `/region/${regionKey}`;
   const kp = company.keyPerson;
@@ -57,11 +138,19 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
 
   return (
     <tr>
-      <td colSpan={7} className="p-0">
+      <td colSpan={8} className="p-0">
         <div className="bg-muted/30 border-t border-b border-border">
           <div className="grid grid-cols-1 lg:grid-cols-4 gap-px bg-border">
             {/* Column 1: Basic Info */}
             <div className="bg-white p-5 space-y-3">
+              {company.industry && (
+                <div>
+                  <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">產業分類</div>
+                  <span className="inline-flex items-center gap-1 text-xs px-2 py-0.5 bg-indigo-50 text-indigo-700 font-medium">
+                    <Tag className="w-3 h-3" />{company.industry}
+                  </span>
+                </div>
+              )}
               <InfoBlock label="伺服器機型及平台架構" value={company.platform} />
               <InfoBlock label="伺服器應用" value={company.application} />
               <InfoBlock label="目前供應商" value={company.currentSuppliers} />
@@ -229,9 +318,22 @@ export default function Home() {
   const [search, setSearch] = useState("");
   const [diffFilter, setDiffFilter] = useState("all");
   const [channelFilter, setChannelFilter] = useState("all");
+  const [industryFilter, setIndustryFilter] = useState("all");
   const [sortField, setSortField] = useState<SortField>("rank");
   const [sortDir, setSortDir] = useState<SortDir>("asc");
   const [expandedRow, setExpandedRow] = useState<number | null>(null);
+
+  /* Compute available industries for current region */
+  const availableIndustries = useMemo(() => {
+    const set = new Set<string>();
+    companies.forEach(c => { if (c.industry) set.add(c.industry); });
+    return Array.from(set).sort();
+  }, [companies]);
+
+  /* Count NeoCloud companies */
+  const neocloudCount = useMemo(() => {
+    return companies.filter(c => (c.industry || "").includes("NeoCloud")).length;
+  }, [companies]);
 
   const filtered = useMemo(() => {
     let result = [...companies];
@@ -248,6 +350,7 @@ export default function Home() {
           c.platform.toLowerCase().includes(q) ||
           c.challenges.toLowerCase().includes(q) ||
           c.entryPoint.toLowerCase().includes(q) ||
+          (c.industry || "").toLowerCase().includes(q) ||
           (c.keyPerson?.name || "").toLowerCase().includes(q) ||
           (c.siDist || []).some((s) => s.name.toLowerCase().includes(q))
       );
@@ -261,6 +364,18 @@ export default function Home() {
     else if (channelFilter === "si_dist") result = result.filter((c) => c.channel.includes("SI") || c.channel.includes("DIST"));
     else if (channelFilter === "mixed") result = result.filter((c) => c.channel.includes("直供") && (c.channel.includes("SI") || c.channel.includes("DIST")));
 
+    if (industryFilter !== "all") {
+      if (industryFilter === "其他") {
+        const mainCategories = INDUSTRY_CATEGORIES.filter(c => c.value !== "all" && c.value !== "其他").map(c => c.value);
+        result = result.filter(c => {
+          const ind = c.industry || "";
+          return !mainCategories.some(cat => ind.includes(cat));
+        });
+      } else {
+        result = result.filter(c => (c.industry || "").includes(industryFilter));
+      }
+    }
+
     result.sort((a, b) => {
       let cmp = 0;
       if (sortField === "rank") cmp = a.rank - b.rank;
@@ -270,7 +385,7 @@ export default function Home() {
     });
 
     return result;
-  }, [companies, search, diffFilter, channelFilter, sortField, sortDir]);
+  }, [companies, search, diffFilter, channelFilter, industryFilter, sortField, sortDir]);
 
   const toggleSort = (field: SortField) => {
     if (sortField === field) {
@@ -285,6 +400,7 @@ export default function Home() {
     setSearch("");
     setDiffFilter("all");
     setChannelFilter("all");
+    setIndustryFilter("all");
     setSortField("rank");
     setSortDir("asc");
     setExpandedRow(null);
@@ -301,7 +417,7 @@ export default function Home() {
   const mediumCount = companies.filter((c) => c.difficulty >= 5 && c.difficulty <= 7).length;
   const hardCount = companies.filter((c) => c.difficulty >= 8).length;
 
-  const hasActiveFilters = search || diffFilter !== "all" || channelFilter !== "all";
+  const hasActiveFilters = search || diffFilter !== "all" || channelFilter !== "all" || industryFilter !== "all";
 
   const rl = regionLabels[currentRegionKey];
 
@@ -387,7 +503,7 @@ export default function Home() {
             <div className="grid grid-cols-2 gap-4 lg:gap-6">
               <DarkKPI icon={Building2} value={String(companies.length)} label="企業" sub={`${rl.label} Top ${companies.length}`} />
               <DarkKPI icon={TrendingUp} value={regionConfig.totalVolume} label="台/年" sub="年度總採購量" />
-              <DarkKPI icon={Zap} value={String(easyCount)} label="較易切入" sub="1-4 分" accent="emerald" />
+              <DarkKPI icon={Zap} value={String(neocloudCount)} label="NeoCloud" sub="AI 雲端企業" accent="amber" />
               <DarkKPI icon={Target} value={String(hardCount)} label="高難度" sub="8-10 分" accent="red" />
             </div>
           </div>
@@ -421,7 +537,7 @@ export default function Home() {
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted-foreground" />
             <input
               type="text"
-              placeholder="搜尋企業名稱、區域、應用、供應商、ASUS 型號、SI/DIST、Key Person..."
+              placeholder="搜尋企業名稱、產業、區域、應用、供應商、ASUS 型號、SI/DIST、Key Person..."
               value={search}
               onChange={(e) => setSearch(e.target.value)}
               className="w-full pl-10 pr-10 py-2.5 text-sm border border-border bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all"
@@ -437,26 +553,72 @@ export default function Home() {
             <FilterGroup label="難易度" options={difficultyFilters} value={diffFilter} onChange={setDiffFilter} />
             <div className="w-px h-5 bg-border hidden sm:block" />
             <FilterGroup label="通路" options={channelFilters} value={channelFilter} onChange={setChannelFilter} />
+          </div>
+
+          {/* Industry Filter */}
+          <div className="flex flex-wrap items-center gap-2">
+            <span className="text-xs font-medium text-muted-foreground flex items-center gap-1">
+              <Tag className="w-3 h-3" /> 產業:
+            </span>
+            <div className="flex flex-wrap gap-1">
+              {INDUSTRY_CATEGORIES.map((cat) => {
+                const count = cat.value === "all"
+                  ? companies.length
+                  : cat.value === "其他"
+                    ? companies.filter(c => {
+                        const ind = c.industry || "";
+                        const mainCats = INDUSTRY_CATEGORIES.filter(x => x.value !== "all" && x.value !== "其他").map(x => x.value);
+                        return !mainCats.some(mc => ind.includes(mc));
+                      }).length
+                    : companies.filter(c => (c.industry || "").includes(cat.value)).length;
+                if (count === 0 && cat.value !== "all") return null;
+                return (
+                  <button
+                    key={cat.value}
+                    onClick={() => setIndustryFilter(cat.value)}
+                    className={`px-2 py-1 text-[11px] font-medium transition-all ${
+                      industryFilter === cat.value
+                        ? "bg-indigo-600 text-white"
+                        : "bg-muted text-muted-foreground hover:text-foreground"
+                    }`}
+                  >
+                    {cat.label}
+                    <span className="ml-1 opacity-60">{count}</span>
+                  </button>
+                );
+              })}
+            </div>
             {hasActiveFilters && (
-              <>
-                <div className="w-px h-5 bg-border" />
-                <button
-                  onClick={() => { setSearch(""); setDiffFilter("all"); setChannelFilter("all"); }}
-                  className="text-xs text-muted-foreground hover:text-foreground transition-colors"
-                >
-                  清除篩選
-                </button>
-              </>
+              <button
+                onClick={() => { setSearch(""); setDiffFilter("all"); setChannelFilter("all"); setIndustryFilter("all"); }}
+                className="text-xs text-muted-foreground hover:text-foreground transition-colors ml-2"
+              >
+                清除全部篩選
+              </button>
             )}
           </div>
         </div>
 
-        {/* Results Count */}
+        {/* Results Count + Export */}
         <div className="flex items-center justify-between mb-3">
           <span className="text-xs text-muted-foreground">
             顯示 <strong className="text-foreground">{filtered.length}</strong> / {companies.length} 家企業
+            {industryFilter !== "all" && (
+              <span className="ml-2 px-1.5 py-0.5 bg-indigo-50 text-indigo-700 text-[10px] font-medium">
+                {industryFilter}
+              </span>
+            )}
           </span>
-          <span className="text-[10px] text-muted-foreground">點擊列展開詳細資訊</span>
+          <div className="flex items-center gap-3">
+            <button
+              onClick={() => exportToCSV(filtered, `${rl.short}_${filtered.length}companies`)}
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium bg-primary text-primary-foreground hover:bg-primary/90 transition-colors"
+            >
+              <Download className="w-3.5 h-3.5" />
+              匯出 CSV ({filtered.length})
+            </button>
+            <span className="text-[10px] text-muted-foreground hidden sm:inline">點擊列展開詳細資訊</span>
+          </div>
         </div>
 
         {/* Data Table */}
@@ -466,7 +628,7 @@ export default function Home() {
               <tr className="border-b border-border bg-muted/50">
                 <SortableHeader label="#" field="rank" current={sortField} dir={sortDir} onClick={toggleSort} width="w-12" />
                 <SortableHeader label="企業名稱" field="company" current={sortField} dir={sortDir} onClick={toggleSort} width="min-w-[200px]" />
-                <th className="text-left text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground px-3 py-3">區域</th>
+                <th className="text-left text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground px-3 py-3">產業</th>
                 <th className="text-left text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground px-3 py-3 min-w-[140px]">年採購量</th>
                 <th className="text-left text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground px-3 py-3">通路</th>
                 <SortableHeader label="難易度" field="difficulty" current={sortField} dir={sortDir} onClick={toggleSort} width="w-28" />
@@ -484,9 +646,29 @@ export default function Home() {
                     <td className="px-3 py-3">
                       <span className="font-semibold text-foreground text-sm">{company.company}</span>
                     </td>
-                    <td className="px-3 py-3 text-xs text-muted-foreground">{company.region}</td>
+                    <td className="px-3 py-3">
+                      {company.industry && (
+                        <span className={`text-[10px] px-1.5 py-0.5 font-medium whitespace-nowrap ${
+                          (company.industry || "").includes("NeoCloud")
+                            ? "bg-amber-100 text-amber-800"
+                            : (company.industry || "").includes("金融")
+                              ? "bg-blue-50 text-blue-700"
+                              : (company.industry || "").includes("醫療")
+                                ? "bg-green-50 text-green-700"
+                                : (company.industry || "").includes("國防")
+                                  ? "bg-slate-100 text-slate-700"
+                                  : (company.industry || "").includes("能源")
+                                    ? "bg-yellow-50 text-yellow-700"
+                                    : (company.industry || "").includes("電信")
+                                      ? "bg-cyan-50 text-cyan-700"
+                                      : "bg-indigo-50 text-indigo-700"
+                        }`}>
+                          {company.industry}
+                        </span>
+                      )}
+                    </td>
                     <td className="px-3 py-3 text-xs text-muted-foreground">{truncate(company.volume, 40)}</td>
-                    <td className="px-3 py-3 text-xs text-muted-foreground">{company.channel}</td>
+                    <td className="px-3 py-3 text-xs text-muted-foreground">{truncate(company.channel, 20)}</td>
                     <td className="px-3 py-3"><DifficultyBar score={company.difficulty} /></td>
                     <td className="px-3 py-3">
                       {expandedRow === company.rank ? (

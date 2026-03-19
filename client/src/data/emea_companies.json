@@ -75,7 +75,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://baxtel.com/data-center/t-systems-biere"
+      "volumeSource": "https://baxtel.com/data-center/t-systems-biere",
+      "industry": "電信"
     },
     {
       "rank": 2,
@@ -124,7 +125,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://procureconnect.vodafone.com/our-solutions/managed-procurement-services"
+      "volumeSource": "https://procureconnect.vodafone.com/our-solutions/managed-procurement-services",
+      "industry": "電信"
     },
     {
       "rank": 3,
@@ -198,7 +200,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.sap.com/investors/en/financial-documents-and-events.html"
+      "volumeSource": "https://www.sap.com/investors/en/financial-documents-and-events.html",
+      "industry": "科技/企業軟體"
     },
     {
       "rank": 4,
@@ -252,7 +255,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.orange.com/en/finance/financial-and-extra-financial-information"
+      "volumeSource": "https://www.orange.com/en/finance/financial-and-extra-financial-information",
+      "industry": "電信"
     },
     {
       "rank": 5,
@@ -281,7 +285,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.bt.com/bt-plc/assets/documents/investors/financial-reporting-and-news/annual-reports/2025/2025-bt-group-plc-annual-report.pdf"
+      "volumeSource": "https://www.bt.com/bt-plc/assets/documents/investors/financial-reporting-and-news/annual-reports/2025/2025-bt-group-plc-annual-report.pdf",
+      "industry": "電信"
     },
     {
       "rank": 6,
@@ -320,7 +325,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.telefonica.com/en/communication-room/press-room/telefonica-invests-e77-billion-infrastructure-deployment-10-years-sdgs/"
+      "volumeSource": "https://www.telefonica.com/en/communication-room/press-room/telefonica-invests-e77-billion-infrastructure-deployment-10-years-sdgs/",
+      "industry": "科技"
     },
     {
       "rank": 7,
@@ -349,7 +355,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://en.wikipedia.org/wiki/Hetzner"
+      "volumeSource": "https://en.wikipedia.org/wiki/Hetzner",
+      "industry": "科技/社群"
     },
     {
       "rank": 8,
@@ -398,7 +405,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.hsbc.com/investors/results-and-announcements/annual-report"
+      "volumeSource": "https://www.hsbc.com/investors/results-and-announcements/annual-report",
+      "industry": "金融"
     },
     {
       "company": "Nebius Group",
@@ -432,7 +440,8 @@
         }
       ],
       "volumeSource": "https://nebius.com/blog/posts/nebius-announces-plans-for-new-ai-data-center-in-kansas-city",
-      "rank": 9
+      "rank": 9,
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 10,
@@ -486,7 +495,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://assets.new.siemens.com/siemens/assets/api/uuid:344347ec-a1bd-44cb-aaaa-711d1b3ec1b8/Siemens-Annual-Report-2024.pdf"
+      "volumeSource": "https://assets.new.siemens.com/siemens/assets/api/uuid:344347ec-a1bd-44cb-aaaa-711d1b3ec1b8/Siemens-Annual-Report-2024.pdf",
+      "industry": "工業/製造"
     },
     {
       "rank": 11,
@@ -595,7 +605,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://corporate.ovhcloud.com/en/newsroom/news/financial-results-fy25/"
+      "volumeSource": "https://corporate.ovhcloud.com/en/newsroom/news/financial-results-fy25/",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 12,
@@ -644,7 +655,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSericsson"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSericsson",
+      "industry": "科技/電信"
     },
     {
       "rank": 13,
@@ -683,7 +695,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://baxtel.com/data-center/barclays-data-centre"
+      "volumeSource": "https://baxtel.com/data-center/barclays-data-centre",
+      "industry": "金融"
     },
     {
       "rank": 14,
@@ -722,7 +735,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.aramco.com/-/media/publications/corporate-reports/annual-reports/saudi-aramco-ara-2023-english.pdf"
+      "volumeSource": "https://www.aramco.com/-/media/publications/corporate-reports/annual-reports/saudi-aramco-ara-2023-english.pdf",
+      "industry": "科技"
     },
     {
       "rank": 15,
@@ -751,7 +765,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.northerndata.de/newsroom"
+      "volumeSource": "https://www.northerndata.de/newsroom",
+      "industry": "NeoCloud/AI"
     },
     {
       "rank": 16,
@@ -780,7 +795,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://w3techs.com/technologies/details/dc-groupiliad"
+      "volumeSource": "https://w3techs.com/technologies/details/dc-groupiliad",
+      "industry": "科技"
     },
     {
       "rank": 17,
@@ -819,7 +835,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.swisscom.ch/en/about/investors/reports.html"
+      "volumeSource": "https://www.swisscom.ch/en/about/investors/reports.html",
+      "industry": "電信"
     },
     {
       "rank": 18,
@@ -853,7 +870,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.nokia.com/newsroom/nokia-corporation-financial-report-for-q4-2025-and-full-year-2025/"
+      "volumeSource": "https://www.nokia.com/newsroom/nokia-corporation-financial-report-for-q4-2025-and-full-year-2025/",
+      "industry": "科技/電信"
     },
     {
       "rank": 19,
@@ -902,7 +920,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.bosch.com/company/supply-chain/purchasing/"
+      "volumeSource": "https://www.bosch.com/company/supply-chain/purchasing/",
+      "industry": "工業/製造"
     },
     {
       "rank": 20,
@@ -951,7 +970,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2024/eand-integrated-annual-report-en.pdf"
+      "volumeSource": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2024/eand-integrated-annual-report-en.pdf",
+      "industry": "科技"
     },
     {
       "rank": 21,
@@ -980,7 +1000,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.stc.com.sa/content/dam/groupsites/en/pdf/stc2023-annual-report-en-v7.pdf"
+      "volumeSource": "https://www.stc.com.sa/content/dam/groupsites/en/pdf/stc2023-annual-report-en-v7.pdf",
+      "industry": "電信"
     },
     {
       "rank": 22,
@@ -1024,7 +1045,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.volkswagen-group.com/en/key-figures-18842"
+      "volumeSource": "https://www.volkswagen-group.com/en/key-figures-18842",
+      "industry": "汽車/製造"
     },
     {
       "rank": 23,
@@ -1053,7 +1075,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://ing.com/binaries/content/assets/documents/annual-reports/2025-ing-groep-nv-annual-report.pdf"
+      "volumeSource": "https://ing.com/binaries/content/assets/documents/annual-reports/2025-ing-groep-nv-annual-report.pdf",
+      "industry": "金融"
     },
     {
       "rank": 24,
@@ -1117,7 +1140,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://help.mistral.ai/en/articles/347390-does-mistral-ai-disclose-its-training-datasets"
+      "volumeSource": "https://help.mistral.ai/en/articles/347390-does-mistral-ai-disclose-its-training-datasets",
+      "industry": "科技"
     },
     {
       "rank": 25,
@@ -1151,7 +1175,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.results.philips.com/"
+      "volumeSource": "https://www.results.philips.com/",
+      "industry": "醫療/科技"
     },
     {
       "rank": 26,
@@ -1170,7 +1195,7 @@
       "keyPerson": {
         "name": "Candice Dillon",
         "title": "Group Chief Technology Officer",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Candice%20Dillon%20Worldline",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -1185,7 +1210,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://investors.worldline.com/content/dam/worldline-shared/documents/universal-registration-document/worldline-urd-2025-en.pdf"
+      "volumeSource": "https://investors.worldline.com/content/dam/worldline-shared/documents/universal-registration-document/worldline-urd-2025-en.pdf",
+      "industry": "科技/社群"
     },
     {
       "rank": 27,
@@ -1224,7 +1250,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://aws.amazon.com/blogs/big-data/how-bmw-group-built-a-serverless-terabyte-scale-data-transformation-architecture-with-dbt-and-amazon-athena/"
+      "volumeSource": "https://aws.amazon.com/blogs/big-data/how-bmw-group-built-a-serverless-terabyte-scale-data-transformation-architecture-with-dbt-and-amazon-athena/",
+      "industry": "汽車/製造"
     },
     {
       "rank": 28,
@@ -1263,7 +1290,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.teliacompany.com/en/investors/annual-report"
+      "volumeSource": "https://www.teliacompany.com/en/investors/annual-report",
+      "industry": "電信"
     },
     {
       "rank": 29,
@@ -1292,7 +1320,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.mtn.com/wp-content/uploads/2025/04/MTN-Group-FY-24-Integrated-Report_spreads.pdf"
+      "volumeSource": "https://www.mtn.com/wp-content/uploads/2025/04/MTN-Group-FY-24-Integrated-Report_spreads.pdf",
+      "industry": "科技"
     },
     {
       "rank": 30,
@@ -1336,7 +1365,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.mongodb.com/solutions/customer-case-studies/total-energies"
+      "volumeSource": "https://www.mongodb.com/solutions/customer-case-studies/total-energies",
+      "industry": "能源"
     },
     {
       "rank": 31,
@@ -1380,7 +1410,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.globaldata.com/company-profile/royal-dutch-shell-plc/premium-data/ict-spend-tech-priorities/"
+      "volumeSource": "https://www.globaldata.com/company-profile/royal-dutch-shell-plc/premium-data/ict-spend-tech-priorities/",
+      "industry": "能源"
     },
     {
       "rank": 32,
@@ -1419,7 +1450,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.ionos-group.com/fileadmin/Publications/presentations/2023_11_14_IONOS_Corporate_Presentation_NDR_web.pdf"
+      "volumeSource": "https://www.ionos-group.com/fileadmin/Publications/presentations/2023_11_14_IONOS_Corporate_Presentation_NDR_web.pdf",
+      "industry": "科技"
     },
     {
       "company": "Booking Holdings (Booking.com)",
@@ -1438,7 +1470,7 @@
       "keyPerson": {
         "name": "Rob Francis",
         "title": "SVP & Chief Technology Officer",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Rob%20Francis%20Booking%20Holdings%20(Booking.com)",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -1568,7 +1600,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://kubernetes.io/case-studies/booking-com/"
+      "volumeSource": "https://kubernetes.io/case-studies/booking-com/",
+      "industry": "金融"
     },
     {
       "company": "Aramco Digital",
@@ -1612,7 +1645,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.globaldata.com/store/report/saudi-aramco-enterprise-tech-analysis/"
+      "volumeSource": "https://www.globaldata.com/store/report/saudi-aramco-enterprise-tech-analysis/",
+      "industry": "科技"
     },
     {
       "company": "Atos SE",
@@ -1641,7 +1675,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.annualreports.com/HostedData/AnnualReports/PDF/atos_2021.pdf"
+      "volumeSource": "https://www.annualreports.com/HostedData/AnnualReports/PDF/atos_2021.pdf",
+      "industry": "科技/IT服務"
     },
     {
       "company": "BNP Paribas",
@@ -1675,7 +1710,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://invest.bnpparibas/en/"
+      "volumeSource": "https://invest.bnpparibas/en/",
+      "industry": "金融"
     },
     {
       "rank": 37,
@@ -1714,7 +1750,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.telenor.no/binaries/om/group/Annual-Report-2024-English.pdf"
+      "volumeSource": "https://www.telenor.no/binaries/om/group/Annual-Report-2024-English.pdf",
+      "industry": "電信"
     },
     {
       "rank": 38,
@@ -1753,7 +1790,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.datacenterdynamics.com/en/news/nestl%C3%A9-sells-data-center-in-switzerland-to-local-real-estate-firm/"
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/nestl%C3%A9-sells-data-center-in-switzerland-to-local-real-estate-firm/",
+      "industry": "消費品/製造"
     },
     {
       "rank": 39,
@@ -1782,7 +1820,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://finance.yahoo.com/news/roche-boosts-ai-infrastructure-additional-114653156.html"
+      "volumeSource": "https://finance.yahoo.com/news/roche-boosts-ai-infrastructure-additional-114653156.html",
+      "industry": "醫療/製藥"
     },
     {
       "rank": 40,
@@ -1811,7 +1850,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSbp-plc"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSbp-plc",
+      "industry": "能源"
     },
     {
       "rank": 41,
@@ -1850,7 +1890,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.daimlertruck.com/en/newsroom/pressrelease/daimler-truck-unit-sales-2025-422510-units-53323810"
+      "volumeSource": "https://www.daimlertruck.com/en/newsroom/pressrelease/daimler-truck-unit-sales-2025-422510-units-53323810",
+      "industry": "汽車/製造"
     },
     {
       "company": "Amadeus IT Group",
@@ -1904,7 +1945,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSamadeus-it-group"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSamadeus-it-group",
+      "industry": "科技/旅遊"
     },
     {
       "company": "Airbus",
@@ -1933,7 +1975,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.globaldata.com/company-profile/airbus-se/premium-data/ict-spend-tech-priorities/"
+      "volumeSource": "https://www.globaldata.com/company-profile/airbus-se/premium-data/ict-spend-tech-priorities/",
+      "industry": "國防/航太"
     },
     {
       "company": "Stellantis (Fiat/PSA)",
@@ -1967,7 +2010,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.stellantis.com/en/news/press-releases/2021/december/stellantis-targets-20-billion-in-incremental-annual-revenues-by-2030-driven-by-software-enabled-vehicles"
+      "volumeSource": "https://www.stellantis.com/en/news/press-releases/2021/december/stellantis-targets-20-billion-in-incremental-annual-revenues-by-2030-driven-by-software-enabled-vehicles",
+      "industry": "汽車/製造"
     },
     {
       "company": "Capgemini",
@@ -2021,7 +2065,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://investors.capgemini.com/en/annual-reports/"
+      "volumeSource": "https://investors.capgemini.com/en/annual-reports/",
+      "industry": "科技/IT服務"
     },
     {
       "company": "Telecom Italia (TIM)",
@@ -2040,7 +2085,7 @@
       "keyPerson": {
         "name": "Stefano Siragusa",
         "title": "Chief Network, Operations & Wholesale Officer",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Stefano%20Siragusa%20Telecom%20Italia%20(TIM)",
         "source": ""
       },
       "siDist": [
@@ -2050,7 +2095,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.gruppotim.it/en/investors.html"
+      "volumeSource": "https://www.gruppotim.it/en/investors.html",
+      "industry": "電信"
     },
     {
       "company": "Deutsche Bank",
@@ -2084,7 +2130,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://investor-relations.db.com/"
+      "volumeSource": "https://investor-relations.db.com/",
+      "industry": "金融"
     },
     {
       "company": "UBS Group",
@@ -2113,7 +2160,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.ubs.com/global/en/investor-relations.html"
+      "volumeSource": "https://www.ubs.com/global/en/investor-relations.html",
+      "industry": "金融"
     },
     {
       "company": "Lloyds Banking Group",
@@ -2142,7 +2190,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://ing.com/binaries/content/assets/documents/annual-reports/2025-ing-groep-nv-annual-report.pdf"
+      "volumeSource": "https://ing.com/binaries/content/assets/documents/annual-reports/2025-ing-groep-nv-annual-report.pdf",
+      "industry": "金融"
     },
     {
       "rank": 50,
@@ -2171,7 +2220,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://baxtel.com/data-center/novartis"
+      "volumeSource": "https://baxtel.com/data-center/novartis",
+      "industry": "醫療/製藥"
     },
     {
       "company": "Société Générale",
@@ -2190,7 +2240,7 @@
       "keyPerson": {
         "name": "Carlos Gonçalves",
         "title": "Group CIO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Carlos%20Gonçalves%20Société%20Générale",
         "source": ""
       },
       "siDist": [
@@ -2200,7 +2250,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://investors.societegenerale.com/en"
+      "volumeSource": "https://investors.societegenerale.com/en",
+      "industry": "金融"
     },
     {
       "rank": 52,
@@ -2229,7 +2280,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://huggingface.co/datasets/Aleph-Alpha/Aleph-Alpha-GermanWeb"
+      "volumeSource": "https://huggingface.co/datasets/Aleph-Alpha/Aleph-Alpha-GermanWeb",
+      "industry": "科技"
     },
     {
       "rank": 53,
@@ -2248,7 +2300,7 @@
       "keyPerson": {
         "name": "James Maitai",
         "title": "Group Chief Technology and Information Officer",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=James%20Maitai%20Safaricom%20(Vodacom)",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -2258,7 +2310,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.telcotitans.com/vodafonewatch/safaricom-preps-500m-investment-into-african-ai-infra/9303.article"
+      "volumeSource": "https://www.telcotitans.com/vodafonewatch/safaricom-preps-500m-investment-into-african-ai-infra/9303.article",
+      "industry": "科技"
     },
     {
       "rank": 54,
@@ -2337,7 +2390,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.proximus-cdn.com/dam/jcr:2ed29a65-14cf-4b37-829f-e9c65047fe91/proximus-integrated-annual-report-2024-v1.1_en.pdf"
+      "volumeSource": "https://www.proximus-cdn.com/dam/jcr:2ed29a65-14cf-4b37-829f-e9c65047fe91/proximus-integrated-annual-report-2024-v1.1_en.pdf",
+      "industry": "電信"
     },
     {
       "rank": 55,
@@ -2391,7 +2445,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://annualreport2025.kpn/"
+      "volumeSource": "https://annualreport2025.kpn/",
+      "industry": "電信"
     },
     {
       "rank": 56,
@@ -2435,7 +2490,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.unilever.com/investors/annual-report-and-accounts/"
+      "volumeSource": "https://www.unilever.com/investors/annual-report-and-accounts/",
+      "industry": "科技"
     },
     {
       "rank": 57,
@@ -2454,7 +2510,7 @@
       "keyPerson": {
         "name": "Philippe Bontje",
         "title": "Product Manager Infrastructure",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Philippe%20Bontje%20Adyen",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -2619,7 +2675,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.adyen.com/press-and-media/adyen-publishes-h2-2025-financial-results-3pgu2"
+      "volumeSource": "https://www.adyen.com/press-and-media/adyen-publishes-h2-2025-financial-results-3pgu2",
+      "industry": "金融/科技"
     },
     {
       "rank": 58,
@@ -2658,7 +2715,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://corporate.zalando.com/en/investor-relations"
+      "volumeSource": "https://corporate.zalando.com/en/investor-relations",
+      "industry": "科技/電商"
     },
     {
       "rank": 59,
@@ -2702,7 +2760,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.asml.com/en/investors/annual-report/2025/financials"
+      "volumeSource": "https://www.asml.com/en/investors/annual-report/2025/financials",
+      "industry": "科技/半導體"
     },
     {
       "rank": 60,
@@ -2731,7 +2790,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://ffo3gv1cf3ir.merlincdn.net/hakkimizda/en/yatirimciiliskileri/InvestorReportLibrary/Turkcell-EFR-2025-ENG.pdf?20260319_03"
+      "volumeSource": "https://ffo3gv1cf3ir.merlincdn.net/hakkimizda/en/yatirimciiliskileri/InvestorReportLibrary/Turkcell-EFR-2025-ENG.pdf?20260319_03",
+      "industry": "科技"
     },
     {
       "company": "Volvo Group (AB Volvo)",
@@ -2765,7 +2825,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.volvogroup.com/content/dam/volvo-group/markets/master/news/2026/feb/Volvo-Group-Annual-Report-2025.pdf"
+      "volumeSource": "https://www.volvogroup.com/content/dam/volvo-group/markets/master/news/2026/feb/Volvo-Group-Annual-Report-2025.pdf",
+      "industry": "科技"
     },
     {
       "company": "Thales Group",
@@ -2799,7 +2860,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.thalesgroup.com/en/supplier-relations"
+      "volumeSource": "https://www.thalesgroup.com/en/supplier-relations",
+      "industry": "國防/航太"
     },
     {
       "company": "ABB Ltd",
@@ -2828,7 +2890,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A1287"
+      "volumeSource": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A1287",
+      "industry": "科技"
     },
     {
       "company": "Schneider Electric",
@@ -2857,7 +2920,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.reuters.com/business/schneider-beats-profit-expectations-data-center-demand-offsets-weak-dollar-2026-02-26/"
+      "volumeSource": "https://www.reuters.com/business/schneider-beats-profit-expectations-data-center-demand-offsets-weak-dollar-2026-02-26/",
+      "industry": "科技"
     },
     {
       "company": "Infineon Technologies",
@@ -2876,7 +2940,7 @@
       "keyPerson": {
         "name": "Stephen Pullen",
         "title": "Vice President, IT Infrastructure Applications & Security",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Stephen%20Pullen%20Infineon%20Technologies",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -2916,7 +2980,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.infineon.com/assets/row/public/documents/corporate/investors/annual-reports/2025/2025-annual-report-v01-00-en.pdf"
+      "volumeSource": "https://www.infineon.com/assets/row/public/documents/corporate/investors/annual-reports/2025/2025-annual-report-v01-00-en.pdf",
+      "industry": "科技"
     },
     {
       "company": "Eni SpA",
@@ -2945,7 +3010,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.eni.com/en-IT/media/press-release/2025/02/pr-eni-expands-collaboration-with-uae-in-data-center.html"
+      "volumeSource": "https://www.eni.com/en-IT/media/press-release/2025/02/pr-eni-expands-collaboration-with-uae-in-data-center.html",
+      "industry": "科技"
     },
     {
       "company": "Naspers / Prosus",
@@ -2974,7 +3040,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSnaspers-/-prosus"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSnaspers-/-prosus",
+      "industry": "科技"
     },
     {
       "company": "Criteo",
@@ -3043,7 +3110,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.haproxy.com/user-spotlight-series/hyperscaling-self-service-infrastructure-transitioning-from-ticketing-to-load-balancing-as-a-service-at-criteo"
+      "volumeSource": "https://www.haproxy.com/user-spotlight-series/hyperscaling-self-service-infrastructure-transitioning-from-ticketing-to-load-balancing-as-a-service-at-criteo",
+      "industry": "科技/廣告"
     },
     {
       "company": "Leonardo S.p.A.",
@@ -3072,7 +3140,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.leonardo.com/documents/15646808/0/2024+Integrated+Annual+Report.pdf?t=1749748195850"
+      "volumeSource": "https://www.leonardo.com/documents/15646808/0/2024+Integrated+Annual+Report.pdf?t=1749748195850",
+      "industry": "國防/航太"
     },
     {
       "company": "BAE Systems",
@@ -3101,7 +3170,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.intricately.com/reports/bae-systems"
+      "volumeSource": "https://www.intricately.com/reports/bae-systems",
+      "industry": "國防/航太"
     },
     {
       "company": "Sopra Steria",
@@ -3155,7 +3225,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.globaldata.com/company-profile/sopra-steria-group/premium-data/ict-spend-tech-priorities/"
+      "volumeSource": "https://www.globaldata.com/company-profile/sopra-steria-group/premium-data/ict-spend-tech-priorities/",
+      "industry": "科技/IT服務"
     },
     {
       "company": "Continental AG",
@@ -3274,7 +3345,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUScontinental-ag"
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUScontinental-ag",
+      "industry": "科技"
     },
     {
       "company": "Dassault Systèmes",
@@ -3303,7 +3375,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://investor.3ds.com/financial-information/annual-reports"
+      "volumeSource": "https://investor.3ds.com/financial-information/annual-reports",
+      "industry": "科技/工業"
     },
     {
       "company": "NEOM (沙烏地新城)",
@@ -3332,7 +3405,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.neom.com/en-us"
+      "volumeSource": "https://www.neom.com/en-us",
+      "industry": "科技"
     },
     {
       "company": "Ooredoo Group",
@@ -3351,7 +3425,7 @@
       "keyPerson": {
         "name": "Sheikh Mohammed Bin Abdulla Al Thani",
         "title": "Deputy Group CEO",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sheikh%20Mohammed%20Bin%20Abdulla%20Al%20Thani%20Ooredoo%20Group",
         "source": ""
       },
       "siDist": [
@@ -3366,7 +3440,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.ooredoo.com/en/investors/"
+      "volumeSource": "https://www.ooredoo.com/en/investors/",
+      "industry": "科技"
     },
     {
       "company": "Allianz SE",
@@ -3400,7 +3475,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.allianz.com/en/investor_relations/"
+      "volumeSource": "https://www.allianz.com/en/investor_relations/",
+      "industry": "金融"
     },
     {
       "company": "Standard Chartered",
@@ -3429,7 +3505,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.sc.com/en/investors/"
+      "volumeSource": "https://www.sc.com/en/investors/",
+      "industry": "電信"
     },
     {
       "company": "Enel Group",
@@ -3458,7 +3535,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.enel.com/investors"
+      "volumeSource": "https://www.enel.com/investors",
+      "industry": "能源"
     },
     {
       "company": "Equinor (原 Statoil)",
@@ -3477,7 +3555,7 @@
       "keyPerson": {
         "name": "Mette Ottøy",
         "title": "SVP IT & Digital",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mette%20Ottøy%20Equinor%20(原%20Statoil)",
         "source": ""
       },
       "siDist": [
@@ -3487,7 +3565,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.equinor.com/investors"
+      "volumeSource": "https://www.equinor.com/investors",
+      "industry": "能源"
     },
     {
       "rank": 80,
@@ -3521,7 +3600,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://investor.3ds.com/"
+      "volumeSource": "https://investor.3ds.com/",
+      "industry": "科技/工業"
     },
     {
       "rank": 81,
@@ -3550,7 +3630,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://www.statista.com/statistics/1377926/delivery-hero-order-volume/"
+      "volumeSource": "https://www.statista.com/statistics/1377926/delivery-hero-order-volume/",
+      "industry": "科技/電商"
     },
     {
       "rank": 82,
@@ -3568,8 +3649,8 @@
       "entryPoint": "從 AI 配送優化的 GPU 伺服器需求切入。Bolt 正在快速擴展，基礎設施需求增長。",
       "keyPerson": {
         "name": "待查詢",
-        "title": "",
-        "linkedin": "",
+        "title": "VP, Engineering & Infrastructure",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Bolt%20Technology",
         "source": ""
       },
       "siDist": [
@@ -3579,7 +3660,8 @@
           "type": "Direct"
         }
       ],
-      "volumeSource": "https://bolt.eu/en/blog/bolt-engineering-estonia/"
+      "volumeSource": "https://bolt.eu/en/blog/bolt-engineering-estonia/",
+      "industry": "科技"
     },
     {
       "company": "NXP Semiconductors",
@@ -3598,7 +3680,7 @@
       "keyPerson": {
         "name": "Lars Reger",
         "title": "Executive Vice President and Chief Technology Officer",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Lars%20Reger%20NXP%20Semiconductors",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -3663,7 +3745,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://investors.nxp.com/financial-information/irol-sec"
+      "volumeSource": "https://investors.nxp.com/financial-information/irol-sec",
+      "industry": "科技/半導體"
     },
     {
       "company": "Wise (TransferWise)",
@@ -3692,7 +3775,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.research-tree.com/companies/uk/retail-finance/wise-plc-class-a/research/hypothesis-research/wise-leveraging-profitability-to-drive-infrastructure-and-growth/112_3b5590b8-a5c0-44e6-a36e-cb133e79c0a7"
+      "volumeSource": "https://www.research-tree.com/companies/uk/retail-finance/wise-plc-class-a/research/hypothesis-research/wise-leveraging-profitability-to-drive-infrastructure-and-growth/112_3b5590b8-a5c0-44e6-a36e-cb133e79c0a7",
+      "industry": "科技"
     },
     {
       "company": "Rolls-Royce Holdings",
@@ -3726,7 +3810,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.rolls-royce.com/investors/results-reports-and-presentations/ar-annual-report-archive/accounts-and-archive.aspx"
+      "volumeSource": "https://www.rolls-royce.com/investors/results-reports-and-presentations/ar-annual-report-archive/accounts-and-archive.aspx",
+      "industry": "金融"
     },
     {
       "company": "Klarna",
@@ -3785,7 +3870,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://investors.klarna.com/overview/default.aspx"
+      "volumeSource": "https://investors.klarna.com/overview/default.aspx",
+      "industry": "金融/科技"
     },
     {
       "company": "Adevinta",
@@ -3803,8 +3889,8 @@
       "rank": 87,
       "keyPerson": {
         "name": "待查詢",
-        "title": "",
-        "linkedin": "",
+        "title": "VP, Platform Engineering",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Adevinta",
         "source": ""
       },
       "siDist": [
@@ -3814,7 +3900,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://adevinta.com/wp-content/uploads/2024/04/Adevinta-AR-2023.pdf"
+      "volumeSource": "https://adevinta.com/wp-content/uploads/2024/04/Adevinta-AR-2023.pdf",
+      "industry": "科技"
     },
     {
       "company": "Glovo (Delivery Hero 子公司)",
@@ -3843,7 +3930,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.statista.com/statistics/1377926/delivery-hero-order-volume/"
+      "volumeSource": "https://www.statista.com/statistics/1377926/delivery-hero-order-volume/",
+      "industry": "科技/電商"
     },
     {
       "company": "Faurecia (FORVIA)",
@@ -3872,7 +3960,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://www.forvia.com/en/investors/equity-investors-analyst/financial-results"
+      "volumeSource": "https://www.forvia.com/en/investors/equity-investors-analyst/financial-results",
+      "industry": "科技"
     },
     {
       "company": "Getir",
@@ -3901,7 +3990,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.businessofapps.com/data/getir-statistics/"
+      "volumeSource": "https://www.businessofapps.com/data/getir-statistics/",
+      "industry": "科技"
     },
     {
       "company": "Revolut",
@@ -3930,7 +4020,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.revolut.com/news"
+      "volumeSource": "https://www.revolut.com/news",
+      "industry": "金融/科技"
     },
     {
       "company": "Ubisoft",
@@ -3959,7 +4050,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.ubisoft.com/en-us/company/about-us/investors"
+      "volumeSource": "https://www.ubisoft.com/en-us/company/about-us/investors",
+      "industry": "媒體/遊戲"
     },
     {
       "company": "Safran Group",
@@ -3978,7 +4070,7 @@
       "keyPerson": {
         "name": "Christophe Fontaine",
         "title": "VP IT & Digital",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Christophe%20Fontaine%20Safran%20Group",
         "source": ""
       },
       "siDist": [
@@ -3988,7 +4080,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.safran-group.com/finance"
+      "volumeSource": "https://www.safran-group.com/finance",
+      "industry": "科技"
     },
     {
       "company": "Zain Group",
@@ -4017,7 +4110,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://www.zain.com/en/investor-relations/"
+      "volumeSource": "https://www.zain.com/en/investor-relations/",
+      "industry": "科技"
     },
     {
       "company": "du (Emirates Integrated Telecom)",
@@ -4036,7 +4130,7 @@
       "keyPerson": {
         "name": "Lars Reger",
         "title": "Executive Vice President and Chief Technology Officer",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Lars%20Reger%20du%20(Emirates%20Integrated%20Telecom)",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -4101,7 +4195,8 @@
           "type": "DIST"
         }
       ],
-      "volumeSource": "https://investors.nxp.com/financial-information/irol-sec"
+      "volumeSource": "https://investors.nxp.com/financial-information/irol-sec",
+      "industry": "電信"
     },
     {
       "company": "Liquid Intelligent Technologies",
@@ -4130,7 +4225,8 @@
           "type": "SI/DIST"
         }
       ],
-      "volumeSource": "https://liquid.tech/"
+      "volumeSource": "https://liquid.tech/",
+      "industry": "科技"
     },
     {
       "company": "A1 Telekom Austria Group",
@@ -4159,7 +4255,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.a1.group/en/investor-relations"
+      "volumeSource": "https://www.a1.group/en/investor-relations",
+      "industry": "科技"
     },
     {
       "company": "Zurich Insurance Group",
@@ -4188,7 +4285,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.zurich.com/en/investor-relations"
+      "volumeSource": "https://www.zurich.com/en/investor-relations",
+      "industry": "金融/保險"
     },
     {
       "rank": 99,
@@ -4207,7 +4305,7 @@
       "keyPerson": {
         "name": "Cristina Duran",
         "title": "VP IT Infrastructure",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Cristina%20Duran%20AstraZeneca",
         "source": ""
       },
       "siDist": [
@@ -4222,7 +4320,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://www.astrazeneca.com/investor-relations.html"
+      "volumeSource": "https://www.astrazeneca.com/investor-relations.html",
+      "industry": "醫療/製藥"
     },
     {
       "company": "N26 (Number26)",
@@ -4251,7 +4350,8 @@
           "type": "SI"
         }
       ],
-      "volumeSource": "https://n26.com/en-eu/press"
+      "volumeSource": "https://n26.com/en-eu/press",
+      "industry": "科技"
     }
   ]
 }
