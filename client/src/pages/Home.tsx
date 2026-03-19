@@ -18,7 +18,9 @@ import {
   Link as LinkIcon,
   Download,
   Tag,
+  FileSpreadsheet,
 } from "lucide-react";
+import * as XLSX from "xlsx";
 
 /* ─── CSV Export ─── */
 function exportToCSV(companies: Company[], regionLabel: string) {
@@ -81,7 +83,78 @@ function exportToCSV(companies: Company[], regionLabel: string) {
   }, 100);
 }
 
-type SortField = "rank" | "difficulty" | "company";
+/* ─── Excel Export ─── */
+function exportToExcel(companies: Company[], regionLabel: string) {
+  const headers = [
+    "排名", "企業名稱", "產業分類", "區域", "年採購量", "伺服器平台架構", "伺服器應用",
+    "目前供應商", "ODM/OEM", "ASUS 對應型號", "通路", "難易度 (1-10)",
+    "困難點及如何克服", "切入點及如何執行",
+    "Key Person 姓名", "Key Person 職稱", "Key Person LinkedIn",
+    "SI/DIST 通路明細", "採購量數據來源"
+  ];
+
+  const rows = companies.map((c) => {
+    const siDistStr = (c.siDist || []).map(s => `[${s.type}] ${s.name}${s.website ? " (" + s.website + ")" : ""}`).join("; ");
+    return [
+      c.rank,
+      c.company || "",
+      c.industry || "",
+      c.region || "",
+      c.volume || "",
+      c.platform || "",
+      c.application || "",
+      c.currentSuppliers || "",
+      c.odmOem || "",
+      c.asusModel || "",
+      c.channel || "",
+      c.difficulty,
+      c.challenges || "",
+      c.entryPoint || "",
+      c.keyPerson?.name || "",
+      c.keyPerson?.title || "",
+      c.keyPerson?.linkedin || "",
+      siDistStr,
+      c.volumeSource || ""
+    ];
+  });
+
+  const wsData = [headers, ...rows];
+  const ws = XLSX.utils.aoa_to_sheet(wsData);
+
+  /* Set column widths for better readability */
+  ws["!cols"] = [
+    { wch: 5 },   // 排名
+    { wch: 30 },  // 企業名稱
+    { wch: 15 },  // 產業分類
+    { wch: 12 },  // 區域
+    { wch: 35 },  // 年採購量
+    { wch: 40 },  // 伺服器平台架構
+    { wch: 35 },  // 伺服器應用
+    { wch: 40 },  // 目前供應商
+    { wch: 15 },  // ODM/OEM
+    { wch: 40 },  // ASUS 對應型號
+    { wch: 30 },  // 通路
+    { wch: 10 },  // 難易度
+    { wch: 60 },  // 困難點
+    { wch: 60 },  // 切入點
+    { wch: 25 },  // Key Person 姓名
+    { wch: 40 },  // Key Person 職稱
+    { wch: 40 },  // Key Person LinkedIn
+    { wch: 50 },  // SI/DIST
+    { wch: 50 },  // 數據來源
+  ];
+
+  /* Enable auto-filter for pivot table usage */
+  ws["!autofilter"] = { ref: XLSX.utils.encode_range({ s: { r: 0, c: 0 }, e: { r: rows.length, c: headers.length - 1 } }) };
+
+  const wb = XLSX.utils.book_new();
+  XLSX.utils.book_append_sheet(wb, ws, regionLabel);
+
+  const timestamp = new Date().toISOString().slice(0, 10);
+  XLSX.writeFile(wb, `ASUS_Server_Strategy_${regionLabel}_${timestamp}.xlsx`);
+}
+
+type SortField = "rank" | "difficulty" | "company" | "volume";
 type SortDir = "asc" | "desc";
 
 /* ─── Region label map ─── */
@@ -378,7 +451,7 @@ export default function Home() {
 
     result.sort((a, b) => {
       let cmp = 0;
-      if (sortField === "rank") cmp = a.rank - b.rank;
+      if (sortField === "rank" || sortField === "volume") cmp = a.rank - b.rank;
       else if (sortField === "difficulty") cmp = a.difficulty - b.difficulty;
       else if (sortField === "company") cmp = a.company.localeCompare(b.company);
       return sortDir === "asc" ? cmp : -cmp;
@@ -611,6 +684,13 @@ export default function Home() {
           </span>
           <div className="flex items-center gap-3">
             <button
+              onClick={() => exportToExcel(filtered, `${rl.short}_${filtered.length}companies`)}
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium bg-emerald-600 text-white hover:bg-emerald-700 transition-colors"
+            >
+              <FileSpreadsheet className="w-3.5 h-3.5" />
+              匯出 Excel ({filtered.length})
+            </button>
+            <button
               onClick={() => exportToCSV(filtered, `${rl.short}_${filtered.length}companies`)}
               className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium bg-primary text-primary-foreground hover:bg-primary/90 transition-colors"
             >
@@ -629,7 +709,7 @@ export default function Home() {
                 <SortableHeader label="#" field="rank" current={sortField} dir={sortDir} onClick={toggleSort} width="w-12" />
                 <SortableHeader label="企業名稱" field="company" current={sortField} dir={sortDir} onClick={toggleSort} width="min-w-[200px]" />
                 <th className="text-left text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground px-3 py-3">產業</th>
-                <th className="text-left text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground px-3 py-3 min-w-[140px]">年採購量</th>
+                <SortableHeader label="年採購量" field="volume" current={sortField} dir={sortDir} onClick={toggleSort} width="min-w-[140px]" />
                 <th className="text-left text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground px-3 py-3">通路</th>
                 <SortableHeader label="難易度" field="difficulty" current={sortField} dir={sortDir} onClick={toggleSort} width="w-28" />
                 <th className="text-left text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground px-3 py-3 w-8" />
