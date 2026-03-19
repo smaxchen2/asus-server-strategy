@@ -1,6 +1,6 @@
 import { useState, useMemo, Fragment } from "react";
-import { Link } from "wouter";
-import companiesData from "@/data/companies.json";
+import { Link, useParams, useLocation } from "wouter";
+import { getRegion, regionKeys, type RegionKey, type Company } from "@/lib/regions";
 import {
   Search,
   ChevronDown,
@@ -9,16 +9,23 @@ import {
   Server,
   Building2,
   Target,
-  BarChart3,
   X,
   ExternalLink,
   TrendingUp,
   Zap,
+  Globe,
 } from "lucide-react";
 
-type Company = (typeof companiesData.companies)[number];
 type SortField = "rank" | "difficulty" | "company";
 type SortDir = "asc" | "desc";
+
+/* ─── Region label map ─── */
+const regionLabels: Record<RegionKey, { label: string; short: string; flag: string }> = {
+  na: { label: "北美", short: "NA", flag: "🇺🇸" },
+  apac: { label: "亞太", short: "APAC", flag: "🌏" },
+  emea: { label: "歐洲中東非洲", short: "EMEA", flag: "🇪🇺" },
+  china: { label: "中國大陸", short: "China", flag: "🇨🇳" },
+};
 
 /* ─── Difficulty helpers ─── */
 function getDifficultyColor(score: number) {
@@ -40,25 +47,23 @@ function DifficultyBar({ score }: { score: number }) {
 }
 
 /* ─── Expanded Row ─── */
-function ExpandedRow({ company }: { company: Company }) {
+function ExpandedRow({ company, regionKey }: { company: Company; regionKey: string }) {
+  const basePath = regionKey === "na" ? "" : `/region/${regionKey}`;
   return (
     <tr>
       <td colSpan={7} className="p-0">
         <div className="bg-muted/30 border-t border-b border-border">
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-px bg-border">
-            {/* Column 1: Basic Info */}
             <div className="bg-white p-5 space-y-4">
               <InfoBlock label="伺服器機型及平台架構" value={company.platform} />
               <InfoBlock label="伺服器應用" value={company.application} />
               <InfoBlock label="目前供應商" value={company.currentSuppliers} />
             </div>
-            {/* Column 2: ASUS Strategy */}
             <div className="bg-white p-5 space-y-4">
               <InfoBlock label="ODM/OEM" value={company.odmOem} />
               <InfoBlock label="ASUS 對應型號" value={company.asusModel} />
               <InfoBlock label="直供/SI/DIST" value={company.channel} />
             </div>
-            {/* Column 3: Action Items */}
             <div className="bg-white p-5 space-y-4">
               <div>
                 <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-red-600 mb-1.5">困難點及如何克服</div>
@@ -71,7 +76,7 @@ function ExpandedRow({ company }: { company: Company }) {
             </div>
           </div>
           <div className="px-5 py-2.5 bg-white border-t border-border flex justify-end">
-            <Link href={`/company/${company.rank}`}>
+            <Link href={`${basePath}/company/${company.rank}`}>
               <span className="text-xs text-primary hover:underline flex items-center gap-1 cursor-pointer">
                 查看完整詳情 <ExternalLink className="w-3 h-3" />
               </span>
@@ -139,6 +144,12 @@ function DifficultyDistribution({ companies }: { companies: Company[] }) {
 
 /* ─── Main Component ─── */
 export default function Home() {
+  const params = useParams<{ region?: string }>();
+  const [, navigate] = useLocation();
+  const currentRegionKey = (params.region || "na") as RegionKey;
+  const regionConfig = getRegion(currentRegionKey);
+  const companies = regionConfig.companies;
+
   const [search, setSearch] = useState("");
   const [diffFilter, setDiffFilter] = useState("all");
   const [channelFilter, setChannelFilter] = useState("all");
@@ -146,12 +157,9 @@ export default function Home() {
   const [sortDir, setSortDir] = useState<SortDir>("asc");
   const [expandedRow, setExpandedRow] = useState<number | null>(null);
 
-  const companies = companiesData.companies;
-
   const filtered = useMemo(() => {
     let result = [...companies];
 
-    // Search
     if (search.trim()) {
       const q = search.toLowerCase();
       result = result.filter(
@@ -167,17 +175,14 @@ export default function Home() {
       );
     }
 
-    // Difficulty filter
     if (diffFilter === "easy") result = result.filter((c) => c.difficulty <= 4);
     else if (diffFilter === "medium") result = result.filter((c) => c.difficulty >= 5 && c.difficulty <= 7);
     else if (diffFilter === "hard") result = result.filter((c) => c.difficulty >= 8);
 
-    // Channel filter
     if (channelFilter === "direct") result = result.filter((c) => c.channel.startsWith("直供") && !c.channel.includes("SI") && !c.channel.includes("DIST"));
     else if (channelFilter === "si_dist") result = result.filter((c) => c.channel.includes("SI") || c.channel.includes("DIST"));
     else if (channelFilter === "mixed") result = result.filter((c) => c.channel.includes("直供") && (c.channel.includes("SI") || c.channel.includes("DIST")));
 
-    // Sort
     result.sort((a, b) => {
       let cmp = 0;
       if (sortField === "rank") cmp = a.rank - b.rank;
@@ -198,13 +203,29 @@ export default function Home() {
     }
   };
 
+  const handleRegionChange = (key: RegionKey) => {
+    setSearch("");
+    setDiffFilter("all");
+    setChannelFilter("all");
+    setSortField("rank");
+    setSortDir("asc");
+    setExpandedRow(null);
+    if (key === "na") {
+      navigate("/");
+    } else {
+      navigate(`/region/${key}`);
+    }
+  };
+
   // Stats
   const avgDifficulty = (companies.reduce((sum, c) => sum + c.difficulty, 0) / companies.length).toFixed(1);
+  const easyCount = companies.filter((c) => c.difficulty <= 4).length;
   const mediumCount = companies.filter((c) => c.difficulty >= 5 && c.difficulty <= 7).length;
   const hardCount = companies.filter((c) => c.difficulty >= 8).length;
-  const totalVolume = "~6.5M";
 
   const hasActiveFilters = search || diffFilter !== "all" || channelFilter !== "all";
+
+  const rl = regionLabels[currentRegionKey];
 
   return (
     <div className="min-h-screen bg-background">
@@ -218,15 +239,52 @@ export default function Home() {
               </div>
               <div>
                 <h1 className="text-sm font-black tracking-tight leading-tight" style={{ fontFamily: "'DM Sans', sans-serif" }}>
-                  ASUS Server Strategy
+                  ASUS Global Server Strategy
                 </h1>
-                <p className="text-[10px] text-muted-foreground tracking-wide">北美 Top 100 伺服器採購商分析</p>
+                <p className="text-[10px] text-muted-foreground tracking-wide">全球伺服器市場拓展策略</p>
               </div>
             </div>
             <div className="hidden sm:flex items-center gap-1 text-[10px] text-muted-foreground tracking-wider uppercase">
-              <span>2026 Q1</span>
+              <Globe className="w-3 h-3" />
+              <span className="ml-1">4 Regions</span>
               <span className="mx-1.5 w-px h-3 bg-border" />
-              <span>Intel · AMD · NVIDIA</span>
+              <span>250 Companies</span>
+            </div>
+          </div>
+        </div>
+
+        {/* Region Tabs */}
+        <div className="border-t border-border bg-white">
+          <div className="container">
+            <div className="flex">
+              {regionKeys.map((key) => {
+                const r = regionLabels[key];
+                const isActive = key === currentRegionKey;
+                const regionData = getRegion(key);
+                return (
+                  <button
+                    key={key}
+                    onClick={() => handleRegionChange(key)}
+                    className={`relative flex items-center gap-2 px-4 py-2.5 text-xs font-medium transition-all ${
+                      isActive
+                        ? "text-foreground"
+                        : "text-muted-foreground hover:text-foreground"
+                    }`}
+                  >
+                    <span className="hidden sm:inline">{r.flag}</span>
+                    <span className="hidden md:inline">{r.label}</span>
+                    <span className="md:hidden">{r.short}</span>
+                    <span className={`text-[10px] px-1.5 py-0.5 font-semibold tabular-nums ${
+                      isActive ? "bg-foreground text-background" : "bg-muted text-muted-foreground"
+                    }`}>
+                      {regionData.companies.length}
+                    </span>
+                    {isActive && (
+                      <span className="absolute bottom-0 left-0 right-0 h-[2px] bg-foreground" />
+                    )}
+                  </button>
+                );
+              })}
             </div>
           </div>
         </div>
@@ -237,26 +295,28 @@ export default function Home() {
         <div className="container py-8">
           <div className="grid grid-cols-1 lg:grid-cols-[1fr_auto] gap-8 items-center">
             <div>
-              <p className="text-[10px] font-bold tracking-[0.2em] uppercase text-background/50 mb-2">Market Intelligence Report</p>
+              <p className="text-[10px] font-bold tracking-[0.2em] uppercase text-background/50 mb-2">
+                {rl.flag} {rl.short} Market Intelligence
+              </p>
               <h2 className="text-2xl md:text-3xl font-black tracking-tight mb-3" style={{ fontFamily: "'DM Sans', sans-serif" }}>
-                北美伺服器採購商<br className="hidden md:block" />策略分析總覽
+                {rl.label}伺服器採購商<br className="hidden md:block" />策略分析總覽
               </h2>
               <p className="text-sm text-background/60 leading-relaxed max-w-xl">
-                涵蓋北美地區 100 家最大伺服器採購企業的完整分析，包含年採購量、伺服器架構、現有供應商、
+                {regionConfig.description}，包含年採購量、伺服器架構、現有供應商、
                 ASUS 對應產品線、通路策略、困難點與切入策略。
               </p>
             </div>
             <div className="grid grid-cols-2 gap-4 lg:gap-6">
-              <DarkKPI icon={Building2} value="100" label="企業" sub="北美 Top 100" />
-              <DarkKPI icon={TrendingUp} value={totalVolume} label="台/年" sub="年度總採購量" />
-              <DarkKPI icon={Zap} value={String(mediumCount)} label="中等難度" sub="5-7 分" accent="amber" />
+              <DarkKPI icon={Building2} value={String(companies.length)} label="企業" sub={`${rl.label} Top ${companies.length}`} />
+              <DarkKPI icon={TrendingUp} value={regionConfig.totalVolume} label="台/年" sub="年度總採購量" />
+              <DarkKPI icon={Zap} value={String(easyCount)} label="較易切入" sub="1-4 分" accent="emerald" />
               <DarkKPI icon={Target} value={String(hardCount)} label="高難度" sub="8-10 分" accent="red" />
             </div>
           </div>
         </div>
       </section>
 
-      {/* Difficulty Distribution Strip */}
+      {/* Difficulty Distribution */}
       <section className="border-b border-border bg-white">
         <div className="container py-4">
           <div className="flex items-center gap-6">
@@ -268,9 +328,9 @@ export default function Home() {
               <DifficultyDistribution companies={companies} />
             </div>
             <div className="hidden md:flex items-center gap-4 text-[10px] text-muted-foreground">
-              <span className="flex items-center gap-1.5"><span className="w-2 h-2 bg-emerald-500" /> 較易 (1-4)</span>
-              <span className="flex items-center gap-1.5"><span className="w-2 h-2 bg-amber-500" /> 中等 (5-7)</span>
-              <span className="flex items-center gap-1.5"><span className="w-2 h-2 bg-red-500" /> 困難 (8-10)</span>
+              <span className="flex items-center gap-1.5"><span className="w-2 h-2 bg-emerald-500" /> 較易 ({easyCount})</span>
+              <span className="flex items-center gap-1.5"><span className="w-2 h-2 bg-amber-500" /> 中等 ({mediumCount})</span>
+              <span className="flex items-center gap-1.5"><span className="w-2 h-2 bg-red-500" /> 困難 ({hardCount})</span>
             </div>
           </div>
         </div>
@@ -279,7 +339,6 @@ export default function Home() {
       <main className="container py-6">
         {/* Search + Filters */}
         <div className="mb-6 space-y-3">
-          {/* Search Bar */}
           <div className="relative">
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted-foreground" />
             <input
@@ -296,7 +355,6 @@ export default function Home() {
             )}
           </div>
 
-          {/* Filter Tags */}
           <div className="flex flex-wrap items-center gap-4">
             <FilterGroup label="難易度" options={difficultyFilters} value={diffFilter} onChange={setDiffFilter} />
             <div className="w-px h-5 bg-border hidden sm:block" />
@@ -360,7 +418,7 @@ export default function Home() {
                       )}
                     </td>
                   </tr>
-                  {expandedRow === company.rank && <ExpandedRow company={company} />}
+                  {expandedRow === company.rank && <ExpandedRow company={company} regionKey={currentRegionKey} />}
                 </Fragment>
               ))}
             </tbody>
@@ -380,7 +438,7 @@ export default function Home() {
             <div>
               <span className="font-semibold text-foreground">ASUS Server Business Development</span>
               <span className="mx-2">·</span>
-              <span>北美市場策略報告 2026 Q1</span>
+              <span>全球市場策略報告 2026 Q1</span>
             </div>
             <div>
               資料來源：IDC Server Tracker, Gartner, TrendForce, 各企業年報

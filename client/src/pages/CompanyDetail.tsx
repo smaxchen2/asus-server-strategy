@@ -1,5 +1,5 @@
 import { useParams, Link } from "wouter";
-import companiesData from "@/data/companies.json";
+import { getRegion, type RegionKey } from "@/lib/regions";
 import { ArrowLeft, Building2, MapPin, Server, Cpu, Layers, Truck, Target, AlertTriangle, Lightbulb, ChevronRight, ChevronLeft } from "lucide-react";
 
 function DifficultyBadge({ score }: { score: number }) {
@@ -21,16 +21,21 @@ function DifficultyBadge({ score }: { score: number }) {
 }
 
 export default function CompanyDetail() {
-  const params = useParams<{ rank: string }>();
+  const params = useParams<{ rank: string; region?: string }>();
+  const regionKey = (params.region || "na") as RegionKey;
+  const regionConfig = getRegion(regionKey);
   const rank = parseInt(params.rank || "1");
-  const company = companiesData.companies.find((c) => c.rank === rank);
+  const company = regionConfig.companies.find((c) => c.rank === rank);
+
+  const basePath = regionKey === "na" ? "" : `/region/${regionKey}`;
+  const listPath = regionKey === "na" ? "/" : `/region/${regionKey}`;
 
   if (!company) {
     return (
       <div className="min-h-screen flex items-center justify-center">
         <div className="text-center">
           <h1 className="text-2xl font-bold mb-4">找不到該企業</h1>
-          <Link href="/" className="text-primary hover:underline">返回總表</Link>
+          <Link href={listPath} className="text-primary hover:underline">返回總表</Link>
         </div>
       </div>
     );
@@ -47,23 +52,31 @@ export default function CompanyDetail() {
     { icon: ChevronRight, title: "直供/SI/DIST", content: company.channel },
   ];
 
-  // Find prev/next company names
-  const prevCompany = companiesData.companies.find((c) => c.rank === rank - 1);
-  const nextCompany = companiesData.companies.find((c) => c.rank === rank + 1);
+  const prevCompany = regionConfig.companies.find((c) => c.rank === rank - 1);
+  const nextCompany = regionConfig.companies.find((c) => c.rank === rank + 1);
+
+  const regionLabel: Record<string, string> = {
+    na: "北美",
+    apac: "亞太",
+    emea: "EMEA",
+    china: "中國大陸",
+  };
 
   return (
     <div className="min-h-screen bg-background">
       {/* Header */}
       <header className="border-b border-border bg-white sticky top-0 z-10">
         <div className="container py-3 flex items-center gap-4">
-          <Link href="/">
+          <Link href={listPath}>
             <span className="flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors text-sm font-medium cursor-pointer">
               <ArrowLeft className="w-4 h-4" />
-              返回總表
+              返回{regionLabel[regionKey]}總表
             </span>
           </Link>
           <div className="w-px h-5 bg-border" />
-          <span className="text-[10px] text-muted-foreground tracking-[0.15em] uppercase">Company #{company.rank}</span>
+          <span className="text-[10px] text-muted-foreground tracking-[0.15em] uppercase">
+            {regionLabel[regionKey]} · Company #{company.rank}
+          </span>
         </div>
       </header>
 
@@ -120,7 +133,7 @@ export default function CompanyDetail() {
         {/* Navigation */}
         <div className="mt-12 pt-8 border-t border-border flex justify-between">
           {prevCompany ? (
-            <Link href={`/company/${rank - 1}`}>
+            <Link href={`${basePath}/company/${rank - 1}`}>
               <span className="text-sm text-muted-foreground hover:text-foreground transition-colors flex items-center gap-1 cursor-pointer">
                 <ChevronLeft className="w-3.5 h-3.5" />
                 #{rank - 1} {truncate(prevCompany.company, 20)}
@@ -128,7 +141,7 @@ export default function CompanyDetail() {
             </Link>
           ) : <div />}
           {nextCompany ? (
-            <Link href={`/company/${rank + 1}`}>
+            <Link href={`${basePath}/company/${rank + 1}`}>
               <span className="text-sm text-muted-foreground hover:text-foreground transition-colors flex items-center gap-1 cursor-pointer">
                 #{rank + 1} {truncate(nextCompany.company, 20)}
                 <ChevronRight className="w-3.5 h-3.5" />
