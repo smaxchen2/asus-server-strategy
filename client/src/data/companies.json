@@ -407,6 +407,21 @@
     },
     {
       "rank": 28,
+      "company": "LinkedIn (Microsoft)",
+      "region": "美國",
+      "volume": "約 20,000 - 40,000 台/年 (估計)。LinkedIn 擁有超過 100,000 台自有伺服器，分布在多個自建資料中心。2023 年暫停遷移至 Azure 的計畫，繼續獨立運營自有 DC 基礎設施。每年需要大量替換與擴充伺服器。",
+      "platform": "Intel Xeon / AMD EPYC 雙平台，2U 通用伺服器為主。2024 年已全面遷移至 Azure Linux OS。AI 伺服器用於推薦系統、人才匹配、廣告投放等 AI 應用，採用 NVIDIA GPU。自有內部雲平台，具備類似公有雲的抽象層。",
+      "application": "全球最大專業社群網路平台（10 億+ 會員），AI 驅動的人才推薦、內容推薦、廣告投放、LinkedIn Learning、Sales Navigator 等服務。",
+      "currentSuppliers": "Dell, Supermicro, Quanta (ODM)",
+      "odmOem": "ODM/OEM 混合",
+      "asusModel": "通用2U: RS720-E11/RS720A-E12, AI 4U: ESC4000A-E12, 通用1U: RS700-E11, AI 8GPU: ESC N8-E11",
+      "channel": "直供 + SI: Accenture (https://www.accenture.com), Insight Enterprises (https://www.insight.com)",
+      "difficulty": 8,
+      "challenges": "LinkedIn 雖為 Microsoft 子公司，但 DC 基礎設施獨立運營，有自己的採購流程與技術標準。其伺服器多為客製化設計，對供應商的技術能力要求高。此外，Microsoft 體系內的供應商關係可能影響外部供應商的進入。需要展示在大規模部署、客製化設計與成本控制方面的能力。",
+      "entryPoint": "LinkedIn 暫停遷移至 Azure 後，持續獨立採購伺服器。可從 AI 推薦系統所需的 GPU 伺服器切入，或從下一代通用伺服器的替換週期切入。透過 Microsoft 體系內的 SI 夥伴（如 Accenture）進行引薦，並展示 ASUS 在 AMD EPYC 平台的性價比優勢。"
+    },
+    {
+      "rank": 29,
       "company": "Capital One",
       "region": "美國",
       "volume": "約 1,000 - 5,000 台/年。Capital One 已於 2021 年宣布全面遷移至 AWS 雲端，並關閉所有自有數據中心。因此，其不再進行大規模的傳統伺服器採購。然而，為了支援其軟體開發、測試及部分特殊應用，仍可能少量採購客製化或專用伺服器。",
@@ -421,7 +436,7 @@
       "entryPoint": "幾乎沒有直接的伺服器銷售切入點。策略應轉向與其在軟體層面的合作，例如推廣 ASUS 的 AI 軟體解決方案，或是在其開源專案中進行合作，間接展示 ASUS 的硬體實力。另一個可能的方向是，關注其未來是否因成本、效能或資安考量而產生部分業務回歸本地 (Repatriation) 的需求，但這屬於長期觀察，短期內機會渺茫。"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "company": "AT&T",
       "region": "美國(德州達拉斯)",
       "volume": "30,000-40,000",
@@ -436,7 +451,7 @@
       "entryPoint": "由於AT&T已將其網路雲平台轉移給微軟，直接切入點非常有限。唯一的機會在於成為微軟Azure for Operators的伺服器供應商之一。ASUS可以專注於提供針對電信工作負載優化的高密度、高效能伺服器，特別是在AI和邊緣運算領域，例如符合NVIDIA MGX或HGX標準的AI伺服器(ESC8000-E12P, ESC N8-E11)。這需要一個長期的策略，首先要成為微軟的合作夥伴，並在Azure Marketplace上架產品，再逐步爭取進入AT&T的專用雲端基礎設施。"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "company": "Fidelity Investments",
       "region": "美國",
       "volume": "約 20,000 台/年",
@@ -451,7 +466,7 @@
       "entryPoint": "Fidelity Investments 正在日本建立超大規模資料中心，可以此為契機，提供符合日本市場法規與需求的伺服器。同時，可針對其在 AI 投資領域的需求，提供高效能的 AI 伺服器，並與其研發團隊合作，共同開發客製化的 AI 解決方案。"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "company": "Uber",
       "region": "美國",
       "volume": "約 5,000 - 10,000 台/年（自有數據中心），但因公司正將 95% 的 IT 基礎設施轉移至 Google Cloud 和 Oracle Cloud，此數字將逐年遞減。雲端伺服器用量將會非常龐大。",
@@ -466,7 +481,7 @@
       "entryPoint": "切入點在於其尚未完全遷移至雲端的特殊應用，例如需要極低延遲的邊緣運算節點，或是特定 AI 模型的訓練硬體。執行方式是與 Uber 的基礎設施團隊建立技術交流，深入了解其在雲端遷移過程中遇到的挑戰，並提出可以彌補雲端不足的混合雲或邊緣運算方案。"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "company": "Adobe",
       "region": "美國",
       "volume": "約 3,000 - 6,000 台/年。Adobe 的主要服務，包括 Creative Cloud 和 Experience Cloud，都運行在 AWS 和 Microsoft Azure 等公有雲上。但為了其 AI 平台 Adobe Sensei 的模型訓練，以及部分地區的資料中心需求，仍會採購一定數量的實體伺服器，特別是高效能的 GPU 伺服器。",
@@ -481,7 +496,7 @@
       "entryPoint": "最佳切入點是 Adobe Sensei 平台所需的 AI 訓練硬體。執行方式是與 Adobe 的 AI 基礎設施團隊建立聯繫，提供搭載最新 NVIDIA Blackwell 架構 GPU 的華碩 AI 伺服器樣機進行測試，並提供詳盡的效能測試報告，證明華碩產品在執行其 AI 模型訓練時，能提供比現有供應商更高的效能和更低的 TCO。"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "company": "Mastercard",
       "region": "美國",
       "volume": "約 30,000 台/年",
@@ -496,7 +511,7 @@
       "entryPoint": "Mastercard 積極發展 AI 應用，可以提供搭載最新 NVIDIA GPU 的 AI 伺服器進行效能測試，展現 ASUS 在 AI 領域的技術實力。同時，可以針對其全球 60 個資料中心的維運需求，提供客製化的遠端管理解決方案，提升其維運效率。"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "company": "Verizon Communications",
       "region": "美國(紐約)",
       "volume": "20,000-30,000",
@@ -511,7 +526,7 @@
       "entryPoint": "切入點在於其快速發展的5G Edge和私有MEC (Mobile Edge Computing) 業務。Verizon與AWS和Azure合作，在企業端部署邊緣運算節點。ASUS可以提供針對這些應用場景優化的邊緣伺服器，例如小尺寸、低功耗、高效能的1U/2U伺服器(RS700/RS720系列)，或是搭載GPU的AI推論伺服器(ESC4000系列)。可透過與AWS/Azure的合作管道，將ASUS伺服器作為其解決方案的一部分推薦給Verizon。"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "company": "Hut 8 Mining",
       "region": "美國/加拿大",
       "volume": "約 10,000 - 20,000 台/年 (主要為 AI 伺服器)",
@@ -526,7 +541,7 @@
       "entryPoint": "切入點為其新建的大規模 AI 資料中心，特別是與 Google/Anthropic 合作的專案。執行上，應直接與 Hut 8 的高層和技術團隊接觸，提供完整的 AI POD 解決方案，從設計、建置到維運提供一站式服務，並強調 ASUS 在大規模 AI 基礎設施部署上的成功案例。"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "company": "Palantir Technologies",
       "region": "美國",
       "volume": "約 2,000 - 5,000 台/年。Palantir 的軟體平台（Foundry, Gotham, AIP）可以部署在公有雲（AWS, Azure, GCP）、客戶的自有數據中心（On-premise）、甚至是機密的氣隙環境（Air-gapped）。因此，其伺服器採購分為兩部分：一部分是為了內部研發和雲端 SaaS 服務的少量採購；另一部分是為其政府和大型企業客戶提供 On-premise 解決方案時，作為解決方案的一部分而採購的伺服器。",
@@ -541,7 +556,7 @@
       "entryPoint": "切入點是與 Palantir 合作，將華碩的 AI 伺服器（特別是搭載 NVIDIA 最新 GPU 的型號）納入其「主權 AI (Sovereign AI)」或「Chain Reaction」等解決方案的參考架構中。執行方式是投入工程資源，與 Palantir 的技術團隊共同進行軟硬體優化與認證，並針對其主要客戶（如政府、國防、大型能源公司）的需求，提供具備高度安全性和效能的聯合解決方案。"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "company": "Cloudflare",
       "region": "美國",
       "volume": "約 20,000 - 30,000 台/年 (根據其全球數據中心的擴展速度和伺服器代際更新估算)",
@@ -556,7 +571,7 @@
       "entryPoint": "可以從 Cloudflare 的新興業務著手，例如 AI/ML 應用，提供搭載 NVIDIA GPU 的解決方案。同時，可以與 Cloudflare 的硬體工程團隊建立關係，了解其下一代伺服器的設計需求，並提供客製化的解決方案。此外，可以考慮與 Cloudflare 的現有 ODM 合作夥伴合作，成為其供應鏈的一部分。"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "company": "Akamai Technologies",
       "region": "美國",
       "volume": "約 20,000 - 30,000 台/年 (根據 2025 年資本支出及伺服器成本大幅上漲趨勢估算)",
@@ -571,7 +586,7 @@
       "entryPoint": "可以從 Akamai Cloud 的擴展需求切入，提供高效能的雲端運算伺服器，特別是針對 AI/ML 工作負載的 GPU 伺服器。同時，可以針對其邊緣計算 (Edge) 站點，提供低功耗、高密度、易於管理的客製化伺服器解決方案。與 Akamai 的技術合作夥伴 (Technology Partners) 建立合作關係，共同推廣整合解決方案，也是一個有效的市場進入策略。"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "company": "American Express",
       "region": "美國",
       "volume": "約 25,000 台/年",
@@ -586,7 +601,7 @@
       "entryPoint": "American Express 正在將其基礎設施遷移至 Kubernetes 平台，可以提供針對容器化環境最佳化的伺服器，並分享在金融業導入雲原生架構的成功案例。此外，可針對其在北卡羅萊納州的大型資料中心，提供高密度、低耗能的伺服器解決方案，協助其降低營運成本。"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "company": "DigitalOcean",
       "region": "美國",
       "volume": "約 10,000-20,000 台/年 (根據其上市公司財報中的資本支出和全球資料中心分佈估算)",
@@ -601,7 +616,7 @@
       "entryPoint": "切入點在於其新推出的 GPU 計算平台和針對 SMB 的 AI 解決方案。可以提供高性價比的 GPU 伺服器，例如搭載 4 張 NVIDIA L40S 或 A40 GPU 的 2U 伺服器 (如 ESC4000-E11)，這類配置在成本和性能上對中小型 AI 工作負載非常有吸引力。執行上，可以先透過其合作夥伴計畫，與幫助 SMB 客戶導入 AI 的系統整合商合作，讓 ASUS 的硬體作為解決方案的一部分被推薦給 DigitalOcean，建立初步合作案例後再尋求直接合作。"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "company": "T-Mobile US",
       "region": "美國(華盛頓州貝爾維尤)",
       "volume": "15,000-25,000",
@@ -616,7 +631,7 @@
       "entryPoint": "切入點在於T-Mobile的「Un-carrier」市場策略，他們持續尋求創新的、能降低成本的解決方案。ASUS可以其「5G Advanced Network Solutions」為突破口，提供與Dell VxRail競爭的、基於ASUS伺服器的高度整合、預先驗證的邊緣運算解決方案。可與軟體合作夥伴共同開發，強調其開放架構與避免供應商鎖定的優勢，直接向T-Mobile的企業解決方案部門或其大型企業客戶提案。"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "company": "Walt Disney Company",
       "region": "美國(加州伯班克)",
       "volume": "15,000-25,000",
@@ -631,7 +646,7 @@
       "entryPoint": "針對其動畫和視覺效果部門，提供高效能的AI/GPU伺服器（如ESC8000/ESC4000系列）進行概念驗證(POC)，展示在渲染和AI應用上的卓越效能。同時，探索其自建數據中心更新週期，提供更具成本效益的通用伺服器方案。"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "company": "Cisco Systems",
       "region": "加州(聖荷西)",
       "volume": "約 15,000-20,000 台/年",
@@ -646,7 +661,7 @@
       "entryPoint": "從其研發部門的測試環境切入，提供高性價比的通用伺服器，強調 ASUS 在主機板設計的穩定性"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "company": "Hewlett Packard Inc (HP Inc)",
       "region": "NA/美國(加州帕羅奧圖)",
       "volume": "2,000-3,000 台 (估計)",
@@ -661,7 +676,7 @@
       "entryPoint": "**切入點:** 尋找 HP Inc. 內部非 HPE 獨佔的部門，例如新興的軟體或服務單位。**執行方式:** 透過 CDW 或 Insight 等大型 SI 接觸其採購部門，提供 ASUS 通用伺服器進行 PoC 測試，展示性價比與管理便利性。"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "company": "Vultr (Constant Contact)",
       "region": "美國",
       "volume": "約 15,000-25,000 台/年 (根據其全球32個資料中心的規模和持續擴張估算)",
@@ -676,7 +691,7 @@
       "entryPoint": "切入點可以是其新擴展的 GPU 雲業務。Vultr 需要快速部署大量 GPU 伺服器以滿足市場需求，這為新供應商提供了機會。可以主動提供搭載最新 NVIDIA 或 AMD GPU 的高密度伺服器方案，如 2U 4GPU 的 ESC4000-E11，並提供靈活的客製化選項（如不同的 CPU、記憶體和儲存配置），以滿足其不同客戶群的需求。同時，可以透過其合作夥伴計畫，與其通路商合作，間接進入其生態系統。"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "company": "Rackspace",
       "region": "美國",
       "volume": "約 10,000 - 15,000 台/年 (根據 2025 年資本支出估算)",
@@ -691,7 +706,7 @@
       "entryPoint": "可以從 Rackspace 的非核心業務或新興業務著手，例如 AI/ML 應用，提供搭載 NVIDIA GPU 的解決方案。同時，可以與 Rackspace 的技術團隊建立關係，了解其具體需求，並提供客製化的解決方案。此外，可以考慮與 Rackspace 的通路合作夥伴合作，透過他們來銷售 ASUS 的產品。"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "company": "FedEx",
       "region": "美國",
       "volume": "約 15,000 - 25,000 台/年 (估計)",
@@ -706,7 +721,7 @@
       "entryPoint": "FedEx 的數據平台 VDAP 及全球超過 600 個獨立運營的環境是很好的切入點。提供高效能、高密度的伺服器，以滿足其大規模數據處理及 AI 運算的需求。同時，針對其全球各地的物流中心提供邊緣運算解決方案。"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "company": "Broadcom",
       "region": "加州(聖荷西)",
       "volume": "約 10,000-15,000 台/年",
@@ -721,7 +736,7 @@
       "entryPoint": "從其半導體設計部門的 EDA 運算叢集切入，提供 RS720-E12 進行效能測試，展示在單核心效能上的優勢"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "company": "Qualcomm",
       "region": "加州(聖地牙哥)",
       "volume": "約 10,000-15,000 台/年",
@@ -736,7 +751,7 @@
       "entryPoint": "從其 AI 研發部門切入，提供 ESC A8A-E12U 進行 AI 模型訓練測試，強調 ASUS 在散熱設計上的優勢"
     },
     {
-      "rank": 50,
+      "rank": 51,
       "company": "Charter Communications",
       "region": "美國(康涅狄格州斯坦福)",
       "volume": "10,000-20,000",
@@ -751,7 +766,7 @@
       "entryPoint": "Charter正在積極部署邊緣AI基礎設施，這是最直接的切入點。他們採用了NVIDIA的AI Grid參考設計，並使用RTX 6000 PRO Blackwell GPU。ASUS可以提供基於相同GPU或更高階Blackwell架構的AI伺服器，例如MGX架構的ESC8000-E12P或HGX架構的ESC N8-E11。更具潛力的切入點是ASUS AI POD解決方案，提供包含網路、散熱、軟體的完整機櫃級AI方案，直接對應Charter在邊緣資料中心大量部署AI算力的需求。可直接聯繫其產品與技術部門，展示ASUS AI解決方案的效能與TCO優勢。"
     },
     {
-      "rank": 51,
+      "rank": 52,
       "company": "General Electric (GE)",
       "region": "NA/美國(波士頓)",
       "volume": "5,000-8,000 台 (估計)",
@@ -766,7 +781,7 @@
       "entryPoint": "**切入點:** GE 分拆後的 GE Vernova (能源) 和 GE Aerospace (航太) 對於數位轉型和 AI 應用有強烈需求。**執行方式:** 透過 WWT 等大型 SI，了解其新專案的硬體需求，並以 ASUS 的 AI POD 解決方案，針對其大規模 AI 訓練需求提出客製化方案。"
     },
     {
-      "rank": 52,
+      "rank": 53,
       "company": "PayPal",
       "region": "美國",
       "volume": "約 2,000-4,000 台/年 (估計)。PayPal 正在進行一項大規模的基礎設施重組計畫，計畫退出部分自有數據中心，並將更多服務遷移到公有雲。然而，他們仍然營運著大量的自有數據中心，並持續進行硬體更新和採購。",
@@ -781,7 +796,7 @@
       "entryPoint": "切入點在於其基礎設施重組帶來的機會。他們需要「簡化營運」和「統一平台」，這正是 ASUS 這類能提供從通用伺服器到 AI POD 完整解決方案的供應商的優勢。可以主動提出一個整合方案，展示如何透過標準化的 ASUS 伺服器平台，簡化其自有數據中心的管理，並提供比公有雲更有成本效益的 AI 解決方案。針對其大量的詐欺偵測及 AI 應用，強調整機櫃/POD 方案 (如 ASUS AI POD) 在快速部署和高效能運算上的優勢。"
     },
     {
-      "rank": 53,
+      "rank": 54,
       "company": "Corebridge Financial",
       "region": "北美/美國",
       "volume": "約 500 - 1,500 台/年 (作為大型金融服務公司，採購主要為週期性更新及業務擴展，非超大規模採購)",
@@ -796,7 +811,7 @@
       "entryPoint": "透過與目標 SI 合作，將 ASUS 的通用伺服器產品納入其解決方案組合。針對 Corebridge 的資料分析或虛擬化環境需求，提供搭載 AMD EPYC 處理器的 RS720A-E12 伺服器作為高性價比方案，並提供樣機進行效能評估。強調 ASUS 伺服器的能源效率和更低的總體擁有成本，以吸引對營運成本敏感的 IT 部門。"
     },
     {
-      "rank": 54,
+      "rank": 55,
       "company": "Inflection AI",
       "region": "美國",
       "volume": "約 15,000 - 25,000 台/年 (包含雲端租賃及與 Intel 合作的硬體)",
@@ -811,7 +826,7 @@
       "entryPoint": "切入點在於其新推出的企業級 AI 應用，以及與 Intel 合作的本地部署方案。可以與 Intel 合作，成為其 AI 硬體應用的供應商之一，或是直接向尋求私有雲 AI 解決方案的企業客戶，提供整合了 Inflection AI 軟體的 ASUS 伺服器。執行上，需要與 Intel 建立合作關係，並同時接觸 Inflection AI 的企業客戶，了解其在本地部署上的具體需求。"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "company": "Together AI",
       "region": "美國",
       "volume": "約 10,000 - 20,000 台/年 (估計值，基於其作為快速成長的 AI 雲端平台，對 GPU 資源有巨大需求)",
@@ -826,7 +841,7 @@
       "entryPoint": "ASUS 作為 NVIDIA 的長期合作夥伴，應積極爭取成為其認證的伺服器供應商。可以從提供最新一代的 NVIDIA Blackwell 架構伺服器 (如 ASUS AI POD GB200/GB300 NVL72) 作為切入點，強調 ASUS 在主機板設計、散熱技術與系統整合上的研發實力。提供具競爭力的價格、彈性的客製化選項，以及可靠的全球供應鏈支援，將是贏得其訂單的關鍵。"
     },
     {
-      "rank": 56,
+      "rank": 57,
       "company": "Warner Bros Discovery",
       "region": "美國(紐約)",
       "volume": "10,000-20,000",
@@ -841,7 +856,7 @@
       "entryPoint": "由於WBD正將旗下串流媒體遷移至統一的內部技術堆疊，這為新供應商提供了機會。可提出基於ASUS AI伺服器的解決方案，協助其優化內容推薦引擎和廣告投放演算法，以提升用戶體驗和廣告收益。同時，可針對其私有雲或邊緣節點需求，提供高CP值的通用伺服器。"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "company": "Lockheed Martin",
       "region": "美國",
       "volume": "約 8,000 - 12,000 台/年 (此為基於其企業規模、國防合約性質和對高效能運算需求的估計，精確數字難以取得)",
@@ -856,7 +871,7 @@
       "entryPoint": "最佳切入點為其新成立的 AI 子公司 Astris AI，該公司對外提供商業 AI 解決方案，對新技術與供應商的態度可能更開放。可從提供高效能的 AI 伺服器 (如 ASUS 的 ESC8000/N8 系列) 作為試點專案開始，展示 ASUS 產品在 AI 訓練與推理方面的優越性。同時，積極參與其供應商招募活動，並與其合作的 SI 建立聯繫，尋求合作機會，逐步滲透其複雜的採購體系。"
     },
     {
-      "rank": 58,
+      "rank": 59,
       "company": "Pfizer",
       "region": "NA/美國(紐約)",
       "volume": "6,000-9,000 台 (估計)",
@@ -871,7 +886,7 @@
       "entryPoint": "**切入點:** 其位於格羅頓 (Groton) 的研發中心是關鍵，專注於 AI 驅動的藥物探索。**執行方式:** 透過 WWT 等合作夥伴，向其研發 IT 及 Center for Digital Innovation (CDI) 部門，提出以 Blackwell 架構的 ESC NB8-E11 或 AI POD 解決方案，用於加速其大規模 AI 模型訓練，並提供 PoC 進行效能驗證。"
     },
     {
-      "rank": 59,
+      "rank": 60,
       "company": "Lumen Technologies",
       "region": "美國(路易斯安那州門羅)",
       "volume": "5,000-10,000",
@@ -886,7 +901,7 @@
       "entryPoint": "Lumen的Bare Metal服務是關鍵切入點。他們需要為客戶提供多樣化的硬體選擇。ASUS可主動接觸其採購或技術部門，提供適用於邊緣運算的1U/2U通用伺服器(RS700/RS720系列)進行測試，並強調ASUS在AI伺服器(ESC系列)的完整佈局與效能優勢，滿足其AI應用需求。可先從少量多樣的專案訂單開始，逐步擴大合作。"
     },
     {
-      "rank": 60,
+      "rank": 61,
       "company": "Johnson & Johnson",
       "region": "NA/美國(新澤西)",
       "volume": "4,000-6,000 台 (估計)",
@@ -901,7 +916,7 @@
       "entryPoint": "**切入點:** 專注於其 J&J Innovative Medicine 部門的 HPC 和 AI 運算需求。**執行方式:** 透過 SHI 或 WWT 等在醫療領域有深厚經驗的 SI，向其研發 IT 部門推薦 ASUS 的 ESC N8-E11 (HGX) 或 ESC8000-E12，用於加速基因組定序或藥物篩選等工作負載。"
     },
     {
-      "rank": 61,
+      "rank": 62,
       "company": "Scale AI",
       "region": "美國",
       "volume": "約 1,000 - 2,000 台/年 (主要為雲端租用，少量本地採購)",
@@ -916,7 +931,7 @@
       "entryPoint": "建議從提供專為其特定 AI 工作負載（如大規模資料標註、RLHF）優化的客製化伺服器解決方案著手。可以先提供少量測試機，展示 ASUS 伺服器在處理其核心業務時的卓越效能與性價比，並強調 ASUS 的彈性供應鏈與快速客製化能力，以滿足其快速發展的業務需求。"
     },
     {
-      "rank": 62,
+      "rank": 63,
       "company": "Spotify Technology",
       "region": "美國營運(紐約/斯德哥爾摩)",
       "volume": "0 (完全使用公有雲)",
@@ -931,7 +946,7 @@
       "entryPoint": "目前沒有直接切入點。長期策略是與Spotify的技術團隊建立關係，了解其在雲端架構上的痛點（如成本、特定工作負載的效能瓶頸），並在他們考慮任何回歸自建或混合雲架構的可能性時，第一時間提出ASUS的整合解決方案，特別是針對AI和機器學習的高效能GPU伺服器。"
     },
     {
-      "rank": 63,
+      "rank": 64,
       "company": "Cerebras Systems",
       "region": "美國",
       "volume": "約 5,000 - 10,000 台/年 (估計值，基於其與OpenAI和AWS等的大規模合作案)",
@@ -946,7 +961,7 @@
       "entryPoint": "機會點在於其大規模資料中心部署所需的周邊伺服器，例如資料儲存、網路管理、系統監控等。ASUS 可提供高效能、高密度的儲存伺服器或通用型管理伺服器，並強調其在散熱、電源管理上的優勢，以滿足 Cerebras 大規模部署的穩定性與能效需求。可先從提供少量周邊伺服器進行測試，證明其產品的可靠性與性價比。"
     },
     {
-      "rank": 64,
+      "rank": 65,
       "company": "SambaNova Systems",
       "region": "美國",
       "volume": "約 3,000 - 6,000 台/年 (估計值，基於其融資規模與市場擴展計畫)",
@@ -961,7 +976,7 @@
       "entryPoint": "機會點可能在於其非核心的基礎設施，例如資料儲存、網路交換器周邊的管理伺服器。ASUS 可以嘗試提供高密度、低功耗的儲存或管理伺服器方案，並強調其在系統整合與客製化方面的彈性。另一個潛在機會是，在其與 Intel 合作的框架下，尋找可以補充其方案的利基產品，例如特定用途的加速卡或特殊規格的伺服器。"
     },
     {
-      "rank": 65,
+      "rank": 66,
       "company": "Groq",
       "region": "美國",
       "volume": "約 8,000 - 15,000 台/年 (估計值，基於其快速擴張的資料中心計畫與市場需求)",
@@ -976,7 +991,7 @@
       "entryPoint": "機會點在於其大規模擴展資料中心所需的基礎設施，包括機櫃、電源、散熱解決方案，以及大量的管理和儲存伺服器。ASUS 可以提供高密度、易於部署的機架解決方案，並整合高效的電源與散熱管理系統。同時，提供客製化的管理伺服器，以滿足 Groq 對其大規模叢集進行高效監控與維護的需求，是可能的切入點。"
     },
     {
-      "rank": 66,
+      "rank": 67,
       "company": "Target",
       "region": "美國",
       "volume": "約 25,000 台/年",
@@ -991,7 +1006,7 @@
       "entryPoint": "切入點是其在邊緣運算和生成式 AI 的投入。Target 在門市部署了強大的運算平台，並開發了名為 Store Companion 的 AI 助理。可以針對其邊緣運算需求，提供適合零售環境的伺服器解決方案，強調其管理性、低噪音和高能源效率。同時，可提供搭載 NVIDIA GPU 的 AI 伺服器，協助其優化 Store Companion 等 AI 應用的推論效能，透過提供 POC 測試和顧問服務，展現 ASUS 的技術實力與合作價值。"
     },
     {
-      "rank": 67,
+      "rank": 68,
       "company": "Iris Energy",
       "region": "北美/加拿大、美國",
       "volume": "約 20,000 - 30,000 台/年 (基於其公開的 GPU 採購量和資料中心擴展計畫估算)",
@@ -1006,7 +1021,7 @@
       "entryPoint": "以 ASUS 最新的 NVIDIA Blackwell 架構伺服器 (ESC NB8-E11) 及 GB200 NVL72 AI POD 解決方案作為切入點，強調 ASUS 在主機板設計和散熱技術的領先優勢。主動提供樣機進行效能和功耗測試 (Proof of Concept)，並展示 ASUS 供應鏈的彈性，以滿足其快速擴展的部署時程。"
     },
     {
-      "rank": 68,
+      "rank": 69,
       "company": "Charles Schwab",
       "region": "美國",
       "volume": "約 15,000 台/年",
@@ -1021,7 +1036,7 @@
       "entryPoint": "Charles Schwab 提供 API 整合平台，可以開發針對其平台的管理工具，讓客戶可以透過單一介面管理 ASUS 伺服器。此外，可以與其合作的系統整合商 (SI) 建立合作關係，透過 SI 的通路將 ASUS 伺服器導入其客戶群。"
     },
     {
-      "rank": 69,
+      "rank": 70,
       "company": "CVS Health",
       "region": "美國",
       "volume": "約 15,000 台/年",
@@ -1036,7 +1051,7 @@
       "entryPoint": "切入點為其與 Google Cloud 合作的 AI 平台，以及龐大的數據分析需求。可主動提出基於 ASUS AI 伺服器 (如 ESC8000-E12) 的 POC (概念驗證) 專案，展示在特定 AI 模型訓練或推論場景下的效能優勢與 TCO (總體擁有成本) 節省效益，並強調 ASUS 的供應鏈彈性與快速客製化能力，滿足其特定業務需求。"
     },
     {
-      "rank": 70,
+      "rank": 71,
       "company": "Boeing",
       "region": "美國",
       "volume": "約 15,000 - 25,000 台/年 (基於其龐大的工程設計、模擬、製造與全球服務業務，此為保守估計)",
@@ -1051,7 +1066,7 @@
       "entryPoint": "最佳切入點是其「智慧工廠」及「自動化」等創新領域。這些新興應用需要大量的邊緣運算及 AI 推理能力，為新供應商提供了機會。可以與 WWT 合作，將 ASUS 的邊-緣運算伺服器 (如 ESC4000-E11) 整合到其解決方案中，提供給波音進行試點。另外，針對其工程模擬與分析部門，提供搭載最新 AMD EPYC 處理器的高效能運算伺服器 (如 RS720A-E12)，展示在特定 CAE/CFD 工作負載下的效能優勢，爭取小規模訂單，建立成功案例。"
     },
     {
-      "rank": 71,
+      "rank": 72,
       "company": "UPS",
       "region": "美國",
       "volume": "約 12,000 - 20,000 台/年 (估計)",
@@ -1066,7 +1081,7 @@
       "entryPoint": "UPS 的 Harmonized Enterprise Analytics Tool (HEAT) 平台處理超過 10 億個數據點，需要強大的運算能力。可提供針對性的高效能運算（HPC）及 AI 伺服器。另外，其全球物流網絡中的邊緣運算節點也是一個潛在的切入機會。"
     },
     {
-      "rank": 72,
+      "rank": 73,
       "company": "Zoom Video Communications",
       "region": "加州(聖荷西)",
       "volume": "約 8,000-12,000 台/年",
@@ -1081,7 +1096,7 @@
       "entryPoint": "從 AI 推理場景切入，提供 ESC4000-E11 進行 POC 測試，展示在語音轉文字和會議摘要場景的效能優勢"
     },
     {
-      "rank": 73,
+      "rank": 74,
       "company": "Northrop Grumman",
       "region": "NA/美國(維吉尼亞州福爾斯徹奇)",
       "volume": "7,000-12,000 台 (估計)",
@@ -1096,7 +1111,22 @@
       "entryPoint": "**切入點:** 專注於其非核心的 IT 基礎設施現代化，或作為二線供應商，為其合作夥伴提供伺服器元件或基礎平台。**執行方式:** 透過與 Leidos 等整合商的合作，了解其在政府專案中對 COTS 伺服器的需求，提供 ASUS 的標準伺服器進行評估，並表達願意投入資源進行必要的強固化與安全認證。"
     },
     {
-      "rank": 74,
+      "rank": 75,
+      "company": "Micron Technology",
+      "region": "美國",
+      "volume": "約 3,000 - 8,000 台/年 (估計)。Micron 擁有多座半導體晶圓廠（Boise, Manassas VA 等），半導體製造需要大量伺服器支援 EDA 設計、製程模擬、AI 品質檢測、MES 系統等。正在大力投資 AI 用於半導體製造。",
+      "platform": "Intel Xeon / AMD EPYC 雙平台，2U/4U 通用伺服器與 GPU 伺服器。AI 伺服器用於半導體製程 AI 優化、EDA 模擬、HBM 設計驗證。高效能運算 (HPC) 需求顯著。",
+      "application": "半導體製造（DRAM/NAND/HBM）、EDA 電子設計自動化、製程模擬與優化、AI 品質檢測、企業 IT、研發運算。FY2025 營收 $29.1B，資料中心業務佔 56%。",
+      "currentSuppliers": "Dell, HPE, Supermicro",
+      "odmOem": "OEM",
+      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720-E11/RS720A-E12, AI 8GPU: ESC N8-E11, WS: WS880T",
+      "channel": "直供 + SI/DIST: CDW (https://www.cdw.com), SHI International (https://www.shi.com)",
+      "difficulty": 6,
+      "challenges": "Micron 作為半導體大廠，對伺服器的可靠性與效能要求極高，尤其在 EDA 與製程模擬方面。其 IT 採購有嚴格的供應商認證流程。但 Micron 與 ASUS 在記憶體供應鏈上有長期合作關係，這是重要的互惠基礎。",
+      "entryPoint": "ASUS 大量採購 Micron 記憶體產品（DRAM/SSD），可利用此互惠關係推動伺服器合作。從 AI 伺服器切入（Micron 正在大力投資 AI 用於半導體製造），搭配 ASUS 伺服器搭載 Micron HBM/DDR5 的整合方案。透過 CDW 或 SHI 進行推廣，並安排高層互訪建立策略夥伴關係。"
+    },
+    {
+      "rank": 76,
       "company": "Merck & Co",
       "region": "NA/美國(新澤西)",
       "volume": "5,000-7,000 台 (估計)",
@@ -1111,7 +1141,7 @@
       "entryPoint": "**切入點:** 鎖定其位於波士頓的研發中心和新成立的生成式 AI 團隊。**執行方式:** 透過 WWT 或 SHI 等 SI，向其 IT 採購及研發部門介紹 ASUS 的 AI 伺服器及 AI POD 解決方案，爭取在新專案中進行評估和測試，特別是針對其藥物探索的特定演算法。"
     },
     {
-      "rank": 75,
+      "rank": 77,
       "company": "Procter & Gamble (P&G)",
       "region": "NA/美國(俄亥俄州辛辛那提)",
       "volume": "3,000-5,000 台 (估計)",
@@ -1126,7 +1156,7 @@
       "entryPoint": "**切入點:** 專注於其智慧製造工廠的邊緣運算 (Edge Computing) 需求，以及供應鏈數據分析的本地前處理節點。**執行方式:** 透過大型 SI (如 CDW)，向其 IT 維運部門推薦 ASUS 的通用機架式伺服器，作為其混合雲架構的本地節點，並提供 PoC 測試。"
     },
     {
-      "rank": 76,
+      "rank": 78,
       "company": "Block (Square)",
       "region": "美國",
       "volume": "約 1,000-2,000 台/年 (估計)。Block 運行混合雲架構，同時使用自有數據中心和公有雲 (主要是 AWS)。他們持續投資自有基礎設施，特別是針對支付處理和 AI 應用。",
@@ -1141,7 +1171,7 @@
       "entryPoint": "Block 是北美首批宣布部署 NVIDIA GB200 的公司之一，這是一個極佳的切入點。可以主動聯繫其基礎設施或 AI 團隊，提供 ASUS 對應的 Blackwell AI 解決方案 (ESC NB8-E11, GB200 NVL72 POD)，強調供貨能力、客製化彈性及散熱解決方案的優勢。同時，可以提供高效能的通用伺服器方案 (RS720 系列)，協助他們在自有數據中心處理非 AI 的工作負載，以降低對 AWS 的依賴及成本。"
     },
     {
-      "rank": 77,
+      "rank": 79,
       "company": "Palo Alto Networks",
       "region": "美國",
       "volume": "約 1,000 - 2,000 台/年 (主要為內部研發及雲端服務後端支撐)",
@@ -1156,7 +1186,7 @@
       "entryPoint": "幾乎沒有直接向 Palo Alto Networks 銷售大量通用伺服器的機會。唯一的切入點是尋求技術合作，將 ASUS 的伺服器管理軟體 (如 ASMB) 與 Palo Alto 的安全平台進行整合，提供更全面的資料中心安全可視性。執行上，需要透過其技術合作夥伴計畫，展示雙方整合能為客戶帶來的價值，例如提升裸機伺服器的安全性。這是一個長期且需要高度技術投入的策略。"
     },
     {
-      "rank": 78,
+      "rank": 80,
       "company": "Epic Games",
       "region": "美國(北卡羅來納州卡里)",
       "volume": "0 (完全使用公有雲)",
@@ -1171,7 +1201,7 @@
       "entryPoint": "目前沒有直接切入點。鑑於遊戲產業對低延遲和高效能的極致要求，若未來Epic Games為特定市場或應用（如電競比賽、VR/AR內容開發）考慮部署邊緣運算節點或私有雲，ASUS可提供高效能、低延遲的伺服器解決方案。長期策略是關注其技術動向，並在出現混合雲需求時迅速反應。"
     },
     {
-      "rank": 79,
+      "rank": 81,
       "company": "Applied Digital (APLD)",
       "region": "北美/美國",
       "volume": "約 15,000 - 25,000 台/年 (基於其資料中心容量和 AI 雲端服務擴展計畫估算)",
@@ -1186,7 +1216,7 @@
       "entryPoint": "由於直接取代 Supermicro 的難度極高，建議從利基市場或下一代技術切入。例如，針對其 HPC 應用，推廣採用 AMD EPYC 處理器的 RS720A-E12 2U 伺服器，強調其核心數和性價比優勢。同時，持續介紹 ASUS 在下一代 GPU 平台 (如 GB200) 上的研發進展，尋找在新技術導入時的合作機會。"
     },
     {
-      "rank": 80,
+      "rank": 82,
       "company": "Raytheon (RTX)",
       "region": "美國",
       "volume": "約 7,000 - 11,000 台/年 (此為基於其作為大型國防承包商，在國防、航空與網路安全領域有大量數據處理與模擬需求的估計)",
@@ -1201,7 +1231,7 @@
       "entryPoint": "可以從其子公司 Collins Aerospace 的數位轉型計畫著手，該公司在航空電子與通訊領域有大量嵌入式系統與軟體開發需求。提供高可靠度的邊緣運算伺服器或開發測試平台，可能是個不錯的切入點。另外，針對其在 AI 與網路安全的研發單位，提供高效能的 GPU 伺服器進行效能評測 (POC)，展示 ASUS 產品在特定工作負載下的優勢，爭取小規模訂單，再逐步擴大合作。"
     },
     {
-      "rank": 81,
+      "rank": 83,
       "company": "CrowdStrike",
       "region": "美國",
       "volume": "約 1,000 - 3,000 台/年 (用於全球雲端基礎設施擴展)",
@@ -1216,7 +1246,7 @@
       "entryPoint": "切入點是直接與其基礎設施採購團隊或技術營運部門建立聯繫。執行上，ASUS 可以提供少量伺服器進行 PoC (概念驗證) 測試，讓 CrowdStrike 的工程師親身體驗其產品的效能與管理介面。同時，可以強調 ASUS 在全球的供應鏈彈性與支援能力，確保能滿足其全球快速擴展的需求。與其在公有雲上的合作夥伴 (如 AWS) 建立關係，提供混合雲解決方案也可能是一個機會點。"
     },
     {
-      "rank": 82,
+      "rank": 84,
       "company": "Fastly",
       "region": "美國",
       "volume": "約 5,000 - 8,000 台/年 (根據 2025 年資本支出估算)",
@@ -1231,7 +1261,7 @@
       "entryPoint": "可以從 Fastly 的邊緣計算平台著手，提供針對特定工作負載優化的伺服器解決方案。例如，為其 WebAssembly 環境 (Compute@Edge) 提供高效能、低延遲的伺服器。同時，可以與 Fastly 的技術合作夥伴 (Technology Partners) 建立關係，共同推動解決方案的整合與驗證。此外，可以提供靈活的供應鏈和快速的交付能力，以滿足 Fastly 在全球快速部署 POPs 的需求。"
     },
     {
-      "rank": 83,
+      "rank": 85,
       "company": "General Motors",
       "region": "美國",
       "volume": "約 30,000 - 50,000 台/年 (此為基於其龐大的全球業務、自動駕駛研發、智慧製造以及正在興建的多個大型資料中心，包括耗資 2.58 億美元的密西根資料中心和計畫中 80 億美元的 Janesville 超大規模資料中心園區，所做出的高潛力估計)",
@@ -1246,7 +1276,7 @@
       "entryPoint": "最佳切入點是其新建的超大規模資料中心專案。可直接與 GM 的基礎設施平台團隊聯繫，提出具備高度擴展性與成本效益的整機櫃 (Rack-Scale) 解決方案，特別是針對其 AI/ML 工作負載，提供基於最新 NVIDIA Blackwell 架構的 AI POD 解決方案 (如 ASUS AI POD GB200/GB300 NVL72)。同時，強調 ASUS 作為台灣廠商，在供應鏈安全與地緣政治風險上的優勢，以符合其供應鏈轉移的戰略目標。可先從提供少量機櫃進行 POC 測試開始，證明其效能、穩定性與管理性，爭取成為其新資料中心的主要供應商之一。"
     },
     {
-      "rank": 84,
+      "rank": 86,
       "company": "Elevance Health (Anthem)",
       "region": "美國",
       "volume": "約 8,000 台/年",
@@ -1261,7 +1291,7 @@
       "entryPoint": "切入點是其持續推動的數位化轉型和數據整合平台。可以與 Elevance Systems 接觸，提供 ASUS 伺服器作為其私有雲或混合雲解決方案的硬體選項，強調 ASUS 伺服器在虛擬化環境下的效能、密度與能源效率。執行上，可先提供測試機讓 Elevance Systems 進行內部評估，並提供完整的技術支援與解決方案架構建議，證明 ASUS 能成為其可靠的基礎設施合作夥伴。"
     },
     {
-      "rank": 85,
+      "rank": 87,
       "company": "Home Depot",
       "region": "美國",
       "volume": "約 8,000 - 12,000 台/年 (估計)",
@@ -1276,7 +1306,7 @@
       "entryPoint": "針對其 2,300+ 的邊緣據點（分店）提供優化的邊緣運算伺服器。同時，可針對其 AI 應用提供高效能的 GPU 伺服器，並與其現有的 Google Cloud 平台無縫對接。"
     },
     {
-      "rank": 86,
+      "rank": 88,
       "company": "Instacart",
       "region": "加州(舊金山)",
       "volume": "約 5,000-8,000 台/年",
@@ -1291,7 +1321,7 @@
       "entryPoint": "從其 AI 推薦系統的推理節點切入，提供 ESC4000-E11 進行 POC 測試，展示在 AI 推理場景的 TCO 優勢"
     },
     {
-      "rank": 87,
+      "rank": 89,
       "company": "Twilio",
       "region": "美國(舊金山)",
       "volume": "5,000-10,000",
@@ -1306,7 +1336,7 @@
       "entryPoint": "Twilio在全球擁有多個邊緣節點（Edge Locations），這是ASUS可以切入的機會點。針對這些地理分散的節點，提供標準化、易於部署和遠端管理的1U/2U通用伺服器（如RS700/RS720系列），強調其高密度、低功耗和高可靠性，以降低其全球維運的複雜度和成本。"
     },
     {
-      "rank": 88,
+      "rank": 90,
       "company": "L3Harris Technologies",
       "region": "NA/美國(佛羅里達州墨爾本)",
       "volume": "5,000-8,000 台 (估計)",
@@ -1321,7 +1351,7 @@
       "entryPoint": "**切入點:** 專注於其基礎設施管理服務 (Infrastructure Managed Services) 或網路營運中心 (NOC) 的商業 IT 需求。**執行方式:** 透過與 Leidos 等大型國防整合商合作，將 ASUS 的標準伺服器產品作為其向 L3Harris 提供的整體解決方案的一部分，用於後端支援或開發環境。"
     },
     {
-      "rank": 89,
+      "rank": 91,
       "company": "Ford Motor Company",
       "region": "美國",
       "volume": "約 25,000 - 40,000 台/年 (此為基於其全球營運規模、對 AI 和連網汽車的大力投資，以及近期進入資料中心備用電池儲存業務所做的估計)",
@@ -1336,7 +1366,7 @@
       "entryPoint": "最佳切入點是其 AI 平台產品團隊，該團隊負責 MLOps 和混合基礎設施策略。可以提供高效能的 AI 伺服器 (如 ASUS ESC8000A-E13) 進行 POC 測試，展示其在模型訓練和推理方面的卓越效能。此外，福特新成立的電池儲能業務，旨在為資料中心提供備用電源，這也提供了一個獨特的合作機會。可以探討將 ASUS 的伺服器與其電池儲能解決方案相結合，提供一個整合的、高效的資料中心基礎設施方案，共同開拓市場。"
     },
     {
-      "rank": 90,
+      "rank": 92,
       "company": "Epic Systems",
       "region": "美國",
       "volume": "約 12,000 台/年 (主要為其客戶採購)",
@@ -1351,7 +1381,7 @@
       "entryPoint": "切入點是取得 Epic 軟體的官方硬體認證。執行上，需要成立專門團隊，與 Epic 的技術部門對接，投入工程資源進行長時間的相容性測試與效能調校。一旦取得認證，即可透過醫療領域的系統整合商 (SI) 或直接向 Epic 的客戶 (大型醫院、診所) 推廣 ASUS 伺服器解決方案，並以更具競爭力的價格或更佳的客製化服務作為誘因。"
     },
     {
-      "rank": 91,
+      "rank": 93,
       "company": "Cipher Mining",
       "region": "美國",
       "volume": "約 8,000 - 15,000 台/年 (主要為 AI 伺服器)",
@@ -1366,7 +1396,7 @@
       "entryPoint": "切入點為其與 AWS 和 Fluidstack 的合作案，以及在德州新建的資料中心。執行上，可提出基於 OCP 標準的客製化伺服器方案，並提供液冷等先進散熱技術，以應對德州炎熱氣候下的散熱挑戰，同時提升能源效率。"
     },
     {
-      "rank": 92,
+      "rank": 94,
       "company": "SAIC (Science Applications International Corporation)",
       "region": "NA/美國(維吉尼亞州雷斯頓)",
       "volume": "8,000-12,000 台 (估計，包含為其客戶採購)",
@@ -1381,7 +1411,7 @@
       "entryPoint": "**切入點:** 成為 SAIC 的認證供應商，專注於其在數據分析、AI 和多雲整合服務中所需的硬體。**執行方式:** 聯繫其供應商管理部門並完成註冊。針對其在 OASIS+ 等合約載具上的專案，主動提供基於 ASUS 伺服器的解決方案，以高效能 GPU 伺服器或高密度運算節點作為差異化優勢。"
     },
     {
-      "rank": 93,
+      "rank": 95,
       "company": "Costco",
       "region": "美國",
       "volume": "約 5,000 - 8,000 台/年 (估計)",
@@ -1396,7 +1426,7 @@
       "entryPoint": "從其快速增長的電商及數據分析業務著手，提供高效能的 AI/ML 解決方案。可先從部門級或邊緣運算等小型專案開始，建立成功案例後再逐步擴大。"
     },
     {
-      "rank": 94,
+      "rank": 96,
       "company": "John Deere",
       "region": "美國",
       "volume": "約 3,000 - 5,000 台/年",
@@ -1411,7 +1441,7 @@
       "entryPoint": "切入點為其在精準農業與自動駕駛領域的龐大運算需求。執行上，可透過與 NVIDIA 的合作關係，共同向 John Deere 的研發部門推薦 ASUS 的 AI 伺服器，並提供樣機進行測試，展示其在處理複雜 AI 模型上的優異性能與穩定性。"
     },
     {
-      "rank": 95,
+      "rank": 97,
       "company": "Kroger",
       "region": "美國",
       "volume": "約 4,000 - 7,000 台/年 (估計)",
@@ -1426,7 +1456,7 @@
       "entryPoint": "與 Deloitte 等 SI 合作，將 ASUS 伺服器整合到他們為 Kroger 設計的解決方案中。另外，可針對 Kroger 眾多實體店的邊緣運算需求，提供客製化的硬體方案。"
     },
     {
-      "rank": 96,
+      "rank": 98,
       "company": "Leidos",
       "region": "NA/美國(維吉尼亞州雷斯頓)",
       "volume": "10,000-15,000 台 (估計，包含為其客戶採購)",
@@ -1441,7 +1471,7 @@
       "entryPoint": "**切入點:** 成為 Leidos 的認證供應商，專注於其 AI 數據中心和電網整合等新興業務領域。**執行方式:** 主動聯繫其採購部門，完成供應商註冊流程。針對其公開的專案需求，提供基於 ASUS 伺服器的解決方案，特別是在需要高密度 GPU 或特定硬體配置的場景，展示 ASUS 的客製化能力和快速交付優勢。"
     },
     {
-      "rank": 97,
+      "rank": 99,
       "company": "Caterpillar",
       "region": "美國",
       "volume": "約 2,000 - 4,000 台/年",
@@ -1456,7 +1486,7 @@
       "entryPoint": "切入點為其與 NVIDIA 的合作，以及其在資料中心備用電源市場的領導地位。執行上，可主動提出搭載最新 NVIDIA GPU 的 ASUS AI 伺服器方案，並強調其能源效率，協助 Caterpillar 降低其內部資料中心及客戶資料中心的營運成本。"
     },
     {
-      "rank": 98,
+      "rank": 100,
       "company": "3M",
       "region": "美國",
       "volume": "約 1,500 - 2,500 台/年",
@@ -1469,36 +1499,6 @@
       "difficulty": 8,
       "challenges": "3M 作為一家歷史悠久的製造業巨頭，其 IT 採購流程相對保守，對新供應商的審核嚴格。克服方式為，利用 3M 自身也是資料中心解決方案供應商的角色，尋求在散熱、連接等技術上合作的機會，進而推廣 ASUS 的伺服器產品。",
       "entryPoint": "切入點為其在材料科學領域的研發需求，以及其對資料中心能源效率的關注。執行上，可以提供搭載先進散熱技術的 ASUS 伺服器，並提供客製化的 HPC 解決方案，以滿足其在科學計算與模擬上的高效能需求。"
-    },
-    {
-      "rank": 99,
-      "company": "Intuit",
-      "region": "美國",
-      "volume": "約 0-500 台/年 (估計)。Intuit 已於 2018 年左右將其主要基礎設施遷移至 AWS，並出售了其自有的數據中心。因此，他們不再進行大規模的伺服器硬體採購，剩餘的少量採購可能用於測試、開發或極少數的本地化需求。",
-      "platform": "主要透過 AWS 使用其提供的各種通用 (Intel/AMD) 及 AI (NVIDIA) 伺服器實例。無直接採購特定機型。",
-      "application": "運行其所有核心產品，包括 QuickBooks, TurboTax, Credit Karma, Mailchimp，以及其內部的 GenAI 平台 (GenOS) 和機器學習模型。",
-      "currentSuppliers": "Amazon Web Services (AWS)",
-      "odmOem": "N/A (透過雲端服務商)",
-      "asusModel": "N/A (因其主要使用雲端服務)",
-      "channel": "直供 + SI/DIST",
-      "difficulty": 10,
-      "challenges": "Intuit 已經是「全雲端」的客戶，幾乎不直接採購硬體，這使得傳統的伺服器銷售模式完全無效。要克服此點，唯一的可能性是從其極度專業化的 AI/ML 研發需求著手，提供 AWS 上沒有的、或成本效益極高的特定 AI 硬體解決方案 (如專用 ASIC 或新一代 GPU)，但這需要極高的技術門檻和客製化能力。",
-      "entryPoint": "切入點在於其對生成式 AI (GenAI) 的大量投入，他們開發了自家的 GenOS 平台。可以嘗試與其 AI 研發團隊接觸，提供最新的 AI 伺服器硬體 (如 ASUS 的 Blackwell 系列 AI POD) 進行效能評測 (Benchmark)，證明在特定模型訓練或推理上，擁有專用硬體比單純使用 AWS 更具效能與成本優勢。這是一個顧問式銷售，目標是讓他們考慮為最核心的 AI 工作負載建立一個小型的、高效的私有 AI 雲。"
-    },
-    {
-      "rank": 100,
-      "company": "Airbnb",
-      "region": "美國",
-      "volume": "幾乎為 0。Airbnb 是 AWS 的重度使用者，其絕大部分基礎設施都建立在 AWS 之上，因此幾乎不採購實體伺服器。",
-      "platform": "完全基於 AWS 雲端服務，主要使用 Amazon EC2 進行運算，Amazon S3 進行儲存，Amazon RDS 管理資料庫。近年來也大量導入 Kubernetes 和無伺服器架構（Serverless）。",
-      "application": "支撐全球房源預訂平台、用戶數據分析、機器學習（例如價格預測、搜尋排名）、圖片儲存與處理、內部營運系統等。",
-      "currentSuppliers": "Amazon Web Services (AWS)",
-      "odmOem": "不適用，因為其基礎設施完全在雲端。",
-      "asusModel": "不適用。",
-      "channel": "直供 + SI/DIST",
-      "difficulty": 10,
-      "challenges": "Airbnb 是「雲原生」企業的典型代表，完全依賴公有雲，沒有採購實體伺服器的需求。因此，傳統的伺服器銷售模式完全無法切入。唯一的可能性是，如果未來 Airbnb 有超大規模的特定 AI 訓練需求，且雲端 GPU 成本過高，才可能考慮自建或租用專屬的 AI 計算叢集，但這在短期內可能性極低。",
-      "entryPoint": "沒有直接的硬體銷售切入點。可以嘗試從軟體或服務層面合作，例如提供在 AWS 上運行的特定優化軟體，或是與其基礎設施團隊進行技術交流，了解他們在雲端使用上的痛點，尋找間接的合作機會。但要直接銷售伺服器給 Airbnb，幾乎是不可能的任務。"
     }
   ],
   "asusProducts": [
