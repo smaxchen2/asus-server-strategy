@@ -14,6 +14,8 @@ import {
   TrendingUp,
   Zap,
   Globe,
+  User,
+  Link as LinkIcon,
 } from "lucide-react";
 
 type SortField = "rank" | "difficulty" | "company";
@@ -46,25 +48,29 @@ function DifficultyBar({ score }: { score: number }) {
   );
 }
 
-/* ─── Expanded Row ─── */
+/* ─── Expanded Row with new fields ─── */
 function ExpandedRow({ company, regionKey }: { company: Company; regionKey: string }) {
   const basePath = regionKey === "na" ? "" : `/region/${regionKey}`;
+  const kp = company.keyPerson;
+  const siDist = company.siDist;
+  const volSrc = company.volumeSource;
+
   return (
     <tr>
       <td colSpan={7} className="p-0">
         <div className="bg-muted/30 border-t border-b border-border">
-          <div className="grid grid-cols-1 lg:grid-cols-3 gap-px bg-border">
-            <div className="bg-white p-5 space-y-4">
+          <div className="grid grid-cols-1 lg:grid-cols-4 gap-px bg-border">
+            {/* Column 1: Basic Info */}
+            <div className="bg-white p-5 space-y-3">
               <InfoBlock label="伺服器機型及平台架構" value={company.platform} />
               <InfoBlock label="伺服器應用" value={company.application} />
               <InfoBlock label="目前供應商" value={company.currentSuppliers} />
-            </div>
-            <div className="bg-white p-5 space-y-4">
               <InfoBlock label="ODM/OEM" value={company.odmOem} />
               <InfoBlock label="ASUS 對應型號" value={company.asusModel} />
-              <InfoBlock label="直供/SI/DIST" value={company.channel} />
             </div>
-            <div className="bg-white p-5 space-y-4">
+
+            {/* Column 2: Strategy */}
+            <div className="bg-white p-5 space-y-3">
               <div>
                 <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-red-600 mb-1.5">困難點及如何克服</div>
                 <p className="text-xs leading-relaxed text-foreground/80">{company.challenges}</p>
@@ -72,6 +78,76 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
               <div>
                 <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-emerald-600 mb-1.5">切入點及如何執行</div>
                 <p className="text-xs leading-relaxed text-foreground/80">{company.entryPoint}</p>
+              </div>
+            </div>
+
+            {/* Column 3: SI/DIST + Volume Source */}
+            <div className="bg-white p-5 space-y-3">
+              <div>
+                <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1.5">
+                  直供/SI/DIST 通路
+                </div>
+                <p className="text-xs font-medium mb-2">{company.channel}</p>
+                {siDist && siDist.length > 0 && (
+                  <div className="space-y-1.5">
+                    {siDist.map((s, i) => (
+                      <div key={i} className="flex items-center gap-1.5">
+                        <span className={`text-[9px] px-1.5 py-0.5 font-semibold ${
+                          s.type === "SI" ? "bg-blue-100 text-blue-700" : "bg-purple-100 text-purple-700"
+                        }`}>{s.type}</span>
+                        {s.website ? (
+                          <a href={s.website} target="_blank" rel="noopener noreferrer"
+                            className="text-xs text-primary hover:underline flex items-center gap-0.5">
+                            {s.name} <ExternalLink className="w-2.5 h-2.5" />
+                          </a>
+                        ) : (
+                          <span className="text-xs">{s.name}</span>
+                        )}
+                      </div>
+                    ))}
+                  </div>
+                )}
+              </div>
+              {volSrc && (
+                <div>
+                  <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1.5">
+                    採購量數據來源
+                  </div>
+                  <a href={volSrc} target="_blank" rel="noopener noreferrer"
+                    className="text-xs text-primary hover:underline flex items-center gap-1 break-all">
+                    <LinkIcon className="w-3 h-3 flex-shrink-0" />
+                    {truncate(volSrc.replace(/^https?:\/\//, ""), 50)}
+                  </a>
+                </div>
+              )}
+            </div>
+
+            {/* Column 4: Key Person */}
+            <div className="bg-white p-5 space-y-3">
+              <div>
+                <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1.5">
+                  <span className="flex items-center gap-1"><User className="w-3 h-3" /> Key Person</span>
+                </div>
+                {kp && kp.name ? (
+                  <div className="space-y-1">
+                    <p className="text-sm font-semibold">{kp.name}</p>
+                    <p className="text-xs text-muted-foreground">{kp.title}</p>
+                    {kp.linkedin && (
+                      <a href={kp.linkedin} target="_blank" rel="noopener noreferrer"
+                        className="inline-flex items-center gap-1 text-xs text-blue-600 hover:underline mt-1">
+                        <svg className="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+                          <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+                        </svg>
+                        LinkedIn Profile
+                      </a>
+                    )}
+                    {kp.source && !kp.linkedin && (
+                      <p className="text-[10px] text-muted-foreground mt-1">來源: {kp.source}</p>
+                    )}
+                  </div>
+                ) : (
+                  <p className="text-xs text-muted-foreground italic">資訊待更新</p>
+                )}
               </div>
             </div>
           </div>
@@ -171,7 +247,9 @@ export default function Home() {
           c.asusModel.toLowerCase().includes(q) ||
           c.platform.toLowerCase().includes(q) ||
           c.challenges.toLowerCase().includes(q) ||
-          c.entryPoint.toLowerCase().includes(q)
+          c.entryPoint.toLowerCase().includes(q) ||
+          (c.keyPerson?.name || "").toLowerCase().includes(q) ||
+          (c.siDist || []).some((s) => s.name.toLowerCase().includes(q))
       );
     }
 
@@ -343,7 +421,7 @@ export default function Home() {
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted-foreground" />
             <input
               type="text"
-              placeholder="搜尋企業名稱、區域、應用、供應商、ASUS 型號、困難點、切入策略..."
+              placeholder="搜尋企業名稱、區域、應用、供應商、ASUS 型號、SI/DIST、Key Person..."
               value={search}
               onChange={(e) => setSearch(e.target.value)}
               className="w-full pl-10 pr-10 py-2.5 text-sm border border-border bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all"
@@ -390,7 +468,7 @@ export default function Home() {
                 <SortableHeader label="企業名稱" field="company" current={sortField} dir={sortDir} onClick={toggleSort} width="min-w-[200px]" />
                 <th className="text-left text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground px-3 py-3">區域</th>
                 <th className="text-left text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground px-3 py-3 min-w-[140px]">年採購量</th>
-                <th className="text-left text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground px-3 py-3">ODM/OEM</th>
+                <th className="text-left text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground px-3 py-3">通路</th>
                 <SortableHeader label="難易度" field="difficulty" current={sortField} dir={sortDir} onClick={toggleSort} width="w-28" />
                 <th className="text-left text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground px-3 py-3 w-8" />
               </tr>
@@ -408,7 +486,7 @@ export default function Home() {
                     </td>
                     <td className="px-3 py-3 text-xs text-muted-foreground">{company.region}</td>
                     <td className="px-3 py-3 text-xs text-muted-foreground">{truncate(company.volume, 40)}</td>
-                    <td className="px-3 py-3 text-xs text-muted-foreground">{company.odmOem}</td>
+                    <td className="px-3 py-3 text-xs text-muted-foreground">{company.channel}</td>
                     <td className="px-3 py-3"><DifficultyBar score={company.difficulty} /></td>
                     <td className="px-3 py-3">
                       {expandedRow === company.rank ? (
@@ -537,7 +615,8 @@ function SortableHeader({
   );
 }
 
-function truncate(text: string, maxLen: number) {
+function truncate(text: string | undefined | null, maxLen: number) {
+  if (!text) return "—";
   if (text.length <= maxLen) return text;
   return text.slice(0, maxLen) + "…";
 }

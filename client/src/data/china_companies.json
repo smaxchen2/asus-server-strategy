@@ -16,7 +16,21 @@
       "channel": "直供",
       "difficulty": 7,
       "challenges": "字節跳動採購量極大，對價格與交期要求嚴格。已有成熟的 ODM 合作關係。部分自行設計伺服器。BIS 限制可能影響 GPU 供應。",
-      "entryPoint": "從火山引擎雲服務的 GPU 伺服器需求切入。字節跳動正在大力投資 AI 大模型，GPU 伺服器需求急增。ASUS ESC N8 系列的交期與性價比優勢可切入。"
+      "entryPoint": "從火山引擎雲服務的 GPU 伺服器需求切入。字節跳動正在大力投資 AI 大模型，GPU 伺服器需求急增。ASUS ESC N8 系列的交期與性價比優勢可切入。",
+      "keyPerson": {
+        "name": "梁汝波 (Liang Rubo)",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/company/bytedance",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.reuters.com/technology/bytedance-2024-revenue-grew-about-40-information-reports-2025-01-07/"
     },
     {
       "rank": 2,
@@ -31,7 +45,21 @@
       "channel": "直供",
       "difficulty": 8,
       "challenges": "阿里雲自行設計部分伺服器（含自研 ARM 晶片），對 ODM 客製化能力要求極高。採購體系龐大且成熟。",
-      "entryPoint": "從阿里雲的 GPU 伺服器需求切入，通義千問大模型訓練需要大量 GPU 伺服器。ASUS 可提供 ESC 系列的 ODM 合作方案。"
+      "entryPoint": "從阿里雲的 GPU 伺服器需求切入，通義千問大模型訓練需要大量 GPU 伺服器。ASUS 可提供 ESC 系列的 ODM 合作方案。",
+      "keyPerson": {
+        "name": "吳泳銘 (Eddie Wu)",
+        "title": "CEO Alibaba Cloud",
+        "linkedin": "https://www.linkedin.com/company/alibaba-cloud-computing-company",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.alibabagroup.com/en-US/ir"
     },
     {
       "rank": 3,
@@ -46,7 +74,21 @@
       "channel": "直供",
       "difficulty": 8,
       "challenges": "騰訊採購體系龐大，對價格與交期要求嚴格。已有成熟的 ODM 合作關係。",
-      "entryPoint": "從混元大模型訓練的 GPU 伺服器需求切入。騰訊正在大力投資 AI，GPU 伺服器需求急增。"
+      "entryPoint": "從混元大模型訓練的 GPU 伺服器需求切入。騰訊正在大力投資 AI，GPU 伺服器需求急增。",
+      "keyPerson": {
+        "name": "邱躍鵬 (Dowson Tong)",
+        "title": "SVP Cloud & Smart Industries",
+        "linkedin": "https://www.linkedin.com/company/tencent",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.tencent.com/en-us/investors.html"
     },
     {
       "rank": 4,
@@ -61,7 +103,21 @@
       "channel": "直供",
       "difficulty": 8,
       "challenges": "百度自研崑崙 AI 晶片，部分伺服器自行設計。對 ODM 客製化能力要求高。",
-      "entryPoint": "從文心一言大模型訓練的 NVIDIA GPU 伺服器需求切入。百度仍大量使用 NVIDIA GPU，ASUS ESC 系列可切入。"
+      "entryPoint": "從文心一言大模型訓練的 NVIDIA GPU 伺服器需求切入。百度仍大量使用 NVIDIA GPU，ASUS ESC 系列可切入。",
+      "keyPerson": {
+        "name": "沈抖 (Shen Dou)",
+        "title": "EVP & Head of Intelligent Cloud",
+        "linkedin": "https://www.linkedin.com/company/baidu-inc",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "紫光數碼",
+          "website": "https://www.unis.com.cn",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://ir.baidu.com/"
     },
     {
       "rank": 5,
@@ -76,7 +132,21 @@
       "channel": "直供",
       "difficulty": 7,
       "challenges": "京東採購體系成熟，對價格敏感。已有穩定的 ODM 合作關係。",
-      "entryPoint": "從京東雲的 AI 伺服器需求切入。京東物流的智慧倉儲也需要邊緣 AI 伺服器。"
+      "entryPoint": "從京東雲的 AI 伺服器需求切入。京東物流的智慧倉儲也需要邊緣 AI 伺服器。",
+      "keyPerson": {
+        "name": "曹鵬 (Cao Peng)",
+        "title": "CEO JD Technology",
+        "linkedin": "https://www.linkedin.com/company/jd-com",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "京東科技 (JD Technology) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://ir.jd.com/"
     },
     {
       "rank": 6,
@@ -91,7 +161,21 @@
       "channel": "直供",
       "difficulty": 6,
       "challenges": "美團對成本控制要求嚴格。已有穩定的 ODM 合作關係。",
-      "entryPoint": "從 AI 配送優化與自動配送車的 GPU 伺服器需求切入。美團正在大力投資 AI。"
+      "entryPoint": "從 AI 配送優化與自動配送車的 GPU 伺服器需求切入。美團正在大力投資 AI。",
+      "keyPerson": {
+        "name": "王興 (Wang Xing)",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/company/meituan",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.meituan.com/en-US/investor"
     },
     {
       "rank": 7,
@@ -106,7 +190,21 @@
       "channel": "直供",
       "difficulty": 6,
       "challenges": "拼多多/Temu 快速成長，基礎設施需求急增。對價格極度敏感。",
-      "entryPoint": "Temu 全球擴張帶來大量伺服器需求。ASUS 可提供海外 DC 的伺服器方案，利用全球供貨能力。"
+      "entryPoint": "Temu 全球擴張帶來大量伺服器需求。ASUS 可提供海外 DC 的伺服器方案，利用全球供貨能力。",
+      "keyPerson": {
+        "name": "陳磊 (Chen Lei)",
+        "title": "Chairman & CEO",
+        "linkedin": "https://www.linkedin.com/company/pinduoduo",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "拼多多 (PDD Holdings / Temu) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://investor.pddholdings.com/"
     },
     {
       "rank": 8,
@@ -121,130 +219,24 @@
       "channel": "直供",
       "difficulty": 6,
       "challenges": "網易遊戲業務對伺服器的延遲與穩定性要求高。已有穩定的 ODM 合作關係。",
-      "entryPoint": "從網易 AI 大模型訓練的 GPU 伺服器需求切入。遊戲業務的伺服器替換週期也是機會。"
+      "entryPoint": "從網易 AI 大模型訓練的 GPU 伺服器需求切入。遊戲業務的伺服器替換週期也是機會。",
+      "keyPerson": {
+        "name": "丁磊 (William Ding)",
+        "title": "CEO & Founder",
+        "linkedin": "https://www.linkedin.com/company/netease",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "紫光數碼",
+          "website": "https://www.unis.com.cn",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://ir.netease.com/"
     },
     {
       "rank": 9,
-      "company": "小紅書 (Xiaohongshu / RED)",
-      "region": "上海",
-      "volume": "約 20,000 - 40,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U 通用伺服器、AI 伺服器。",
-      "application": "社交電商平台（3 億+ MAU）、AI 推薦系統、圖片/視頻處理、搜尋引擎。",
-      "currentSuppliers": "浪潮, 新華三 (H3C)",
-      "odmOem": "ODM",
-      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "小紅書快速成長，基礎設施需求急增。對 AI 推薦系統的運算需求大。",
-      "entryPoint": "小紅書正在快速擴張，GPU 伺服器需求增長快速。ASUS 可提供具競爭力的 AI 伺服器方案。"
-    },
-    {
-      "rank": 10,
-      "company": "百川智能 (Baichuan AI)",
-      "region": "北京",
-      "volume": "約 10,000 - 20,000 台/年（快速成長中）",
-      "platform": "NVIDIA GPU 伺服器為主（H100/A100），4U/8U AI 伺服器。",
-      "application": "中國領先 AI 大模型公司、百川系列大模型（Baichuan-4）、企業 AI 解決方案。估值 $3B+。",
-      "currentSuppliers": "浪潮, Supermicro",
-      "odmOem": "ODM",
-      "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, AI POD: 液冷機櫃方案",
-      "channel": "直供",
-      "difficulty": 4,
-      "challenges": "百川智能快速成長，GPU 伺服器需求急增。目前供應商選擇較少。BIS 限制可能影響 GPU 供應。",
-      "entryPoint": "百川智能是 ASUS 的理想目標客戶。GPU 伺服器需求急增，ASUS ESC N8 系列的交期與品質優勢可直接切入。建立直供合作。"
-    },
-    {
-      "rank": 11,
-      "company": "智譜 AI (Zhipu AI)",
-      "region": "北京",
-      "volume": "約 8,000 - 15,000 台/年（快速成長中）",
-      "platform": "NVIDIA GPU 伺服器（H100/A100），4U/8U AI 伺服器。",
-      "application": "中國 AI 大模型公司、GLM 系列大模型、ChatGLM、企業 AI 解決方案。清華大學技術背景。",
-      "currentSuppliers": "浪潮, Supermicro",
-      "odmOem": "ODM",
-      "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12",
-      "channel": "直供",
-      "difficulty": 4,
-      "challenges": "智譜 AI 快速成長，GPU 伺服器需求急增。學術背景團隊對技術規格要求高。",
-      "entryPoint": "智譜 AI 正在大量採購 GPU 伺服器。ASUS ESC 系列的品質與技術支援可直接切入。"
-    },
-    {
-      "rank": 12,
-      "company": "月之暗面 (Moonshot AI / Kimi)",
-      "region": "北京",
-      "volume": "約 5,000 - 15,000 台/年（快速成長中）",
-      "platform": "NVIDIA GPU 伺服器（H100/A100），4U/8U AI 伺服器。",
-      "application": "中國 AI 大模型公司、Kimi 智能助手（長文本處理）、企業 AI 解決方案。估值 $3B+。",
-      "currentSuppliers": "浪潮, Supermicro",
-      "odmOem": "ODM",
-      "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12",
-      "channel": "直供",
-      "difficulty": 4,
-      "challenges": "月之暗面快速成長，GPU 伺服器需求急增。Kimi 用戶量快速增長帶動推論伺服器需求。",
-      "entryPoint": "月之暗面正在大量擴展 AI 基礎設施。ASUS ESC 系列可提供快速交貨與技術支援。"
-    },
-    {
-      "rank": 13,
-      "company": "MiniMax",
-      "region": "上海",
-      "volume": "約 5,000 - 10,000 台/年（快速成長中）",
-      "platform": "NVIDIA GPU 伺服器（H100/A100），4U/8U AI 伺服器。",
-      "application": "中國 AI 大模型公司、海螺 AI、Talkie 社交 AI、多模態大模型。估值 $2.5B+。",
-      "currentSuppliers": "浪潮, Supermicro",
-      "odmOem": "ODM",
-      "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12",
-      "channel": "直供",
-      "difficulty": 4,
-      "challenges": "MiniMax 快速成長，GPU 伺服器需求急增。Talkie 海外業務帶動全球基礎設施需求。",
-      "entryPoint": "MiniMax 正在大量採購 GPU 伺服器。ASUS 可提供海外 DC 的伺服器方案（Talkie 全球業務）。"
-    },
-    {
-      "rank": 14,
-      "company": "零一萬物 (01.AI)",
-      "region": "北京",
-      "volume": "約 3,000 - 8,000 台/年",
-      "platform": "NVIDIA GPU 伺服器（H100/A100），4U/8U AI 伺服器。",
-      "application": "中國 AI 大模型公司、Yi 系列大模型、企業 AI 解決方案。李開復創辦。",
-      "currentSuppliers": "浪潮, Supermicro",
-      "odmOem": "ODM",
-      "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12",
-      "channel": "直供",
-      "difficulty": 4,
-      "challenges": "零一萬物規模較小但成長快速。李開復的人脈資源可能影響供應商選擇。",
-      "entryPoint": "零一萬物正在擴展 AI 基礎設施。ASUS 可透過直供建立合作，提供 GPU 伺服器方案。"
-    },
-    {
-      "rank": 15,
-      "company": "深度求索 (DeepSeek)",
-      "region": "杭州",
-      "volume": "約 5,000 - 15,000 台/年（快速成長中）",
-      "platform": "NVIDIA GPU 伺服器（H100/A100/H800），4U/8U AI 伺服器。",
-      "application": "中國 AI 大模型公司、DeepSeek-V3/R1 大模型、開源 AI 模型。幻方量化旗下。",
-      "currentSuppliers": "浪潮, Supermicro, 自行設計",
-      "odmOem": "ODM",
-      "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, AI POD: 液冷機櫃方案",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "DeepSeek 母公司幻方量化有豐富的 GPU 伺服器採購經驗。對技術規格要求極高。",
-      "entryPoint": "DeepSeek 正在快速擴展 AI 基礎設施。ASUS ESC N8 系列與液冷方案可滿足大規模 AI 訓練需求。"
-    },
-    {
-      "rank": 16,
-      "company": "商湯科技 (SenseTime)",
-      "region": "上海/香港",
-      "volume": "約 8,000 - 15,000 台/年",
-      "platform": "NVIDIA GPU 伺服器（A100/H100），4U/8U AI 伺服器。SenseCore AI 大裝置。",
-      "application": "AI 視覺平台、SenseCore AI 大裝置、自動駕駛、智慧城市、日日新大模型。",
-      "currentSuppliers": "浪潮, Supermicro",
-      "odmOem": "ODM",
-      "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, AI POD: 液冷機櫃方案",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "商湯科技受美國制裁影響，GPU 供應受限。但仍有大量 AI 伺服器需求。",
-      "entryPoint": "從商湯的 SenseCore AI 大裝置的伺服器需求切入。ASUS 可提供符合合規要求的 GPU 伺服器方案。"
-    },
-    {
-      "rank": 17,
       "company": "快手 (Kuaishou)",
       "region": "北京",
       "volume": "約 30,000 - 50,000 台/年",
@@ -256,340 +248,53 @@
       "channel": "直供",
       "difficulty": 6,
       "challenges": "快手採購量大，對價格敏感。已有穩定的 ODM 合作關係。",
-      "entryPoint": "從可靈 AI 視頻生成的 GPU 伺服器需求切入。快手正在大力投資 AI 內容生成。"
+      "entryPoint": "從可靈 AI 視頻生成的 GPU 伺服器需求切入。快手正在大力投資 AI 內容生成。",
+      "keyPerson": {
+        "name": "程一笑 (Cheng Yixiao)",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/company/kuaishou",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://ir.kuaishou.com/"
     },
     {
-      "rank": 18,
-      "company": "嗶哩嗶哩 (Bilibili)",
+      "rank": 10,
+      "company": "小紅書 (Xiaohongshu / RED)",
       "region": "上海",
-      "volume": "約 15,000 - 30,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U 通用伺服器、AI 伺服器、視頻轉碼伺服器。",
-      "application": "視頻平台（3 億+ MAU）、AI 推薦系統、視頻轉碼、直播、遊戲。",
-      "currentSuppliers": "浪潮, 新華三 (H3C)",
-      "odmOem": "ODM",
-      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12, 通用1U: RS700-E11",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "B 站對視頻轉碼伺服器的效能要求高。目前處於虧損狀態，對成本敏感。",
-      "entryPoint": "從視頻轉碼與 AI 推薦系統的伺服器需求切入。ASUS 通用伺服器的性價比優勢可切入。"
-    },
-    {
-      "rank": 19,
-      "company": "微博 (Weibo)",
-      "region": "北京",
-      "volume": "約 10,000 - 20,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC，2U 通用伺服器、AI 伺服器。",
-      "application": "社交媒體平台（5.8 億+ MAU）、AI 推薦系統、內容審核、廣告平台。",
-      "currentSuppliers": "浪潮, 新華三 (H3C)",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "微博對成本控制要求嚴格。已有穩定的 ODM 合作關係。",
-      "entryPoint": "從 AI 內容推薦與審核系統的 GPU 伺服器需求切入。ASUS 通用伺服器的性價比可切入。"
-    },
-    {
-      "rank": 20,
-      "company": "滴滴出行 (DiDi)",
-      "region": "北京",
-      "volume": "約 15,000 - 25,000 台/年",
+      "volume": "約 20,000 - 40,000 台/年",
       "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U 通用伺服器、AI 伺服器。",
-      "application": "叫車平台、AI 路線優化、自動駕駛研發、地圖服務。",
-      "currentSuppliers": "浪潮, 新華三 (H3C)",
-      "odmOem": "ODM",
-      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12, 邊緣: E700 系列",
-      "channel": "直供",
-      "difficulty": 6,
-      "challenges": "滴滴經歷監管風波後正在恢復。對成本控制要求嚴格。",
-      "entryPoint": "從自動駕駛研發的 GPU 伺服器需求切入。滴滴正在重啟自動駕駛計畫。"
-    },
-    {
-      "rank": 21,
-      "company": "攜程集團 (Trip.com Group)",
-      "region": "上海",
-      "volume": "約 10,000 - 20,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC，2U 通用伺服器、AI 伺服器。",
-      "application": "全球旅遊平台（攜程/去哪兒/Trip.com）、AI 推薦系統、智能客服、動態定價。",
-      "currentSuppliers": "浪潮, 新華三 (H3C)",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "攜程全球業務需要多地 DC 部署。對成本控制要求嚴格。",
-      "entryPoint": "從攜程 AI 推薦系統與智能客服的 GPU 伺服器需求切入。全球業務擴張帶來海外 DC 需求。"
-    },
-    {
-      "rank": 22,
-      "company": "科大訊飛 (iFlytek)",
-      "region": "合肥",
-      "volume": "約 8,000 - 15,000 台/年",
-      "platform": "NVIDIA GPU / 華為昇騰，4U AI 伺服器。",
-      "application": "語音 AI 平台、訊飛星火大模型、智慧教育、智慧醫療、智慧城市。",
-      "currentSuppliers": "浪潮, 華為",
-      "odmOem": "ODM",
-      "asusModel": "AI 4U: ESC4000A-E12, AI 8GPU: ESC N8-E11",
-      "channel": "直供 + SI: 本地 SI 夥伴",
-      "difficulty": 6,
-      "challenges": "科大訊飛部分使用華為昇騰晶片，但仍大量使用 NVIDIA GPU。受美國制裁影響。",
-      "entryPoint": "從訊飛星火大模型訓練的 NVIDIA GPU 伺服器需求切入。ASUS ESC 系列可提供替代方案。"
-    },
-    {
-      "rank": 23,
-      "company": "聯影醫療 (United Imaging)",
-      "region": "上海",
-      "volume": "約 5,000 - 10,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U/4U 通用伺服器、AI 伺服器。",
-      "application": "醫療影像設備（CT/MRI/PET-CT）、AI 醫療影像分析、雲端 PACS、智慧醫療。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "OEM/ODM 混合",
-      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720-E11, WS: WS880T",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "醫療產業對可靠性與合規性要求高。聯影正在快速成長。",
-      "entryPoint": "從 AI 醫療影像分析的 GPU 伺服器需求切入。聯影正在大力投資 AI 醫療。"
-    },
-    {
-      "rank": 24,
-      "company": "寧德時代 (CATL)",
-      "region": "福建寧德",
-      "volume": "約 5,000 - 10,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U/4U 通用伺服器、AI 伺服器、HPC 伺服器。",
-      "application": "全球最大動力電池製造商、AI 品質檢測、電池研發模擬、智慧製造、數位孿生。",
-      "currentSuppliers": "浪潮, Dell, HPE",
-      "odmOem": "OEM",
-      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720-E11, HPC: RS720Q-E11, WS: WS880T",
-      "channel": "直供 + SI: 本地 SI 夥伴",
-      "difficulty": 6,
-      "challenges": "寧德時代對工業級可靠性要求高。正在大力投資 AI 品質檢測與研發模擬。",
-      "entryPoint": "從 AI 品質檢測與電池研發模擬的 GPU/HPC 伺服器需求切入。ASUS 可提供高性價比方案。"
-    },
-    {
-      "rank": 25,
-      "company": "比亞迪 (BYD)",
-      "region": "深圳",
-      "volume": "約 5,000 - 10,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U/4U 通用伺服器、AI 伺服器。",
-      "application": "全球最大新能源汽車製造商、自動駕駛研發、智慧製造、AI 品質檢測。",
-      "currentSuppliers": "浪潮, Dell, HPE",
-      "odmOem": "OEM",
-      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720-E11, WS: WS880T",
-      "channel": "直供 + SI: 本地 SI 夥伴",
-      "difficulty": 6,
-      "challenges": "比亞迪正在大力投資自動駕駛與 AI。對工業級可靠性要求高。",
-      "entryPoint": "從自動駕駛 AI 訓練的 GPU 伺服器需求切入。比亞迪正在加大 AI 投資。"
-    },
-    {
-      "rank": 26,
-      "company": "理想汽車 (Li Auto)",
-      "region": "北京",
-      "volume": "約 3,000 - 8,000 台/年",
-      "platform": "NVIDIA GPU 伺服器，4U AI 伺服器。",
-      "application": "新能源汽車、自動駕駛研發、智能座艙、OTA 更新。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "OEM/ODM 混合",
-      "asusModel": "AI 4U: ESC4000A-E12, AI 8GPU: ESC N8-E11",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "理想汽車正在大力投資自動駕駛。對 GPU 伺服器需求增長快速。",
-      "entryPoint": "從自動駕駛 AI 訓練的 GPU 伺服器需求切入。理想汽車正在建立自有 AI 訓練集群。"
-    },
-    {
-      "rank": 27,
-      "company": "蔚來汽車 (NIO)",
-      "region": "上海",
-      "volume": "約 3,000 - 8,000 台/年",
-      "platform": "NVIDIA GPU 伺服器，4U AI 伺服器。",
-      "application": "新能源汽車、自動駕駛研發、NIO Pilot、智能座艙、換電站管理。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "OEM/ODM 混合",
-      "asusModel": "AI 4U: ESC4000A-E12, AI 8GPU: ESC N8-E11",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "蔚來正在大力投資自動駕駛。對 GPU 伺服器需求增長快速。",
-      "entryPoint": "從自動駕駛 AI 訓練的 GPU 伺服器需求切入。蔚來正在建立自有 AI 訓練集群。"
-    },
-    {
-      "rank": 28,
-      "company": "小鵬汽車 (XPeng)",
-      "region": "廣州",
-      "volume": "約 3,000 - 8,000 台/年",
-      "platform": "NVIDIA GPU 伺服器，4U AI 伺服器。",
-      "application": "新能源汽車、XNGP 自動駕駛、飛行汽車、AI 大模型。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "OEM/ODM 混合",
-      "asusModel": "AI 4U: ESC4000A-E12, AI 8GPU: ESC N8-E11",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "小鵬正在大力投資自動駕駛（XNGP）。對 GPU 伺服器需求增長快速。",
-      "entryPoint": "從 XNGP 自動駕駛 AI 訓練的 GPU 伺服器需求切入。小鵬正在擴展 AI 訓練集群。"
-    },
-    {
-      "rank": 29,
-      "company": "華為雲 (Huawei Cloud) — 民營業務",
-      "region": "深圳",
-      "volume": "約 100,000 - 200,000 台/年（含自研伺服器）",
-      "platform": "自研鯤鵬 ARM / 昇騰 AI 晶片，自行設計伺服器。部分使用 Intel/AMD。",
-      "application": "華為雲公有雲服務、盤古大模型、5G 核心網路、企業 IT 服務。",
-      "currentSuppliers": "自行設計與製造",
-      "odmOem": "自行設計",
-      "asusModel": "通用2U: RS720-E11 (Intel/AMD 平台部分)",
-      "channel": "直供",
-      "difficulty": 10,
-      "challenges": "華為自行設計與製造伺服器，且受美國制裁影響。幾乎不可能成為 ASUS 客戶。但華為雲的民營企業客戶可能間接產生需求。",
-      "entryPoint": "極難直接切入。可從華為雲的民營企業客戶端間接接觸，或在華為無法供應 Intel/AMD 平台伺服器時提供替代方案。"
-    },
-    {
-      "rank": 30,
-      "company": "金山雲 (Kingsoft Cloud)",
-      "region": "北京",
-      "volume": "約 15,000 - 25,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U 通用伺服器、AI 伺服器。",
-      "application": "公有雲服務、遊戲雲、AI 雲、企業 IT 服務。金山集團旗下。",
-      "currentSuppliers": "浪潮, 新華三 (H3C)",
-      "odmOem": "ODM",
-      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
-      "channel": "直供",
-      "difficulty": 6,
-      "challenges": "金山雲市場份額較小，但在遊戲雲領域有優勢。對成本控制要求嚴格。",
-      "entryPoint": "從金山雲的 AI 伺服器需求切入。遊戲雲業務也需要高效能伺服器。"
-    },
-    {
-      "rank": 31,
-      "company": "世紀互聯 (21Vianet)",
-      "region": "北京",
-      "volume": "約 10,000 - 20,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC，2U 通用伺服器。Microsoft Azure 中國區運營商。",
-      "application": "中國最大獨立 IDC 運營商、Microsoft Azure 中國區、企業託管服務。",
-      "currentSuppliers": "Dell, HPE, 浪潮",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11/RS720A-E12, 通用1U: RS700-E11",
-      "channel": "直供",
-      "difficulty": 6,
-      "challenges": "世紀互聯作為 Azure 中國區運營商，部分採購受 Microsoft 影響。",
-      "entryPoint": "從世紀互聯自有 IDC 業務的伺服器需求切入。ASUS 通用伺服器的性價比可切入。"
-    },
-    {
-      "rank": 32,
-      "company": "萬國數據 (GDS Holdings)",
-      "region": "上海",
-      "volume": "約 8,000 - 15,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC，2U 通用伺服器。",
-      "application": "中國領先 IDC 運營商、企業託管服務、雲端互連。在中國與東南亞運營 DC。",
-      "currentSuppliers": "Dell, HPE, 浪潮",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11/RS720A-E12, 通用1U: RS700-E11",
-      "channel": "直供",
-      "difficulty": 6,
-      "challenges": "萬國數據正在擴展東南亞業務。對成本控制要求嚴格。",
-      "entryPoint": "從萬國數據東南亞 DC 的伺服器需求切入。ASUS 在東南亞有供貨優勢。"
-    },
-    {
-      "rank": 33,
-      "company": "秦淮數據 (Chindata Group)",
-      "region": "北京",
-      "volume": "約 5,000 - 10,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC，2U 通用伺服器。",
-      "application": "超大規模 IDC 運營商、AI 數據中心、企業託管。被貝恩資本收購。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "OEM/ODM 混合",
-      "asusModel": "通用2U: RS720-E11/RS720A-E12, AI 4U: ESC4000A-E12",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "秦淮數據被貝恩收購後正在擴展。對成本控制要求嚴格。",
-      "entryPoint": "秦淮數據正在擴展 AI 數據中心。ASUS 可提供具競爭力的伺服器方案。"
-    },
-    {
-      "rank": 34,
-      "company": "順豐科技 (SF Technology)",
-      "region": "深圳",
-      "volume": "約 8,000 - 15,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U 通用伺服器、AI 伺服器。",
-      "application": "中國最大快遞物流公司、AI 路線優化、智慧倉儲、無人機配送、豐巢智能櫃。",
-      "currentSuppliers": "浪潮, 新華三 (H3C)",
-      "odmOem": "ODM",
-      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12, 邊緣: E700 系列",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "順豐對成本控制要求嚴格。已有穩定的 ODM 合作關係。",
-      "entryPoint": "從 AI 路線優化與智慧倉儲的 GPU 伺服器需求切入。順豐正在大力投資 AI 物流。"
-    },
-    {
-      "rank": 35,
-      "company": "海康威視 (Hikvision)",
-      "region": "杭州",
-      "volume": "約 8,000 - 15,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U/4U AI 伺服器。",
-      "application": "全球最大安防設備製造商、AI 視頻分析、智慧城市、工業視覺。",
-      "currentSuppliers": "浪潮, 自行設計",
-      "odmOem": "ODM/自行設計",
-      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
-      "channel": "直供",
-      "difficulty": 6,
-      "challenges": "海康威視受美國制裁影響，但仍有大量 AI 伺服器需求。部分自行設計伺服器。",
-      "entryPoint": "從 AI 視頻分析的 GPU 伺服器需求切入。海康威視正在擴展 AI 能力。需注意合規風險。"
-    },
-    {
-      "rank": 36,
-      "company": "大華技術 (Dahua Technology)",
-      "region": "杭州",
-      "volume": "約 5,000 - 10,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U/4U AI 伺服器。",
-      "application": "安防設備製造商、AI 視頻分析、智慧城市、工業視覺。",
-      "currentSuppliers": "浪潮, 自行設計",
-      "odmOem": "ODM/自行設計",
-      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
-      "channel": "直供",
-      "difficulty": 6,
-      "challenges": "大華受美國制裁影響。部分自行設計伺服器。",
-      "entryPoint": "從 AI 視頻分析的 GPU 伺服器需求切入。需注意合規風險。"
-    },
-    {
-      "rank": 37,
-      "company": "OPPO / 一加",
-      "region": "深圳",
-      "volume": "約 3,000 - 8,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U 通用伺服器、AI 伺服器。",
-      "application": "智慧手機製造商、AI 手機功能研發、雲端服務、ColorOS AI。",
+      "application": "社交電商平台（3 億+ MAU）、AI 推薦系統、圖片/視頻處理、搜尋引擎。",
       "currentSuppliers": "浪潮, 新華三 (H3C)",
       "odmOem": "ODM",
       "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
       "channel": "直供",
       "difficulty": 5,
-      "challenges": "OPPO 正在加大 AI 投資。對成本控制要求嚴格。",
-      "entryPoint": "從 AI 手機功能研發的 GPU 伺服器需求切入。OPPO 正在建立 AI 訓練集群。"
+      "challenges": "小紅書快速成長，基礎設施需求急增。對 AI 推薦系統的運算需求大。",
+      "entryPoint": "小紅書正在快速擴張，GPU 伺服器需求增長快速。ASUS 可提供具競爭力的 AI 伺服器方案。",
+      "keyPerson": {
+        "name": "毛文超 (Charlwin Mao)",
+        "title": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/company/xiaohongshu",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "小紅書 (Xiaohongshu / RED) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS小紅書"
     },
     {
-      "rank": 38,
-      "company": "vivo",
-      "region": "深圳/東莞",
-      "volume": "約 3,000 - 8,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U 通用伺服器、AI 伺服器。",
-      "application": "智慧手機製造商、AI 手機功能研發、雲端服務、OriginOS AI。",
-      "currentSuppliers": "浪潮, 新華三 (H3C)",
-      "odmOem": "ODM",
-      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "vivo 正在加大 AI 投資。對成本控制要求嚴格。",
-      "entryPoint": "從 AI 手機功能研發的 GPU 伺服器需求切入。vivo 正在建立 AI 訓練集群。"
-    },
-    {
-      "rank": 39,
-      "company": "小米集團 (Xiaomi)",
-      "region": "北京",
-      "volume": "約 10,000 - 20,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U 通用伺服器、AI 伺服器。",
-      "application": "智慧手機/IoT/電動車製造商、小米雲服務、AI 研發、自動駕駛（小米 SU7）。",
-      "currentSuppliers": "浪潮, 新華三 (H3C), 聯想",
-      "odmOem": "ODM",
-      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12, AI 8GPU: ESC N8-E11",
-      "channel": "直供",
-      "difficulty": 6,
-      "challenges": "小米生態系龐大，IT 需求多元。正在大力投資電動車與自動駕駛。ASUS 與小米在消費電子領域有競爭關係。",
-      "entryPoint": "從小米自動駕駛（SU7）AI 訓練的 GPU 伺服器需求切入。雖然在消費電子有競爭，但伺服器業務可獨立合作。"
-    },
-    {
-      "rank": 40,
+      "rank": 11,
       "company": "螞蟻集團 (Ant Group)",
       "region": "杭州",
       "volume": "約 20,000 - 40,000 台/年",
@@ -601,10 +306,111 @@
       "channel": "直供",
       "difficulty": 7,
       "challenges": "螞蟻集團與阿里雲關係密切，採購可能受阿里體系影響。金融業對可靠性要求極高。",
-      "entryPoint": "從 AI 風控系統的 GPU 伺服器需求切入。螞蟻正在加大 AI 投資。"
+      "entryPoint": "從 AI 風控系統的 GPU 伺服器需求切入。螞蟻正在加大 AI 投資。",
+      "keyPerson": {
+        "name": "井賢棟 (Eric Jing)",
+        "title": "Chairman & CEO",
+        "linkedin": "https://www.linkedin.com/company/antgroup",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "螞蟻集團 (Ant Group) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS螞蟻集團"
     },
     {
-      "rank": 41,
+      "rank": 12,
+      "company": "嗶哩嗶哩 (Bilibili)",
+      "region": "上海",
+      "volume": "約 15,000 - 30,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U 通用伺服器、AI 伺服器、視頻轉碼伺服器。",
+      "application": "視頻平台（3 億+ MAU）、AI 推薦系統、視頻轉碼、直播、遊戲。",
+      "currentSuppliers": "浪潮, 新華三 (H3C)",
+      "odmOem": "ODM",
+      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12, 通用1U: RS700-E11",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "B 站對視頻轉碼伺服器的效能要求高。目前處於虧損狀態，對成本敏感。",
+      "entryPoint": "從視頻轉碼與 AI 推薦系統的伺服器需求切入。ASUS 通用伺服器的性價比優勢可切入。",
+      "keyPerson": {
+        "name": "陳睿 (Rui Chen)",
+        "title": "Chairman & CEO",
+        "linkedin": "https://www.linkedin.com/company/bilibili",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "嗶哩嗶哩 (Bilibili) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://ir.bilibili.com/"
+    },
+    {
+      "rank": 13,
+      "company": "滴滴出行 (DiDi)",
+      "region": "北京",
+      "volume": "約 15,000 - 25,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U 通用伺服器、AI 伺服器。",
+      "application": "叫車平台、AI 路線優化、自動駕駛研發、地圖服務。",
+      "currentSuppliers": "浪潮, 新華三 (H3C)",
+      "odmOem": "ODM",
+      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12, 邊緣: E700 系列",
+      "channel": "直供",
+      "difficulty": 6,
+      "challenges": "滴滴經歷監管風波後正在恢復。對成本控制要求嚴格。",
+      "entryPoint": "從自動駕駛研發的 GPU 伺服器需求切入。滴滴正在重啟自動駕駛計畫。",
+      "keyPerson": {
+        "name": "程維 (Cheng Wei)",
+        "title": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/company/dikitech",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "滴滴出行 (DiDi) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://ir.didiglobal.com/"
+    },
+    {
+      "rank": 14,
+      "company": "金山雲 (Kingsoft Cloud)",
+      "region": "北京",
+      "volume": "約 15,000 - 25,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U 通用伺服器、AI 伺服器。",
+      "application": "公有雲服務、遊戲雲、AI 雲、企業 IT 服務。金山集團旗下。",
+      "currentSuppliers": "浪潮, 新華三 (H3C)",
+      "odmOem": "ODM",
+      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
+      "channel": "直供",
+      "difficulty": 6,
+      "challenges": "金山雲市場份額較小，但在遊戲雲領域有優勢。對成本控制要求嚴格。",
+      "entryPoint": "從金山雲的 AI 伺服器需求切入。遊戲雲業務也需要高效能伺服器。",
+      "keyPerson": {
+        "name": "鄒濤 (Zou Tao)",
+        "title": "CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "紫光數碼",
+          "website": "https://www.unis.com.cn",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://ir.ksyun.com/"
+    },
+    {
+      "rank": 15,
       "company": "平安科技 (Ping An Technology)",
       "region": "深圳",
       "volume": "約 15,000 - 25,000 台/年",
@@ -616,10 +422,401 @@
       "channel": "直供 + SI: 本地 SI 夥伴",
       "difficulty": 6,
       "challenges": "平安集團採購體系龐大。金融業對可靠性與合規性要求高。",
-      "entryPoint": "從 AI 金融風控與智慧醫療的 GPU 伺服器需求切入。平安正在大力投資 AI。"
+      "entryPoint": "從 AI 金融風控與智慧醫療的 GPU 伺服器需求切入。平安正在大力投資 AI。",
+      "keyPerson": {
+        "name": "黃宇翔 (Huang Yuxiang)",
+        "title": "CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://group.pingan.com/investor_relations/"
     },
     {
-      "rank": 42,
+      "rank": 16,
+      "company": "百川智能 (Baichuan AI)",
+      "region": "北京",
+      "volume": "約 10,000 - 20,000 台/年（快速成長中）",
+      "platform": "NVIDIA GPU 伺服器為主（H100/A100），4U/8U AI 伺服器。",
+      "application": "中國領先 AI 大模型公司、百川系列大模型（Baichuan-4）、企業 AI 解決方案。估值 $3B+。",
+      "currentSuppliers": "浪潮, Supermicro",
+      "odmOem": "ODM",
+      "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, AI POD: 液冷機櫃方案",
+      "channel": "直供",
+      "difficulty": 4,
+      "challenges": "百川智能快速成長，GPU 伺服器需求急增。目前供應商選擇較少。BIS 限制可能影響 GPU 供應。",
+      "entryPoint": "百川智能是 ASUS 的理想目標客戶。GPU 伺服器需求急增，ASUS ESC N8 系列的交期與品質優勢可直接切入。建立直供合作。",
+      "keyPerson": {
+        "name": "王小川 (Wang Xiaochuan)",
+        "title": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/xiaochuan-wang",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "百川智能 (Baichuan AI) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.baichuan-ai.com"
+    },
+    {
+      "rank": 17,
+      "company": "微博 (Weibo)",
+      "region": "北京",
+      "volume": "約 10,000 - 20,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC，2U 通用伺服器、AI 伺服器。",
+      "application": "社交媒體平台（5.8 億+ MAU）、AI 推薦系統、內容審核、廣告平台。",
+      "currentSuppliers": "浪潮, 新華三 (H3C)",
+      "odmOem": "ODM",
+      "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "微博對成本控制要求嚴格。已有穩定的 ODM 合作關係。",
+      "entryPoint": "從 AI 內容推薦與審核系統的 GPU 伺服器需求切入。ASUS 通用伺服器的性價比可切入。",
+      "keyPerson": {
+        "name": "王高飛 (Gaofei Wang)",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/company/weibo",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "微博 (Weibo) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://ir.weibo.com/"
+    },
+    {
+      "rank": 18,
+      "company": "攜程集團 (Trip.com Group)",
+      "region": "上海",
+      "volume": "約 10,000 - 20,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC，2U 通用伺服器、AI 伺服器。",
+      "application": "全球旅遊平台（攜程/去哪兒/Trip.com）、AI 推薦系統、智能客服、動態定價。",
+      "currentSuppliers": "浪潮, 新華三 (H3C)",
+      "odmOem": "ODM",
+      "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "攜程全球業務需要多地 DC 部署。對成本控制要求嚴格。",
+      "entryPoint": "從攜程 AI 推薦系統與智能客服的 GPU 伺服器需求切入。全球業務擴張帶來海外 DC 需求。",
+      "keyPerson": {
+        "name": "孫潔 (Jane Sun)",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/janesuntrip",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "攜程集團 (Trip.com Group) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://investors.trip.com/"
+    },
+    {
+      "rank": 19,
+      "company": "小米集團 (Xiaomi)",
+      "region": "北京",
+      "volume": "約 10,000 - 20,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U 通用伺服器、AI 伺服器。",
+      "application": "智慧手機/IoT/電動車製造商、小米雲服務、AI 研發、自動駕駛（小米 SU7）。",
+      "currentSuppliers": "浪潮, 新華三 (H3C), 聯想",
+      "odmOem": "ODM",
+      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12, AI 8GPU: ESC N8-E11",
+      "channel": "直供",
+      "difficulty": 6,
+      "challenges": "小米生態系龐大，IT 需求多元。正在大力投資電動車與自動駕駛。ASUS 與小米在消費電子領域有競爭關係。",
+      "entryPoint": "從小米自動駕駛（SU7）AI 訓練的 GPU 伺服器需求切入。雖然在消費電子有競爭，但伺服器業務可獨立合作。",
+      "keyPerson": {
+        "name": "雷軍 (Lei Jun)",
+        "title": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/company/xiaomi",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://ir.mi.com/"
+    },
+    {
+      "rank": 20,
+      "company": "智譜 AI (Zhipu AI)",
+      "region": "北京",
+      "volume": "約 8,000 - 15,000 台/年（快速成長中）",
+      "platform": "NVIDIA GPU 伺服器（H100/A100），4U/8U AI 伺服器。",
+      "application": "中國 AI 大模型公司、GLM 系列大模型、ChatGLM、企業 AI 解決方案。清華大學技術背景。",
+      "currentSuppliers": "浪潮, Supermicro",
+      "odmOem": "ODM",
+      "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12",
+      "channel": "直供",
+      "difficulty": 4,
+      "challenges": "智譜 AI 快速成長，GPU 伺服器需求急增。學術背景團隊對技術規格要求高。",
+      "entryPoint": "智譜 AI 正在大量採購 GPU 伺服器。ASUS ESC 系列的品質與技術支援可直接切入。",
+      "keyPerson": {
+        "name": "張鵬 (Zhang Peng)",
+        "title": "CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "智譜 AI (Zhipu AI) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.zhipuai.cn"
+    },
+    {
+      "rank": 21,
+      "company": "順豐科技 (SF Technology)",
+      "region": "深圳",
+      "volume": "約 8,000 - 15,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U 通用伺服器、AI 伺服器。",
+      "application": "中國最大快遞物流公司、AI 路線優化、智慧倉儲、無人機配送、豐巢智能櫃。",
+      "currentSuppliers": "浪潮, 新華三 (H3C)",
+      "odmOem": "ODM",
+      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12, 邊緣: E700 系列",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "順豐對成本控制要求嚴格。已有穩定的 ODM 合作關係。",
+      "entryPoint": "從 AI 路線優化與智慧倉儲的 GPU 伺服器需求切入。順豐正在大力投資 AI 物流。",
+      "keyPerson": {
+        "name": "王衛 (Wang Wei)",
+        "title": "Founder & Chairman",
+        "linkedin": "https://www.linkedin.com/company/sf-express",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS順豐科技"
+    },
+    {
+      "rank": 22,
+      "company": "月之暗面 (Moonshot AI / Kimi)",
+      "region": "北京",
+      "volume": "約 5,000 - 15,000 台/年（快速成長中）",
+      "platform": "NVIDIA GPU 伺服器（H100/A100），4U/8U AI 伺服器。",
+      "application": "中國 AI 大模型公司、Kimi 智能助手（長文本處理）、企業 AI 解決方案。估值 $3B+。",
+      "currentSuppliers": "浪潮, Supermicro",
+      "odmOem": "ODM",
+      "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12",
+      "channel": "直供",
+      "difficulty": 4,
+      "challenges": "月之暗面快速成長，GPU 伺服器需求急增。Kimi 用戶量快速增長帶動推論伺服器需求。",
+      "entryPoint": "月之暗面正在大量擴展 AI 基礎設施。ASUS ESC 系列可提供快速交貨與技術支援。",
+      "keyPerson": {
+        "name": "楊植麟 (Yang Zhilin)",
+        "title": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/zhilin-yang",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "月之暗面 (Moonshot AI / Kimi) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS月之暗面"
+    },
+    {
+      "rank": 23,
+      "company": "深度求索 (DeepSeek)",
+      "region": "杭州",
+      "volume": "約 5,000 - 15,000 台/年（快速成長中）",
+      "platform": "NVIDIA GPU 伺服器（H100/A100/H800），4U/8U AI 伺服器。",
+      "application": "中國 AI 大模型公司、DeepSeek-V3/R1 大模型、開源 AI 模型。幻方量化旗下。",
+      "currentSuppliers": "浪潮, Supermicro, 自行設計",
+      "odmOem": "ODM",
+      "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, AI POD: 液冷機櫃方案",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "DeepSeek 母公司幻方量化有豐富的 GPU 伺服器採購經驗。對技術規格要求極高。",
+      "entryPoint": "DeepSeek 正在快速擴展 AI 基礎設施。ASUS ESC N8 系列與液冷方案可滿足大規模 AI 訓練需求。",
+      "keyPerson": {
+        "name": "梁文鋒 (Liang Wenfeng)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "深度求索 (DeepSeek) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.deepseek.com"
+    },
+    {
+      "company": "幻方量化 (High-Flyer Capital)",
+      "region": "杭州",
+      "volume": "約 5,000-15,000 台/年",
+      "platform": "NVIDIA A100/H100 GPU 伺服器為主",
+      "application": "量化交易、AI 策略研發、深度學習訓練（DeepSeek 母公司）",
+      "currentSuppliers": "ODM 直採, Supermicro",
+      "odmOem": "ODM",
+      "asusModel": "ESC8000-E12, ESC4000A-E12",
+      "channel": "ODM Direct",
+      "difficulty": 3,
+      "challenges": "幻方是 DeepSeek 母公司，GPU 伺服器採購量極大。目前主要自行採購。",
+      "entryPoint": "幻方/DeepSeek 是中國最大的 GPU 伺服器採購商之一，ASUS 可提供大批量 ESC 系列 GPU 伺服器 ODM 方案。",
+      "keyPerson": {
+        "name": "梁文鋒 (Liang Wenfeng)",
+        "title": "Founder (同 DeepSeek)",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "幻方量化 (High-Flyer Capital) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.high-flyer.cn",
+      "rank": 24
+    },
+    {
+      "rank": 25,
+      "company": "MiniMax",
+      "region": "上海",
+      "volume": "約 5,000 - 10,000 台/年（快速成長中）",
+      "platform": "NVIDIA GPU 伺服器（H100/A100），4U/8U AI 伺服器。",
+      "application": "中國 AI 大模型公司、海螺 AI、Talkie 社交 AI、多模態大模型。估值 $2.5B+。",
+      "currentSuppliers": "浪潮, Supermicro",
+      "odmOem": "ODM",
+      "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12",
+      "channel": "直供",
+      "difficulty": 4,
+      "challenges": "MiniMax 快速成長，GPU 伺服器需求急增。Talkie 海外業務帶動全球基礎設施需求。",
+      "entryPoint": "MiniMax 正在大量採購 GPU 伺服器。ASUS 可提供海外 DC 的伺服器方案（Talkie 全球業務）。",
+      "keyPerson": {
+        "name": "閆俊傑 (Yan Junjie)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "MiniMax (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.minimaxi.com"
+    },
+    {
+      "rank": 26,
+      "company": "聯影醫療 (United Imaging)",
+      "region": "上海",
+      "volume": "約 5,000 - 10,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U/4U 通用伺服器、AI 伺服器。",
+      "application": "醫療影像設備（CT/MRI/PET-CT）、AI 醫療影像分析、雲端 PACS、智慧醫療。",
+      "currentSuppliers": "浪潮, Dell",
+      "odmOem": "OEM/ODM 混合",
+      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720-E11, WS: WS880T",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "醫療產業對可靠性與合規性要求高。聯影正在快速成長。",
+      "entryPoint": "從 AI 醫療影像分析的 GPU 伺服器需求切入。聯影正在大力投資 AI 醫療。",
+      "keyPerson": {
+        "name": "張強 (Zhang Qiang)",
+        "title": "CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "紫光數碼",
+          "website": "https://www.unis.com.cn",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS聯影醫療"
+    },
+    {
+      "rank": 27,
+      "company": "寧德時代 (CATL)",
+      "region": "福建寧德",
+      "volume": "約 5,000 - 10,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U/4U 通用伺服器、AI 伺服器、HPC 伺服器。",
+      "application": "全球最大動力電池製造商、AI 品質檢測、電池研發模擬、智慧製造、數位孿生。",
+      "currentSuppliers": "浪潮, Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720-E11, HPC: RS720Q-E11, WS: WS880T",
+      "channel": "直供 + SI: 本地 SI 夥伴",
+      "difficulty": 6,
+      "challenges": "寧德時代對工業級可靠性要求高。正在大力投資 AI 品質檢測與研發模擬。",
+      "entryPoint": "從 AI 品質檢測與電池研發模擬的 GPU/HPC 伺服器需求切入。ASUS 可提供高性價比方案。",
+      "keyPerson": {
+        "name": "曾毓群 (Robin Zeng)",
+        "title": "Founder & Chairman",
+        "linkedin": "https://www.linkedin.com/company/catl",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.catl.com/en/investor/"
+    },
+    {
+      "rank": 28,
+      "company": "比亞迪 (BYD)",
+      "region": "深圳",
+      "volume": "約 5,000 - 10,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U/4U 通用伺服器、AI 伺服器。",
+      "application": "全球最大新能源汽車製造商、自動駕駛研發、智慧製造、AI 品質檢測。",
+      "currentSuppliers": "浪潮, Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720-E11, WS: WS880T",
+      "channel": "直供 + SI: 本地 SI 夥伴",
+      "difficulty": 6,
+      "challenges": "比亞迪正在大力投資自動駕駛與 AI。對工業級可靠性要求高。",
+      "entryPoint": "從自動駕駛 AI 訓練的 GPU 伺服器需求切入。比亞迪正在加大 AI 投資。",
+      "keyPerson": {
+        "name": "王傳福 (Wang Chuanfu)",
+        "title": "Founder & Chairman",
+        "linkedin": "https://www.linkedin.com/company/byd",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.byd.com/en/InvestorRelations.html"
+    },
+    {
+      "rank": 29,
       "company": "海爾卡奧斯 (Haier COSMOPlat)",
       "region": "青島",
       "volume": "約 5,000 - 10,000 台/年",
@@ -631,25 +828,24 @@
       "channel": "直供 + SI: 本地 SI 夥伴",
       "difficulty": 5,
       "challenges": "海爾對工業級可靠性要求高。COSMOPlat 平台正在快速擴展。",
-      "entryPoint": "從工業 AI 與智慧製造的伺服器需求切入。ASUS 邊緣伺服器適合工廠部署場景。"
+      "entryPoint": "從工業 AI 與智慧製造的伺服器需求切入。ASUS 邊緣伺服器適合工廠部署場景。",
+      "keyPerson": {
+        "name": "周雲傑 (Zhou Yunjie)",
+        "title": "Chairman Haier Group",
+        "linkedin": "https://www.linkedin.com/company/haier",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "紫光數碼",
+          "website": "https://www.unis.com.cn",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS海爾卡奧斯"
     },
     {
-      "rank": 43,
-      "company": "聯想集團 (Lenovo) — 自用部分",
-      "region": "北京",
-      "volume": "約 10,000 - 20,000 台/年（自用部分）",
-      "platform": "自有品牌伺服器為主，Intel Xeon / AMD EPYC。",
-      "application": "聯想自有 IT 基礎設施、聯想雲、AI 研發、全球 ERP 系統。",
-      "currentSuppliers": "自有品牌 (ThinkSystem)",
-      "odmOem": "自有品牌",
-      "asusModel": "N/A",
-      "channel": "N/A",
-      "difficulty": 10,
-      "challenges": "聯想自身就是伺服器製造商（ThinkSystem），幾乎不可能採購 ASUS 伺服器。",
-      "entryPoint": "極難切入。聯想是 ASUS 在伺服器市場的直接競爭對手。可關注聯想客戶的替代需求。"
-    },
-    {
-      "rank": 44,
+      "rank": 30,
       "company": "用友網絡 (Yonyou)",
       "region": "北京",
       "volume": "約 5,000 - 10,000 台/年",
@@ -661,100 +857,24 @@
       "channel": "直供 + SI: 本地 SI 夥伴",
       "difficulty": 5,
       "challenges": "用友正在推進雲端轉型（BIP 平台）。對成本控制要求嚴格。",
-      "entryPoint": "從用友 BIP 雲平台的 AI 伺服器需求切入。ASUS 通用伺服器的性價比可切入。"
+      "entryPoint": "從用友 BIP 雲平台的 AI 伺服器需求切入。ASUS 通用伺服器的性價比可切入。",
+      "keyPerson": {
+        "name": "王文京 (Wang Wenjing)",
+        "title": "Founder & Chairman",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "用友網絡 (Yonyou) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS用友網絡"
     },
     {
-      "rank": 45,
-      "company": "金蝶國際 (Kingdee)",
-      "region": "深圳",
-      "volume": "約 3,000 - 8,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC，2U 通用伺服器。",
-      "application": "企業軟體公司、金蝶雲·星瀚/蒼穹、ERP 雲服務、AI 企業服務。",
-      "currentSuppliers": "浪潮, 新華三 (H3C)",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "金蝶正在推進雲端轉型。對成本控制要求嚴格。",
-      "entryPoint": "從金蝶雲平台的伺服器需求切入。ASUS 通用伺服器的性價比可切入。"
-    },
-    {
-      "rank": 46,
-      "company": "地平線 (Horizon Robotics)",
-      "region": "北京",
-      "volume": "約 3,000 - 8,000 台/年",
-      "platform": "NVIDIA GPU / 自研征程晶片，4U AI 伺服器。",
-      "application": "自動駕駛晶片與方案供應商、征程系列晶片研發、AI 訓練平台。",
-      "currentSuppliers": "浪潮, Supermicro",
-      "odmOem": "ODM",
-      "asusModel": "AI 4U: ESC4000A-E12, AI 8GPU: ESC N8-E11",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "地平線正在快速成長，GPU 伺服器需求增加。對 AI 訓練效能要求高。",
-      "entryPoint": "從征程晶片研發的 AI 訓練伺服器需求切入。ASUS ESC 系列可提供高效能方案。"
-    },
-    {
-      "rank": 47,
-      "company": "曠視科技 (Megvii)",
-      "region": "北京",
-      "volume": "約 3,000 - 5,000 台/年",
-      "platform": "NVIDIA GPU 伺服器，4U AI 伺服器。",
-      "application": "AI 視覺平台、Face++ 人臉辨識、智慧物流、智慧城市。",
-      "currentSuppliers": "浪潮, Supermicro",
-      "odmOem": "ODM",
-      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "曠視科技受美國制裁影響。但仍有 AI 伺服器需求。",
-      "entryPoint": "從 AI 視覺訓練的 GPU 伺服器需求切入。需注意合規風險。"
-    },
-    {
-      "rank": 48,
-      "company": "第四範式 (4Paradigm)",
-      "region": "北京",
-      "volume": "約 3,000 - 5,000 台/年",
-      "platform": "NVIDIA GPU / Intel Xeon，4U AI 伺服器、2U 通用伺服器。",
-      "application": "企業 AI 平台、先知平台、AI 決策引擎、金融/零售/製造 AI 解決方案。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "OEM/ODM 混合",
-      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720-E11",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "第四範式正在快速成長。對 AI 伺服器效能要求高。",
-      "entryPoint": "從先知平台的 AI 伺服器需求切入。ASUS ESC 系列可提供高效能方案。"
-    },
-    {
-      "rank": 49,
-      "company": "雲從科技 (CloudWalk)",
-      "region": "廣州",
-      "volume": "約 2,000 - 5,000 台/年",
-      "platform": "NVIDIA GPU 伺服器，4U AI 伺服器。",
-      "application": "AI 視覺平台、智慧金融、智慧治理、從容大模型。",
-      "currentSuppliers": "浪潮, Supermicro",
-      "odmOem": "ODM",
-      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "雲從科技受美國制裁影響。但仍有 AI 伺服器需求。",
-      "entryPoint": "從 AI 大模型訓練的 GPU 伺服器需求切入。需注意合規風險。"
-    },
-    {
-      "rank": 50,
-      "company": "依圖科技 (YITU Technology)",
-      "region": "上海",
-      "volume": "約 2,000 - 5,000 台/年",
-      "platform": "NVIDIA GPU / 自研求索晶片，4U AI 伺服器。",
-      "application": "AI 視覺平台、醫療 AI、智慧城市、自研 AI 晶片。",
-      "currentSuppliers": "浪潮, Supermicro",
-      "odmOem": "ODM",
-      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "依圖科技受美國制裁影響。但仍有 AI 伺服器需求。規模較小。",
-      "entryPoint": "從 AI 醫療與視覺訓練的 GPU 伺服器需求切入。需注意合規風險。"
-    },
-    {
-      "rank": 51,
+      "rank": 31,
       "company": "貝殼找房 (KE Holdings / Beike)",
       "region": "北京",
       "volume": "約 5,000 - 10,000 台/年",
@@ -766,385 +886,24 @@
       "channel": "SI/DIST",
       "difficulty": 5,
       "challenges": "貝殼找房有成熟的 IT 團隊。與浪潮/H3C 有既有合作。",
-      "entryPoint": "貝殼的 VR 看房和 AI 估價需要 GPU 伺服器。可從 AI 推論伺服器切入。"
+      "entryPoint": "貝殼的 VR 看房和 AI 估價需要 GPU 伺服器。可從 AI 推論伺服器切入。",
+      "keyPerson": {
+        "name": "彭永東 (Peng Yongdong)",
+        "title": "CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://investors.ke.com/"
     },
     {
-      "rank": 52,
-      "company": "同程旅行 (Tongcheng Travel)",
-      "region": "蘇州",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。中國大型線上旅遊平台。",
-      "application": "旅遊預訂平台、AI 推薦、搜尋優化。",
-      "currentSuppliers": "浪潮, Dell, H3C",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "中國旅遊平台市場競爭激烈。IT 預算相對保守。",
-      "entryPoint": "同程旅行正在擴展 AI 服務。可從通用伺服器切入。"
-    },
-    {
-      "rank": 53,
-      "company": "嗶哩嗶哩遊戲 (Bilibili Game)",
-      "region": "上海",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC 通用伺服器、GPU 伺服器。B 站遊戲業務。",
-      "application": "遊戲伺服器、AI NPC、遊戲渲染、直播。",
-      "currentSuppliers": "浪潮, Dell, Supermicro",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720A-E12, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "遊戲業對延遲要求高。需要展示 ASUS 伺服器的低延遲性能。",
-      "entryPoint": "B 站遊戲正在導入 AI NPC。可從 GPU 伺服器切入。"
-    },
-    {
-      "rank": 54,
-      "company": "影石創新 (Insta360)",
-      "region": "深圳",
-      "volume": "約 2,000 - 5,000 台/年",
-      "platform": "Intel Xeon / GPU 伺服器。全球 360 度相機領導品牌。",
-      "application": "AI 影像處理、雲端影片編輯、3D 重建。",
-      "currentSuppliers": "Dell, Supermicro",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "直供",
-      "difficulty": 4,
-      "challenges": "Insta360 規模中等但成長快速。對 GPU 伺服器需求增長中。",
-      "entryPoint": "Insta360 的 AI 影像處理需要大量 GPU 算力。可從 GPU 伺服器切入。"
-    },
-    {
-      "rank": 55,
-      "company": "有贊 (Youzan)",
-      "region": "杭州",
-      "volume": "約 3,000 - 5,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。中國 SaaS 電商平台。",
-      "application": "電商 SaaS 平台、AI 行銷、數據分析。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "有贊近期面臨營收壓力。IT 投資可能放緩。",
-      "entryPoint": "有贊正在導入 AI 行銷功能。可從通用伺服器切入。"
-    },
-    {
-      "rank": 56,
-      "company": "聯影智能 (United Imaging Intelligence)",
-      "region": "上海",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon / NVIDIA GPU 伺服器。AI 醫療影像公司（聯影醫療子公司）。",
-      "application": "AI 醫療影像分析、深度學習訓練、醫療大模型。",
-      "currentSuppliers": "浪潮, Dell, Supermicro",
-      "odmOem": "ODM",
-      "asusModel": "AI 8GPU: ESC N8-E11, AI 4GPU: ESC4000A-E12",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "醫療 AI 對 GPU 算力需求大。需要展示 ASUS GPU 伺服器的穩定性。",
-      "entryPoint": "聯影智能正在訓練醫療大模型。可從 GPU 伺服器切入。"
-    },
-    {
-      "rank": 57,
-      "company": "度小滿金融 (Du Xiaoman Financial)",
-      "region": "北京",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。百度旗下金融科技公司。",
-      "application": "消費信貸、AI 風控、智能客服。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "金融科技對安全性要求高。需要通過金融監管認證。",
-      "entryPoint": "度小滿正在擴展 AI 風控。可從通用伺服器切入。"
-    },
-    {
-      "rank": 58,
-      "company": "陸金所控股 (Lufax Holding)",
-      "region": "上海",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。平安集團旗下金融科技平台。",
-      "application": "財富管理平台、AI 風控、智能投顧。",
-      "currentSuppliers": "浪潮, Dell, H3C",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "陸金所與平安科技共享基礎設施。採購可能受平安集團影響。",
-      "entryPoint": "可透過平安科技的合作關係切入。"
-    },
-    {
-      "rank": 59,
-      "company": "哈囉出行 (Hello Inc.)",
-      "region": "上海",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。中國共享出行平台（共享單車/電動車）。",
-      "application": "出行平台、IoT 車輛管理、AI 調度優化。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "共享出行市場競爭激烈。IT 預算相對有限。",
-      "entryPoint": "哈囉出行正在擴展 AI 調度。可從通用伺服器切入。"
-    },
-    {
-      "rank": 60,
-      "company": "達達集團 (Dada Group / JD Logistics)",
-      "region": "上海",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。即時配送和零售平台。",
-      "application": "即時配送平台、AI 路線優化、倉儲管理。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "達達與京東深度整合。採購可能受京東影響。",
-      "entryPoint": "達達正在擴展 AI 配送優化。可從通用伺服器切入。"
-    },
-    {
-      "rank": 61,
-      "company": "獵豹移動 (Cheetah Mobile)",
-      "region": "北京",
-      "volume": "約 2,000 - 4,000 台/年",
-      "platform": "Intel Xeon / GPU 伺服器。AI 機器人和軟體公司。",
-      "application": "AI 服務機器人、大模型應用、移動工具。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "獵豹移動正在轉型 AI 機器人。規模較小。",
-      "entryPoint": "獵豹的 AI 機器人業務需要 GPU 伺服器。可從 GPU 伺服器切入。"
-    },
-    {
-      "rank": 62,
-      "company": "匯量科技 (Mobvista / Mintegral)",
-      "region": "廣州",
-      "volume": "約 3,000 - 5,000 台/年",
-      "platform": "Intel Xeon / GPU 伺服器。全球移動廣告平台。",
-      "application": "程序化廣告、AI 廣告投放、數據分析。",
-      "currentSuppliers": "Dell, Supermicro",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "直供",
-      "difficulty": 4,
-      "challenges": "廣告科技對即時性要求高。需要全球分佈的伺服器。",
-      "entryPoint": "匯量科技正在擴展 AI 廣告。可從 GPU 伺服器切入。"
-    },
-    {
-      "rank": 63,
-      "company": "極氪 (Zeekr)",
-      "region": "寧波",
-      "volume": "約 3,000 - 8,000 台/年",
-      "platform": "Intel Xeon / NVIDIA GPU 伺服器。吉利旗下高端電動車品牌。",
-      "application": "自動駕駛研發、AI 座艙、車聯網、OTA 更新。",
-      "currentSuppliers": "浪潮, Dell, Supermicro",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720A-E12, GPU: ESC8000A-E12, AI 8GPU: ESC N8-E11",
-      "channel": "直供 + SI/DIST",
-      "difficulty": 5,
-      "challenges": "極氪正在大力投資自動駕駛。與吉利集團共享部分 IT 基礎設施。",
-      "entryPoint": "極氪的自動駕駛訓練需要大量 GPU 算力。可從 ASUS 液冷 GPU 伺服器切入。"
-    },
-    {
-      "rank": 64,
-      "company": "哪吒汽車 (Neta Auto / Hozon)",
-      "region": "上海",
-      "volume": "約 2,000 - 5,000 台/年",
-      "platform": "Intel Xeon / GPU 伺服器。中國新能源汽車品牌。",
-      "application": "自動駕駛研發、車聯網、生產管理。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "哪吒汽車近期面臨銷量壓力。IT 投資可能放緩。",
-      "entryPoint": "若哪吒汽車恢復穩定，其自動駕駛研發需要 GPU 伺服器。"
-    },
-    {
-      "rank": 65,
-      "company": "零跑汽車 (Leapmotor)",
-      "region": "杭州",
-      "volume": "約 2,000 - 5,000 台/年",
-      "platform": "Intel Xeon / GPU 伺服器。中國新能源汽車品牌（與 Stellantis 合作）。",
-      "application": "自動駕駛研發、AI 座艙、車聯網。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "零跑與 Stellantis 合作出海。IT 基礎設施正在擴展。",
-      "entryPoint": "零跑正在擴展自動駕駛能力。可從 GPU 伺服器切入。"
-    },
-    {
-      "rank": 66,
-      "company": "思必馳 (AISpeech)",
-      "region": "蘇州",
-      "volume": "約 2,000 - 4,000 台/年",
-      "platform": "Intel Xeon / GPU 伺服器。中國 AI 語音技術公司。",
-      "application": "語音辨識、NLP、智能家居、車載語音。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "AI 語音市場競爭激烈。思必馳規模中等。",
-      "entryPoint": "思必馳正在訓練大語言模型。可從 GPU 伺服器切入。"
-    },
-    {
-      "rank": 67,
-      "company": "寒武紀科技 (Cambricon)",
-      "region": "北京",
-      "volume": "約 3,000 - 8,000 台/年",
-      "platform": "自研 AI 晶片 + Intel Xeon 通用伺服器。中國 AI 晶片公司。",
-      "application": "AI 晶片驗證、AI 訓練平台、推論加速。",
-      "currentSuppliers": "浪潮, 自行組裝",
-      "odmOem": "ODM/自行組裝",
-      "asusModel": "通用2U: RS720-E11（搭配寒武紀 AI 加速卡）",
-      "channel": "直供",
-      "difficulty": 6,
-      "challenges": "寒武紀有自研 AI 晶片，對伺服器有客製化需求。需要支援其 AI 加速卡。",
-      "entryPoint": "寒武紀需要通用伺服器平台搭配其 AI 加速卡。可從客製化伺服器方案切入。"
-    },
-    {
-      "rank": 68,
-      "company": "壁仞科技 (Biren Technology)",
-      "region": "上海",
-      "volume": "約 2,000 - 5,000 台/年",
-      "platform": "自研 GPU + Intel Xeon 通用伺服器。中國 GPU 晶片公司。",
-      "application": "GPU 晶片驗證、AI 訓練、推論加速。",
-      "currentSuppliers": "浪潮, 自行組裝",
-      "odmOem": "ODM/自行組裝",
-      "asusModel": "通用2U: RS720-E11（搭配壁仞 GPU）",
-      "channel": "直供",
-      "difficulty": 6,
-      "challenges": "壁仞科技受 BIS 部分限制但非完全禁令。需要評估合規風險。自研 GPU 需要客製化支援。",
-      "entryPoint": "壁仞需要伺服器平台搭配其 GPU。可從客製化伺服器方案切入。"
-    },
-    {
-      "rank": 69,
-      "company": "燧原科技 (Enflame Technology)",
-      "region": "上海",
-      "volume": "約 2,000 - 5,000 台/年",
-      "platform": "自研 AI 晶片 + Intel Xeon 通用伺服器。中國 AI 晶片公司。",
-      "application": "AI 訓練加速、推論加速、雲端 AI 服務。",
-      "currentSuppliers": "浪潮, 自行組裝",
-      "odmOem": "ODM/自行組裝",
-      "asusModel": "通用2U: RS720-E11（搭配燧原 AI 加速卡）",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "燧原科技規模中等。需要支援其自研 AI 加速卡。",
-      "entryPoint": "燧原需要通用伺服器平台。可從客製化伺服器方案切入。"
-    },
-    {
-      "rank": 70,
-      "company": "摩爾線程 (Moore Threads)",
-      "region": "北京",
-      "volume": "約 2,000 - 5,000 台/年",
-      "platform": "自研 GPU + Intel Xeon 通用伺服器。中國 GPU 晶片公司。",
-      "application": "GPU 晶片驗證、AI 訓練、圖形渲染。",
-      "currentSuppliers": "浪潮, 自行組裝",
-      "odmOem": "ODM/自行組裝",
-      "asusModel": "通用2U: RS720-E11（搭配摩爾線程 GPU）",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "摩爾線程受 BIS 部分限制。需要評估合規風險。",
-      "entryPoint": "摩爾線程需要伺服器平台搭配其 GPU。可從客製化伺服器方案切入。"
-    },
-    {
-      "rank": 71,
-      "company": "趣丸科技 (TT Voice / Quwanke)",
-      "region": "廣州",
-      "volume": "約 2,000 - 4,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。中國社交語音平台。",
-      "application": "語音社交平台、遊戲語音、AI 語音處理。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "趣丸科技規模中等。對新供應商較為開放。",
-      "entryPoint": "趣丸正在擴展 AI 語音功能。可從通用伺服器切入。"
-    },
-    {
-      "rank": 72,
-      "company": "聯動優勢 (UMF / UMPay)",
-      "region": "北京",
-      "volume": "約 2,000 - 4,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。中國支付清算平台。",
-      "application": "支付清算、風控系統、跨境支付。",
-      "currentSuppliers": "浪潮, Dell, H3C",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "支付行業對穩定性和合規性要求高。",
-      "entryPoint": "聯動優勢正在升級基礎設施。可從通用伺服器切入。"
-    },
-    {
-      "rank": 73,
-      "company": "極光 (Aurora Mobile)",
-      "region": "深圳",
-      "volume": "約 2,000 - 4,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。中國移動開發者服務平台。",
-      "application": "推送服務、數據分析、AI 行銷。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "極光規模中等。對成本敏感。",
-      "entryPoint": "極光正在擴展 AI 服務。可從通用伺服器切入，提供價格優勢。"
-    },
-    {
-      "rank": 74,
-      "company": "匯付天下 (Huifu Payment)",
-      "region": "上海",
-      "volume": "約 2,000 - 4,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。中國第三方支付公司。",
-      "application": "支付處理、SaaS 服務、數據分析。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "支付行業對穩定性要求高。匯付天下規模中等。",
-      "entryPoint": "匯付天下正在升級支付基礎設施。可從通用伺服器切入。"
-    },
-    {
-      "rank": 75,
-      "company": "歐菲光 (O-Film Technology)",
-      "region": "深圳",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。中國光學鏡頭和觸控面板製造商。",
-      "application": "製造 MES、AI 品質檢測、ERP、研發模擬。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "歐菲光正在導入 AI 品質檢測。對 GPU 伺服器需求增長。",
-      "entryPoint": "歐菲光的 AI 品質檢測需要 GPU 伺服器。可從 GPU 伺服器切入。"
-    },
-    {
-      "rank": 76,
-      "company": "傳音控股 (Transsion Holdings)",
-      "region": "深圳",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。中國手機製造商（非洲市場領導者）。",
-      "application": "手機研發、AI 相機、雲端服務、ERP。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "傳音在非洲市場領先但中國 IT 基礎設施規模中等。",
-      "entryPoint": "傳音正在擴展 AI 相機和雲端服務。可從通用伺服器和 GPU 伺服器切入。"
-    },
-    {
-      "rank": 77,
+      "rank": 32,
       "company": "TCL 科技 (TCL Technology)",
       "region": "深圳/惠州",
       "volume": "約 5,000 - 10,000 台/年",
@@ -1156,205 +915,24 @@
       "channel": "SI/DIST",
       "difficulty": 5,
       "challenges": "TCL 規模龐大，採購流程複雜。與浪潮/H3C 有既有合作。",
-      "entryPoint": "TCL 正在推動智慧製造和 AI 品質檢測。可從 GPU 伺服器切入。"
+      "entryPoint": "TCL 正在推動智慧製造和 AI 品質檢測。可從 GPU 伺服器切入。",
+      "keyPerson": {
+        "name": "李東生 (Li Dongsheng)",
+        "title": "Founder & Chairman",
+        "linkedin": "https://www.linkedin.com/company/tcl",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUStcl-科技"
     },
     {
-      "rank": 78,
-      "company": "創維集團 (Skyworth)",
-      "region": "深圳",
-      "volume": "約 2,000 - 5,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。中國消費電子製造商。",
-      "application": "智慧電視平台、AI 語音助手、製造 MES。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "創維規模中等。對成本敏感。",
-      "entryPoint": "創維正在擴展 AI 智慧電視平台。可從通用伺服器切入。"
-    },
-    {
-      "rank": 79,
-      "company": "光峰科技 (Appotronics)",
-      "region": "深圳",
-      "volume": "約 2,000 - 4,000 台/年",
-      "platform": "Intel Xeon / GPU 伺服器。中國雷射顯示技術公司。",
-      "application": "雷射投影、AI 影像處理、雲端渲染。",
-      "currentSuppliers": "Dell, Supermicro",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "直供",
-      "difficulty": 4,
-      "challenges": "光峰科技規模中等。對 GPU 伺服器需求增長中。",
-      "entryPoint": "光峰正在擴展 AI 影像處理。可從 GPU 伺服器切入。"
-    },
-    {
-      "rank": 80,
-      "company": "石頭科技 (Roborock)",
-      "region": "北京",
-      "volume": "約 2,000 - 4,000 台/年",
-      "platform": "Intel Xeon / GPU 伺服器。中國掃地機器人領導品牌。",
-      "application": "AI 導航演算法、機器視覺、雲端服務。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "石頭科技規模中等但成長快速。對 AI 硬體需求增長。",
-      "entryPoint": "石頭科技正在擴展 AI 導航和機器視覺。可從 GPU 伺服器切入。"
-    },
-    {
-      "rank": 81,
-      "company": "追覓科技 (Dreame Technology)",
-      "region": "蘇州",
-      "volume": "約 2,000 - 4,000 台/年",
-      "platform": "Intel Xeon / GPU 伺服器。中國智慧家電品牌（小米生態鏈）。",
-      "application": "AI 導航、機器視覺、雲端服務、產品研發。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "追覓科技規模中等。與小米生態鏈有合作關係。",
-      "entryPoint": "追覓正在擴展 AI 功能。可從 GPU 伺服器切入。"
-    },
-    {
-      "rank": 82,
-      "company": "蔚來能源 (NIO Power)",
-      "region": "上海",
-      "volume": "約 2,000 - 4,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。蔚來汽車充換電網路。",
-      "application": "充換電站管理、電池管理系統、AI 調度。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, 邊緣: E800-E12",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "蔚來能源正在快速擴展充換電網路。對邊緣伺服器需求增長。",
-      "entryPoint": "蔚來能源的充換電站需要邊緣伺服器。可從邊緣伺服器切入。"
-    },
-    {
-      "rank": 83,
-      "company": "小馬智行 (Pony.ai)",
-      "region": "廣州/北京",
-      "volume": "約 3,000 - 8,000 台/年",
-      "platform": "Intel Xeon / NVIDIA GPU 伺服器。中國自動駕駛公司。",
-      "application": "自動駕駛訓練、感知模型、模擬測試。",
-      "currentSuppliers": "Dell, Supermicro, 自行組裝",
-      "odmOem": "ODM/自行組裝",
-      "asusModel": "AI 8GPU: ESC N8-E11, AI 4GPU: ESC4000A-E12, AI POD: 液冷機櫃方案",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "小馬智行對 GPU 算力需求極大。技術團隊對硬體有深入了解。",
-      "entryPoint": "小馬智行正在擴展自動駕駛車隊。可從 ASUS 液冷 GPU 伺服器切入。"
-    },
-    {
-      "rank": 84,
-      "company": "文遠知行 (WeRide)",
-      "region": "廣州",
-      "volume": "約 2,000 - 5,000 台/年",
-      "platform": "Intel Xeon / NVIDIA GPU 伺服器。中國自動駕駛公司。",
-      "application": "自動駕駛訓練、感知模型、Robotaxi。",
-      "currentSuppliers": "Dell, Supermicro",
-      "odmOem": "ODM",
-      "asusModel": "AI 8GPU: ESC N8-E11, AI 4GPU: ESC4000A-E12",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "文遠知行正在擴展 Robotaxi 業務。對 GPU 算力需求增長。",
-      "entryPoint": "文遠知行的自動駕駛訓練需要大量 GPU。可從 GPU 伺服器切入。"
-    },
-    {
-      "rank": 85,
-      "company": "禾賽科技 (Hesai Technology)",
-      "region": "上海",
-      "volume": "約 2,000 - 5,000 台/年",
-      "platform": "Intel Xeon / GPU 伺服器。中國雷達感測器製造商。",
-      "application": "LiDAR 研發、AI 點雲處理、自動駕駛感知。",
-      "currentSuppliers": "Dell, Supermicro",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "直供",
-      "difficulty": 4,
-      "challenges": "禾賽科技規模中等但成長快速。對 GPU 伺服器需求增長。",
-      "entryPoint": "禾賽的 AI 點雲處理需要 GPU 算力。可從 GPU 伺服器切入。"
-    },
-    {
-      "rank": 86,
-      "company": "聯泰科技 (Liantai Technology)",
-      "region": "深圳",
-      "volume": "約 2,000 - 4,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。中國 3D 列印和數位製造公司。",
-      "application": "3D 列印管理、AI 品質控制、數位製造。",
-      "currentSuppliers": "Dell, 浪潮",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "3D 列印行業正在快速成長。對 AI 和 GPU 需求增加。",
-      "entryPoint": "聯泰正在導入 AI 品質控制。可從 GPU 伺服器切入。"
-    },
-    {
-      "rank": 87,
-      "company": "聯創電子 (LCE Technology)",
-      "region": "合肥",
-      "volume": "約 2,000 - 4,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。中國光學鏡頭製造商。",
-      "application": "製造 MES、AI 品質檢測、研發模擬。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "聯創電子規模中等。正在導入 AI 品質檢測。",
-      "entryPoint": "聯創的 AI 品質檢測需要 GPU 伺服器。可從 GPU 伺服器切入。"
-    },
-    {
-      "rank": 88,
-      "company": "藍思科技 (Lens Technology)",
-      "region": "長沙",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。中國玻璃蓋板製造商（Apple 供應商）。",
-      "application": "製造 MES、AI 品質檢測、ERP、智慧工廠。",
-      "currentSuppliers": "浪潮, Dell, H3C",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "藍思科技規模大。與浪潮/H3C 有既有合作。",
-      "entryPoint": "藍思正在推動智慧工廠。可從 AI 品質檢測伺服器切入。"
-    },
-    {
-      "rank": 89,
-      "company": "立訊精密 (Luxshare Precision)",
-      "region": "東莞",
-      "volume": "約 5,000 - 10,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。中國精密電子製造商（Apple 供應商）。",
-      "application": "製造 MES、AI 品質檢測、ERP、智慧工廠。",
-      "currentSuppliers": "浪潮, Dell, H3C",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "立訊精密規模龐大。與浪潮/H3C 有深度合作。",
-      "entryPoint": "立訊正在推動智慧製造和 AI 品質檢測。可從 GPU 伺服器切入。"
-    },
-    {
-      "rank": 90,
-      "company": "匯川技術 (Inovance Technology)",
-      "region": "深圳",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。中國工業自動化龍頭。",
-      "application": "工業自動化、AI 預測維護、IoT、ERP。",
-      "currentSuppliers": "浪潮, Dell",
-      "odmOem": "ODM",
-      "asusModel": "通用2U: RS720-E11, 邊緣: E800-E12",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "匯川技術正在擴展 AI 和 IoT。對邊緣伺服器需求增長。",
-      "entryPoint": "匯川的工業 IoT 需要邊緣伺服器。可從邊緣伺服器切入。"
-    },
-    {
-      "rank": 91,
+      "rank": 33,
       "company": "藥明康德 (WuXi AppTec)",
       "region": "上海",
       "volume": "約 5,000 - 10,000 台/年",
@@ -1366,10 +944,662 @@
       "channel": "直供 + SI/DIST",
       "difficulty": 6,
       "challenges": "藥明康德受美國 BIOSECURE Act 影響。需要評估合規風險。但 ASUS 為台灣品牌，風險較低。",
-      "entryPoint": "藥明康德正在大力投資 AI 藥物發現。可從 GPU 伺服器切入。"
+      "entryPoint": "藥明康德正在大力投資 AI 藥物發現。可從 GPU 伺服器切入。",
+      "keyPerson": {
+        "name": "李革 (Ge Li)",
+        "title": "Founder & Chairman",
+        "linkedin": "https://www.linkedin.com/company/wuxi-apptec",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://ir.wuxiapptec.com/"
     },
     {
-      "rank": 92,
+      "company": "階躍星辰 (StepFun)",
+      "region": "上海",
+      "volume": "約 5,000-10,000 台/年",
+      "platform": "NVIDIA H100/A100 8-GPU 伺服器、Intel Xeon 通用伺服器",
+      "application": "大語言模型訓練與推理、AI 基礎設施",
+      "currentSuppliers": "ODM 直採",
+      "odmOem": "ODM",
+      "asusModel": "ESC8000-E12, ESC4000A-E12",
+      "channel": "ODM Direct",
+      "difficulty": 3,
+      "challenges": "新創 AI 公司，採購決策快速但預算有限。需要在價格和交期上有競爭力。",
+      "entryPoint": "StepFun 正在快速擴張 GPU 叢集，ASUS 可提供 ESC 系列 GPU 伺服器 ODM 方案，以靈活的小批量起訂和快速交期切入。",
+      "keyPerson": {
+        "name": "姜大昕 (Jiang Daxin)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "階躍星辰 (StepFun) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.stepfun.com",
+      "rank": 34
+    },
+    {
+      "rank": 35,
+      "company": "零一萬物 (01.AI)",
+      "region": "北京",
+      "volume": "約 3,000 - 8,000 台/年",
+      "platform": "NVIDIA GPU 伺服器（H100/A100），4U/8U AI 伺服器。",
+      "application": "中國 AI 大模型公司、Yi 系列大模型、企業 AI 解決方案。李開復創辦。",
+      "currentSuppliers": "浪潮, Supermicro",
+      "odmOem": "ODM",
+      "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12",
+      "channel": "直供",
+      "difficulty": 4,
+      "challenges": "零一萬物規模較小但成長快速。李開復的人脈資源可能影響供應商選擇。",
+      "entryPoint": "零一萬物正在擴展 AI 基礎設施。ASUS 可透過直供建立合作，提供 GPU 伺服器方案。",
+      "keyPerson": {
+        "name": "李開復 (Kai-Fu Lee)",
+        "title": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/kaifulee",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "零一萬物 (01.AI) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.01.ai"
+    },
+    {
+      "rank": 36,
+      "company": "理想汽車 (Li Auto)",
+      "region": "北京",
+      "volume": "約 3,000 - 8,000 台/年",
+      "platform": "NVIDIA GPU 伺服器，4U AI 伺服器。",
+      "application": "新能源汽車、自動駕駛研發、智能座艙、OTA 更新。",
+      "currentSuppliers": "浪潮, Dell",
+      "odmOem": "OEM/ODM 混合",
+      "asusModel": "AI 4U: ESC4000A-E12, AI 8GPU: ESC N8-E11",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "理想汽車正在大力投資自動駕駛。對 GPU 伺服器需求增長快速。",
+      "entryPoint": "從自動駕駛 AI 訓練的 GPU 伺服器需求切入。理想汽車正在建立自有 AI 訓練集群。",
+      "keyPerson": {
+        "name": "李想 (Li Xiang)",
+        "title": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/company/li-auto",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "理想汽車 (Li Auto) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://ir.lixiang.com/"
+    },
+    {
+      "rank": 37,
+      "company": "蔚來汽車 (NIO)",
+      "region": "上海",
+      "volume": "約 3,000 - 8,000 台/年",
+      "platform": "NVIDIA GPU 伺服器，4U AI 伺服器。",
+      "application": "新能源汽車、自動駕駛研發、NIO Pilot、智能座艙、換電站管理。",
+      "currentSuppliers": "浪潮, Dell",
+      "odmOem": "OEM/ODM 混合",
+      "asusModel": "AI 4U: ESC4000A-E12, AI 8GPU: ESC N8-E11",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "蔚來正在大力投資自動駕駛。對 GPU 伺服器需求增長快速。",
+      "entryPoint": "從自動駕駛 AI 訓練的 GPU 伺服器需求切入。蔚來正在建立自有 AI 訓練集群。",
+      "keyPerson": {
+        "name": "李斌 (William Li)",
+        "title": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/company/nio",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "蔚來汽車 (NIO) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://ir.nio.com/"
+    },
+    {
+      "rank": 38,
+      "company": "小鵬汽車 (XPeng)",
+      "region": "廣州",
+      "volume": "約 3,000 - 8,000 台/年",
+      "platform": "NVIDIA GPU 伺服器，4U AI 伺服器。",
+      "application": "新能源汽車、XNGP 自動駕駛、飛行汽車、AI 大模型。",
+      "currentSuppliers": "浪潮, Dell",
+      "odmOem": "OEM/ODM 混合",
+      "asusModel": "AI 4U: ESC4000A-E12, AI 8GPU: ESC N8-E11",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "小鵬正在大力投資自動駕駛（XNGP）。對 GPU 伺服器需求增長快速。",
+      "entryPoint": "從 XNGP 自動駕駛 AI 訓練的 GPU 伺服器需求切入。小鵬正在擴展 AI 訓練集群。",
+      "keyPerson": {
+        "name": "何小鵬 (He Xiaopeng)",
+        "title": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/company/xpeng-motors",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "小鵬汽車 (XPeng) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://ir.xiaopeng.com/"
+    },
+    {
+      "rank": 39,
+      "company": "OPPO / 一加",
+      "region": "深圳",
+      "volume": "約 3,000 - 8,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U 通用伺服器、AI 伺服器。",
+      "application": "智慧手機製造商、AI 手機功能研發、雲端服務、ColorOS AI。",
+      "currentSuppliers": "浪潮, 新華三 (H3C)",
+      "odmOem": "ODM",
+      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "OPPO 正在加大 AI 投資。對成本控制要求嚴格。",
+      "entryPoint": "從 AI 手機功能研發的 GPU 伺服器需求切入。OPPO 正在建立 AI 訓練集群。",
+      "keyPerson": {
+        "name": "劉作虎 (Pete Lau)",
+        "title": "SVP & Chief Product Officer",
+        "linkedin": "https://www.linkedin.com/company/oppo",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "OPPO / 一加 (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSoppo-/-一加"
+    },
+    {
+      "rank": 40,
+      "company": "vivo",
+      "region": "深圳/東莞",
+      "volume": "約 3,000 - 8,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U 通用伺服器、AI 伺服器。",
+      "application": "智慧手機製造商、AI 手機功能研發、雲端服務、OriginOS AI。",
+      "currentSuppliers": "浪潮, 新華三 (H3C)",
+      "odmOem": "ODM",
+      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "vivo 正在加大 AI 投資。對成本控制要求嚴格。",
+      "entryPoint": "從 AI 手機功能研發的 GPU 伺服器需求切入。vivo 正在建立 AI 訓練集群。",
+      "keyPerson": {
+        "name": "沈煒 (Shen Wei)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "vivo (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSvivo"
+    },
+    {
+      "rank": 41,
+      "company": "金蝶國際 (Kingdee)",
+      "region": "深圳",
+      "volume": "約 3,000 - 8,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC，2U 通用伺服器。",
+      "application": "企業軟體公司、金蝶雲·星瀚/蒼穹、ERP 雲服務、AI 企業服務。",
+      "currentSuppliers": "浪潮, 新華三 (H3C)",
+      "odmOem": "ODM",
+      "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "金蝶正在推進雲端轉型。對成本控制要求嚴格。",
+      "entryPoint": "從金蝶雲平台的伺服器需求切入。ASUS 通用伺服器的性價比可切入。",
+      "keyPerson": {
+        "name": "徐少春 (Xu Shaochun)",
+        "title": "Founder & Chairman",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "金蝶國際 (Kingdee) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.kingdee.com/investor/"
+    },
+    {
+      "rank": 42,
+      "company": "地平線 (Horizon Robotics)",
+      "region": "北京",
+      "volume": "約 3,000 - 8,000 台/年",
+      "platform": "NVIDIA GPU / 自研征程晶片，4U AI 伺服器。",
+      "application": "自動駕駛晶片與方案供應商、征程系列晶片研發、AI 訓練平台。",
+      "currentSuppliers": "浪潮, Supermicro",
+      "odmOem": "ODM",
+      "asusModel": "AI 4U: ESC4000A-E12, AI 8GPU: ESC N8-E11",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "地平線正在快速成長，GPU 伺服器需求增加。對 AI 訓練效能要求高。",
+      "entryPoint": "從征程晶片研發的 AI 訓練伺服器需求切入。ASUS ESC 系列可提供高效能方案。",
+      "keyPerson": {
+        "name": "余凱 (Yu Kai)",
+        "title": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/yukai",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "地平線 (Horizon Robotics) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS地平線"
+    },
+    {
+      "rank": 43,
+      "company": "極氪 (Zeekr)",
+      "region": "寧波",
+      "volume": "約 3,000 - 8,000 台/年",
+      "platform": "Intel Xeon / NVIDIA GPU 伺服器。吉利旗下高端電動車品牌。",
+      "application": "自動駕駛研發、AI 座艙、車聯網、OTA 更新。",
+      "currentSuppliers": "浪潮, Dell, Supermicro",
+      "odmOem": "ODM",
+      "asusModel": "通用2U: RS720A-E12, GPU: ESC8000A-E12, AI 8GPU: ESC N8-E11",
+      "channel": "直供 + SI/DIST",
+      "difficulty": 5,
+      "challenges": "極氪正在大力投資自動駕駛。與吉利集團共享部分 IT 基礎設施。",
+      "entryPoint": "極氪的自動駕駛訓練需要大量 GPU 算力。可從 ASUS 液冷 GPU 伺服器切入。",
+      "keyPerson": {
+        "name": "安聰慧 (An Conghui)",
+        "title": "CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "極氪 (Zeekr) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://ir.zeekrlife.com/"
+    },
+    {
+      "rank": 44,
+      "company": "小馬智行 (Pony.ai)",
+      "region": "廣州/北京",
+      "volume": "約 3,000 - 8,000 台/年",
+      "platform": "Intel Xeon / NVIDIA GPU 伺服器。中國自動駕駛公司。",
+      "application": "自動駕駛訓練、感知模型、模擬測試。",
+      "currentSuppliers": "Dell, Supermicro, 自行組裝",
+      "odmOem": "ODM/自行組裝",
+      "asusModel": "AI 8GPU: ESC N8-E11, AI 4GPU: ESC4000A-E12, AI POD: 液冷機櫃方案",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "小馬智行對 GPU 算力需求極大。技術團隊對硬體有深入了解。",
+      "entryPoint": "小馬智行正在擴展自動駕駛車隊。可從 ASUS 液冷 GPU 伺服器切入。",
+      "keyPerson": {
+        "name": "彭軍 (James Peng)",
+        "title": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/jamespeng",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "小馬智行 (Pony.ai) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://ir.pony.ai/"
+    },
+    {
+      "company": "光年之外 (Lightspeed)",
+      "region": "北京",
+      "volume": "約 3,000-8,000 台/年",
+      "platform": "NVIDIA H100 8-GPU 伺服器",
+      "application": "AGI 研究、大模型訓練",
+      "currentSuppliers": "ODM 直採",
+      "odmOem": "ODM",
+      "asusModel": "ESC8000-E12",
+      "channel": "ODM Direct",
+      "difficulty": 4,
+      "challenges": "已被美團收購，採購可能整合至美團體系。需確認獨立採購權限。",
+      "entryPoint": "透過美團關係切入，或直接聯繫光年之外技術團隊提供 GPU 伺服器 POC。",
+      "keyPerson": {
+        "name": "王慧文 (Wang Huiwen)",
+        "title": "Founder",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "光年之外 (Lightspeed) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS光年之外",
+      "rank": 45
+    },
+    {
+      "company": "深信服 (Sangfor Technologies)",
+      "region": "深圳",
+      "volume": "約 3,000-8,000 台/年",
+      "platform": "Intel/AMD 通用伺服器",
+      "application": "超融合基礎設施 (HCI)、SD-WAN、雲端安全",
+      "currentSuppliers": "ODM 直採, 部分 Supermicro",
+      "odmOem": "ODM",
+      "asusModel": "RS720-E11, RS520-E11",
+      "channel": "ODM Direct",
+      "difficulty": 4,
+      "challenges": "深信服自身也是 IT 解決方案商，有自己的伺服器產品線（超融合）。但核心仍需外部伺服器平台。",
+      "entryPoint": "ASUS 可作為深信服超融合平台的 ODM 供應商，提供裸機伺服器。價格和交期是關鍵。",
+      "keyPerson": {
+        "name": "何朝曦 (He Zhaoxi)",
+        "title": "Founder & Chairman",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "深信服 (Sangfor Technologies) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.sangfor.com/en/about/investor-relations",
+      "rank": 46
+    },
+    {
+      "company": "匯豐軟件 (HSBC Software Development China)",
+      "region": "廣州/深圳",
+      "volume": "約 3,000-8,000 台/年",
+      "platform": "Intel/AMD 通用伺服器",
+      "application": "銀行核心系統、風控平台、AI 反詐",
+      "currentSuppliers": "Dell, HPE (via global procurement)",
+      "odmOem": "OEM",
+      "asusModel": "RS720-E11, RS720A-E12",
+      "channel": "SI",
+      "difficulty": 7,
+      "challenges": "HSBC 全球採購體系，中國區採購需符合全球標準。決策在倫敦總部。",
+      "entryPoint": "透過 HSBC 中國區 IT 團隊建立關係，先從非核心系統切入。配合 EMEA 團隊全球策略。",
+      "keyPerson": {
+        "name": "翁富澤 (Weng Fuze)",
+        "title": "CTO HSBC China",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "Kyndryl",
+          "website": "https://www.kyndryl.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS匯豐軟件",
+      "rank": 47
+    },
+    {
+      "rank": 48,
+      "company": "同程旅行 (Tongcheng Travel)",
+      "region": "蘇州",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。中國大型線上旅遊平台。",
+      "application": "旅遊預訂平台、AI 推薦、搜尋優化。",
+      "currentSuppliers": "浪潮, Dell, H3C",
+      "odmOem": "ODM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "中國旅遊平台市場競爭激烈。IT 預算相對保守。",
+      "entryPoint": "同程旅行正在擴展 AI 服務。可從通用伺服器切入。",
+      "keyPerson": {
+        "name": "馬和平 (Ma Heping)",
+        "title": "CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://ir.ly.com/"
+    },
+    {
+      "rank": 49,
+      "company": "嗶哩嗶哩遊戲 (Bilibili Game)",
+      "region": "上海",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC 通用伺服器、GPU 伺服器。B 站遊戲業務。",
+      "application": "遊戲伺服器、AI NPC、遊戲渲染、直播。",
+      "currentSuppliers": "浪潮, Dell, Supermicro",
+      "odmOem": "ODM",
+      "asusModel": "通用2U: RS720A-E12, GPU: ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "遊戲業對延遲要求高。需要展示 ASUS 伺服器的低延遲性能。",
+      "entryPoint": "B 站遊戲正在導入 AI NPC。可從 GPU 伺服器切入。",
+      "keyPerson": {
+        "name": "陳睿 (Rui Chen)",
+        "title": "Chairman & CEO",
+        "linkedin": "https://www.linkedin.com/company/bilibili",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://ir.bilibili.com/"
+    },
+    {
+      "rank": 50,
+      "company": "聯影智能 (United Imaging Intelligence)",
+      "region": "上海",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon / NVIDIA GPU 伺服器。AI 醫療影像公司（聯影醫療子公司）。",
+      "application": "AI 醫療影像分析、深度學習訓練、醫療大模型。",
+      "currentSuppliers": "浪潮, Dell, Supermicro",
+      "odmOem": "ODM",
+      "asusModel": "AI 8GPU: ESC N8-E11, AI 4GPU: ESC4000A-E12",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "醫療 AI 對 GPU 算力需求大。需要展示 ASUS GPU 伺服器的穩定性。",
+      "entryPoint": "聯影智能正在訓練醫療大模型。可從 GPU 伺服器切入。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "聯影智能 (United Imaging Intelligence) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS聯影智能"
+    },
+    {
+      "rank": 51,
+      "company": "度小滿金融 (Du Xiaoman Financial)",
+      "region": "北京",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。百度旗下金融科技公司。",
+      "application": "消費信貸、AI 風控、智能客服。",
+      "currentSuppliers": "浪潮, Dell",
+      "odmOem": "ODM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "金融科技對安全性要求高。需要通過金融監管認證。",
+      "entryPoint": "度小滿正在擴展 AI 風控。可從通用伺服器切入。",
+      "keyPerson": {
+        "name": "朱光 (Zhu Guang)",
+        "title": "CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS度小滿金融"
+    },
+    {
+      "rank": 52,
+      "company": "陸金所控股 (Lufax Holding)",
+      "region": "上海",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。平安集團旗下金融科技平台。",
+      "application": "財富管理平台、AI 風控、智能投顧。",
+      "currentSuppliers": "浪潮, Dell, H3C",
+      "odmOem": "ODM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "陸金所與平安科技共享基礎設施。採購可能受平安集團影響。",
+      "entryPoint": "可透過平安科技的合作關係切入。",
+      "keyPerson": {
+        "name": "趙容奭 (Cho Yongseok)",
+        "title": "Co-CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://ir.lufaxholding.com/"
+    },
+    {
+      "rank": 53,
+      "company": "哈囉出行 (Hello Inc.)",
+      "region": "上海",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。中國共享出行平台（共享單車/電動車）。",
+      "application": "出行平台、IoT 車輛管理、AI 調度優化。",
+      "currentSuppliers": "浪潮, Dell",
+      "odmOem": "ODM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST",
+      "difficulty": 4,
+      "challenges": "共享出行市場競爭激烈。IT 預算相對有限。",
+      "entryPoint": "哈囉出行正在擴展 AI 調度。可從通用伺服器切入。",
+      "keyPerson": {
+        "name": "楊磊 (Yang Lei)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS哈囉出行"
+    },
+    {
+      "rank": 54,
+      "company": "達達集團 (Dada Group / JD Logistics)",
+      "region": "上海",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。即時配送和零售平台。",
+      "application": "即時配送平台、AI 路線優化、倉儲管理。",
+      "currentSuppliers": "浪潮, Dell",
+      "odmOem": "ODM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "達達與京東深度整合。採購可能受京東影響。",
+      "entryPoint": "達達正在擴展 AI 配送優化。可從通用伺服器切入。",
+      "keyPerson": {
+        "name": "何輝劍 (He Huijian)",
+        "title": "CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS達達集團"
+    },
+    {
+      "rank": 55,
+      "company": "傳音控股 (Transsion Holdings)",
+      "region": "深圳",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。中國手機製造商（非洲市場領導者）。",
+      "application": "手機研發、AI 相機、雲端服務、ERP。",
+      "currentSuppliers": "浪潮, Dell",
+      "odmOem": "ODM",
+      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 4,
+      "challenges": "傳音在非洲市場領先但中國 IT 基礎設施規模中等。",
+      "entryPoint": "傳音正在擴展 AI 相機和雲端服務。可從通用伺服器和 GPU 伺服器切入。",
+      "keyPerson": {
+        "name": "竺兆江 (Zhu Zhaojiang)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS傳音控股"
+    },
+    {
+      "rank": 56,
       "company": "藥明生物 (WuXi Biologics)",
       "region": "無錫",
       "volume": "約 3,000 - 6,000 台/年",
@@ -1381,25 +1611,111 @@
       "channel": "SI/DIST",
       "difficulty": 5,
       "challenges": "藥明生物同樣受 BIOSECURE Act 影響。需要評估合規風險。",
-      "entryPoint": "藥明生物正在導入 AI 研發。可從 GPU 伺服器切入。"
+      "entryPoint": "藥明生物正在導入 AI 研發。可從 GPU 伺服器切入。",
+      "keyPerson": {
+        "name": "陳智勝 (Chris Chen)",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/company/wuxi-biologics",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS藥明生物"
     },
     {
-      "rank": 93,
-      "company": "泰格醫藥 (Tigermed)",
+      "rank": 57,
+      "company": "第四範式 (4Paradigm)",
+      "region": "北京",
+      "volume": "約 3,000 - 5,000 台/年",
+      "platform": "NVIDIA GPU / Intel Xeon，4U AI 伺服器、2U 通用伺服器。",
+      "application": "企業 AI 平台、先知平台、AI 決策引擎、金融/零售/製造 AI 解決方案。",
+      "currentSuppliers": "浪潮, Dell",
+      "odmOem": "OEM/ODM 混合",
+      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720-E11",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "第四範式正在快速成長。對 AI 伺服器效能要求高。",
+      "entryPoint": "從先知平台的 AI 伺服器需求切入。ASUS ESC 系列可提供高效能方案。",
+      "keyPerson": {
+        "name": "戴文淵 (Dai Wenyuan)",
+        "title": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/wenyuan-dai",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "第四範式 (4Paradigm) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS第四範式"
+    },
+    {
+      "rank": 58,
+      "company": "有贊 (Youzan)",
       "region": "杭州",
-      "volume": "約 2,000 - 4,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。中國大型 CRO 公司。",
-      "application": "臨床試驗管理、AI 數據分析、EDC 系統。",
+      "volume": "約 3,000 - 5,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。中國 SaaS 電商平台。",
+      "application": "電商 SaaS 平台、AI 行銷、數據分析。",
       "currentSuppliers": "浪潮, Dell",
       "odmOem": "ODM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST",
       "difficulty": 4,
-      "challenges": "泰格醫藥規模中等。對通用伺服器需求穩定。",
-      "entryPoint": "泰格正在導入 AI 臨床數據分析。可從通用伺服器切入。"
+      "challenges": "有贊近期面臨營收壓力。IT 投資可能放緩。",
+      "entryPoint": "有贊正在導入 AI 行銷功能。可從通用伺服器切入。",
+      "keyPerson": {
+        "name": "白鴉 (Bai Ya)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS有贊"
     },
     {
-      "rank": 94,
+      "rank": 59,
+      "company": "匯量科技 (Mobvista / Mintegral)",
+      "region": "廣州",
+      "volume": "約 3,000 - 5,000 台/年",
+      "platform": "Intel Xeon / GPU 伺服器。全球移動廣告平台。",
+      "application": "程序化廣告、AI 廣告投放、數據分析。",
+      "currentSuppliers": "Dell, Supermicro",
+      "odmOem": "ODM",
+      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
+      "channel": "直供",
+      "difficulty": 4,
+      "challenges": "廣告科技對即時性要求高。需要全球分佈的伺服器。",
+      "entryPoint": "匯量科技正在擴展 AI 廣告。可從 GPU 伺服器切入。",
+      "keyPerson": {
+        "name": "段威 (Duan Wei)",
+        "title": "CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "匯量科技 (Mobvista / Mintegral) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS匯量科技"
+    },
+    {
+      "rank": 60,
       "company": "微盟集團 (Weimob)",
       "region": "上海",
       "volume": "約 3,000 - 5,000 台/年",
@@ -1411,10 +1727,24 @@
       "channel": "SI/DIST",
       "difficulty": 4,
       "challenges": "微盟規模中等。正在導入 AI 功能。",
-      "entryPoint": "微盟正在擴展 AI 行銷功能。可從通用伺服器切入。"
+      "entryPoint": "微盟正在擴展 AI 行銷功能。可從通用伺服器切入。",
+      "keyPerson": {
+        "name": "孫濤勇 (Sun Taoyong)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS微盟集團"
     },
     {
-      "rank": 95,
+      "rank": 61,
       "company": "明源雲 (MingYuan Cloud)",
       "region": "深圳",
       "volume": "約 3,000 - 5,000 台/年",
@@ -1426,10 +1756,24 @@
       "channel": "SI/DIST",
       "difficulty": 4,
       "challenges": "中國房地產市場低迷影響明源雲業務。IT 投資可能放緩。",
-      "entryPoint": "明源雲正在轉型 AI SaaS。可從通用伺服器切入。"
+      "entryPoint": "明源雲正在轉型 AI SaaS。可從通用伺服器切入。",
+      "keyPerson": {
+        "name": "高宇 (Gao Yu)",
+        "title": "CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS明源雲"
     },
     {
-      "rank": 96,
+      "rank": 62,
       "company": "塗鴉智能 (Tuya Smart)",
       "region": "杭州",
       "volume": "約 3,000 - 5,000 台/年",
@@ -1441,67 +1785,1133 @@
       "channel": "SI/DIST",
       "difficulty": 4,
       "challenges": "塗鴉智能全球營運。部分工作負載在公有雲。",
-      "entryPoint": "塗鴉正在擴展 AI IoT 功能。可從通用伺服器切入。"
+      "entryPoint": "塗鴉正在擴展 AI IoT 功能。可從通用伺服器切入。",
+      "keyPerson": {
+        "name": "王學集 (Jerry Wang)",
+        "title": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/jerrywangtuya",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://ir.tuya.com/"
     },
     {
-      "rank": 97,
-      "company": "聯發科技 (MediaTek) — 大陸研發中心",
-      "region": "上海/深圳/北京",
-      "volume": "約 5,000 - 10,000 台/年（大陸研發部分）",
-      "platform": "Intel Xeon / AMD EPYC 通用伺服器、GPU 伺服器。全球第四大半導體公司。",
-      "application": "EDA 設計、AI 晶片驗證、5G 基帶研發。",
-      "currentSuppliers": "Dell, HPE, Supermicro",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720A-E12, GPU: ESC8000A-E12",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "MediaTek 大陸研發中心規模大。與 Dell/HPE 有既有合約。ASUS 與 MediaTek 同為台灣公司，有合作基礎。",
-      "entryPoint": "MediaTek 大陸研發中心對 GPU 伺服器需求增長。可利用台灣同鄉優勢切入。"
-    },
-    {
-      "rank": 98,
-      "company": "日月光半導體 (ASE Group) — 大陸廠區",
-      "region": "上海/崑山",
-      "volume": "約 3,000 - 6,000 台/年（大陸廠區）",
-      "platform": "Intel Xeon 通用伺服器。全球最大的半導體封測公司。",
-      "application": "封測製程管理、AI 品質檢測、ERP。",
-      "currentSuppliers": "Dell, HPE",
-      "odmOem": "OEM",
+      "rank": 63,
+      "company": "哪吒汽車 (Neta Auto / Hozon)",
+      "region": "上海",
+      "volume": "約 2,000 - 5,000 台/年",
+      "platform": "Intel Xeon / GPU 伺服器。中國新能源汽車品牌。",
+      "application": "自動駕駛研發、車聯網、生產管理。",
+      "currentSuppliers": "浪潮, Dell",
+      "odmOem": "ODM",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "ASE 大陸廠區規模大。ASUS 與 ASE 同為台灣公司。",
-      "entryPoint": "ASE 正在導入 AI 品質檢測。可利用台灣同鄉優勢切入。"
-    },
-    {
-      "rank": 99,
-      "company": "台達電子 (Delta Electronics) — 大陸業務",
-      "region": "上海/東莞",
-      "volume": "約 3,000 - 6,000 台/年（大陸業務）",
-      "platform": "Intel Xeon 通用伺服器。全球電源和散熱解決方案領導者。",
-      "application": "資料中心電源管理、AI 預測維護、製造 MES。",
-      "currentSuppliers": "Dell, HPE",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "直供",
+      "channel": "SI/DIST",
       "difficulty": 4,
-      "challenges": "台達電子自身是資料中心基礎設施供應商。ASUS 與台達同為台灣公司，有合作基礎。",
-      "entryPoint": "台達正在擴展 AI 和智慧製造。可利用台灣同鄉優勢和互惠合作切入。"
+      "challenges": "哪吒汽車近期面臨銷量壓力。IT 投資可能放緩。",
+      "entryPoint": "若哪吒汽車恢復穩定，其自動駕駛研發需要 GPU 伺服器。",
+      "keyPerson": {
+        "name": "張勇 (Zhang Yong)",
+        "title": "CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS哪吒汽車"
     },
     {
-      "rank": 100,
-      "company": "緯創資通 (Wistron) — 大陸廠區",
-      "region": "崑山/重慶",
-      "volume": "約 3,000 - 6,000 台/年（大陸廠區自用）",
-      "platform": "Intel Xeon 通用伺服器。全球 ODM/EMS 製造商。",
-      "application": "製造 MES、AI 品質檢測、ERP、研發。",
-      "currentSuppliers": "Dell, 自有品牌",
-      "odmOem": "OEM/自有品牌",
+      "rank": 64,
+      "company": "零跑汽車 (Leapmotor)",
+      "region": "杭州",
+      "volume": "約 2,000 - 5,000 台/年",
+      "platform": "Intel Xeon / GPU 伺服器。中國新能源汽車品牌（與 Stellantis 合作）。",
+      "application": "自動駕駛研發、AI 座艙、車聯網。",
+      "currentSuppliers": "浪潮, Dell",
+      "odmOem": "ODM",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 4,
+      "challenges": "零跑與 Stellantis 合作出海。IT 基礎設施正在擴展。",
+      "entryPoint": "零跑正在擴展自動駕駛能力。可從 GPU 伺服器切入。",
+      "keyPerson": {
+        "name": "朱江明 (Zhu Jiangming)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://ir.leapmotor.com/"
+    },
+    {
+      "rank": 65,
+      "company": "燧原科技 (Enflame Technology)",
+      "region": "上海",
+      "volume": "約 2,000 - 5,000 台/年",
+      "platform": "自研 AI 晶片 + Intel Xeon 通用伺服器。中國 AI 晶片公司。",
+      "application": "AI 訓練加速、推論加速、雲端 AI 服務。",
+      "currentSuppliers": "浪潮, 自行組裝",
+      "odmOem": "ODM/自行組裝",
+      "asusModel": "通用2U: RS720-E11（搭配燧原 AI 加速卡）",
       "channel": "直供",
-      "difficulty": 7,
-      "challenges": "緯創自身是伺服器 ODM 製造商。自用部分有獨立採購。ASUS 與緯創有競合關係。",
-      "entryPoint": "緯創大陸廠區的自用伺服器有獨立預算。可從非核心業務的通用伺服器切入。"
+      "difficulty": 5,
+      "challenges": "燧原科技規模中等。需要支援其自研 AI 加速卡。",
+      "entryPoint": "燧原需要通用伺服器平台。可從客製化伺服器方案切入。",
+      "keyPerson": {
+        "name": "趙立東 (Zhao Lidong)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "燧原科技 (Enflame Technology) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.enflame-tech.com"
+    },
+    {
+      "rank": 66,
+      "company": "創維集團 (Skyworth)",
+      "region": "深圳",
+      "volume": "約 2,000 - 5,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。中國消費電子製造商。",
+      "application": "智慧電視平台、AI 語音助手、製造 MES。",
+      "currentSuppliers": "浪潮, Dell",
+      "odmOem": "ODM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST",
+      "difficulty": 4,
+      "challenges": "創維規模中等。對成本敏感。",
+      "entryPoint": "創維正在擴展 AI 智慧電視平台。可從通用伺服器切入。",
+      "keyPerson": {
+        "name": "王志國 (Wang Zhiguo)",
+        "title": "CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS創維集團"
+    },
+    {
+      "rank": 67,
+      "company": "文遠知行 (WeRide)",
+      "region": "廣州",
+      "volume": "約 2,000 - 5,000 台/年",
+      "platform": "Intel Xeon / NVIDIA GPU 伺服器。中國自動駕駛公司。",
+      "application": "自動駕駛訓練、感知模型、Robotaxi。",
+      "currentSuppliers": "Dell, Supermicro",
+      "odmOem": "ODM",
+      "asusModel": "AI 8GPU: ESC N8-E11, AI 4GPU: ESC4000A-E12",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "文遠知行正在擴展 Robotaxi 業務。對 GPU 算力需求增長。",
+      "entryPoint": "文遠知行的自動駕駛訓練需要大量 GPU。可從 GPU 伺服器切入。",
+      "keyPerson": {
+        "name": "韓旭 (Han Xu)",
+        "title": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/hanxuweride",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "文遠知行 (WeRide) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://ir.weride.ai/"
+    },
+    {
+      "company": "面壁智能 (ModelBest)",
+      "region": "北京",
+      "volume": "約 2,000-5,000 台/年",
+      "platform": "NVIDIA A100/H100 GPU 伺服器",
+      "application": "大語言模型研發（CPM 系列）、AI 推理服務",
+      "currentSuppliers": "ODM 直採",
+      "odmOem": "ODM",
+      "asusModel": "ESC4000A-E12, RS720A-E12",
+      "channel": "ODM Direct",
+      "difficulty": 3,
+      "challenges": "規模較小的 AI 新創，採購量有限但成長快速。",
+      "entryPoint": "ASUS 可提供靈活的小批量 GPU 伺服器方案，搭配技術支援服務切入。",
+      "keyPerson": {
+        "name": "劉知遠 (Liu Zhiyuan)",
+        "title": "Co-Founder & Chief Scientist",
+        "linkedin": "https://www.linkedin.com/in/zhiyuanliu",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "面壁智能 (ModelBest) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://modelbest.cn",
+      "rank": 68
+    },
+    {
+      "company": "吉利汽車 (Geely Auto)",
+      "region": "杭州",
+      "volume": "約 2,000-5,000 台/年",
+      "platform": "Intel/AMD 通用伺服器、NVIDIA GPU 伺服器（自動駕駛）",
+      "application": "自動駕駛研發、車聯網、智慧工廠、ERP/PLM",
+      "currentSuppliers": "Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "RS720-E11, RS720A-E12, ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "大型汽車集團（含極氪、沃爾沃），IT 採購分散在各子公司。需要集團層級關係。",
+      "entryPoint": "透過極氪（已在清單）建立關係，擴展至吉利集團整體 IT 採購。提供自動駕駛 GPU 伺服器方案。",
+      "keyPerson": {
+        "name": "李書福 (Li Shufu)",
+        "title": "Founder & Chairman",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://global.geely.com/investor-relations",
+      "rank": 69
+    },
+    {
+      "company": "奇安信 (QiAnXin)",
+      "region": "北京",
+      "volume": "約 2,000-5,000 台/年",
+      "platform": "Intel/AMD 通用伺服器",
+      "application": "網路安全平台、安全雲服務、威脅情報分析",
+      "currentSuppliers": "Dell, HPE, 部分國產",
+      "odmOem": "OEM",
+      "asusModel": "RS720-E11, RS520-E11, RS720A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "網路安全公司，對伺服器安全性要求高。部分業務涉及政府客戶可能需要信創。",
+      "entryPoint": "透過民營企業安全業務線切入，提供高安全性伺服器方案。避開政府信創業務。",
+      "keyPerson": {
+        "name": "齊向東 (Qi Xiangdong)",
+        "title": "Founder & Chairman",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.qianxin.com",
+      "rank": 70
+    },
+    {
+      "company": "九坤投資 (Ubiquant)",
+      "region": "北京",
+      "volume": "約 2,000-5,000 台/年",
+      "platform": "AMD EPYC 通用伺服器、NVIDIA GPU 伺服器",
+      "application": "量化交易、高頻交易、AI 策略研發",
+      "currentSuppliers": "Dell, Supermicro",
+      "odmOem": "OEM/ODM",
+      "asusModel": "RS720A-E12, ESC4000A-E12, ESC8000-E12",
+      "channel": "ODM Direct",
+      "difficulty": 4,
+      "challenges": "量化基金對伺服器性能和延遲要求極高，需要定制化方案。",
+      "entryPoint": "ASUS 可提供高性能 AMD EPYC 伺服器和 GPU 伺服器的定制化 ODM 方案，以性能優勢切入。",
+      "keyPerson": {
+        "name": "王琛 (Wang Chen)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "九坤投資 (Ubiquant) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS九坤投資",
+      "rank": 71
+    },
+    {
+      "company": "星環科技 (Transwarp)",
+      "region": "上海",
+      "volume": "約 2,000-5,000 台/年",
+      "platform": "Intel/AMD 通用伺服器、GPU 伺服器",
+      "application": "大數據平台（TDH）、AI 平台、數據庫",
+      "currentSuppliers": "Dell, 部分 ODM",
+      "odmOem": "OEM/ODM",
+      "asusModel": "RS720-E11, RS720A-E12, ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 4,
+      "challenges": "星環自身是大數據解決方案商，搭配伺服器一起銷售。可作為 SI 夥伴。",
+      "entryPoint": "ASUS 可作為星環大數據平台的推薦硬體供應商，提供 OEM 方案。互利合作模式。",
+      "keyPerson": {
+        "name": "孫元浩 (Sun Yuanhao)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "紫光數碼",
+          "website": "https://www.unis.com.cn",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.transwarp.cn/en/investor",
+      "rank": 72
+    },
+    {
+      "rank": 73,
+      "company": "獵豹移動 (Cheetah Mobile)",
+      "region": "北京",
+      "volume": "約 2,000 - 4,000 台/年",
+      "platform": "Intel Xeon / GPU 伺服器。AI 機器人和軟體公司。",
+      "application": "AI 服務機器人、大模型應用、移動工具。",
+      "currentSuppliers": "浪潮, Dell",
+      "odmOem": "ODM",
+      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 4,
+      "challenges": "獵豹移動正在轉型 AI 機器人。規模較小。",
+      "entryPoint": "獵豹的 AI 機器人業務需要 GPU 伺服器。可從 GPU 伺服器切入。",
+      "keyPerson": {
+        "name": "傅盛 (Fu Sheng)",
+        "title": "CEO",
+        "linkedin": "https://www.linkedin.com/in/fusheng",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://ir.cmcm.com/"
+    },
+    {
+      "rank": 74,
+      "company": "思必馳 (AISpeech)",
+      "region": "蘇州",
+      "volume": "約 2,000 - 4,000 台/年",
+      "platform": "Intel Xeon / GPU 伺服器。中國 AI 語音技術公司。",
+      "application": "語音辨識、NLP、智能家居、車載語音。",
+      "currentSuppliers": "浪潮, Dell",
+      "odmOem": "ODM",
+      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 4,
+      "challenges": "AI 語音市場競爭激烈。思必馳規模中等。",
+      "entryPoint": "思必馳正在訓練大語言模型。可從 GPU 伺服器切入。",
+      "keyPerson": {
+        "name": "高始興 (Gao Shixing)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS思必馳"
+    },
+    {
+      "rank": 75,
+      "company": "趣丸科技 (TT Voice / Quwanke)",
+      "region": "廣州",
+      "volume": "約 2,000 - 4,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。中國社交語音平台。",
+      "application": "語音社交平台、遊戲語音、AI 語音處理。",
+      "currentSuppliers": "浪潮, Dell",
+      "odmOem": "ODM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST",
+      "difficulty": 4,
+      "challenges": "趣丸科技規模中等。對新供應商較為開放。",
+      "entryPoint": "趣丸正在擴展 AI 語音功能。可從通用伺服器切入。",
+      "keyPerson": {
+        "name": "宋克 (Song Ke)",
+        "title": "CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS趣丸科技"
+    },
+    {
+      "rank": 76,
+      "company": "蔚來能源 (NIO Power)",
+      "region": "上海",
+      "volume": "約 2,000 - 4,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。蔚來汽車充換電網路。",
+      "application": "充換電站管理、電池管理系統、AI 調度。",
+      "currentSuppliers": "浪潮, Dell",
+      "odmOem": "ODM",
+      "asusModel": "通用2U: RS720-E11, 邊緣: E800-E12",
+      "channel": "SI/DIST",
+      "difficulty": 4,
+      "challenges": "蔚來能源正在快速擴展充換電網路。對邊緣伺服器需求增長。",
+      "entryPoint": "蔚來能源的充換電站需要邊緣伺服器。可從邊緣伺服器切入。",
+      "keyPerson": {
+        "name": "沈斐 (Shen Fei)",
+        "title": "SVP NIO Power",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS蔚來能源"
+    },
+    {
+      "rank": 77,
+      "company": "泰格醫藥 (Tigermed)",
+      "region": "杭州",
+      "volume": "約 2,000 - 4,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。中國大型 CRO 公司。",
+      "application": "臨床試驗管理、AI 數據分析、EDC 系統。",
+      "currentSuppliers": "浪潮, Dell",
+      "odmOem": "ODM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST",
+      "difficulty": 4,
+      "challenges": "泰格醫藥規模中等。對通用伺服器需求穩定。",
+      "entryPoint": "泰格正在導入 AI 臨床數據分析。可從通用伺服器切入。",
+      "keyPerson": {
+        "name": "葉小平 (Ye Xiaoping)",
+        "title": "Founder & Chairman",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS泰格醫藥"
+    },
+    {
+      "rank": 78,
+      "company": "星環科技 (Transwarp Technology)",
+      "region": "上海",
+      "volume": "約 1,000-2,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU",
+      "application": "大數據分析平台、AI 訓練與推論、分散式資料庫",
+      "currentSuppliers": "浪潮, 新華三, Dell",
+      "odmOem": "OEM",
+      "asusModel": "ASUS RS720A-E12 (通用), ESC4000A-E12 (GPU)",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "星環科技主要服務金融和政府客戶，對伺服器的認證和合規要求較高。目前與浪潮和新華三有較深的合作關係。",
+      "entryPoint": "1) 透過星環科技的 Transwarp Data Cloud 平台認證切入。2) 提供 AI 訓練伺服器的 POC 測試。3) 與星環科技的 SI 合作夥伴建立關係。",
+      "keyPerson": {
+        "name": "孫元浩",
+        "title": "創辦人兼 CEO",
+        "linkedin": "https://www.linkedin.com/company/transwarp-technology/",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        },
+        {
+          "name": "東軟集團",
+          "website": "https://www.neusoft.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.transwarp.cn/investor"
+    },
+    {
+      "company": "長城汽車 (Great Wall Motor)",
+      "region": "保定",
+      "volume": "約 1,500-4,000 台/年",
+      "platform": "Intel Xeon 通用伺服器、NVIDIA GPU 伺服器",
+      "application": "自動駕駛研發、智慧工廠、車聯網平台",
+      "currentSuppliers": "Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "RS720-E11, ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "傳統車企轉型智能化，IT 預算增長快但採購流程保守。",
+      "entryPoint": "透過智慧工廠和自動駕駛 AI 訓練需求切入，提供 GPU 伺服器 POC。",
+      "keyPerson": {
+        "name": "魏建軍 (Wei Jianjun)",
+        "title": "Founder & Chairman",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "紫光數碼",
+          "website": "https://www.unis.com.cn",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.gwm.com.cn/investor.html",
+      "rank": 79
+    },
+    {
+      "company": "三一重工 (SANY Heavy Industry)",
+      "region": "長沙",
+      "volume": "約 1,000-3,000 台/年",
+      "platform": "Intel Xeon 通用伺服器、NVIDIA GPU 伺服器（AI 品檢）",
+      "application": "智慧製造、工業互聯網（樹根互聯）、AI 品質檢測、ERP/PLM",
+      "currentSuppliers": "Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "RS720-E11, RS520-E11, ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "大型民營製造企業，IT 採購流程規範，需要通過招標。ASUS 品牌在工業領域知名度不足。",
+      "entryPoint": "透過樹根互聯（三一旗下工業互聯網平台）切入，提供邊緣伺服器和 AI 推理方案。",
+      "keyPerson": {
+        "name": "梁穩根 (Liang Wengen)",
+        "title": "Founder & Chairman",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        },
+        {
+          "name": "紫光數碼",
+          "website": "https://www.unis.com.cn",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.sanygroup.com/en/investor.html",
+      "rank": 80
+    },
+    {
+      "company": "眾安在線 (ZhongAn Online)",
+      "region": "上海",
+      "volume": "約 1,000-3,000 台/年",
+      "platform": "Intel 通用伺服器、GPU 伺服器",
+      "application": "保險科技平台、AI 理賠、大數據風控",
+      "currentSuppliers": "阿里雲為主, 部分自建",
+      "odmOem": "OEM",
+      "asusModel": "RS720-E11, ESC4000A-E12",
+      "channel": "DIST",
+      "difficulty": 4,
+      "challenges": "主要依賴阿里雲，自建部分較少。需要說服其增加自建比例。",
+      "entryPoint": "透過 AI 理賠和大數據分析的本地化需求切入。",
+      "keyPerson": {
+        "name": "姜興 (Jiang Xing)",
+        "title": "CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.zhongan.com/open/investor",
+      "rank": 81
+    },
+    {
+      "company": "富途控股 (Futu Holdings)",
+      "region": "深圳",
+      "volume": "約 1,000-3,000 台/年",
+      "platform": "Intel/AMD 通用伺服器",
+      "application": "證券交易平台、行情數據、AI 量化分析",
+      "currentSuppliers": "Dell, 部分雲端",
+      "odmOem": "OEM",
+      "asusModel": "RS720-E11, RS720A-E12",
+      "channel": "DIST",
+      "difficulty": 4,
+      "challenges": "金融交易系統對延遲和可靠性要求極高。需要證明 ASUS 伺服器的穩定性。",
+      "entryPoint": "透過非核心交易系統（如 AI 量化分析、數據倉庫）先切入，建立信任後擴展。",
+      "keyPerson": {
+        "name": "李華 (Li Hua)",
+        "title": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/company/futu",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://ir.futuholdings.com/",
+      "rank": 82
+    },
+    {
+      "company": "嘉實基金 (Harvest Fund)",
+      "region": "北京",
+      "volume": "約 1,000-3,000 台/年",
+      "platform": "Intel/AMD 通用伺服器、GPU 伺服器",
+      "application": "量化交易、AI 投研、風控系統",
+      "currentSuppliers": "Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "RS720-E11, RS720A-E12, ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "金融機構合規要求高，需要通過安全認證。",
+      "entryPoint": "透過 AI 量化投研的 GPU 伺服器需求切入，提供高性能計算方案。",
+      "keyPerson": {
+        "name": "趙學軍 (Zhao Xuejun)",
+        "title": "Chairman",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS嘉實基金",
+      "rank": 83
+    },
+    {
+      "company": "明略科技 (MiningLamp)",
+      "region": "北京",
+      "volume": "約 1,000-3,000 台/年",
+      "platform": "Intel/AMD 通用伺服器、GPU 伺服器",
+      "application": "企業級 AI 平台、知識圖譜、大數據分析",
+      "currentSuppliers": "Dell, 部分國產",
+      "odmOem": "OEM",
+      "asusModel": "RS720-E11, ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "部分業務涉及政府客戶，需區分民營業務線。",
+      "entryPoint": "聚焦其民營企業 AI 平台業務，提供 GPU 伺服器方案。",
+      "keyPerson": {
+        "name": "吳明輝 (Wu Minghui)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "紫光數碼",
+          "website": "https://www.unis.com.cn",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS明略科技",
+      "rank": 84
+    },
+    {
+      "company": "數夢工場 (DTDream)",
+      "region": "杭州",
+      "volume": "約 1,000-3,000 台/年",
+      "platform": "Intel 通用伺服器",
+      "application": "政務雲平台、智慧城市、大數據",
+      "currentSuppliers": "阿里雲生態, Dell",
+      "odmOem": "OEM",
+      "asusModel": "RS720-E11, RS520-E11",
+      "channel": "DIST",
+      "difficulty": 6,
+      "challenges": "阿里系企業，深度綁定阿里雲生態。部分業務涉及政務（信創）。",
+      "entryPoint": "聚焦其民營企業客戶業務線，透過性價比方案切入。",
+      "keyPerson": {
+        "name": "王巍 (Wang Wei)",
+        "title": "CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS數夢工場",
+      "rank": 85
+    },
+    {
+      "company": "雲天勵飛 (Intellifusion)",
+      "region": "深圳",
+      "volume": "約 1,000-3,000 台/年",
+      "platform": "NVIDIA GPU 伺服器、自研 AI 晶片伺服器",
+      "application": "AI 視覺分析、智慧城市、智慧零售",
+      "currentSuppliers": "ODM 直採",
+      "odmOem": "ODM",
+      "asusModel": "ESC4000A-E12, RS520-E11",
+      "channel": "ODM Direct",
+      "difficulty": 5,
+      "challenges": "有自研 AI 晶片（DeepEye），部分業務可能不需要 NVIDIA GPU 伺服器。",
+      "entryPoint": "透過其仍需 NVIDIA GPU 的大規模訓練需求切入，提供 ESC 系列方案。",
+      "keyPerson": {
+        "name": "陳寧 (Chen Ning)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "雲天勵飛 (Intellifusion) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.intellif.com",
+      "rank": 86
+    },
+    {
+      "company": "涂鴉智能海外 (Tuya Global)",
+      "region": "杭州",
+      "volume": "約 1,000-2,000 台/年",
+      "platform": "Intel 通用伺服器、邊緣伺服器",
+      "application": "IoT 雲平台、智慧家居後台、邊緣計算",
+      "currentSuppliers": "AWS/Azure 為主, 部分自建",
+      "odmOem": "OEM",
+      "asusModel": "RS520-E11, E-series edge",
+      "channel": "DIST",
+      "difficulty": 4,
+      "challenges": "主要使用公有雲，但海外合規需求增加本地化部署。",
+      "entryPoint": "透過海外市場本地化部署的邊緣伺服器需求切入。",
+      "keyPerson": {
+        "name": "王學集 (Jerry Wang)",
+        "title": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/jerrywangtuya",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "紫光數碼",
+          "website": "https://www.unis.com.cn",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://ir.tuya.com/",
+      "rank": 87
+    },
+    {
+      "company": "雲知聲 (Unisound)",
+      "region": "北京",
+      "volume": "約 500-2,000 台/年",
+      "platform": "NVIDIA GPU 伺服器、Intel 通用伺服器",
+      "application": "語音 AI、智慧醫療 AI、IoT 語音平台",
+      "currentSuppliers": "ODM 直採",
+      "odmOem": "ODM",
+      "asusModel": "ESC4000A-E12, RS520-E11",
+      "channel": "ODM Direct",
+      "difficulty": 4,
+      "challenges": "規模較小，但在語音 AI 和醫療 AI 領域有獨特需求。",
+      "entryPoint": "透過醫療 AI 推理伺服器需求切入，提供小批量方案。",
+      "keyPerson": {
+        "name": "黃偉 (Huang Wei)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "雲知聲 (Unisound) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.unisound.com",
+      "rank": 88
+    },
+    {
+      "company": "思謀科技 (SmartMore)",
+      "region": "深圳",
+      "volume": "約 500-2,000 台/年",
+      "platform": "NVIDIA GPU 伺服器",
+      "application": "工業 AI 視覺檢測、智慧製造",
+      "currentSuppliers": "ODM 直採",
+      "odmOem": "ODM",
+      "asusModel": "ESC4000A-E12",
+      "channel": "ODM Direct",
+      "difficulty": 4,
+      "challenges": "專注工業 AI，客戶分散在各製造業。",
+      "entryPoint": "ASUS 可作為思謀 AI 視覺方案的推薦硬體平台，互利合作。",
+      "keyPerson": {
+        "name": "賈佳亞 (Jiaya Jia)",
+        "title": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/jiayajia",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "思謀科技 (SmartMore) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.smartmore.com",
+      "rank": 89
+    },
+    {
+      "company": "衛星化學 (Satellite Chemical)",
+      "region": "浙江嘉興",
+      "volume": "約 500-1,500 台/年",
+      "platform": "Intel Xeon 通用伺服器、少量 GPU 伺服器",
+      "application": "化工製程模擬、ERP/MES 系統、AI 品質檢測",
+      "currentSuppliers": "Dell, HPE (via SI)",
+      "odmOem": "OEM",
+      "asusModel": "RS720-E11, RS520-E11",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "傳統化工企業，IT 採購保守，偏好知名品牌。",
+      "entryPoint": "透過神州數碼等 DIST 切入，提供性價比方案搭配 POC。",
+      "keyPerson": {
+        "name": "楊衛東 (Yang Weidong)",
+        "title": "VP IT",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS衛星化學",
+      "rank": 90
+    },
+    {
+      "company": "萬興科技 (Wondershare)",
+      "region": "深圳",
+      "volume": "約 500-1,500 台/年",
+      "platform": "NVIDIA GPU 伺服器、Intel 通用伺服器",
+      "application": "AI 影片編輯（Filmora AI）、SaaS 雲端服務",
+      "currentSuppliers": "雲端為主, 部分自建",
+      "odmOem": "OEM",
+      "asusModel": "ESC4000A-E12, RS520-E11",
+      "channel": "SI/DIST",
+      "difficulty": 4,
+      "challenges": "主要使用公有雲，但 AI 功能需要本地 GPU 伺服器。規模較小。",
+      "entryPoint": "透過 AI 影片處理的 GPU 伺服器需求切入，提供小批量方案。",
+      "keyPerson": {
+        "name": "吳太兵 (Wu Taibing)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "紫光數碼",
+          "website": "https://www.unis.com.cn",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://ir.wondershare.com/",
+      "rank": 91
+    },
+    {
+      "company": "商米科技 (Sunmi Technology)",
+      "region": "上海",
+      "volume": "約 500-1,500 台/年",
+      "platform": "Intel 通用伺服器",
+      "application": "智慧零售 IoT 平台、雲端後台",
+      "currentSuppliers": "雲端為主, 部分自建",
+      "odmOem": "OEM",
+      "asusModel": "RS520-E11",
+      "channel": "DIST",
+      "difficulty": 4,
+      "challenges": "小米生態鏈企業，採購可能受小米影響。",
+      "entryPoint": "透過智慧零售後台伺服器需求切入。",
+      "keyPerson": {
+        "name": "林喆 (Lin Zhe)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS商米科技",
+      "rank": 92
+    },
+    {
+      "company": "老虎證券 (Tiger Brokers / UP Fintech)",
+      "region": "北京",
+      "volume": "約 500-1,500 台/年",
+      "platform": "Intel 通用伺服器",
+      "application": "證券交易平台、行情推送、數據分析",
+      "currentSuppliers": "AWS 為主, 部分自建",
+      "odmOem": "OEM",
+      "asusModel": "RS720-E11, RS520-E11",
+      "channel": "DIST",
+      "difficulty": 4,
+      "challenges": "主要使用 AWS，自建部分較少。",
+      "entryPoint": "透過中國區合規要求的本地化部署需求切入。",
+      "keyPerson": {
+        "name": "巫天華 (Wu Tianhua)",
+        "title": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/tianhuawu",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "紫光數碼",
+          "website": "https://www.unis.com.cn",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://ir.itigerup.com/",
+      "rank": 93
+    },
+    {
+      "company": "達觀數據 (Datagrand)",
+      "region": "上海",
+      "volume": "約 500-1,500 台/年",
+      "platform": "NVIDIA GPU 伺服器、Intel 通用伺服器",
+      "application": "NLP AI 平台、智能文檔處理、企業 AI 應用",
+      "currentSuppliers": "ODM 直採",
+      "odmOem": "ODM",
+      "asusModel": "ESC4000A-E12, RS520-E11",
+      "channel": "ODM Direct",
+      "difficulty": 4,
+      "challenges": "中小型 AI 企業，採購量有限但成長中。",
+      "entryPoint": "透過 NLP 模型訓練的 GPU 伺服器需求切入。",
+      "keyPerson": {
+        "name": "陳運文 (Chen Yunwen)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "達觀數據 (Datagrand) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.datagrand.com",
+      "rank": 94
+    },
+    {
+      "company": "聯易融 (Linklogis)",
+      "region": "深圳",
+      "volume": "約 500-1,500 台/年",
+      "platform": "Intel 通用伺服器",
+      "application": "供應鏈金融科技平台、區塊鏈",
+      "currentSuppliers": "雲端為主, 部分自建",
+      "odmOem": "OEM",
+      "asusModel": "RS520-E11",
+      "channel": "DIST",
+      "difficulty": 4,
+      "challenges": "金融科技公司，合規要求高。",
+      "entryPoint": "透過本地化部署需求切入。",
+      "keyPerson": {
+        "name": "宋群 (Song Qun)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.linklogis.com/investor.html",
+      "rank": 95
+    },
+    {
+      "company": "華勤技術 (Huaqin Technology)",
+      "region": "上海",
+      "volume": "約 500-1,500 台/年",
+      "platform": "Intel/AMD 通用伺服器",
+      "application": "ODM 設計驗證、測試平台、ERP/PLM",
+      "currentSuppliers": "Dell",
+      "odmOem": "OEM",
+      "asusModel": "RS520-E11, RS720-E11",
+      "channel": "DIST",
+      "difficulty": 5,
+      "challenges": "華勤本身是手機/平板 ODM 大廠，IT 採購量中等。",
+      "entryPoint": "透過其內部 IT 基礎設施升級需求切入。",
+      "keyPerson": {
+        "name": "邱文生 (Qiu Wensheng)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "紫光數碼",
+          "website": "https://www.unis.com.cn",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS華勤技術",
+      "rank": 96
+    },
+    {
+      "company": "陽光電源 (Sungrow Power)",
+      "region": "合肥",
+      "volume": "約 500-1,500 台/年",
+      "platform": "Intel 通用伺服器、GPU 伺服器",
+      "application": "光伏逆變器研發、儲能系統管理、AI 預測",
+      "currentSuppliers": "Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "RS720-E11, ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "全球光伏逆變器龍頭，IT 採購規範。",
+      "entryPoint": "透過 AI 預測和儲能管理系統的 GPU 伺服器需求切入。",
+      "keyPerson": {
+        "name": "曹仁賢 (Cao Renxian)",
+        "title": "Founder & Chairman",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "紫光數碼",
+          "website": "https://www.unis.com.cn",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.sungrowpower.com/en/investor-relations",
+      "rank": 97
+    },
+    {
+      "company": "安克創新 (Anker Innovations)",
+      "region": "深圳/長沙",
+      "volume": "約 500-1,500 台/年",
+      "platform": "Intel 通用伺服器、GPU 伺服器",
+      "application": "電商平台、AI 產品研發、數據分析",
+      "currentSuppliers": "AWS 為主, 部分自建",
+      "odmOem": "OEM",
+      "asusModel": "RS520-E11, ESC4000A-E12",
+      "channel": "DIST",
+      "difficulty": 4,
+      "challenges": "主要使用公有雲，但 AI 產品研發需要本地 GPU 伺服器。",
+      "entryPoint": "透過 AI 產品研發（如 eufy 智慧家居 AI）的 GPU 伺服器需求切入。",
+      "keyPerson": {
+        "name": "陽萃 (Steven Yang)",
+        "title": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/stevenyang",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://ir.anker-in.com/",
+      "rank": 98
+    },
+    {
+      "company": "聯想之星 (Legend Star) / 聯泓新科",
+      "region": "北京",
+      "volume": "約 500-1,000 台/年",
+      "platform": "Intel 通用伺服器",
+      "application": "投資組合管理、數據分析平台",
+      "currentSuppliers": "Dell",
+      "odmOem": "OEM",
+      "asusModel": "RS520-E11",
+      "channel": "DIST",
+      "difficulty": 5,
+      "challenges": "聯想系企業，可能偏好聯想伺服器。",
+      "entryPoint": "透過性價比優勢和非聯想品牌多元化需求切入。",
+      "keyPerson": {
+        "name": "王明耀 (Wang Mingyao)",
+        "title": "President",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS聯想之星",
+      "rank": 99
+    },
+    {
+      "company": "火花思維 (Spark Education)",
+      "region": "北京",
+      "volume": "約 500-1,000 台/年",
+      "platform": "Intel 通用伺服器、GPU 伺服器",
+      "application": "在線教育平台、AI 互動教學、直播系統",
+      "currentSuppliers": "雲端為主",
+      "odmOem": "OEM",
+      "asusModel": "RS520-E11, ESC4000A-E12",
+      "channel": "DIST",
+      "difficulty": 4,
+      "challenges": "主要使用公有雲，自建比例低。",
+      "entryPoint": "透過 AI 教學內容生成的 GPU 伺服器需求切入。",
+      "keyPerson": {
+        "name": "羅劍 (Luo Jian)",
+        "title": "Founder & CEO",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "紫光數碼",
+          "website": "https://www.unis.com.cn",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS火花思維",
+      "rank": 100
     }
   ]
 }

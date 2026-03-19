@@ -1,6 +1,10 @@
 import { useParams, Link } from "wouter";
 import { getRegion, type RegionKey } from "@/lib/regions";
-import { ArrowLeft, Building2, MapPin, Server, Cpu, Layers, Truck, Target, AlertTriangle, Lightbulb, ChevronRight, ChevronLeft } from "lucide-react";
+import {
+  ArrowLeft, Building2, MapPin, Server, Cpu, Layers, Truck, Target,
+  AlertTriangle, Lightbulb, ChevronRight, ChevronLeft, ExternalLink,
+  User, Link as LinkIcon,
+} from "lucide-react";
 
 function DifficultyBadge({ score }: { score: number }) {
   const getColor = (s: number) => {
@@ -62,6 +66,10 @@ export default function CompanyDetail() {
     china: "中國大陸",
   };
 
+  const kp = company.keyPerson;
+  const siDist = company.siDist;
+  const volSrc = company.volumeSource;
+
   return (
     <div className="min-h-screen bg-background">
       {/* Header */}
@@ -109,6 +117,83 @@ export default function CompanyDetail() {
               <p className="text-sm leading-relaxed text-foreground">{section.content}</p>
             </div>
           ))}
+        </div>
+
+        {/* Key Person + SI/DIST + Volume Source */}
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-px bg-border mb-10">
+          {/* Key Person */}
+          <div className="bg-white p-6">
+            <div className="flex items-center gap-2 mb-3">
+              <User className="w-4 h-4 text-primary" />
+              <h3 className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground">Key Person</h3>
+            </div>
+            {kp && kp.name ? (
+              <div className="space-y-1">
+                <p className="text-sm font-semibold">{kp.name}</p>
+                <p className="text-xs text-muted-foreground">{kp.title}</p>
+                {kp.linkedin && (
+                  <a href={kp.linkedin} target="_blank" rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1.5 text-xs text-blue-600 hover:underline mt-2">
+                    <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="currentColor">
+                      <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+                    </svg>
+                    LinkedIn Profile
+                  </a>
+                )}
+                {kp.source && !kp.linkedin && (
+                  <p className="text-[10px] text-muted-foreground mt-1">來源: {kp.source}</p>
+                )}
+              </div>
+            ) : (
+              <p className="text-xs text-muted-foreground italic">資訊待更新</p>
+            )}
+          </div>
+
+          {/* SI/DIST */}
+          <div className="bg-white p-6">
+            <div className="flex items-center gap-2 mb-3">
+              <Truck className="w-4 h-4 text-primary" />
+              <h3 className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground">SI/DIST 通路夥伴</h3>
+            </div>
+            {siDist && siDist.length > 0 ? (
+              <div className="space-y-2">
+                {siDist.map((s, i) => (
+                  <div key={i} className="flex items-center gap-2">
+                    <span className={`text-[9px] px-1.5 py-0.5 font-semibold ${
+                      s.type === "SI" ? "bg-blue-100 text-blue-700" : "bg-purple-100 text-purple-700"
+                    }`}>{s.type}</span>
+                    {s.website ? (
+                      <a href={s.website} target="_blank" rel="noopener noreferrer"
+                        className="text-sm text-primary hover:underline flex items-center gap-1">
+                        {s.name} <ExternalLink className="w-3 h-3" />
+                      </a>
+                    ) : (
+                      <span className="text-sm">{s.name}</span>
+                    )}
+                  </div>
+                ))}
+              </div>
+            ) : (
+              <p className="text-xs text-muted-foreground italic">直供或資訊待更新</p>
+            )}
+          </div>
+
+          {/* Volume Source */}
+          <div className="bg-white p-6">
+            <div className="flex items-center gap-2 mb-3">
+              <LinkIcon className="w-4 h-4 text-primary" />
+              <h3 className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground">採購量數據來源</h3>
+            </div>
+            {volSrc ? (
+              <a href={volSrc} target="_blank" rel="noopener noreferrer"
+                className="text-sm text-primary hover:underline flex items-start gap-1.5 break-all">
+                <ExternalLink className="w-3.5 h-3.5 flex-shrink-0 mt-0.5" />
+                {volSrc.replace(/^https?:\/\//, "")}
+              </a>
+            ) : (
+              <p className="text-xs text-muted-foreground italic">基於產業分析估算</p>
+            )}
+          </div>
         </div>
 
         {/* Strategy Sections */}

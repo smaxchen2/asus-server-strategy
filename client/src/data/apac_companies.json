@@ -18,7 +18,26 @@
       "channel": "SI/DIST: Macnica (https://www.macnica.co.jp), Itochu Techno-Solutions (https://www.ctc-g.co.jp)",
       "difficulty": 7,
       "challenges": "NTT 與 Fujitsu/NEC 有長期合作關係，日本企業偏好本土品牌。需要透過在地 SI 夥伴建立信任，並在特定領域（如 AI/液冷）展示技術優勢。",
-      "entryPoint": "從 NTT 的 AI 研究平台與新建 DC 切入，提供 NVIDIA HGX 液冷方案。透過 Macnica 等日本 SI 夥伴進行技術展示與 POC。"
+      "entryPoint": "從 NTT 的 AI 研究平台與新建 DC 切入，提供 NVIDIA HGX 液冷方案。透過 Macnica 等日本 SI 夥伴進行技術展示與 POC。",
+      "keyPerson": {
+        "name": "Hiroyuki Kinoshita",
+        "title": "Category Director - IT Hardware",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "NTT DATA (nttdata.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Macnica (macnica.co.jp)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://services.global.ntt/en-us/newsroom/ntt-data-continues-data-center-momentum"
     },
     {
       "rank": 2,
@@ -33,40 +52,29 @@
       "channel": "直供 + SI: SB Technology (https://www.softbanktech.co.jp)",
       "difficulty": 6,
       "challenges": "SoftBank 正在大規模擴建 AI 基礎設施，採購量大但對交期要求極高。需要展示大規模交付能力與液冷技術。",
-      "entryPoint": "SoftBank 正積極尋找多元供應商以降低風險。可從 AI POD 液冷整機櫃方案切入，搭配 NVIDIA GB200 平台提案。ASUS 在台灣的製造優勢可確保交期。"
+      "entryPoint": "SoftBank 正積極尋找多元供應商以降低風險。可從 AI POD 液冷整機櫃方案切入，搭配 NVIDIA GB200 平台提案。ASUS 在台灣的製造優勢可確保交期。",
+      "keyPerson": {
+        "name": "Keiichi Makizono",
+        "title": "Executive Vice President & CIO, Head of Technology Unit",
+        "linkedin": "https://jp.linkedin.com/in/%E5%95%93%E5%B8%82-%E7%89%A7%E5%9C%92-a483a810a",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "NTT DATA SBC",
+          "website": "https://www.nttdata-sbc.co.jp/",
+          "type": "SI"
+        },
+        {
+          "name": "SB C&S Corp.",
+          "website": "https://cas.softbank.jp/en/",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsoftbank-group-/-softbank-corp"
     },
     {
       "rank": 3,
-      "company": "Samsung SDS",
-      "region": "韓國",
-      "volume": "約 60,000 - 100,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC 雙平台，AI 伺服器採用 NVIDIA GPU。為三星集團提供 IT 基礎設施。",
-      "application": "三星集團內部 IT、製造業 AI、智慧工廠、雲端服務、區塊鏈。",
-      "currentSuppliers": "Samsung Electronics (自供), Dell, HPE",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000A-E12, 通用1U: RS700-E11",
-      "channel": "直供 + SI: Samsung C&T (https://www.samsungcnt.com)",
-      "difficulty": 8,
-      "challenges": "三星集團傾向使用自家產品，外部供應商進入門檻高。需要在特定領域（如 AI GPU 伺服器）展示三星自身無法提供的差異化方案。",
-      "entryPoint": "Samsung SDS 在 AI 伺服器領域需要外部供應商支援。可從 NVIDIA HGX 8-GPU 伺服器切入，這是三星電子目前不生產的產品線。"
-    },
-    {
-      "rank": 4,
-      "company": "SK C&C / SK Telecom",
-      "region": "韓國",
-      "volume": "約 50,000 - 80,000 台/年",
-      "platform": "Intel/AMD 通用伺服器，AI 伺服器採用 NVIDIA H100/H200。SK Telecom 正在建設大規模 AI DC。",
-      "application": "電信基礎設施、AI 服務（NUGU AI）、雲端（SK Cloud）、半導體製造支援。",
-      "currentSuppliers": "Dell, HPE, Lenovo, Supermicro",
-      "odmOem": "OEM",
-      "asusModel": "AI 8GPU: ESC N8-E11, 通用2U: RS720A-E12, AI 4U: ESC4000-E11",
-      "channel": "SI/DIST: SK Shieldus (https://www.skshieldus.com), Megazone Cloud (https://www.megazone.com)",
-      "difficulty": 6,
-      "challenges": "SK 集團正在快速擴展 AI 基礎設施，對供應商的技術支援與交期要求高。韓國市場偏好有在地服務能力的品牌。",
-      "entryPoint": "SK Telecom 正積極建設 AI DC，需要大量 GPU 伺服器。可透過韓國 SI 夥伴 Megazone Cloud 切入，提供 NVIDIA HGX 方案與液冷技術。"
-    },
-    {
-      "rank": 5,
       "company": "Reliance Jio (Jio Platforms)",
       "region": "印度",
       "volume": "約 80,000 - 150,000 台/年",
@@ -78,7 +86,89 @@
       "channel": "直供 + SI: Wipro (https://www.wipro.com), HCLTech (https://www.hcltech.com)",
       "difficulty": 6,
       "challenges": "印度市場價格敏感度高，Reliance 採購量大但議價能力強。需要提供具競爭力的價格與在地技術支援。",
-      "entryPoint": "Reliance 正在大規模建設 AI DC，需要多元供應商。可從高性價比的 AMD EPYC 通用伺服器切入，搭配 AI GPU 伺服器方案。ASUS 的台灣製造成本優勢可提供有競爭力的報價。"
+      "entryPoint": "Reliance 正在大規模建設 AI DC，需要多元供應商。可從高性價比的 AMD EPYC 通用伺服器切入，搭配 AI GPU 伺服器方案。ASUS 的台灣製造成本優勢可提供有競爭力的報價。",
+      "keyPerson": {
+        "name": "Samarendra Singh",
+        "title": "Engineering Vice President, Cloud Solutions",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Wipro",
+          "website": "https://www.wipro.com",
+          "type": "SI"
+        },
+        {
+          "name": "HCLTech",
+          "website": "https://www.hcltech.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/"
+    },
+    {
+      "rank": 4,
+      "company": "Samsung SDS",
+      "region": "韓國",
+      "volume": "約 60,000 - 100,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC 雙平台，AI 伺服器採用 NVIDIA GPU。為三星集團提供 IT 基礎設施。",
+      "application": "三星集團內部 IT、製造業 AI、智慧工廠、雲端服務、區塊鏈。",
+      "currentSuppliers": "Samsung Electronics (自供), Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000A-E12, 通用1U: RS700-E11",
+      "channel": "直供 + SI: Samsung C&T (https://www.samsungcnt.com)",
+      "difficulty": 8,
+      "challenges": "三星集團傾向使用自家產品，外部供應商進入門檻高。需要在特定領域（如 AI GPU 伺服器）展示三星自身無法提供的差異化方案。",
+      "entryPoint": "Samsung SDS 在 AI 伺服器領域需要外部供應商支援。可從 NVIDIA HGX 8-GPU 伺服器切入，這是三星電子目前不生產的產品線。",
+      "keyPerson": {
+        "name": "Eunyoung Kim",
+        "title": "Executive Vice President, Cloud Technology Office",
+        "linkedin": "https://kr.linkedin.com/in/eunyoung-kim-170979199",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "T",
+          "website": "https://www.samsungcnt.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.thelec.net/news/articleView.html?idxno=5795"
+    },
+    {
+      "rank": 5,
+      "company": "SK C&C / SK Telecom",
+      "region": "韓國",
+      "volume": "約 50,000 - 80,000 台/年",
+      "platform": "Intel/AMD 通用伺服器，AI 伺服器採用 NVIDIA H100/H200。SK Telecom 正在建設大規模 AI DC。",
+      "application": "電信基礎設施、AI 服務（NUGU AI）、雲端（SK Cloud）、半導體製造支援。",
+      "currentSuppliers": "Dell, HPE, Lenovo, Supermicro",
+      "odmOem": "OEM",
+      "asusModel": "AI 8GPU: ESC N8-E11, 通用2U: RS720A-E12, AI 4U: ESC4000-E11",
+      "channel": "SI/DIST: SK Shieldus (https://www.skshieldus.com), Megazone Cloud (https://www.megazone.com)",
+      "difficulty": 6,
+      "challenges": "SK 集團正在快速擴展 AI 基礎設施，對供應商的技術支援與交期要求高。韓國市場偏好有在地服務能力的品牌。",
+      "entryPoint": "SK Telecom 正積極建設 AI DC，需要大量 GPU 伺服器。可透過韓國 SI 夥伴 Megazone Cloud 切入，提供 NVIDIA HGX 方案與液冷技術。",
+      "keyPerson": {
+        "name": "Suyong Park",
+        "title": "Vice President, Head of Cloud Business",
+        "linkedin": "https://kr.linkedin.com/in/suyong-park-22002a24",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "NTT DATA (nttdata.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "SK Networks (www.sknetworks.co.kr/en/business/information-communication)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/south-koreas-sk-telecom-reports-growth-in-data-center-and-ai-related-business-for-q1-2025/"
     },
     {
       "rank": 6,
@@ -93,10 +183,113 @@
       "channel": "直供 + SI/DIST: Redington (https://www.redingtongroup.com)",
       "difficulty": 5,
       "challenges": "TCS 作為全球 IT 服務商，對伺服器品牌有一定要求。需要通過其供應商認證流程。",
-      "entryPoint": "TCS 正在為客戶建設 AI 平台，需要可靠的 GPU 伺服器供應商。可從 AI 伺服器方案切入，透過印度經銷商 Redington 進行推廣。"
+      "entryPoint": "TCS 正在為客戶建設 AI 平台，需要可靠的 GPU 伺服器供應商。可從 AI 伺服器方案切入，透過印度經銷商 Redington 進行推廣。",
+      "keyPerson": {
+        "name": "Akhilesh Kumar",
+        "title": "Director Infrastructure Services",
+        "linkedin": "https://in.linkedin.com/in/akhileshkumarsharma",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Dell (www.dell.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "HPE (www.hpe.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "IBM (www.ibm.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Intel (www.intel.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Lenovo (www.lenovo.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "NetApp (www.netapp.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Nutanix (www.nutanix.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Cisco (www.cisco.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Juniper (www.juniper.net)",
+          "website": "",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://techcrunch.com/2025/11/20/indias-tcs-gets-tpg-to-fund-half-of-2b-ai-data-center-project/"
     },
     {
       "rank": 7,
+      "company": "Naver Corporation",
+      "region": "韓國",
+      "volume": "約 40,000 - 60,000 台/年",
+      "platform": "AMD EPYC 為主，AI 伺服器大量採用 NVIDIA GPU。自建超大規模 DC（世宗 DC）。開發自研 AI 晶片。",
+      "application": "搜尋引擎、Naver Cloud、AI 服務（HyperCLOVA）、LINE 通訊平台。",
+      "currentSuppliers": "Supermicro, Dell, Quanta (ODM)",
+      "odmOem": "ODM/OEM 混合",
+      "asusModel": "AI 8GPU: ESC N8-E11, 通用2U: RS720A-E12, AI POD GB200",
+      "channel": "直供 + SI: Megazone Cloud (https://www.megazone.com)",
+      "difficulty": 6,
+      "challenges": "Naver 有自研 AI 晶片計畫，長期可能減少對外部 GPU 伺服器的依賴。短期內 AI DC 擴建需求仍大。",
+      "entryPoint": "Naver 正在擴建世宗 DC，需要大量 GPU 伺服器。可從 NVIDIA HGX 8-GPU 方案切入，搭配液冷技術。透過 Megazone Cloud 進行技術展示。",
+      "keyPerson": {
+        "name": "Kim Yu-won",
+        "title": "CEO and President of Naver Cloud",
+        "linkedin": "https://kr.linkedin.com/in/yuwon-kim-a6694210b",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "LG CNS (www.lgcns.com/business/cloud/service)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "SK C&C",
+          "website": "https://www.cloudz.co.kr/",
+          "type": "SI"
+        },
+        {
+          "name": "MegazoneCloud",
+          "website": "https://www.megazone.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Bespin Global (www.bespinglobal.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Cloocus",
+          "website": "https://www.cloocus.com/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.thelec.net/news/articleView.html?idxno=5874"
+    },
+    {
+      "rank": 8,
       "company": "Infosys",
       "region": "印度",
       "volume": "約 30,000 - 50,000 台/年",
@@ -108,22 +301,51 @@
       "channel": "SI/DIST: Redington (https://www.redingtongroup.com), Ingram Micro India",
       "difficulty": 5,
       "challenges": "Infosys 有成熟的供應商管理體系，新品牌需要通過嚴格的認證流程。價格競爭激烈。",
-      "entryPoint": "Infosys 正在擴展 AI 服務能力，需要 GPU 伺服器。可透過印度經銷商提供 POC 試用，展示 ASUS 伺服器的性價比優勢。"
-    },
-    {
-      "rank": 8,
-      "company": "Sakura Internet",
-      "region": "日本",
-      "volume": "約 20,000 - 40,000 台/年",
-      "platform": "AMD EPYC 為主的通用伺服器，AI 伺服器採用 NVIDIA H100/H200。日本政府 AI 基建計畫的主要承包商。",
-      "application": "公有雲服務、託管服務、日本政府 AI 基礎設施、Sovereign AI 平台。",
-      "currentSuppliers": "Supermicro, Dell, 日本國產",
-      "odmOem": "OEM",
-      "asusModel": "AI 8GPU: ESC N8-E11, 通用2U: RS720A-E12, AI POD GB200",
-      "channel": "直供 + SI: NRI (https://www.nri.com/jp)",
-      "difficulty": 5,
-      "challenges": "Sakura Internet 正在快速擴建 AI DC，但偏好有日本在地支援的供應商。需要建立日本在地服務團隊。",
-      "entryPoint": "Sakura Internet 是日本 Sovereign AI 計畫的核心，正在大量採購 GPU 伺服器。可提供 NVIDIA HGX 方案與液冷技術，透過日本 SI 夥伴切入。"
+      "entryPoint": "Infosys 正在擴展 AI 服務能力，需要 GPU 伺服器。可透過印度經銷商提供 POC 試用，展示 ASUS 伺服器的性價比優勢。",
+      "keyPerson": {
+        "name": "Anant Adya",
+        "title": "Executive Vice President & Head Cloud, Infrastructure and Security Services (CIS) for Americas and APAC",
+        "linkedin": "https://www.linkedin.com/in/anantadya",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "NTT",
+          "website": "https://www.nttdata.com",
+          "type": "SI"
+        },
+        {
+          "name": "Kyndryl",
+          "website": "https://www.kyndryl.com",
+          "type": "SI"
+        },
+        {
+          "name": "Tata Consultancy Services",
+          "website": "https://www.tcs.com",
+          "type": "SI"
+        },
+        {
+          "name": "Wipro",
+          "website": "https://www.wipro.com",
+          "type": "SI"
+        },
+        {
+          "name": "Tech Mahindra",
+          "website": "https://www.techmahindra.com",
+          "type": "SI"
+        },
+        {
+          "name": "Ingram Micro",
+          "website": "https://www.ingrammicro.com",
+          "type": "DIST"
+        },
+        {
+          "name": "Arrow Electronics",
+          "website": "https://www.arrow.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.infosys.com/investors/reports-filings/annual-report.html"
     },
     {
       "rank": 9,
@@ -138,25 +360,89 @@
       "channel": "SI: KDDI Digital Security (https://www.kddi.com), SCSK (https://www.scsk.jp)",
       "difficulty": 7,
       "challenges": "KDDI 與 Fujitsu/NEC 有深厚的合作關係，日本電信商偏好本土品牌。需要在 AI 伺服器領域展示差異化。",
-      "entryPoint": "KDDI 正在建設 AI DC，需要 GPU 伺服器。可從 NVIDIA HGX 方案切入，這是 Fujitsu/NEC 較不擅長的領域。透過 SCSK 等日本 SI 進行推廣。"
+      "entryPoint": "KDDI 正在建設 AI DC，需要 GPU 伺服器。可從 NVIDIA HGX 方案切入，這是 Fujitsu/NEC 較不擅長的領域。透過 SCSK 等日本 SI 進行推廣。",
+      "keyPerson": {
+        "name": "Tomohiko Katsuki",
+        "title": "Managing Executive Officer, Director, CSO and CDO, Executive Director, Corporate Strategy Planning Division and Executive Director, Open Innovation Division",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "NTT DATA (nttdata.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Kyndryl (kyndryl.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Tata Consultancy Services (tcs.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Wipro (wipro.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Tech Mahindra (techmahindra.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Cisco (cisco.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "DELL (dell.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "HP (hp.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Lenovo (lenovo.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Microsoft (microsoft.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Nutanix (nutanix.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Riverbed (riverbed.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Juniper (juniper.net)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Fortinet (fortinet.com)",
+          "website": "",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/kddi-launches-data-center-in-osaka-japan/"
     },
     {
       "rank": 10,
-      "company": "Naver Corporation",
-      "region": "韓國",
-      "volume": "約 40,000 - 60,000 台/年",
-      "platform": "AMD EPYC 為主，AI 伺服器大量採用 NVIDIA GPU。自建超大規模 DC（世宗 DC）。開發自研 AI 晶片。",
-      "application": "搜尋引擎、Naver Cloud、AI 服務（HyperCLOVA）、LINE 通訊平台。",
-      "currentSuppliers": "Supermicro, Dell, Quanta (ODM)",
-      "odmOem": "ODM/OEM 混合",
-      "asusModel": "AI 8GPU: ESC N8-E11, 通用2U: RS720A-E12, AI POD GB200",
-      "channel": "直供 + SI: Megazone Cloud (https://www.megazone.com)",
-      "difficulty": 6,
-      "challenges": "Naver 有自研 AI 晶片計畫，長期可能減少對外部 GPU 伺服器的依賴。短期內 AI DC 擴建需求仍大。",
-      "entryPoint": "Naver 正在擴建世宗 DC，需要大量 GPU 伺服器。可從 NVIDIA HGX 8-GPU 方案切入，搭配液冷技術。透過 Megazone Cloud 進行技術展示。"
-    },
-    {
-      "rank": 11,
       "company": "KT Corporation",
       "region": "韓國",
       "volume": "約 30,000 - 50,000 台/年",
@@ -168,25 +454,24 @@
       "channel": "SI: KT ds (https://www.ktds.co.kr), Bespin Global (https://www.bespinglobal.com)",
       "difficulty": 6,
       "challenges": "KT 有成熟的供應商體系，偏好有韓國在地服務的品牌。需要建立韓國在地支援能力。",
-      "entryPoint": "KT 正在擴展 AI 雲端服務，需要 GPU 伺服器。可透過韓國 SI 夥伴 Bespin Global 切入，提供 AI 伺服器 POC。"
+      "entryPoint": "KT 正在擴展 AI 雲端服務，需要 GPU 伺服器。可透過韓國 SI 夥伴 Bespin Global 切入，提供 AI 伺服器 POC。",
+      "keyPerson": {
+        "name": "Jong-pil Lee (이종필)",
+        "title": "Vice President, Head of AI Infrastructure Technology R&D Group",
+        "linkedin": "https://kr.linkedin.com/in/%EC%A2%85%ED%95%84-%EC%9D%B4-72213357",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Kyndryl (kyndryl.com)",
+          "website": "",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202410100016"
     },
     {
-      "rank": 12,
-      "company": "Grab Holdings",
-      "region": "新加坡",
-      "volume": "約 15,000 - 25,000 台/年",
-      "platform": "AMD EPYC 為主的通用伺服器，AI 伺服器用於推薦系統與自動駕駛研發。",
-      "application": "叫車平台、外送服務、金融科技、AI 推薦系統、地圖服務。",
-      "currentSuppliers": "Dell, AWS (雲端為主), Supermicro",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12, 通用1U: RS500A-E12",
-      "channel": "SI/DIST: NCS (https://www.ncs.co), Kyndryl (https://www.kyndryl.com)",
-      "difficulty": 5,
-      "challenges": "Grab 以雲端為主，自建 DC 規模有限。需要展示混合雲方案的價值。",
-      "entryPoint": "Grab 正在建設自有 AI 推論基礎設施以降低雲端成本。可從高性價比的 AI 推論伺服器切入，提供 POC 展示。"
-    },
-    {
-      "rank": 13,
+      "rank": 11,
       "company": "Sea Group (Shopee / Garena)",
       "region": "新加坡",
       "volume": "約 30,000 - 50,000 台/年",
@@ -198,100 +483,24 @@
       "channel": "直供 + SI: NCS (https://www.ncs.co)",
       "difficulty": 5,
       "challenges": "Sea Group 對成本敏感，偏好 ODM 方案。需要提供有競爭力的價格。",
-      "entryPoint": "Sea Group 正在擴建 DC 以支援 Shopee 成長。可從高性價比的通用伺服器切入，搭配 AI 推薦系統所需的 GPU 伺服器。"
+      "entryPoint": "Sea Group 正在擴建 DC 以支援 Shopee 成長。可從高性價比的通用伺服器切入，搭配 AI 推薦系統所需的 GPU 伺服器。",
+      "keyPerson": {
+        "name": "XIANGFENG (Kevin) ZHU",
+        "title": "Senior Director, Group COO's Office",
+        "linkedin": "https://sg.linkedin.com/in/xiangfeng-kevin-zhu-8b650725",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "NCS",
+          "website": "https://www.ncs.co",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsea-group"
     },
     {
-      "rank": 14,
-      "company": "Telkom Indonesia (Telkomsel)",
-      "region": "印尼",
-      "volume": "約 20,000 - 40,000 台/年",
-      "platform": "Intel Xeon 為主的通用伺服器，正在導入 AI 伺服器。印尼最大電信商。",
-      "application": "電信基礎設施、Telkom Cloud、數位服務、政府 IT 專案。",
-      "currentSuppliers": "Dell, HPE, Huawei, ZTE",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11, AI 4U: ESC4000-E11",
-      "channel": "SI/DIST: Telkom Sigma (https://www.telkomsigma.co.id), Multipolar Technology (https://www.multipolar.com)",
-      "difficulty": 5,
-      "challenges": "印尼市場有華為/中興的強勢競爭，價格敏感。需要透過在地 SI 夥伴建立關係。",
-      "entryPoint": "Telkom 正在建設印尼國家 AI 基礎設施，需要可靠的伺服器供應商。可透過 Telkom Sigma 切入，提供通用伺服器與 AI 方案。"
-    },
-    {
-      "rank": 15,
-      "company": "Singtel (Singapore Telecommunications)",
-      "region": "新加坡",
-      "volume": "約 20,000 - 35,000 台/年",
-      "platform": "Intel/AMD 通用伺服器，AI 伺服器採用 NVIDIA GPU。東南亞最大電信集團。",
-      "application": "電信基礎設施、Singtel Cloud、企業 IT 服務、AI 平台、5G 核心網路。",
-      "currentSuppliers": "Dell, HPE, Cisco, Nokia",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000A-E12, 通用1U: RS700-E11",
-      "channel": "SI: NCS (https://www.ncs.co), Singtel Innov8",
-      "difficulty": 6,
-      "challenges": "Singtel 有成熟的供應商體系，偏好全球品牌。需要在 AI 伺服器領域展示差異化。",
-      "entryPoint": "Singtel 旗下 NCS 正在擴展 AI 服務，需要 GPU 伺服器。可透過 NCS 切入，提供 AI 伺服器 POC 與技術支援。"
-    },
-    {
-      "rank": 16,
-      "company": "Wipro Limited",
-      "region": "印度",
-      "volume": "約 20,000 - 35,000 台/年",
-      "platform": "Intel/AMD 通用伺服器，AI 伺服器需求成長中。全球 IT 服務商。",
-      "application": "IT 外包、數位轉型、AI/ML 服務、雲端管理。",
-      "currentSuppliers": "Dell, HPE, Lenovo",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST: Redington (https://www.redingtongroup.com)",
-      "difficulty": 5,
-      "challenges": "印度 IT 服務商對價格敏感，供應商替換成本低。需要提供有競爭力的整體方案。",
-      "entryPoint": "Wipro 正在建設 AI 服務平台，可從 AI GPU 伺服器切入，搭配通用伺服器打包方案。"
-    },
-    {
-      "rank": 17,
-      "company": "Rakuten Group",
-      "region": "日本",
-      "volume": "約 25,000 - 40,000 台/年",
-      "platform": "開放式架構（Open RAN），AMD EPYC 為主。自建電信網路與雲端平台。",
-      "application": "電商平台、行動電信（Rakuten Mobile）、金融科技、AI 服務。",
-      "currentSuppliers": "Dell, Supermicro, Quanta (ODM)",
-      "odmOem": "ODM/OEM 混合",
-      "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12, 通用1U: RS500A-E12",
-      "channel": "直供 + SI: Rakuten Symphony (https://symphony.rakuten.com)",
-      "difficulty": 5,
-      "challenges": "Rakuten 採用開放式架構，對供應商的技術能力要求高。需要支援 Open RAN 相關的客製化需求。",
-      "entryPoint": "Rakuten 正在擴展電信與 AI 基礎設施，偏好開放式架構。可從 AMD EPYC 平台的通用伺服器切入，搭配 AI 方案。"
-    },
-    {
-      "rank": 18,
-      "company": "Fujitsu Limited",
-      "region": "日本",
-      "volume": "約 50,000 - 80,000 台/年 (含自用與轉售)",
-      "platform": "自研 ARM 伺服器（Fugaku 超算）、Intel Xeon、NVIDIA GPU。日本最大 IT 廠商。",
-      "application": "超級電腦、企業 IT、政府 IT、AI 研究、量子運算。",
-      "currentSuppliers": "自製為主, Intel, NVIDIA",
-      "odmOem": "自製/OEM",
-      "asusModel": "AI 8GPU: ESC N8-E11, AI POD GB200",
-      "channel": "SI: Fujitsu 自身通路",
-      "difficulty": 9,
-      "challenges": "Fujitsu 是日本最大 IT 廠商，自製伺服器為主。外部供應商極難切入核心業務。只能從 Fujitsu 不擅長的 AI GPU 伺服器領域嘗試。",
-      "entryPoint": "Fujitsu 在 NVIDIA HGX 8-GPU 伺服器領域需要外部合作。可從 AI POD 液冷方案切入，作為 Fujitsu AI 解決方案的硬體供應商。"
-    },
-    {
-      "rank": 19,
-      "company": "NEC Corporation",
-      "region": "日本",
-      "volume": "約 40,000 - 60,000 台/年 (含自用與轉售)",
-      "platform": "自研 Vector Engine 伺服器、Intel Xeon、NVIDIA GPU。日本第二大 IT 廠商。",
-      "application": "政府 IT、電信基礎設施、超級電腦、AI 平台、生物辨識。",
-      "currentSuppliers": "自製為主, Intel, NVIDIA",
-      "odmOem": "自製/OEM",
-      "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12",
-      "channel": "SI: NEC 自身通路",
-      "difficulty": 9,
-      "challenges": "NEC 與 Fujitsu 類似，自製伺服器為主。外部供應商極難切入。只能從 AI GPU 伺服器領域嘗試合作。",
-      "entryPoint": "NEC 在 NVIDIA HGX 大規模 AI 叢集領域需要外部支援。可從 AI POD 液冷方案切入，作為 NEC AI 專案的硬體合作夥伴。"
-    },
-    {
-      "rank": 20,
+      "rank": 12,
       "company": "Bharti Airtel",
       "region": "印度",
       "volume": "約 30,000 - 50,000 台/年",
@@ -303,10 +512,313 @@
       "channel": "SI/DIST: Airtel Business (https://www.airtel.in/business), Tech Mahindra (https://www.techmahindra.com)",
       "difficulty": 6,
       "challenges": "Airtel 與 Dell/HPE 有長期合作關係。需要在 AI 伺服器與 5G 核心網路領域展示差異化。",
-      "entryPoint": "Airtel 正在建設 AI DC 與 5G 基礎設施。可從 AI GPU 伺服器切入，透過 Tech Mahindra 進行推廣。"
+      "entryPoint": "Airtel 正在建設 AI DC 與 5G 基礎設施。可從 AI GPU 伺服器切入，透過 Tech Mahindra 進行推廣。",
+      "keyPerson": {
+        "name": "Sandeep Gupta",
+        "title": "Head of Procurement for Network & IT",
+        "linkedin": "https://in.linkedin.com/in/sandeep-gupta-3492039",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Fortinet (fortinet.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Netscout (netscout.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Radware (radware.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "F5 (f5.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Elastic (elastic.co)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Microsoft (microsoft.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "IBM (ibm.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Zscaler (zscaler.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Nokia (nokia.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "NTT DATA (nttdata.com)",
+          "website": "",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://m.economictimes.com/industry/telecom/telecom-news/airtel-data-centre-arm-nxtra-looks-to-raise-1-billion-alpha-wave-global-will-offer-400-m-telco-carlyle-to-put-in-300-m-each/articleshow/129287412.cms"
     },
     {
-      "rank": 21,
+      "rank": 13,
+      "company": "Yotta Data Services (Hiranandani Group)",
+      "region": "印度",
+      "volume": "約 30,000 - 60,000 台/年",
+      "platform": "NVIDIA H100/H200/B200 GPU 伺服器為主，Intel Xeon / AMD EPYC 通用伺服器。支援液冷與氣冷混合架構。",
+      "application": "AI/ML 雲端服務 (Yotta GPU Cloud)、企業託管、Sovereign AI、HPC、大型語言模型訓練。",
+      "currentSuppliers": "NVIDIA DGX, Dell, HPE, Supermicro",
+      "odmOem": "ODM/OEM",
+      "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, 通用2U: RS720-E11, 液冷: ASUS AI POD",
+      "channel": "直供 + SI: Wipro (https://www.wipro.com), HCLTech (https://www.hcltech.com)",
+      "difficulty": 5,
+      "challenges": "Yotta 正在快速擴張 AI 雲端業務（與 NVIDIA 合作建設印度最大 AI 超算中心），目前主要採購 NVIDIA DGX 系統。需要展示 ASUS 在 AI 伺服器的價格競爭力與液冷技術優勢。印度市場價格敏感度高。",
+      "entryPoint": "1) 透過 NVIDIA 合作夥伴計畫切入 Yotta 的 GPU Cloud 擴建專案；2) 提供 ASUS AI POD 液冷方案，降低 PUE 成本；3) 在 Yotta 的 Navi Mumbai DC（20MW+ 容量）進行 POC 測試；4) 利用 ASUS 在印度的在地支援團隊提供快速技術服務。",
+      "keyPerson": {
+        "name": "Sunil Gupta",
+        "title": "Co-Founder & CEO, Yotta Data Services",
+        "linkedin": "https://www.linkedin.com/in/sunilgupta-yotta/",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Yotta (直供)",
+          "website": "https://www.yotta.com",
+          "type": "Direct"
+        },
+        {
+          "name": "Wipro",
+          "website": "https://www.wipro.com",
+          "type": "SI"
+        },
+        {
+          "name": "Redington",
+          "website": "https://www.redingtongroup.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.yotta.com/yotta-nvidia-partnership-ai-supercomputer"
+    },
+    {
+      "rank": 14,
+      "company": "Rakuten Group",
+      "region": "日本",
+      "volume": "約 25,000 - 40,000 台/年",
+      "platform": "開放式架構（Open RAN），AMD EPYC 為主。自建電信網路與雲端平台。",
+      "application": "電商平台、行動電信（Rakuten Mobile）、金融科技、AI 服務。",
+      "currentSuppliers": "Dell, Supermicro, Quanta (ODM)",
+      "odmOem": "ODM/OEM 混合",
+      "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12, 通用1U: RS500A-E12",
+      "channel": "直供 + SI: Rakuten Symphony (https://symphony.rakuten.com)",
+      "difficulty": 5,
+      "challenges": "Rakuten 採用開放式架構，對供應商的技術能力要求高。需要支援 Open RAN 相關的客製化需求。",
+      "entryPoint": "Rakuten 正在擴展電信與 AI 基礎設施，偏好開放式架構。可從 AMD EPYC 平台的通用伺服器切入，搭配 AI 方案。",
+      "keyPerson": {
+        "name": "Yuji Nagata",
+        "title": "General Manager, Technology Platform Division",
+        "linkedin": "https://jp.linkedin.com/in/yuji-nagata-a2b88872",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Rakuten Symphony",
+          "website": "https://symphony.rakuten.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSrakuten-group"
+    },
+    {
+      "rank": 15,
+      "company": "Sakura Internet",
+      "region": "日本",
+      "volume": "約 20,000 - 40,000 台/年",
+      "platform": "AMD EPYC 為主的通用伺服器，AI 伺服器採用 NVIDIA H100/H200。日本政府 AI 基建計畫的主要承包商。",
+      "application": "公有雲服務、託管服務、日本政府 AI 基礎設施、Sovereign AI 平台。",
+      "currentSuppliers": "Supermicro, Dell, 日本國產",
+      "odmOem": "OEM",
+      "asusModel": "AI 8GPU: ESC N8-E11, 通用2U: RS720A-E12, AI POD GB200",
+      "channel": "直供 + SI: NRI (https://www.nri.com/jp)",
+      "difficulty": 5,
+      "challenges": "Sakura Internet 正在快速擴建 AI DC，但偏好有日本在地支援的供應商。需要建立日本在地服務團隊。",
+      "entryPoint": "Sakura Internet 是日本 Sovereign AI 計畫的核心，正在大量採購 GPU 伺服器。可提供 NVIDIA HGX 方案與液冷技術，透過日本 SI 夥伴切入。",
+      "keyPerson": {
+        "name": "Yota Egusa",
+        "title": "CISO & CIO",
+        "linkedin": "https://jp.linkedin.com/in/chibiegg/en",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Supermicro (supermicro.com)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsakura-internet"
+    },
+    {
+      "rank": 16,
+      "company": "Telkom Indonesia (Telkomsel)",
+      "region": "印尼",
+      "volume": "約 20,000 - 40,000 台/年",
+      "platform": "Intel Xeon 為主的通用伺服器，正在導入 AI 伺服器。印尼最大電信商。",
+      "application": "電信基礎設施、Telkom Cloud、數位服務、政府 IT 專案。",
+      "currentSuppliers": "Dell, HPE, Huawei, ZTE",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11, AI 4U: ESC4000-E11",
+      "channel": "SI/DIST: Telkom Sigma (https://www.telkomsigma.co.id), Multipolar Technology (https://www.multipolar.com)",
+      "difficulty": 5,
+      "challenges": "印尼市場有華為/中興的強勢競爭，價格敏感。需要透過在地 SI 夥伴建立關係。",
+      "entryPoint": "Telkom 正在建設印尼國家 AI 基礎設施，需要可靠的伺服器供應商。可透過 Telkom Sigma 切入，提供通用伺服器與 AI 方案。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "NTT DATA (nttdata-solutions.com/id-en/)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Ingram Micro (ingrammicro.com)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUStelkom-indonesia"
+    },
+    {
+      "rank": 17,
+      "company": "Singtel (Singapore Telecommunications)",
+      "region": "新加坡",
+      "volume": "約 20,000 - 35,000 台/年",
+      "platform": "Intel/AMD 通用伺服器，AI 伺服器採用 NVIDIA GPU。東南亞最大電信集團。",
+      "application": "電信基礎設施、Singtel Cloud、企業 IT 服務、AI 平台、5G 核心網路。",
+      "currentSuppliers": "Dell, HPE, Cisco, Nokia",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000A-E12, 通用1U: RS700-E11",
+      "channel": "SI: NCS (https://www.ncs.co), Singtel Innov8",
+      "difficulty": 6,
+      "challenges": "Singtel 有成熟的供應商體系，偏好全球品牌。需要在 AI 伺服器領域展示差異化。",
+      "entryPoint": "Singtel 旗下 NCS 正在擴展 AI 服務，需要 GPU 伺服器。可透過 NCS 切入，提供 AI 伺服器 POC 與技術支援。",
+      "keyPerson": {
+        "name": "Bill Chang",
+        "title": "Chief Executive Officer, Digital InfraCo",
+        "linkedin": "https://www.linkedin.com/in/bill-chang-5783b913",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Teligraph Technology Pte Ltd (www.teligraphtech.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "First Tel Pte Ltd (www.firsttel.com.sg)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Malifax Technologies (S) Pte Ltd (www.malifax.com.sg)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "MegaNet Pte Ltd (www.meganet.com.sg)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "ActiV Technology Pte Ltd (www.activ.com.sg)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Data Connect Technologies Pte Ltd",
+          "website": "http://d-connect.net/",
+          "type": "SI"
+        },
+        {
+          "name": "Hyper Communications Pte Ltd (www.hypercom.sg)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Microbit Technology Pte Ltd (www.microbit.com.sg/)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Vital Networks Pte Ltd (vitalnw.com.sg)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Adventus Asia",
+          "website": "http://www.adventusasia.com",
+          "type": "SI"
+        },
+        {
+          "name": "Ingram Micro (ingrammicro.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "SB C&S (softbank.jp)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.singtel.com/about-us/investor-relations/financial-summary"
+    },
+    {
+      "rank": 18,
+      "company": "Wipro Limited",
+      "region": "印度",
+      "volume": "約 20,000 - 35,000 台/年",
+      "platform": "Intel/AMD 通用伺服器，AI 伺服器需求成長中。全球 IT 服務商。",
+      "application": "IT 外包、數位轉型、AI/ML 服務、雲端管理。",
+      "currentSuppliers": "Dell, HPE, Lenovo",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST: Redington (https://www.redingtongroup.com)",
+      "difficulty": 5,
+      "challenges": "印度 IT 服務商對價格敏感，供應商替換成本低。需要提供有競爭力的整體方案。",
+      "entryPoint": "Wipro 正在建設 AI 服務平台，可從 AI GPU 伺服器切入，搭配通用伺服器打包方案。",
+      "keyPerson": {
+        "name": "Sandeep K Vasudevan",
+        "title": "Head of Information Technology Infrastructure",
+        "linkedin": "https://in.linkedin.com/in/sandeep-k-vasudevan",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Wipro (wipro.com)",
+          "website": "",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://globalelectronicscouncil.org/wp-content/uploads/GEC_CaseStudy-Wipro_new.pdf"
+    },
+    {
+      "rank": 19,
       "company": "Kakao Corporation",
       "region": "韓國",
       "volume": "約 20,000 - 35,000 台/年",
@@ -318,10 +830,131 @@
       "channel": "直供 + SI: Kakao Enterprise (https://www.kakaoenterprise.com)",
       "difficulty": 5,
       "challenges": "Kakao 對成本敏感，偏好 ODM 方案。2022 年 DC 火災後更重視可靠性。",
-      "entryPoint": "Kakao 在 DC 火災後正在重建基礎設施，需要可靠的供應商。可從高可靠性的通用伺服器切入，搭配 AI 方案。"
+      "entryPoint": "Kakao 在 DC 火災後正在重建基礎設施，需要可靠的供應商。可從高可靠性的通用伺服器切入，搭配 AI 方案。",
+      "keyPerson": {
+        "name": "Go Woo-chan",
+        "title": "Head of Infrastructure",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "NTT DATA",
+          "website": "https://www.nttdata.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://datacentremagazine.com/data-centres/kakao-build-dollar337mn-data-centre-korean-market-booms"
+    },
+    {
+      "rank": 20,
+      "company": "HCL Technologies",
+      "region": "印度",
+      "volume": "約 20,000 - 35,000 台/年",
+      "platform": "Intel/AMD 通用伺服器，AI 伺服器需求成長中。全球 IT 服務商。",
+      "application": "IT 外包、數位轉型、AI/ML 服務、雲端管理、工程服務。",
+      "currentSuppliers": "Dell, HPE, Lenovo, Cisco",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST: Redington (https://www.redingtongroup.com), Ingram Micro India",
+      "difficulty": 5,
+      "challenges": "HCL 有成熟的供應商體系，新品牌需要通過認證流程。",
+      "entryPoint": "HCL 正在擴展 AI 服務能力，可從 AI GPU 伺服器切入，搭配通用伺服器打包方案。",
+      "keyPerson": {
+        "name": "Sunit Tyagi",
+        "title": "Senior Vice President - Information Technology",
+        "linkedin": "https://in.linkedin.com/in/sunit-tyagi-3235135",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "NTT DATA (nttdata.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Wipro (wipro.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Tech Mahindra (techmahindra.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "TD SYNNEX (tdsynnex.com)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUShcl-technologies"
+    },
+    {
+      "rank": 21,
+      "company": "Hitachi, Ltd.",
+      "region": "日本",
+      "volume": "約 20,000 - 35,000 台/年",
+      "platform": "Intel Xeon 為主，自研 Lumada 平台。AI 伺服器需求成長中。",
+      "application": "社會基礎設施 IT、Lumada IoT 平台、企業 IT、AI 製造。",
+      "currentSuppliers": "自製 + Dell, HPE",
+      "odmOem": "OEM/自製",
+      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720-E11",
+      "channel": "SI: Hitachi Solutions (https://www.hitachi-solutions.co.jp)",
+      "difficulty": 7,
+      "challenges": "Hitachi 有自製伺服器能力，外部供應商進入門檻高。需要在 AI GPU 伺服器領域展示差異化。",
+      "entryPoint": "Hitachi 在 AI GPU 伺服器領域需要外部支援。可從 NVIDIA HGX 方案切入 Lumada AI 平台。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "Hitachi Solutions",
+          "website": "https://www.hitachi-solutions.co.jp",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUShitachi,-ltd"
     },
     {
       "rank": 22,
+      "company": "Grab Holdings",
+      "region": "新加坡",
+      "volume": "約 15,000 - 25,000 台/年",
+      "platform": "AMD EPYC 為主的通用伺服器，AI 伺服器用於推薦系統與自動駕駛研發。",
+      "application": "叫車平台、外送服務、金融科技、AI 推薦系統、地圖服務。",
+      "currentSuppliers": "Dell, AWS (雲端為主), Supermicro",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12, 通用1U: RS500A-E12",
+      "channel": "SI/DIST: NCS (https://www.ncs.co), Kyndryl (https://www.kyndryl.com)",
+      "difficulty": 5,
+      "challenges": "Grab 以雲端為主，自建 DC 規模有限。需要展示混合雲方案的價值。",
+      "entryPoint": "Grab 正在建設自有 AI 推論基礎設施以降低雲端成本。可從高性價比的 AI 推論伺服器切入，提供 POC 展示。",
+      "keyPerson": {
+        "name": "Mohan Krishnan",
+        "title": "Head of Engineering, Technical Infrastructure",
+        "linkedin": "https://sg.linkedin.com/in/mohangk",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "NCS",
+          "website": "https://www.ncs.co",
+          "type": "SI"
+        },
+        {
+          "name": "Kyndryl",
+          "website": "https://www.kyndryl.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSgrab-holdings"
+    },
+    {
+      "rank": 23,
       "company": "Coupang",
       "region": "韓國",
       "volume": "約 15,000 - 25,000 台/年",
@@ -333,22 +966,21 @@
       "channel": "直供 + SI: Megazone Cloud (https://www.megazone.com)",
       "difficulty": 5,
       "challenges": "Coupang 以雲端為主，自建 DC 規模有限。需要展示混合雲方案的價值。",
-      "entryPoint": "Coupang 正在建設自有推論基礎設施。可從 AI 推論伺服器切入，提供高性價比方案。"
-    },
-    {
-      "rank": 23,
-      "company": "Tokopedia (GoTo Group)",
-      "region": "印尼",
-      "volume": "約 10,000 - 20,000 台/年",
-      "platform": "Intel/AMD 通用伺服器，AI 伺服器用於推薦系統。印尼最大電商平台。",
-      "application": "電商平台、金融科技（GoPay）、物流、AI 推薦系統。",
-      "currentSuppliers": "Dell, AWS (雲端為主), Supermicro",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720A-E12, 通用1U: RS500A-E12, AI 4U: ESC4000-E11",
-      "channel": "SI/DIST: Multipolar Technology (https://www.multipolar.com)",
-      "difficulty": 4,
-      "challenges": "GoTo Group 以雲端為主，自建 DC 規模有限。印尼市場對 ASUS 品牌認知度高。",
-      "entryPoint": "GoTo Group 正在建設自有基礎設施以降低雲端成本。ASUS 在印尼有高品牌認知度，可從通用伺服器切入。"
+      "entryPoint": "Coupang 正在建設自有推論基礎設施。可從 AI 推論伺服器切入，提供高性價比方案。",
+      "keyPerson": {
+        "name": "Atul Goel",
+        "title": "Head of Cloud Infrastructure",
+        "linkedin": "https://in.linkedin.com/in/atul-goel-36b9506",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Megazone Cloud",
+          "website": "https://www.megazone.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUScoupang"
     },
     {
       "rank": 24,
@@ -363,40 +995,34 @@
       "channel": "SI: LY Corporation 自身通路",
       "difficulty": 6,
       "challenges": "LINE 與母公司 Naver 共享基礎設施，外部供應商需要與 Naver 的採購體系對接。",
-      "entryPoint": "LINE 正在擴展 AI 服務，可透過與 Naver 的合作關係同步切入。"
+      "entryPoint": "LINE 正在擴展 AI 服務，可透過與 Naver 的合作關係同步切入。",
+      "keyPerson": {
+        "name": "Yang Seokho",
+        "title": "Senior Executive Officer, CTO Domain, Data & AI CBU Lead",
+        "linkedin": "https://jp.linkedin.com/in/seok-ho-yang-3753a14",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "電通総研",
+          "website": "https://www.dentsusoken.com/solution/lineintegration.html/",
+          "type": "SI"
+        },
+        {
+          "name": "SB C&S株式会社",
+          "website": "https://www.it-ex.com/line-works/",
+          "type": "DIST"
+        },
+        {
+          "name": "ダイワボウ情報システム株式会社",
+          "website": "https://www.pc-daiwabo.co.jp/office/",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://logmi.jp/brandtopics/325890"
     },
     {
       "rank": 25,
-      "company": "HCL Technologies",
-      "region": "印度",
-      "volume": "約 20,000 - 35,000 台/年",
-      "platform": "Intel/AMD 通用伺服器，AI 伺服器需求成長中。全球 IT 服務商。",
-      "application": "IT 外包、數位轉型、AI/ML 服務、雲端管理、工程服務。",
-      "currentSuppliers": "Dell, HPE, Lenovo, Cisco",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST: Redington (https://www.redingtongroup.com), Ingram Micro India",
-      "difficulty": 5,
-      "challenges": "HCL 有成熟的供應商體系，新品牌需要通過認證流程。",
-      "entryPoint": "HCL 正在擴展 AI 服務能力，可從 AI GPU 伺服器切入，搭配通用伺服器打包方案。"
-    },
-    {
-      "rank": 26,
-      "company": "Panasonic Connect",
-      "region": "日本",
-      "volume": "約 10,000 - 20,000 台/年",
-      "platform": "Intel Xeon 為主的通用伺服器，AI 伺服器用於製造業 AI。",
-      "application": "智慧製造、供應鏈管理、企業 IT、AI 品質檢測。",
-      "currentSuppliers": "Dell, HPE, Fujitsu",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000-E11, WS880T",
-      "channel": "SI: Panasonic IS (https://is.panasonic.co.jp)",
-      "difficulty": 6,
-      "challenges": "Panasonic 偏好日本本土品牌，與 Fujitsu 有長期合作。需要在 AI 製造領域展示差異化。",
-      "entryPoint": "Panasonic Connect 正在推動製造業 AI 轉型，需要 AI 伺服器。可從 AI 工作站與 GPU 伺服器切入。"
-    },
-    {
-      "rank": 27,
       "company": "Toyota Motor Corporation",
       "region": "日本",
       "volume": "約 15,000 - 25,000 台/年",
@@ -408,25 +1034,29 @@
       "channel": "SI: Toyota Systems (https://www.toyotasystems.com)",
       "difficulty": 7,
       "challenges": "Toyota 有嚴格的供應商認證體系，偏好長期合作夥伴。需要通過汽車業的品質認證。",
-      "entryPoint": "Toyota 正在大力投資自動駕駛 AI，需要大量 GPU 伺服器。可從 AI 訓練伺服器切入，透過 Toyota Systems 進行推廣。"
+      "entryPoint": "Toyota 正在大力投資自動駕駛 AI，需要大量 GPU 伺服器。可從 AI 訓練伺服器切入，透過 Toyota Systems 進行推廣。",
+      "keyPerson": {
+        "name": "Hiroki Nakajima",
+        "title": "Executive Vice President, Chief Technology Officer",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "NTT DATA (services.global.ntt)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "SB C&S (cas.softbank.jp)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.globaldata.com/store/report/toyota-motor-corporation-enterprise-tech-analysis/"
     },
     {
-      "rank": 28,
-      "company": "Sony Group Corporation",
-      "region": "日本",
-      "volume": "約 10,000 - 20,000 台/年",
-      "platform": "Intel/AMD 通用伺服器，AI 伺服器用於遊戲 AI、影像處理、音樂 AI。",
-      "application": "PlayStation Network、影像感測器 AI、音樂/影視 AI、企業 IT。",
-      "currentSuppliers": "Dell, HPE, AWS (雲端)",
-      "odmOem": "OEM",
-      "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, 通用2U: RS720-E11",
-      "channel": "SI: Sony Global Solutions (https://www.sonygs.co.jp)",
-      "difficulty": 6,
-      "challenges": "Sony 有多元的 IT 需求，但各事業部獨立採購。需要針對不同事業部制定策略。",
-      "entryPoint": "Sony 的遊戲與影像 AI 需要大量 GPU 運算。可從 AI 伺服器切入 PlayStation Studios 或影像感測器事業部。"
-    },
-    {
-      "rank": 29,
+      "rank": 26,
       "company": "Tech Mahindra",
       "region": "印度",
       "volume": "約 15,000 - 25,000 台/年",
@@ -438,22 +1068,252 @@
       "channel": "SI/DIST: Redington (https://www.redingtongroup.com)",
       "difficulty": 5,
       "challenges": "Tech Mahindra 對價格敏感，但在電信 AI 領域有特殊需求。",
-      "entryPoint": "Tech Mahindra 正在為電信客戶建設 AI 平台，可從 AI 伺服器切入電信 AI 應用。"
+      "entryPoint": "Tech Mahindra 正在為電信客戶建設 AI 平台，可從 AI 伺服器切入電信 AI 應用。",
+      "keyPerson": {
+        "name": "Arun Singh",
+        "title": "Group Function Head - IT Infrastructure (Global)",
+        "linkedin": "https://in.linkedin.com/in/arun-singh-1bb88a26",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "NTT DATA",
+          "website": "https://www.nttdata.com/global/en/",
+          "type": "SI"
+        },
+        {
+          "name": "Kyndryl",
+          "website": "https://www.kyndryl.com/us/en",
+          "type": "SI"
+        },
+        {
+          "name": "TCS",
+          "website": "https://www.tcs.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Wipro",
+          "website": "https://www.wipro.com/",
+          "type": "SI"
+        },
+        {
+          "name": "AWS",
+          "website": "https://aws.amazon.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Red Hat",
+          "website": "https://www.redhat.com/en",
+          "type": "SI"
+        },
+        {
+          "name": "IBM",
+          "website": "https://www.ibm.com",
+          "type": "SI"
+        },
+        {
+          "name": "Verizon",
+          "website": "https://www.verizon.com/",
+          "type": "SI"
+        },
+        {
+          "name": "TD SYNNEX",
+          "website": "https://www.synnexcorp.com/",
+          "type": "DIST"
+        },
+        {
+          "name": "Ingram Micro",
+          "website": "https://www.ingrammicro.com/",
+          "type": "DIST"
+        },
+        {
+          "name": "SB C&S",
+          "website": "https://www.cas.softbank.jp/en/",
+          "type": "DIST"
+        },
+        {
+          "name": "Macnica",
+          "website": "https://www.macnica.co.jp/en/",
+          "type": "DIST"
+        },
+        {
+          "name": "Synnex Technology International",
+          "website": "https://www.synnex-grp.com/en/",
+          "type": "DIST"
+        },
+        {
+          "name": "IFS",
+          "website": "https://www.ifs.com/",
+          "type": "DIST"
+        },
+        {
+          "name": "Avnet",
+          "website": "https://www.avnet.com/wps/portal/us/",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://insights.techmahindra.com/investors/tml-integrated-annual-report-fy-2024-2025.pdf"
+    },
+    {
+      "rank": 27,
+      "company": "Viettel Group",
+      "region": "越南",
+      "volume": "約 15,000 - 25,000 台/年",
+      "platform": "Intel/AMD 通用伺服器。越南最大電信商，軍方背景。",
+      "application": "電信基礎設施、Viettel Cloud、政府 IT、AI 研究。",
+      "currentSuppliers": "Dell, HPE, Huawei, ZTE",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000-E11, 通用1U: RS700-E11",
+      "channel": "SI: Viettel Solutions (https://viettelsolutions.com.vn)",
+      "difficulty": 6,
+      "challenges": "Viettel 有軍方背景，採購流程特殊。華為/中興在越南有強勢地位。",
+      "entryPoint": "Viettel 正在建設 AI 基礎設施與 Viettel Cloud。可從非軍事的商業雲端業務切入。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SVTECH",
+          "website": "https://svtech.com.vn/",
+          "type": "SI"
+        },
+        {
+          "name": "Viettel Import – Export Limited Company",
+          "website": "Viettelimex)",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSviettel-group"
+    },
+    {
+      "rank": 28,
+      "company": "Samsung Electronics (半導體/研發)",
+      "region": "韓國",
+      "volume": "約 15,000 - 25,000 台/年（半導體研發部門）",
+      "platform": "Intel Xeon / AMD EPYC 通用伺服器、GPU 伺服器。全球最大半導體公司。",
+      "application": "EDA 設計、製程模擬、AI 晶片研發、良率優化。",
+      "currentSuppliers": "Dell, HPE, Samsung (自有品牌), Supermicro",
+      "odmOem": "OEM/自有品牌",
+      "asusModel": "GPU: ESC8000A-E12, AI 8GPU: ESC N8-E11",
+      "channel": "直供",
+      "difficulty": 9,
+      "challenges": "Samsung 自身生產伺服器。極難切入核心採購。但研發部門有獨立預算。",
+      "entryPoint": "Samsung 半導體研發部門對 GPU 伺服器需求大增。可從特定研發專案切入，提供 ASUS 液冷 GPU 方案。",
+      "keyPerson": {
+        "name": "Jai-Hyuk Song",
+        "title": "President and CTO of Device Solutions (DS) Division, Head of the Semiconductor R&D Center",
+        "linkedin": "https://kr.linkedin.com/in/%EC%9E%AC%ED%98%81-%EC%86%A1-b42054a9",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "MIRAI Semiconductors",
+          "website": "http://www.miraisemi.com",
+          "type": "DIST"
+        },
+        {
+          "name": "SAMT",
+          "website": "http://www.isamt.com",
+          "type": "DIST"
+        },
+        {
+          "name": "SINSUNG Semiconductors",
+          "website": "http://www.sinsungsemi.co.kr/",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2025_3Q_Interim_Report.pdf"
+    },
+    {
+      "rank": 29,
+      "company": "Tokopedia (GoTo Group)",
+      "region": "印尼",
+      "volume": "約 10,000 - 20,000 台/年",
+      "platform": "Intel/AMD 通用伺服器，AI 伺服器用於推薦系統。印尼最大電商平台。",
+      "application": "電商平台、金融科技（GoPay）、物流、AI 推薦系統。",
+      "currentSuppliers": "Dell, AWS (雲端為主), Supermicro",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720A-E12, 通用1U: RS500A-E12, AI 4U: ESC4000-E11",
+      "channel": "SI/DIST: Multipolar Technology (https://www.multipolar.com)",
+      "difficulty": 4,
+      "challenges": "GoTo Group 以雲端為主，自建 DC 規模有限。印尼市場對 ASUS 品牌認知度高。",
+      "entryPoint": "GoTo Group 正在建設自有基礎設施以降低雲端成本。ASUS 在印尼有高品牌認知度，可從通用伺服器切入。",
+      "keyPerson": {
+        "name": "Wuzhen (William) Xiong",
+        "title": "Chief Technology Officer",
+        "linkedin": "https://cn.linkedin.com/in/wuzhen%EF%BC%8Cwilliam-xiong-0983963",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Epsilon (epsilontelecom.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Amazon Web Services (aws.amazon.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Google Cloud Platform (cloud.google.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Alibaba Cloud (alibabacloud.com)",
+          "website": "",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.gotocompany.com/en/news/press/goto-group-tencent-cloud-and-alibaba-cloud-sign-agreement-to-boost-cloud-infrastructure-and-nurture-local-digital-talent-in-indonesia"
     },
     {
       "rank": 30,
-      "company": "Globe Telecom",
-      "region": "菲律賓",
-      "volume": "約 8,000 - 15,000 台/年",
-      "platform": "Intel Xeon 為主的通用伺服器。菲律賓最大電信商。",
-      "application": "電信基礎設施、雲端服務、數位金融（GCash）。",
-      "currentSuppliers": "Dell, HPE, Huawei",
+      "company": "Sony Group Corporation",
+      "region": "日本",
+      "volume": "約 10,000 - 20,000 台/年",
+      "platform": "Intel/AMD 通用伺服器，AI 伺服器用於遊戲 AI、影像處理、音樂 AI。",
+      "application": "PlayStation Network、影像感測器 AI、音樂/影視 AI、企業 IT。",
+      "currentSuppliers": "Dell, HPE, AWS (雲端)",
       "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST: PLDT Enterprise (https://pldtenterprise.com)",
-      "difficulty": 4,
-      "challenges": "菲律賓市場規模較小，但 ASUS 品牌認知度高。華為有價格優勢。",
-      "entryPoint": "Globe 正在升級電信基礎設施，ASUS 在菲律賓有高品牌認知度。可從通用伺服器切入。"
+      "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, 通用2U: RS720-E11",
+      "channel": "SI: Sony Global Solutions (https://www.sonygs.co.jp)",
+      "difficulty": 6,
+      "challenges": "Sony 有多元的 IT 需求，但各事業部獨立採購。需要針對不同事業部制定策略。",
+      "entryPoint": "Sony 的遊戲與影像 AI 需要大量 GPU 運算。可從 AI 伺服器切入 PlayStation Studios 或影像感測器事業部。",
+      "keyPerson": {
+        "name": "Tsuyoshi Kodera",
+        "title": "Executive, CDO (Digital & Technology Platform (Digital Transformation Strategy, Information Systems, Information Security, Advanced Technology Area), R&D, Technology Strategy, Quality Management)",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "NTT DATA (nttdata.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Kyndryl (kyndryl.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "TD SYNNEX (tdsynnex.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "Ingram Micro (ingrammicro.com)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsony-group-corporation"
     },
     {
       "rank": 31,
@@ -468,7 +1328,21 @@
       "channel": "SI/DIST: True IDC (https://www.trueidc.com)",
       "difficulty": 5,
       "challenges": "泰國市場有華為/中興的強勢競爭。CP Group 有自己的 IT 採購體系。",
-      "entryPoint": "True Corporation 正在建設 5G 與雲端基礎設施。可透過 True IDC 切入，提供通用伺服器方案。"
+      "entryPoint": "True Corporation 正在建設 5G 與雲端基礎設施。可透過 True IDC 切入，提供通用伺服器方案。",
+      "keyPerson": {
+        "name": "Bandith Pangpong",
+        "title": "Head of IT and Security",
+        "linkedin": "https://th.linkedin.com/in/bandith-pangpong-3b3320",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "True IDC",
+          "website": "https://www.trueidc.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://investor.truecorp.co.th/misc/AR/20250227-true-ar2024-en.pdf"
     },
     {
       "rank": 32,
@@ -483,115 +1357,24 @@
       "channel": "SI/DIST: Axiata Enterprise (https://www.axiata.com)",
       "difficulty": 5,
       "challenges": "馬來西亞市場有華為的強勢競爭。需要透過在地夥伴建立關係。",
-      "entryPoint": "Axiata 正在升級數位基礎設施。可從通用伺服器切入，搭配 ASUS 在東南亞的品牌優勢。"
+      "entryPoint": "Axiata 正在升級數位基礎設施。可從通用伺服器切入，搭配 ASUS 在東南亞的品牌優勢。",
+      "keyPerson": {
+        "name": "Jeffrey Perera",
+        "title": "Head of IT and Enterprise Security • IT Infrastructure Planning & Operations at Dialog Axiata PLC",
+        "linkedin": "https://lk.linkedin.com/in/jeffreymarinoperera",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Infosys",
+          "website": "https://www.infosys.com/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.axiata.com/investors/financials/integrated-annual-reports/2024"
     },
     {
       "rank": 33,
-      "company": "Maxis Berhad",
-      "region": "馬來西亞",
-      "volume": "約 5,000 - 10,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。馬來西亞第二大電信商。",
-      "application": "電信基礎設施、企業雲端、IoT 服務。",
-      "currentSuppliers": "Dell, HPE, Ericsson",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST: Maxis Business (https://www.maxis.com.my/business)",
-      "difficulty": 4,
-      "challenges": "馬來西亞市場規模較小，但 ASUS 品牌認知度高。",
-      "entryPoint": "Maxis 正在升級企業雲端服務。可從通用伺服器切入，提供有競爭力的價格。"
-    },
-    {
-      "rank": 34,
-      "company": "PLDT / Smart Communications",
-      "region": "菲律賓",
-      "volume": "約 8,000 - 15,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。菲律賓最大電信集團。",
-      "application": "電信基礎設施、ePLDT 雲端、企業 IT 服務。",
-      "currentSuppliers": "Dell, HPE, Huawei",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI: ePLDT (https://www.epldt.com)",
-      "difficulty": 4,
-      "challenges": "菲律賓市場有華為的價格競爭。ASUS 品牌在菲律賓有高認知度。",
-      "entryPoint": "PLDT 旗下 ePLDT 正在擴建 DC。可透過 ePLDT 切入，提供通用伺服器方案。"
-    },
-    {
-      "rank": 35,
-      "company": "Viettel Group",
-      "region": "越南",
-      "volume": "約 15,000 - 25,000 台/年",
-      "platform": "Intel/AMD 通用伺服器。越南最大電信商，軍方背景。",
-      "application": "電信基礎設施、Viettel Cloud、政府 IT、AI 研究。",
-      "currentSuppliers": "Dell, HPE, Huawei, ZTE",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000-E11, 通用1U: RS700-E11",
-      "channel": "SI: Viettel Solutions (https://viettelsolutions.com.vn)",
-      "difficulty": 6,
-      "challenges": "Viettel 有軍方背景，採購流程特殊。華為/中興在越南有強勢地位。",
-      "entryPoint": "Viettel 正在建設 AI 基礎設施與 Viettel Cloud。可從非軍事的商業雲端業務切入。"
-    },
-    {
-      "rank": 36,
-      "company": "FPT Corporation",
-      "region": "越南",
-      "volume": "約 8,000 - 15,000 台/年",
-      "platform": "Intel/AMD 通用伺服器，AI 伺服器需求成長中。越南最大 IT 公司。",
-      "application": "IT 服務、FPT Cloud、AI 研發、數位轉型。",
-      "currentSuppliers": "Dell, HPE, Supermicro",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000A-E12, 通用1U: RS700-E11",
-      "channel": "直供 + SI: FPT IS (https://fptis.com)",
-      "difficulty": 4,
-      "challenges": "FPT 對新品牌接受度較高，但價格敏感。越南市場成長快速。",
-      "entryPoint": "FPT 正在擴展 AI 服務與 FPT Cloud。可從 AI 伺服器切入，搭配通用伺服器打包方案。ASUS 在越南有品牌認知度。"
-    },
-    {
-      "rank": 37,
-      "company": "Hitachi, Ltd.",
-      "region": "日本",
-      "volume": "約 20,000 - 35,000 台/年",
-      "platform": "Intel Xeon 為主，自研 Lumada 平台。AI 伺服器需求成長中。",
-      "application": "社會基礎設施 IT、Lumada IoT 平台、企業 IT、AI 製造。",
-      "currentSuppliers": "自製 + Dell, HPE",
-      "odmOem": "OEM/自製",
-      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720-E11",
-      "channel": "SI: Hitachi Solutions (https://www.hitachi-solutions.co.jp)",
-      "difficulty": 7,
-      "challenges": "Hitachi 有自製伺服器能力，外部供應商進入門檻高。需要在 AI GPU 伺服器領域展示差異化。",
-      "entryPoint": "Hitachi 在 AI GPU 伺服器領域需要外部支援。可從 NVIDIA HGX 方案切入 Lumada AI 平台。"
-    },
-    {
-      "rank": 38,
-      "company": "Toshiba Digital Solutions",
-      "region": "日本",
-      "volume": "約 8,000 - 15,000 台/年",
-      "platform": "Intel Xeon 通用伺服器，AI 伺服器用於製造業 AI。",
-      "application": "製造業 IT、能源管理、基礎設施 AI、企業 IT。",
-      "currentSuppliers": "Dell, HPE, Fujitsu",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000-E11, WS880T",
-      "channel": "SI: Toshiba IT Services (https://www.toshiba-sol.co.jp)",
-      "difficulty": 6,
-      "challenges": "Toshiba 偏好日本本土品牌。需要在 AI 製造領域展示差異化。",
-      "entryPoint": "Toshiba 正在推動製造業 AI 轉型。可從 AI 工作站與 GPU 伺服器切入。"
-    },
-    {
-      "rank": 39,
-      "company": "AIS (Advanced Info Service)",
-      "region": "泰國",
-      "volume": "約 8,000 - 15,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。泰國第二大電信商。",
-      "application": "電信基礎設施、AIS Cloud、企業 IT 服務。",
-      "currentSuppliers": "Dell, HPE, Huawei",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST: AIS Business (https://business.ais.th)",
-      "difficulty": 4,
-      "challenges": "泰國市場有華為的價格競爭。ASUS 品牌在泰國有認知度。",
-      "entryPoint": "AIS 正在升級雲端基礎設施。可從通用伺服器切入，提供有競爭力的價格。"
-    },
-    {
-      "rank": 40,
       "company": "Hyundai AutoEver",
       "region": "韓國",
       "volume": "約 10,000 - 18,000 台/年",
@@ -603,10 +1386,34 @@
       "channel": "SI: Hyundai AutoEver 自身通路",
       "difficulty": 6,
       "challenges": "現代集團有自己的 IT 採購體系。需要在自動駕駛 AI 領域展示差異化。",
-      "entryPoint": "現代汽車正在大力投資自動駕駛 AI，需要大量 GPU 伺服器。可從 AI 訓練伺服器切入。"
+      "entryPoint": "現代汽車正在大力投資自動駕駛 AI，需要大量 GPU 伺服器。可從 AI 訓練伺服器切入。",
+      "keyPerson": {
+        "name": "Kyungsoo Lee",
+        "title": "VP / Cloud Infra Center",
+        "linkedin": "https://kr.linkedin.com/in/kyungsoo-lee-7a373262",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Wiver Systems",
+          "website": "https://www.ubersys.co.kr/",
+          "type": "SI"
+        },
+        {
+          "name": "Soft Zion",
+          "website": "http://kr.softzion.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Massco",
+          "website": "https://masco.co.kr/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.reuters.com/business/autos-transportation/hyundai-motor-group-invest-63-bln-ai-data-centre-robot-factory-south-korea-2026-02-27/"
     },
     {
-      "rank": 41,
+      "rank": 34,
       "company": "LG CNS",
       "region": "韓國",
       "volume": "約 10,000 - 18,000 台/年",
@@ -618,7 +1425,294 @@
       "channel": "SI: LG CNS 自身通路",
       "difficulty": 6,
       "challenges": "LG 集團偏好有韓國在地服務的品牌。需要建立韓國在地支援能力。",
-      "entryPoint": "LG CNS 正在擴展 AI 服務能力。可從 AI GPU 伺服器切入，搭配通用伺服器方案。"
+      "entryPoint": "LG CNS 正在擴展 AI 服務能力。可從 AI GPU 伺服器切入，搭配通用伺服器方案。",
+      "keyPerson": {
+        "name": "Jong Wan Kim",
+        "title": "Vice President of the LG CNS Infrastructure Unit",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Snowflake",
+          "website": "https://www.snowflake.com/en/why-snowflake/partners/all-partners/lg-cns/",
+          "type": "SI"
+        },
+        {
+          "name": "AWS",
+          "website": "https://partners.amazonaws.com/partners/001E0000014C30iIAC/LG%20CNS",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202508060006"
+    },
+    {
+      "rank": 35,
+      "company": "Tata Communications",
+      "region": "印度",
+      "volume": "約 10,000 - 18,000 台/年",
+      "platform": "Intel/AMD 通用伺服器。全球網路與雲端服務商。",
+      "application": "全球網路服務、託管雲、企業連接、IoT 平台。",
+      "currentSuppliers": "Dell, HPE, Cisco",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11, AI 4U: ESC4000-E11",
+      "channel": "直供 + SI: Tata Communications 自身通路",
+      "difficulty": 5,
+      "challenges": "Tata Communications 有全球化的 IT 採購體系。需要在多個區域提供支援。",
+      "entryPoint": "Tata Communications 正在擴展雲端與 AI 服務。可從通用伺服器切入，搭配 AI 方案。",
+      "keyPerson": {
+        "name": "Ramkumar Muthaiyan",
+        "title": "Head of Technology - Cybersecurity & Cloud",
+        "linkedin": "https://in.linkedin.com/in/ramkumarmuthaiyan",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "NTT DATA",
+          "website": "https://www.nttdata.com/global/en/",
+          "type": "SI"
+        },
+        {
+          "name": "Kyndryl",
+          "website": "https://www.kyndryl.com/us/en",
+          "type": "SI"
+        },
+        {
+          "name": "TCS",
+          "website": "https://www.tcs.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Wipro",
+          "website": "https://www.wipro.com/",
+          "type": "SI"
+        },
+        {
+          "name": "TD SYNNEX",
+          "website": "https://www.tdsynnex.com/na/us/",
+          "type": "DIST"
+        },
+        {
+          "name": "Ingram Micro",
+          "website": "https://www.ingrammicro.com/",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/indias-tata-launches-business-entity-for-1gw-data-center-build-out/"
+    },
+    {
+      "rank": 36,
+      "company": "STT GDC (ST Telemedia Global Data Centres)",
+      "region": "新加坡",
+      "volume": "約 10,000 - 18,000 台/年",
+      "platform": "Intel/AMD 通用伺服器。亞太最大 DC 營運商之一。",
+      "application": "共置資料中心、託管服務、雲端連接、企業 DC。",
+      "currentSuppliers": "Dell, HPE, Supermicro",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11, 通用2U AMD: RS720A-E12",
+      "channel": "直供 + SI: NCS (https://www.ncs.co)",
+      "difficulty": 4,
+      "challenges": "STT GDC 有成熟的供應商體系，但對新品牌有一定接受度。",
+      "entryPoint": "STT GDC 正在亞太擴建 DC。可從通用伺服器切入，提供有競爭力的價格與交期。",
+      "keyPerson": {
+        "name": "Dan Pointon",
+        "title": "Group Chief Technology Officer",
+        "linkedin": "https://sg.linkedin.com/in/dan-pointon-2a41379",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Tata Communications",
+          "website": "https://www.tatacommunications.com/",
+          "type": "SI"
+        },
+        {
+          "name": "NTT DATA",
+          "website": "https://www.nttdata.com/global/en/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/kkr-and-singtel-fully-acquire-data-center-firm-stt-gdc/"
+    },
+    {
+      "rank": 37,
+      "company": "Globe Telecom",
+      "region": "菲律賓",
+      "volume": "約 8,000 - 15,000 台/年",
+      "platform": "Intel Xeon 為主的通用伺服器。菲律賓最大電信商。",
+      "application": "電信基礎設施、雲端服務、數位金融（GCash）。",
+      "currentSuppliers": "Dell, HPE, Huawei",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST: PLDT Enterprise (https://pldtenterprise.com)",
+      "difficulty": 4,
+      "challenges": "菲律賓市場規模較小，但 ASUS 品牌認知度高。華為有價格優勢。",
+      "entryPoint": "Globe 正在升級電信基礎設施，ASUS 在菲律賓有高品牌認知度。可從通用伺服器切入。",
+      "keyPerson": {
+        "name": "Paolo Santos",
+        "title": "Assistant Vice President, Architecture and Quality Engineering",
+        "linkedin": "https://ph.linkedin.com/in/paoloassantos",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "TCS",
+          "website": "https://www.tcs.com/what-we-do/services/enterprise-solutions/case-study/globe-telecom-enhance-productivity-sap-s4hana-system",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "http://www.globe.com.ph/sites/default/files/reports/secpse/2024/A.%20Annual%20Reports/IV.%20Annual%20Report%20%2817A%29/00-glo_17-a_2024.pdf"
+    },
+    {
+      "rank": 38,
+      "company": "PLDT / Smart Communications",
+      "region": "菲律賓",
+      "volume": "約 8,000 - 15,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。菲律賓最大電信集團。",
+      "application": "電信基礎設施、ePLDT 雲端、企業 IT 服務。",
+      "currentSuppliers": "Dell, HPE, Huawei",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI: ePLDT (https://www.epldt.com)",
+      "difficulty": 4,
+      "challenges": "菲律賓市場有華為的價格競爭。ASUS 品牌在菲律賓有高認知度。",
+      "entryPoint": "PLDT 旗下 ePLDT 正在擴建 DC。可透過 ePLDT 切入，提供通用伺服器方案。",
+      "keyPerson": {
+        "name": "Gilbert Gaw",
+        "title": "First Vice President and Head of Information Technology and the Transformation Office",
+        "linkedin": "https://ph.linkedin.com/in/gilbertgaw",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Camxian Technologies",
+          "website": "https://camxian.com/",
+          "type": "SI"
+        },
+        {
+          "name": "RJAB Corporation",
+          "website": "https://rjabco.com/rjab-corporation",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://main.pldt.com/investor-relations"
+    },
+    {
+      "rank": 39,
+      "company": "FPT Corporation",
+      "region": "越南",
+      "volume": "約 8,000 - 15,000 台/年",
+      "platform": "Intel/AMD 通用伺服器，AI 伺服器需求成長中。越南最大 IT 公司。",
+      "application": "IT 服務、FPT Cloud、AI 研發、數位轉型。",
+      "currentSuppliers": "Dell, HPE, Supermicro",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000A-E12, 通用1U: RS700-E11",
+      "channel": "直供 + SI: FPT IS (https://fptis.com)",
+      "difficulty": 4,
+      "challenges": "FPT 對新品牌接受度較高，但價格敏感。越南市場成長快速。",
+      "entryPoint": "FPT 正在擴展 AI 服務與 FPT Cloud。可從 AI 伺服器切入，搭配通用伺服器打包方案。ASUS 在越南有品牌認知度。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "NTT DATA",
+          "website": "https://www.nttdata.com/global/en/",
+          "type": "SI"
+        },
+        {
+          "name": "SCSK",
+          "website": "https://www.scsk.jp/index_en.html",
+          "type": "SI"
+        },
+        {
+          "name": "IBM",
+          "website": "https://www.ibm.com",
+          "type": "SI"
+        },
+        {
+          "name": "KPMG",
+          "website": "https://kpmg.com/xx/en/home.html",
+          "type": "SI"
+        },
+        {
+          "name": "Synnex FPT",
+          "website": "https://synnexfpt.com/en/home-page/",
+          "type": "DIST"
+        },
+        {
+          "name": "Ingram Micro",
+          "website": "https://corp.ingrammicro.com/",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://fpt.com/en/ir/report"
+    },
+    {
+      "rank": 40,
+      "company": "Toshiba Digital Solutions",
+      "region": "日本",
+      "volume": "約 8,000 - 15,000 台/年",
+      "platform": "Intel Xeon 通用伺服器，AI 伺服器用於製造業 AI。",
+      "application": "製造業 IT、能源管理、基礎設施 AI、企業 IT。",
+      "currentSuppliers": "Dell, HPE, Fujitsu",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000-E11, WS880T",
+      "channel": "SI: Toshiba IT Services (https://www.toshiba-sol.co.jp)",
+      "difficulty": 6,
+      "challenges": "Toshiba 偏好日本本土品牌。需要在 AI 製造領域展示差異化。",
+      "entryPoint": "Toshiba 正在推動製造業 AI 轉型。可從 AI 工作站與 GPU 伺服器切入。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "DENTSU SOKEN INC.",
+          "website": "https://www.dentsusoken.com/english",
+          "type": "SI"
+        },
+        {
+          "name": "MAC SYSTEMS CORPORATION",
+          "website": "https://www.macsystems.co.jp/",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.toshibatec.com/company/ir/material/pdf/integrated_report2025.pdf"
+    },
+    {
+      "rank": 41,
+      "company": "AIS (Advanced Info Service)",
+      "region": "泰國",
+      "volume": "約 8,000 - 15,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。泰國第二大電信商。",
+      "application": "電信基礎設施、AIS Cloud、企業 IT 服務。",
+      "currentSuppliers": "Dell, HPE, Huawei",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST: AIS Business (https://business.ais.th)",
+      "difficulty": 4,
+      "challenges": "泰國市場有華為的價格競爭。ASUS 品牌在泰國有認知度。",
+      "entryPoint": "AIS 正在升級雲端基礎設施。可從通用伺服器切入，提供有競爭力的價格。",
+      "keyPerson": {
+        "name": "Kitti Ngarmchatetanarom",
+        "title": "Chief Technology Officer",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "TCS",
+          "website": "https://www.tcs.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://investor.ais.co.th/en/our-company/milestones/2020-ongoing"
     },
     {
       "rank": 42,
@@ -633,25 +1727,24 @@
       "channel": "SI/DIST: Lintasarta (https://www.lintasarta.net)",
       "difficulty": 5,
       "challenges": "印尼市場有華為的強勢競爭。需要透過在地 SI 夥伴建立關係。",
-      "entryPoint": "Indosat 正在升級電信基礎設施。可透過 Lintasarta 切入，提供通用伺服器方案。"
+      "entryPoint": "Indosat 正在升級電信基礎設施。可透過 Lintasarta 切入，提供通用伺服器方案。",
+      "keyPerson": {
+        "name": "Ony Sixta Darmawan",
+        "title": "Vice Head of IT, President Infrastructure & Cloud Operations",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Lintasarta",
+          "website": "https://www.lintasarta.net",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://ioh.co.id/portal/en/ioh-investor-document?_deftabid=2"
     },
     {
       "rank": 43,
-      "company": "Tata Communications",
-      "region": "印度",
-      "volume": "約 10,000 - 18,000 台/年",
-      "platform": "Intel/AMD 通用伺服器。全球網路與雲端服務商。",
-      "application": "全球網路服務、託管雲、企業連接、IoT 平台。",
-      "currentSuppliers": "Dell, HPE, Cisco",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11, AI 4U: ESC4000-E11",
-      "channel": "直供 + SI: Tata Communications 自身通路",
-      "difficulty": 5,
-      "challenges": "Tata Communications 有全球化的 IT 採購體系。需要在多個區域提供支援。",
-      "entryPoint": "Tata Communications 正在擴展雲端與 AI 服務。可從通用伺服器切入，搭配 AI 方案。"
-    },
-    {
-      "rank": 44,
       "company": "Mitsubishi Electric",
       "region": "日本",
       "volume": "約 8,000 - 15,000 台/年",
@@ -663,160 +1756,59 @@
       "channel": "SI: Mitsubishi Electric IT Solutions (https://www.mitsubishielectric.co.jp)",
       "difficulty": 6,
       "challenges": "三菱電機偏好日本本土品牌。需要在 AI 製造領域展示差異化。",
-      "entryPoint": "三菱電機正在推動 AI 製造轉型。可從 AI 工作站與 GPU 伺服器切入。"
+      "entryPoint": "三菱電機正在推動 AI 製造轉型。可從 AI 工作站與 GPU 伺服器切入。",
+      "keyPerson": {
+        "name": "Hiroshi Sato",
+        "title": "Head of Global IT platform",
+        "linkedin": "https://jp.linkedin.com/in/hiroshi-sato-62ba82142",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "株式会社アイテクシステム",
+          "website": "http://www.aitechsystem.com/",
+          "type": "SI"
+        },
+        {
+          "name": "株式会社ASTINA",
+          "website": "https://www.astina.co/ai-robotics/",
+          "type": "SI"
+        },
+        {
+          "name": "株式会社ウエノテクニカ",
+          "website": "http://uenotechnica.com",
+          "type": "SI"
+        },
+        {
+          "name": "株式会社大橋製作所",
+          "website": "https://www.ohashi-engineering.co.jp/",
+          "type": "SI"
+        },
+        {
+          "name": "株式会社オフィスエフエイ・コム",
+          "website": "http://www.office-fa.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Kanaden",
+          "website": "https://www.kanaden.co.jp/en/",
+          "type": "DIST"
+        },
+        {
+          "name": "Ryoden",
+          "website": "https://en.ryoden.co.jp/",
+          "type": "DIST"
+        },
+        {
+          "name": "Tachibana Eletech",
+          "website": "https://www.tachibana.co.jp/en/",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.forbes.com/sites/mitsubishi-electric/2024/08/21/the-transformation-of-mitsubishi-electric-investing-in-a-digitally-integrated-future/"
     },
     {
-      "rank": 45,
-      "company": "Raxio Group",
-      "region": "新加坡/東南亞",
-      "volume": "約 5,000 - 10,000 台/年",
-      "platform": "Intel/AMD 通用伺服器。東南亞新興 DC 營運商。",
-      "application": "共置資料中心、託管服務、雲端連接。",
-      "currentSuppliers": "Dell, Supermicro",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720A-E12, 通用1U: RS500A-E12",
-      "channel": "直供",
-      "difficulty": 3,
-      "challenges": "新興 DC 營運商，對新品牌接受度高。規模較小但成長快速。",
-      "entryPoint": "Raxio 正在東南亞快速擴張，需要可靠且有競爭力的伺服器供應商。ASUS 可直供。"
-    },
-    {
-      "rank": 46,
-      "company": "STT GDC (ST Telemedia Global Data Centres)",
-      "region": "新加坡",
-      "volume": "約 10,000 - 18,000 台/年",
-      "platform": "Intel/AMD 通用伺服器。亞太最大 DC 營運商之一。",
-      "application": "共置資料中心、託管服務、雲端連接、企業 DC。",
-      "currentSuppliers": "Dell, HPE, Supermicro",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11, 通用2U AMD: RS720A-E12",
-      "channel": "直供 + SI: NCS (https://www.ncs.co)",
-      "difficulty": 4,
-      "challenges": "STT GDC 有成熟的供應商體系，但對新品牌有一定接受度。",
-      "entryPoint": "STT GDC 正在亞太擴建 DC。可從通用伺服器切入，提供有競爭力的價格與交期。"
-    },
-    {
-      "rank": 47,
-      "company": "Digital Edge",
-      "region": "新加坡/亞太",
-      "volume": "約 5,000 - 10,000 台/年",
-      "platform": "Intel/AMD 通用伺服器。亞太新興 DC 營運商。",
-      "application": "共置資料中心、邊緣運算、雲端連接。",
-      "currentSuppliers": "Dell, Supermicro",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720A-E12, 通用1U: RS500A-E12",
-      "channel": "直供",
-      "difficulty": 3,
-      "challenges": "新興 DC 營運商，對新品牌接受度高。",
-      "entryPoint": "Digital Edge 正在亞太快速擴張。ASUS 可提供有競爭力的通用伺服器方案直供。"
-    },
-    {
-      "rank": 48,
-      "company": "Cyxtera Technologies (亞太業務)",
-      "region": "新加坡",
-      "volume": "約 3,000 - 8,000 台/年",
-      "platform": "Intel/AMD 通用伺服器。全球 DC 營運商的亞太業務。",
-      "application": "共置資料中心、託管服務。",
-      "currentSuppliers": "Dell, Supermicro",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "直供",
-      "difficulty": 4,
-      "challenges": "全球化 DC 營運商，採購決策可能在總部。需要與亞太區域團隊建立關係。",
-      "entryPoint": "Cyxtera 亞太業務正在擴張。可從通用伺服器切入，提供在地支援優勢。"
-    },
-    {
-      "rank": 49,
-      "company": "Lotte Data Communication",
-      "region": "韓國",
-      "volume": "約 5,000 - 10,000 台/年",
-      "platform": "Intel/AMD 通用伺服器。樂天集團 IT 子公司。",
-      "application": "樂天集團 IT、電商平台、AI 推薦、智慧零售。",
-      "currentSuppliers": "Dell, HPE, Samsung",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000-E11, 通用1U: RS700-E11",
-      "channel": "SI: Lotte Data Communication 自身通路",
-      "difficulty": 5,
-      "challenges": "樂天集團有自己的 IT 採購體系。需要在 AI 零售領域展示差異化。",
-      "entryPoint": "樂天正在推動 AI 零售轉型。可從 AI 伺服器切入，搭配通用伺服器方案。"
-    },
-    {
-      "rank": 50,
-      "company": "Digi Telecommunications",
-      "region": "馬來西亞",
-      "volume": "約 5,000 - 10,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。馬來西亞電信商（與 Celcom 合併為 CelcomDigi）。",
-      "application": "電信基礎設施、企業雲端、IoT 服務。",
-      "currentSuppliers": "Dell, HPE, Ericsson",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST: CelcomDigi Enterprise (https://www.celcomdigi.com)",
-      "difficulty": 4,
-      "challenges": "馬來西亞市場規模較小。ASUS 品牌在馬來西亞有高認知度。",
-      "entryPoint": "CelcomDigi 正在整合基礎設施。可從通用伺服器切入，提供有競爭力的價格。"
-    },
-    {
-      "rank": 51,
-      "company": "IIJ (Internet Initiative Japan)",
-      "region": "日本",
-      "volume": "約 5,000 - 10,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC 通用伺服器、GPU 伺服器。日本最大的獨立 ISP 與雲端服務商之一。",
-      "application": "IIJ GIO 雲端服務、企業託管、CDN、安全服務。",
-      "currentSuppliers": "Dell, HPE, Supermicro",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720A-E12, AI 4GPU: ESC4000A-E12, 通用1U: RS700-E11",
-      "channel": "直供 + SI/DIST",
-      "difficulty": 4,
-      "challenges": "IIJ 有自己的雲端基礎設施團隊，對供應商有嚴格的品質要求。需通過其內部認證流程。",
-      "entryPoint": "IIJ 正在擴展 AI/GPU 雲端服務。可從 GPU 伺服器切入，提供 ASUS ESC 系列的性價比優勢。ASUS 在日本有本地支援團隊。"
-    },
-    {
-      "rank": 52,
-      "company": "GMO Internet Group",
-      "region": "日本",
-      "volume": "約 5,000 - 10,000 台/年",
-      "platform": "Intel Xeon 通用伺服器、GPU 伺服器。日本大型網路服務集團（網域、主機、雲端）。",
-      "application": "ConoHa 雲端、網頁託管、加密貨幣挖礦、AI 服務。",
-      "currentSuppliers": "Dell, Supermicro, HPE",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720A-E12, GPU: ESC4000A-E12",
-      "channel": "直供",
-      "difficulty": 4,
-      "challenges": "GMO 有多元業務線，採購決策分散。需要針對不同業務單位分別接觸。",
-      "entryPoint": "GMO 的 ConoHa 雲端服務正在擴展 GPU 實例。可提供 ASUS GPU 伺服器的成本優勢。"
-    },
-    {
-      "rank": 53,
-      "company": "SCSK Corporation",
-      "region": "日本",
-      "volume": "約 5,000 - 10,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。住友商事旗下 IT 服務公司。",
-      "application": "企業 IT 服務、系統整合、雲端託管。",
-      "currentSuppliers": "Dell, HPE, Fujitsu, NEC",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST: SCSK 自身即為大型 SI",
-      "difficulty": 5,
-      "challenges": "SCSK 與 Fujitsu、NEC 有長期合作關係。日本企業偏好本土品牌。",
-      "entryPoint": "SCSK 正在擴展雲端託管業務。可透過價格優勢與 ASUS 日本團隊的本地支援切入。"
-    },
-    {
-      "rank": 54,
-      "company": "POSCO ICT (現 POSCO DX)",
-      "region": "韓國",
-      "volume": "約 5,000 - 10,000 台/年",
-      "platform": "Intel Xeon 通用伺服器、AI 伺服器。浦項鋼鐵集團 IT 子公司。",
-      "application": "智慧工廠、AI 品質檢測、ERP、MES 系統。",
-      "currentSuppliers": "Dell, HPE, Lenovo",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, AI 4GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "韓國大型集團偏好與既有供應商合作。需要通過 POSCO 集團的供應商認證。",
-      "entryPoint": "POSCO DX 正在推動智慧工廠 AI 化。可從 AI 推論伺服器切入，展示 ASUS 在製造業 AI 的解決方案。"
-    },
-    {
-      "rank": 55,
+      "rank": 44,
       "company": "Kyndryl (亞太業務)",
       "region": "日本/亞太",
       "volume": "約 8,000 - 15,000 台/年（亞太區域）",
@@ -828,85 +1820,74 @@
       "channel": "直供 (Kyndryl 自身為大型 SI)",
       "difficulty": 6,
       "challenges": "Kyndryl 與 IBM、Dell 有全球合約。亞太區域採購可能受全球合約限制。",
-      "entryPoint": "Kyndryl 正在尋求降低成本以提高利潤率。可從亞太區域的中小型專案切入，提供有競爭力的價格。"
+      "entryPoint": "Kyndryl 正在尋求降低成本以提高利潤率。可從亞太區域的中小型專案切入，提供有競爭力的價格。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "ServiceNow",
+          "website": "https://www.servicenow.com/",
+          "type": "SI"
+        },
+        {
+          "name": "AWS",
+          "website": "https://aws.amazon.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Google Cloud",
+          "website": "https://cloud.google.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Microsoft",
+          "website": "https://www.microsoft.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Cisco",
+          "website": "https://www.cisco.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Dell Technologies",
+          "website": "https://www.delltechnologies.com/",
+          "type": "SI"
+        },
+        {
+          "name": "HPE",
+          "website": "https://www.hpe.com/",
+          "type": "SI"
+        },
+        {
+          "name": "IBM",
+          "website": "https://www.ibm.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Oracle",
+          "website": "https://www.oracle.com/",
+          "type": "SI"
+        },
+        {
+          "name": "SAP",
+          "website": "https://www.sap.com/",
+          "type": "SI"
+        },
+        {
+          "name": "VMware",
+          "website": "https://www.vmware.com/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.kyndryl.com/content/dam/kyndrylprogram/doc/en/2025/readiness-report.pdf"
     },
     {
-      "rank": 56,
-      "company": "Subaru Corporation",
-      "region": "日本",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。日本汽車製造商。",
-      "application": "自動駕駛 EyeSight 系統開發、CAD/CAE、生產管理。",
-      "currentSuppliers": "Dell, HPE, Fujitsu",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, GPU 工作站: ESC8000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "日本汽車業偏好穩定的供應鏈。需要通過汽車業的嚴格認證。",
-      "entryPoint": "Subaru 正在加大 EyeSight 自動駕駛的 AI 投資。可從 AI 訓練伺服器切入。"
-    },
-    {
-      "rank": 57,
-      "company": "Mahindra Group (Tech Mahindra 以外)",
-      "region": "印度",
-      "volume": "約 5,000 - 10,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。印度大型企業集團（汽車、IT、金融）。",
-      "application": "企業 ERP、製造 MES、金融交易系統。",
-      "currentSuppliers": "Dell, HPE, Lenovo",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST: 印度本地 SI",
-      "difficulty": 5,
-      "challenges": "印度大型集團採購流程複雜。需要通過集團層級的供應商認證。",
-      "entryPoint": "Mahindra 正在推動數位轉型。可從通用伺服器切入，利用 ASUS 的價格優勢。"
-    },
-    {
-      "rank": 58,
-      "company": "Bandai Namco Holdings",
-      "region": "日本",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC 通用伺服器、GPU 伺服器。日本遊戲與娛樂巨頭。",
-      "application": "遊戲伺服器、AI 角色生成、串流媒體、線上服務。",
-      "currentSuppliers": "Dell, HPE, AWS (部分雲端)",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720A-E12, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "遊戲業對延遲和穩定性要求極高。需要證明 ASUS 伺服器的可靠性。",
-      "entryPoint": "Bandai Namco 正在擴展線上遊戲服務。可從遊戲伺服器切入，展示 ASUS 在遊戲產業的品牌優勢。"
-    },
-    {
-      "rank": 59,
-      "company": "Murata Manufacturing",
-      "region": "日本",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。全球最大的電子元件製造商之一。",
-      "application": "製造 MES、AI 品質檢測、ERP、研發模擬。",
-      "currentSuppliers": "Dell, HPE, Fujitsu",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, AI 推論: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "日本製造業對品質要求極高。需要通過嚴格的供應商認證。",
-      "entryPoint": "Murata 正在導入 AI 品質檢測。可從 AI 推論伺服器切入。"
-    },
-    {
-      "rank": 60,
-      "company": "Daewoo E&C (現 DL E&C)",
-      "region": "韓國",
-      "volume": "約 3,000 - 5,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。韓國大型建設公司。",
-      "application": "BIM 建模、工程模擬、ERP、智慧建築管理。",
-      "currentSuppliers": "Dell, HPE, Lenovo",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, GPU 工作站: ESC8000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "韓國建設業 IT 預算相對保守。需要展示 TCO 優勢。",
-      "entryPoint": "DL E&C 正在推動智慧建築。可從 BIM/工程模擬伺服器切入。"
-    },
-    {
-      "rank": 61,
+      "rank": 45,
       "company": "Flipkart (Walmart India)",
       "region": "印度",
       "volume": "約 8,000 - 15,000 台/年",
@@ -918,145 +1899,24 @@
       "channel": "直供 + SI/DIST",
       "difficulty": 5,
       "challenges": "Flipkart 作為 Walmart 子公司，可能受全球採購合約影響。但印度本地有獨立採購權。",
-      "entryPoint": "Flipkart 正在大力投資 AI 推薦引擎。可從 AI 推論伺服器切入，利用 ASUS 的性價比優勢。"
+      "entryPoint": "Flipkart 正在大力投資 AI 推薦引擎。可從 AI 推論伺服器切入，利用 ASUS 的性價比優勢。",
+      "keyPerson": {
+        "name": "Balaji Thiagarajan",
+        "title": "Chief Product and Technology Officer",
+        "linkedin": "https://www.linkedin.com/in/balajith",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Persistent Systems",
+          "website": "https://www.persistent.com/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.pingcap.com/blog/how-flipkart-scales-over-1m-qps-with-zero-downtime-maintenance/"
     },
     {
-      "rank": 62,
-      "company": "Ola Electric / Ola Cabs",
-      "region": "印度",
-      "volume": "約 3,000 - 8,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC 通用伺服器、GPU 伺服器。印度出行與電動車公司。",
-      "application": "叫車平台、自動駕駛研發、電動車管理系統。",
-      "currentSuppliers": "Dell, HPE",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720A-E12, GPU: ESC4000A-E12",
-      "channel": "SI/DIST: 印度本地 SI",
-      "difficulty": 4,
-      "challenges": "Ola 正在快速擴張但資金壓力大。對價格敏感。",
-      "entryPoint": "Ola 正在建立自動駕駛和 AI 能力。可從 GPU 伺服器切入，提供有競爭力的價格。"
-    },
-    {
-      "rank": 63,
-      "company": "Dentsu Group",
-      "region": "日本",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器、GPU 伺服器。全球最大的廣告集團之一。",
-      "application": "廣告投放平台、AI 內容生成、數據分析。",
-      "currentSuppliers": "Dell, HPE, AWS (部分雲端)",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "廣告業正在快速擁抱 AI。需要展示 ASUS 在 AI 推論方面的能力。",
-      "entryPoint": "Dentsu 正在大力投資 AI 廣告技術。可從 AI 推論伺服器切入。"
-    },
-    {
-      "rank": 64,
-      "company": "Zoho Corporation",
-      "region": "印度",
-      "volume": "約 5,000 - 10,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC 通用伺服器。印度 SaaS 巨頭，自建資料中心。",
-      "application": "Zoho SaaS 平台（CRM、辦公套件）、資料分析。",
-      "currentSuppliers": "Dell, Supermicro",
-      "odmOem": "OEM/ODM 混合",
-      "asusModel": "通用2U: RS720A-E12, 通用1U: RS700A-E12",
-      "channel": "直供",
-      "difficulty": 4,
-      "challenges": "Zoho 以自建基礎設施聞名，對成本控制極為嚴格。",
-      "entryPoint": "Zoho 正在全球擴展資料中心。可從通用伺服器切入，提供有競爭力的大量採購價格。"
-    },
-    {
-      "rank": 65,
-      "company": "Razorpay",
-      "region": "印度",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。印度最大的支付閘道之一。",
-      "application": "支付處理、風控系統、商家服務平台。",
-      "currentSuppliers": "Dell, HPE, AWS (部分雲端)",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST: 印度本地 SI",
-      "difficulty": 4,
-      "challenges": "金融科技對安全性和合規性要求高。需要通過 PCI-DSS 等認證。",
-      "entryPoint": "Razorpay 正在快速擴張。可從通用伺服器切入，利用 ASUS 的價格優勢。"
-    },
-    {
-      "rank": 66,
-      "company": "Kakao Bank",
-      "region": "韓國",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。韓國最大的純網銀。",
-      "application": "銀行核心系統、風控、AI 客服。",
-      "currentSuppliers": "Dell, HPE, Samsung",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "韓國金融業對穩定性要求極高。需要通過金融監管認證。",
-      "entryPoint": "Kakao Bank 正在擴展 AI 服務。可從非核心系統的通用伺服器切入。"
-    },
-    {
-      "rank": 67,
-      "company": "Toss (Viva Republica)",
-      "region": "韓國",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC 通用伺服器。韓國金融科技超級 App。",
-      "application": "支付、銀行、證券、保險平台。",
-      "currentSuppliers": "Dell, HPE",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720A-E12, 通用1U: RS700A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "快速成長的金融科技公司，對新供應商較為開放。",
-      "entryPoint": "Toss 正在快速擴展基礎設施。可從通用伺服器切入，提供快速交付和價格優勢。"
-    },
-    {
-      "rank": 68,
-      "company": "Bukalapak",
-      "region": "印尼",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。印尼大型電商平台。",
-      "application": "電商平台、支付系統、物流管理。",
-      "currentSuppliers": "Dell, HPE",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST: 印尼本地 SI",
-      "difficulty": 4,
-      "challenges": "印尼市場價格敏感。需要提供有競爭力的價格。",
-      "entryPoint": "Bukalapak 正在擴展基礎設施。可從通用伺服器切入。"
-    },
-    {
-      "rank": 69,
-      "company": "Preferred Networks",
-      "region": "日本",
-      "volume": "約 3,000 - 8,000 台/年",
-      "platform": "NVIDIA GPU 伺服器、自研 MN-Core 加速器。日本最大的 AI 研究公司。",
-      "application": "深度學習研究、自動駕駛、藥物發現、材料科學。",
-      "currentSuppliers": "Supermicro, 自行組裝",
-      "odmOem": "ODM/自行組裝",
-      "asusModel": "AI 8GPU: ESC N8-E11, AI 4GPU: ESC4000A-E12, AI POD: 液冷機櫃方案",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "PFN 技術能力極強，對硬體有高度客製化需求。需要提供靈活的客製化服務。",
-      "entryPoint": "PFN 正在擴展超級電腦規模。可從 ASUS 液冷 GPU 伺服器切入，展示液冷技術優勢。"
-    },
-    {
-      "rank": 70,
-      "company": "Stability AI (亞太業務)",
-      "region": "日本/亞太",
-      "volume": "約 2,000 - 5,000 台/年（亞太區域）",
-      "platform": "NVIDIA GPU 伺服器。AI 圖像生成公司。",
-      "application": "Stable Diffusion 模型訓練與推論、AI 圖像/影片生成。",
-      "currentSuppliers": "CoreWeave (雲端), Supermicro",
-      "odmOem": "OEM/ODM 混合",
-      "asusModel": "AI 8GPU: ESC N8-E11, AI 4GPU: ESC4000A-E12",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "Stability AI 財務狀況不穩定。需要評估信用風險。",
-      "entryPoint": "Stability AI 在日本有研發團隊。可從日本本地的 GPU 伺服器需求切入。"
-    },
-    {
-      "rank": 71,
+      "rank": 46,
       "company": "Hyundai Motor Company",
       "region": "韓國",
       "volume": "約 8,000 - 15,000 台/年",
@@ -1068,145 +1928,24 @@
       "channel": "SI/DIST",
       "difficulty": 7,
       "challenges": "現代汽車集團規模龐大，採購流程複雜。與 Samsung 有密切合作關係。",
-      "entryPoint": "現代正在大力投資自動駕駛和 AI。可從 AI 訓練伺服器切入，展示 ASUS GPU 伺服器的性價比。"
+      "entryPoint": "現代正在大力投資自動駕駛和 AI。可從 AI 訓練伺服器切入，展示 ASUS GPU 伺服器的性價比。",
+      "keyPerson": {
+        "name": "Eunsook Jin",
+        "title": "President and Head of ICT Management Division",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Hyundai AutoEver",
+          "website": "https://www.hyundai-autoever.com/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.hyundai.com/worldwide/en/company/ir/ir-resources/sales-results"
     },
     {
-      "rank": 72,
-      "company": "Samsung Electronics (半導體/研發)",
-      "region": "韓國",
-      "volume": "約 15,000 - 25,000 台/年（半導體研發部門）",
-      "platform": "Intel Xeon / AMD EPYC 通用伺服器、GPU 伺服器。全球最大半導體公司。",
-      "application": "EDA 設計、製程模擬、AI 晶片研發、良率優化。",
-      "currentSuppliers": "Dell, HPE, Samsung (自有品牌), Supermicro",
-      "odmOem": "OEM/自有品牌",
-      "asusModel": "GPU: ESC8000A-E12, AI 8GPU: ESC N8-E11",
-      "channel": "直供",
-      "difficulty": 9,
-      "challenges": "Samsung 自身生產伺服器。極難切入核心採購。但研發部門有獨立預算。",
-      "entryPoint": "Samsung 半導體研發部門對 GPU 伺服器需求大增。可從特定研發專案切入，提供 ASUS 液冷 GPU 方案。"
-    },
-    {
-      "rank": 73,
-      "company": "Ricoh Company",
-      "region": "日本",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。日本辦公設備與 IT 服務公司。",
-      "application": "IT 服務、雲端列印、文件管理、AI 文件處理。",
-      "currentSuppliers": "Dell, HPE, Fujitsu",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "Ricoh 正在從硬體公司轉型為 IT 服務公司。採購策略可能在調整中。",
-      "entryPoint": "Ricoh 正在擴展雲端服務。可從通用伺服器切入。"
-    },
-    {
-      "rank": 74,
-      "company": "Paytm (One97 Communications)",
-      "region": "印度",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。印度最大的數位支付平台之一。",
-      "application": "支付處理、商家服務、金融服務平台。",
-      "currentSuppliers": "Dell, HPE",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST: 印度本地 SI",
-      "difficulty": 4,
-      "challenges": "Paytm 近期面臨監管壓力，IT 投資可能放緩。",
-      "entryPoint": "Paytm 仍需維護龐大的支付基礎設施。可從通用伺服器更新換代切入。"
-    },
-    {
-      "rank": 75,
-      "company": "Hanwha Group (韓華)",
-      "region": "韓國",
-      "volume": "約 5,000 - 10,000 台/年",
-      "platform": "Intel Xeon 通用伺服器、GPU 伺服器。韓國大型企業集團（國防、能源、金融）。",
-      "application": "國防系統、太陽能製造、金融交易、AI 研發。",
-      "currentSuppliers": "Dell, HPE, Lenovo",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 6,
-      "challenges": "韓華集團業務多元，採購決策分散。國防業務有安全限制。",
-      "entryPoint": "韓華正在擴展 AI 和太陽能業務。可從非國防部門的 AI 伺服器切入。"
-    },
-    {
-      "rank": 76,
-      "company": "NHN Corporation",
-      "region": "韓國",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。韓國遊戲與雲端服務公司（NHN Cloud）。",
-      "application": "NHN Cloud、遊戲伺服器、支付系統。",
-      "currentSuppliers": "Dell, HPE, Supermicro",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "直供 + SI/DIST",
-      "difficulty": 4,
-      "challenges": "NHN Cloud 規模較小但成長中。對新供應商較為開放。",
-      "entryPoint": "NHN Cloud 正在擴展雲端服務。可從通用伺服器和 GPU 伺服器切入。"
-    },
-    {
-      "rank": 77,
-      "company": "Vedanta Limited (IT 部門)",
-      "region": "印度",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。印度大型礦業與資源公司。",
-      "application": "礦業管理、ERP、AI 預測維護、環境監測。",
-      "currentSuppliers": "Dell, HPE",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST: 印度本地 SI",
-      "difficulty": 4,
-      "challenges": "礦業公司 IT 預算相對保守。需要展示 TCO 優勢。",
-      "entryPoint": "Vedanta 正在推動數位礦山。可從通用伺服器切入。"
-    },
-    {
-      "rank": 78,
-      "company": "Vingroup (VinAI / VinBigData)",
-      "region": "越南",
-      "volume": "約 5,000 - 10,000 台/年",
-      "platform": "Intel Xeon / NVIDIA GPU 伺服器。越南最大的民營企業集團。",
-      "application": "AI 研發（VinAI）、大數據（VinBigData）、智慧城市、電動車。",
-      "currentSuppliers": "Dell, HPE, Supermicro",
-      "odmOem": "OEM",
-      "asusModel": "AI 8GPU: ESC N8-E11, AI 4GPU: ESC4000A-E12, 通用2U: RS720A-E12",
-      "channel": "直供 + SI/DIST",
-      "difficulty": 5,
-      "challenges": "Vingroup 正在大力投資 AI 但供應鏈仍在建立中。越南市場相對新興。",
-      "entryPoint": "VinAI 是東南亞領先的 AI 研究機構。可從 GPU 伺服器切入，提供 ASUS 液冷方案。"
-    },
-    {
-      "rank": 79,
-      "company": "Daikin Industries",
-      "region": "日本",
-      "volume": "約 3,000 - 5,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。全球最大的空調製造商。",
-      "application": "IoT 設備管理、AI 預測維護、ERP、智慧工廠。",
-      "currentSuppliers": "Dell, HPE, Fujitsu",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "Daikin 與 Fujitsu 有長期合作。日本製造業偏好本土品牌。",
-      "entryPoint": "Daikin 正在推動 IoT 和 AI 化。可從 IoT 邊緣伺服器切入。ASUS 在日本有品牌優勢。"
-    },
-    {
-      "rank": 80,
-      "company": "Astra International",
-      "region": "印尼",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。印尼最大的企業集團之一（汽車、金融、礦業）。",
-      "application": "企業 ERP、金融交易、製造管理、AI 分析。",
-      "currentSuppliers": "Dell, HPE, Lenovo",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST: 印尼本地 SI",
-      "difficulty": 5,
-      "challenges": "Astra 規模龐大，採購流程複雜。需要通過集團認證。",
-      "entryPoint": "Astra 正在推動數位轉型。可從通用伺服器切入，利用 ASUS 在印尼的品牌知名度。"
-    },
-    {
-      "rank": 81,
+      "rank": 47,
       "company": "NTT Docomo",
       "region": "日本",
       "volume": "約 8,000 - 15,000 台/年",
@@ -1218,100 +1957,24 @@
       "channel": "SI/DIST: NTT Group 內部採購",
       "difficulty": 7,
       "challenges": "NTT Docomo 與 NTT Group 整合後，採購可能集中化。與 Fujitsu/NEC 有深度合作。",
-      "entryPoint": "Docomo 正在擴展 5G MEC 邊緣運算。可從邊緣伺服器切入，提供小型化高效能方案。"
+      "entryPoint": "Docomo 正在擴展 5G MEC 邊緣運算。可從邊緣伺服器切入，提供小型化高效能方案。",
+      "keyPerson": {
+        "name": "Shuusaku Ijiri",
+        "title": "Senior Vice President, General Manager of Information Systems Department",
+        "linkedin": "https://jp.linkedin.com/in/syusaku-ijiri-860305118",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Fujitsu",
+          "website": "https://www.fujitsu.com/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.globaldata.com/company-profile/ntt-docomo-inc/premium-data/ict-spend-tech-priorities/"
     },
     {
-      "rank": 82,
-      "company": "Tata Motors (JLR)",
-      "region": "印度",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器、GPU 伺服器。印度汽車製造商（含 Jaguar Land Rover）。",
-      "application": "自動駕駛研發、CAD/CAE、生產管理、AI 品質檢測。",
-      "currentSuppliers": "Dell, HPE, Lenovo",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC8000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "Tata Motors 與 TCS 有密切合作，IT 採購可能透過 TCS 進行。",
-      "entryPoint": "JLR 正在大力投資電動車和自動駕駛。可從 AI 訓練伺服器切入。"
-    },
-    {
-      "rank": 83,
-      "company": "Canon Inc.",
-      "region": "日本",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。日本光學與影像巨頭。",
-      "application": "AI 影像處理、製造 MES、ERP、研發模擬。",
-      "currentSuppliers": "Dell, HPE, Fujitsu",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "Canon 與 Fujitsu 有長期合作。需要展示 ASUS 的差異化優勢。",
-      "entryPoint": "Canon 正在擴展 AI 影像分析業務。可從 GPU 伺服器切入。"
-    },
-    {
-      "rank": 84,
-      "company": "Meesho",
-      "region": "印度",
-      "volume": "約 3,000 - 5,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。印度社交電商平台。",
-      "application": "電商平台、AI 推薦、物流優化。",
-      "currentSuppliers": "Dell, HPE, AWS (部分雲端)",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST: 印度本地 SI",
-      "difficulty": 3,
-      "challenges": "快速成長的新創公司，對新供應商較為開放。但資金壓力大。",
-      "entryPoint": "Meesho 正在快速擴展。可從通用伺服器切入，提供有競爭力的價格和快速交付。"
-    },
-    {
-      "rank": 85,
-      "company": "Celltrion",
-      "region": "韓國",
-      "volume": "約 2,000 - 5,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。韓國生物製藥公司。",
-      "application": "藥物研發模擬、AI 藥物發現、生產管理、品質控制。",
-      "currentSuppliers": "Dell, HPE",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "製藥業對合規性要求高（GxP）。需要通過相關認證。",
-      "entryPoint": "Celltrion 正在導入 AI 藥物發現。可從 AI 伺服器切入。"
-    },
-    {
-      "rank": 86,
-      "company": "Zomato",
-      "region": "印度",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。印度最大的外賣平台。",
-      "application": "外賣平台、推薦引擎、物流優化、支付系統。",
-      "currentSuppliers": "Dell, HPE",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST: 印度本地 SI",
-      "difficulty": 4,
-      "challenges": "快速成長的科技公司，對新供應商較為開放。",
-      "entryPoint": "Zomato 正在擴展 AI 推薦和物流優化。可從通用伺服器切入。"
-    },
-    {
-      "rank": 87,
-      "company": "DeNA Co., Ltd.",
-      "region": "日本",
-      "volume": "約 3,000 - 5,000 台/年",
-      "platform": "Intel Xeon 通用伺服器、GPU 伺服器。日本遊戲與 AI 公司。",
-      "application": "手機遊戲、AI 研發、自動駕駛（與 Nissan 合作）。",
-      "currentSuppliers": "Dell, HPE, AWS (部分雲端)",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 4,
-      "challenges": "DeNA 正在從遊戲轉型為 AI 公司。對新技術供應商較為開放。",
-      "entryPoint": "DeNA 正在擴展 AI 業務。可從 GPU 伺服器切入。"
-    },
-    {
-      "rank": 88,
+      "rank": 48,
       "company": "Telstra (澳洲電信)",
       "region": "澳洲",
       "volume": "約 8,000 - 15,000 台/年",
@@ -1323,10 +1986,671 @@
       "channel": "SI/DIST: Telstra Enterprise",
       "difficulty": 6,
       "challenges": "澳洲市場由 Dell 和 HPE 主導。Telstra 與既有供應商有長期合約。",
-      "entryPoint": "Telstra 正在擴展 5G 和邊緣運算。可從邊緣伺服器切入。"
+      "entryPoint": "Telstra 正在擴展 5G 和邊緣運算。可從邊緣伺服器切入。",
+      "keyPerson": {
+        "name": "Kim Krogh Andersen",
+        "title": "Group Executive, Product & Technology",
+        "linkedin": "https://au.linkedin.com/in/kim-krogh-andersen-87105024",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Cisco",
+          "website": "https://www.cisco.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Equinix",
+          "website": "https://www.equinix.com/",
+          "type": "SI"
+        },
+        {
+          "name": "VMware",
+          "website": "https://www.vmware.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Dell",
+          "website": "https://www.dell.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Cognizant",
+          "website": "https://www.cognizant.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Belong",
+          "website": "https://www.belong.com.au/",
+          "type": "DIST"
+        },
+        {
+          "name": "Boost Mobile",
+          "website": "https://boost.com.au/",
+          "type": "DIST"
+        },
+        {
+          "name": "ALDI Mobile",
+          "website": "https://www.aldimobile.com.au/",
+          "type": "DIST"
+        },
+        {
+          "name": "Everyday Mobile",
+          "website": "https://mobile.everyday.com.au/",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.telstra.com.au/aboutus/investors/reports"
     },
     {
-      "rank": 89,
+      "rank": 49,
+      "company": "Maxis Berhad",
+      "region": "馬來西亞",
+      "volume": "約 5,000 - 10,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。馬來西亞第二大電信商。",
+      "application": "電信基礎設施、企業雲端、IoT 服務。",
+      "currentSuppliers": "Dell, HPE, Ericsson",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST: Maxis Business (https://www.maxis.com.my/business)",
+      "difficulty": 4,
+      "challenges": "馬來西亞市場規模較小，但 ASUS 品牌認知度高。",
+      "entryPoint": "Maxis 正在升級企業雲端服務。可從通用伺服器切入，提供有競爭力的價格。",
+      "keyPerson": {
+        "name": "Ravichandran Sithambaram",
+        "title": "Head of IT Infra and Cloud Planning & Ops",
+        "linkedin": "https://my.linkedin.com/in/ravichandran-sv-sithambaram-pillai-85b85510",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Kim Teck Cheong Consolidated Berhad",
+          "website": "https://kimteckcheong.com/",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://maxis.listedcompany.com/misc/ar2024.pdf"
+    },
+    {
+      "rank": 50,
+      "company": "Raxio Group",
+      "region": "新加坡/東南亞",
+      "volume": "約 5,000 - 10,000 台/年",
+      "platform": "Intel/AMD 通用伺服器。東南亞新興 DC 營運商。",
+      "application": "共置資料中心、託管服務、雲端連接。",
+      "currentSuppliers": "Dell, Supermicro",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720A-E12, 通用1U: RS500A-E12",
+      "channel": "直供",
+      "difficulty": 3,
+      "challenges": "新興 DC 營運商，對新品牌接受度高。規模較小但成長快速。",
+      "entryPoint": "Raxio 正在東南亞快速擴張，需要可靠且有競爭力的伺服器供應商。ASUS 可直供。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "Raxio Group (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSraxio-group"
+    },
+    {
+      "rank": 51,
+      "company": "Digital Edge",
+      "region": "新加坡/亞太",
+      "volume": "約 5,000 - 10,000 台/年",
+      "platform": "Intel/AMD 通用伺服器。亞太新興 DC 營運商。",
+      "application": "共置資料中心、邊緣運算、雲端連接。",
+      "currentSuppliers": "Dell, Supermicro",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720A-E12, 通用1U: RS500A-E12",
+      "channel": "直供",
+      "difficulty": 3,
+      "challenges": "新興 DC 營運商，對新品牌接受度高。",
+      "entryPoint": "Digital Edge 正在亞太快速擴張。ASUS 可提供有競爭力的通用伺服器方案直供。",
+      "keyPerson": {
+        "name": "Thiam Poh Goh",
+        "title": "Vice President, Infrastructure Operations",
+        "linkedin": "https://sg.linkedin.com/in/thiam-poh-goh-5535bb6",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "NTT DATA",
+          "website": "https://www.nttdata.com/global/en/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/apac-data-center-firm-digital-edge-raises-16-billion/"
+    },
+    {
+      "rank": 52,
+      "company": "Lotte Data Communication",
+      "region": "韓國",
+      "volume": "約 5,000 - 10,000 台/年",
+      "platform": "Intel/AMD 通用伺服器。樂天集團 IT 子公司。",
+      "application": "樂天集團 IT、電商平台、AI 推薦、智慧零售。",
+      "currentSuppliers": "Dell, HPE, Samsung",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000-E11, 通用1U: RS700-E11",
+      "channel": "SI: Lotte Data Communication 自身通路",
+      "difficulty": 5,
+      "challenges": "樂天集團有自己的 IT 採購體系。需要在 AI 零售領域展示差異化。",
+      "entryPoint": "樂天正在推動 AI 零售轉型。可從 AI 伺服器切入，搭配通用伺服器方案。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "Dell Technologies",
+          "website": "https://www.delltechnologies.com/ko-kr/index.htm",
+          "type": "SI"
+        },
+        {
+          "name": "Cisco",
+          "website": "https://www.cisco.com/c/ko_kr/index.html",
+          "type": "SI"
+        },
+        {
+          "name": "Oracle",
+          "website": "https://www.oracle.com/kr/",
+          "type": "SI"
+        },
+        {
+          "name": "Hewlett Packard Enterprise",
+          "website": "https://www.hpe.com/kr/ko/home.html",
+          "type": "SI"
+        },
+        {
+          "name": "Microsoft",
+          "website": "https://www.microsoft.com/ko-kr/",
+          "type": "SI"
+        },
+        {
+          "name": "Amazon Web Services",
+          "website": "https://aws.amazon.com/ko/",
+          "type": "SI"
+        },
+        {
+          "name": "Google Cloud",
+          "website": "https://cloud.google.com/",
+          "type": "SI"
+        },
+        {
+          "name": "ETEVERS",
+          "website": "https://www.etevers.com/",
+          "type": "SI"
+        },
+        {
+          "name": "KOLON BENIT",
+          "website": "https://www.kolonbenit.com/",
+          "type": "SI"
+        },
+        {
+          "name": "TDG",
+          "website": "http://www.tdg.co.kr/",
+          "type": "SI"
+        },
+        {
+          "name": "TmaxSoft",
+          "website": "https://www.tmaxsoft.com/",
+          "type": "SI"
+        },
+        {
+          "name": "AhnLab",
+          "website": "https://www.ahnlab.com/",
+          "type": "SI"
+        },
+        {
+          "name": "SAP",
+          "website": "https://www.sap.com/korea/index.html",
+          "type": "SI"
+        },
+        {
+          "name": "Hyosung Information Systems",
+          "website": "https://www.his21.co.kr/",
+          "type": "SI"
+        },
+        {
+          "name": "IBM",
+          "website": "https://www.ibm.com/kr-ko",
+          "type": "SI"
+        },
+        {
+          "name": "Metanet Tplatform",
+          "website": "https://www.metanet-tplatform.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Piolink",
+          "website": "https://www.piolink.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Fasoo",
+          "website": "https://www.fasoo.com/",
+          "type": "SI"
+        },
+        {
+          "name": "HIQSYSTEM",
+          "website": "http://www.hiqsystem.com/",
+          "type": "SI"
+        },
+        {
+          "name": "FIRICH",
+          "website": "http://www.firich.co.kr/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://ng.investing.com/equities/lotte-data-communication-company-income-statement"
+    },
+    {
+      "rank": 53,
+      "company": "Digi Telecommunications",
+      "region": "馬來西亞",
+      "volume": "約 5,000 - 10,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。馬來西亞電信商（與 Celcom 合併為 CelcomDigi）。",
+      "application": "電信基礎設施、企業雲端、IoT 服務。",
+      "currentSuppliers": "Dell, HPE, Ericsson",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST: CelcomDigi Enterprise (https://www.celcomdigi.com)",
+      "difficulty": 4,
+      "challenges": "馬來西亞市場規模較小。ASUS 品牌在馬來西亞有高認知度。",
+      "entryPoint": "CelcomDigi 正在整合基礎設施。可從通用伺服器切入，提供有競爭力的價格。",
+      "keyPerson": {
+        "name": "Bryan Cheong Kong Ming",
+        "title": "Head of Infra Management",
+        "linkedin": "https://my.linkedin.com/in/bryan-cheong-kong-ming-01557416a",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "TCS",
+          "website": "https://www.tcs.com/who-we-are/newsroom/press-release/tcs-partners-with-celcom-for-large-scale-digital-transformation",
+          "type": "SI"
+        },
+        {
+          "name": "TD SYNNEX",
+          "website": "https://www.digi.com/company/press-releases/2025/digi-celebrates-2024-global-channel-awards",
+          "type": "DIST"
+        },
+        {
+          "name": "Ingram Micro",
+          "website": "https://finance.yahoo.com/news/globe-teleservices-partners-celcomdigi-exclusive-081200528.html",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://celcomdigi.listedcompany.com/ar.html"
+    },
+    {
+      "rank": 54,
+      "company": "IIJ (Internet Initiative Japan)",
+      "region": "日本",
+      "volume": "約 5,000 - 10,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC 通用伺服器、GPU 伺服器。日本最大的獨立 ISP 與雲端服務商之一。",
+      "application": "IIJ GIO 雲端服務、企業託管、CDN、安全服務。",
+      "currentSuppliers": "Dell, HPE, Supermicro",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720A-E12, AI 4GPU: ESC4000A-E12, 通用1U: RS700-E11",
+      "channel": "直供 + SI/DIST",
+      "difficulty": 4,
+      "challenges": "IIJ 有自己的雲端基礎設施團隊，對供應商有嚴格的品質要求。需通過其內部認證流程。",
+      "entryPoint": "IIJ 正在擴展 AI/GPU 雲端服務。可從 GPU 伺服器切入，提供 ASUS ESC 系列的性價比優勢。ASUS 在日本有本地支援團隊。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "NTT DATA",
+          "website": "https://www.nttdata.com/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.iij.ad.jp/en/ir/library/financial/pdf/IIJ4Q24E.pdf"
+    },
+    {
+      "rank": 55,
+      "company": "GMO Internet Group",
+      "region": "日本",
+      "volume": "約 5,000 - 10,000 台/年",
+      "platform": "Intel Xeon 通用伺服器、GPU 伺服器。日本大型網路服務集團（網域、主機、雲端）。",
+      "application": "ConoHa 雲端、網頁託管、加密貨幣挖礦、AI 服務。",
+      "currentSuppliers": "Dell, Supermicro, HPE",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720A-E12, GPU: ESC4000A-E12",
+      "channel": "直供",
+      "difficulty": 4,
+      "challenges": "GMO 有多元業務線，採購決策分散。需要針對不同業務單位分別接觸。",
+      "entryPoint": "GMO 的 ConoHa 雲端服務正在擴展 GPU 實例。可提供 ASUS GPU 伺服器的成本優勢。",
+      "keyPerson": {
+        "name": "Tadashi Ito",
+        "title": "Executive Vice President, Head of Group Infrastructure Division",
+        "linkedin": "https://jp.linkedin.com/in/tadashi-ito-86680227",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "NTT DATA",
+          "website": "https://www.nttdata.com/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://internet.gmo/en/pdf/presen/gmointernet_fy2025_full-year_e_financial_report.pdf"
+    },
+    {
+      "rank": 56,
+      "company": "SCSK Corporation",
+      "region": "日本",
+      "volume": "約 5,000 - 10,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。住友商事旗下 IT 服務公司。",
+      "application": "企業 IT 服務、系統整合、雲端託管。",
+      "currentSuppliers": "Dell, HPE, Fujitsu, NEC",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST: SCSK 自身即為大型 SI",
+      "difficulty": 5,
+      "challenges": "SCSK 與 Fujitsu、NEC 有長期合作關係。日本企業偏好本土品牌。",
+      "entryPoint": "SCSK 正在擴展雲端託管業務。可透過價格優勢與 ASUS 日本團隊的本地支援切入。",
+      "keyPerson": {
+        "name": "Katsumi Yamanaka",
+        "title": "General Manager, Technology Service Dept. Architecture Solution Div. IT Infrastructure Services Business Group",
+        "linkedin": "https://jp.linkedin.com/in/katsumiyamanaka",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "IST-Software Co., Ltd.",
+          "website": "https://www.ist-software.co.jp/",
+          "type": "SI"
+        },
+        {
+          "name": "Daiwa Computer Co., Ltd.",
+          "website": "https://www.daiwa-computer.co.jp/en/",
+          "type": "SI"
+        },
+        {
+          "name": "System Research Co., Ltd.",
+          "website": "https://www.sr-net.co.jp/",
+          "type": "SI"
+        },
+        {
+          "name": "PSC Inc.",
+          "website": "https://www.psc-inc.co.jp/",
+          "type": "SI"
+        },
+        {
+          "name": "TOHO SYSTEM SCIENCE CO., LTD.",
+          "website": "https://www.tss.co.jp/",
+          "type": "SI"
+        },
+        {
+          "name": "Computer Institute of Japan, Ltd.",
+          "website": "https://en.cij.co.jp/en/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSscsk-corporation"
+    },
+    {
+      "rank": 57,
+      "company": "POSCO ICT (現 POSCO DX)",
+      "region": "韓國",
+      "volume": "約 5,000 - 10,000 台/年",
+      "platform": "Intel Xeon 通用伺服器、AI 伺服器。浦項鋼鐵集團 IT 子公司。",
+      "application": "智慧工廠、AI 品質檢測、ERP、MES 系統。",
+      "currentSuppliers": "Dell, HPE, Lenovo",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, AI 4GPU: ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "韓國大型集團偏好與既有供應商合作。需要通過 POSCO 集團的供應商認證。",
+      "entryPoint": "POSCO DX 正在推動智慧工廠 AI 化。可從 AI 推論伺服器切入，展示 ASUS 在製造業 AI 的解決方案。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "Exotec",
+          "website": "https://www.exotec.com/news/exotec-and-posco-dx-strike-a-partnership-to-bring-exotec-solutions-to-the-south-korean-market/",
+          "type": "SI"
+        },
+        {
+          "name": "AWS",
+          "website": "https://partners.amazonaws.com/partners/001E000000UfZzQIAV/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.poscodx.com/eng/ir/financialInformation.do"
+    },
+    {
+      "rank": 58,
+      "company": "Mahindra Group (Tech Mahindra 以外)",
+      "region": "印度",
+      "volume": "約 5,000 - 10,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。印度大型企業集團（汽車、IT、金融）。",
+      "application": "企業 ERP、製造 MES、金融交易系統。",
+      "currentSuppliers": "Dell, HPE, Lenovo",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST: 印度本地 SI",
+      "difficulty": 5,
+      "challenges": "印度大型集團採購流程複雜。需要通過集團層級的供應商認證。",
+      "entryPoint": "Mahindra 正在推動數位轉型。可從通用伺服器切入，利用 ASUS 的價格優勢。",
+      "keyPerson": {
+        "name": "Arun Singh",
+        "title": "Group Function Head - IT Infrastructure (Global)",
+        "linkedin": "https://in.linkedin.com/in/arun-singh-1bb88a26",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "NTT DATA",
+          "website": "https://www.nttdata.com/global/en/",
+          "type": "SI"
+        },
+        {
+          "name": "Kyndryl",
+          "website": "https://www.kyndryl.com/us/en",
+          "type": "SI"
+        },
+        {
+          "name": "TCS",
+          "website": "https://www.tcs.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Wipro",
+          "website": "https://www.wipro.com/",
+          "type": "SI"
+        },
+        {
+          "name": "AWS",
+          "website": "https://aws.amazon.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Red Hat",
+          "website": "https://www.redhat.com/en",
+          "type": "SI"
+        },
+        {
+          "name": "IBM",
+          "website": "https://www.ibm.com",
+          "type": "SI"
+        },
+        {
+          "name": "Verizon",
+          "website": "https://www.verizon.com/",
+          "type": "SI"
+        },
+        {
+          "name": "TD SYNNEX",
+          "website": "https://www.synnexcorp.com/",
+          "type": "DIST"
+        },
+        {
+          "name": "Ingram Micro",
+          "website": "https://www.ingrammicro.com/",
+          "type": "DIST"
+        },
+        {
+          "name": "SB C&S",
+          "website": "https://www.cas.softbank.jp/en/",
+          "type": "DIST"
+        },
+        {
+          "name": "Macnica",
+          "website": "https://www.macnica.co.jp/en/",
+          "type": "DIST"
+        },
+        {
+          "name": "Synnex Technology International",
+          "website": "https://www.synnex-grp.com/en/",
+          "type": "DIST"
+        },
+        {
+          "name": "IFS",
+          "website": "https://www.ifs.com/",
+          "type": "DIST"
+        },
+        {
+          "name": "Avnet",
+          "website": "https://www.avnet.com/wps/portal/us/",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://insights.techmahindra.com/investors/tml-integrated-annual-report-fy-2024-2025.pdf"
+    },
+    {
+      "rank": 59,
+      "company": "Zoho Corporation",
+      "region": "印度",
+      "volume": "約 5,000 - 10,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC 通用伺服器。印度 SaaS 巨頭，自建資料中心。",
+      "application": "Zoho SaaS 平台（CRM、辦公套件）、資料分析。",
+      "currentSuppliers": "Dell, Supermicro",
+      "odmOem": "OEM/ODM 混合",
+      "asusModel": "通用2U: RS720A-E12, 通用1U: RS700A-E12",
+      "channel": "直供",
+      "difficulty": 4,
+      "challenges": "Zoho 以自建基礎設施聞名，對成本控制極為嚴格。",
+      "entryPoint": "Zoho 正在全球擴展資料中心。可從通用伺服器切入，提供有競爭力的大量採購價格。",
+      "keyPerson": {
+        "name": "P Prabhu",
+        "title": "Director - Networks and Infrastructure",
+        "linkedin": "https://in.linkedin.com/in/p-prabhu-7675807",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Deloitte",
+          "website": "https://www2.deloitte.com/in/en.html",
+          "type": "SI"
+        },
+        {
+          "name": "SiS",
+          "website": "https://www.sis.com/",
+          "type": "DIST"
+        },
+        {
+          "name": "Ingram Micro",
+          "website": "https://www.ingrammicro.com/",
+          "type": "DIST"
+        },
+        {
+          "name": "Redington",
+          "website": "https://redingtongroup.com/",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.zoho.com/blog/general/uae-data-centres-abu-dhabi-dubai-launch.html"
+    },
+    {
+      "rank": 60,
+      "company": "Hanwha Group (韓華)",
+      "region": "韓國",
+      "volume": "約 5,000 - 10,000 台/年",
+      "platform": "Intel Xeon 通用伺服器、GPU 伺服器。韓國大型企業集團（國防、能源、金融）。",
+      "application": "國防系統、太陽能製造、金融交易、AI 研發。",
+      "currentSuppliers": "Dell, HPE, Lenovo",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 6,
+      "challenges": "韓華集團業務多元，採購決策分散。國防業務有安全限制。",
+      "entryPoint": "韓華正在擴展 AI 和太陽能業務。可從非國防部門的 AI 伺服器切入。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "Acoem",
+          "website": "https://www.acoem.com",
+          "type": "SI"
+        },
+        {
+          "name": "Allied Telesis",
+          "website": "https://www.alliedtelesis.com",
+          "type": "SI"
+        },
+        {
+          "name": "AMAG Technology",
+          "website": "https://www.amag.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://theguru.co.kr/news/article.html?no=94046"
+    },
+    {
+      "rank": 61,
+      "company": "Vingroup (VinAI / VinBigData)",
+      "region": "越南",
+      "volume": "約 5,000 - 10,000 台/年",
+      "platform": "Intel Xeon / NVIDIA GPU 伺服器。越南最大的民營企業集團。",
+      "application": "AI 研發（VinAI）、大數據（VinBigData）、智慧城市、電動車。",
+      "currentSuppliers": "Dell, HPE, Supermicro",
+      "odmOem": "OEM",
+      "asusModel": "AI 8GPU: ESC N8-E11, AI 4GPU: ESC4000A-E12, 通用2U: RS720A-E12",
+      "channel": "直供 + SI/DIST",
+      "difficulty": 5,
+      "challenges": "Vingroup 正在大力投資 AI 但供應鏈仍在建立中。越南市場相對新興。",
+      "entryPoint": "VinAI 是東南亞領先的 AI 研究機構。可從 GPU 伺服器切入，提供 ASUS 液冷方案。",
+      "keyPerson": {
+        "name": "Son Phan",
+        "title": "Head of System Engineering",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "FPT Automotive",
+          "website": "https://fpt.auto/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://blogs.nvidia.com/blog/ai-superpod-vinai/"
+    },
+    {
+      "rank": 62,
       "company": "Optus (Singtel 子公司)",
       "region": "澳洲",
       "volume": "約 5,000 - 10,000 台/年",
@@ -1338,40 +2662,79 @@
       "channel": "SI/DIST: 透過 Singtel 集團採購",
       "difficulty": 6,
       "challenges": "Optus 採購可能受 Singtel 集團全球合約影響。",
-      "entryPoint": "可透過 Singtel 集團關係切入。Optus 正在擴展 5G 服務。"
+      "entryPoint": "可透過 Singtel 集團關係切入。Optus 正在擴展 5G 服務。",
+      "keyPerson": {
+        "name": "Bill Chang",
+        "title": "Chief Executive Officer, Digital InfraCo",
+        "linkedin": "https://www.linkedin.com/in/bill-chang-5783b913",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Teligraph Technology Pte Ltd (www.teligraphtech.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "First Tel Pte Ltd (www.firsttel.com.sg)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Malifax Technologies (S) Pte Ltd (www.malifax.com.sg)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "MegaNet Pte Ltd (www.meganet.com.sg)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "ActiV Technology Pte Ltd (www.activ.com.sg)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Data Connect Technologies Pte Ltd",
+          "website": "http://d-connect.net/",
+          "type": "SI"
+        },
+        {
+          "name": "Hyper Communications Pte Ltd (www.hypercom.sg)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Microbit Technology Pte Ltd (www.microbit.com.sg/)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Vital Networks Pte Ltd (vitalnw.com.sg)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Adventus Asia",
+          "website": "http://www.adventusasia.com",
+          "type": "SI"
+        },
+        {
+          "name": "Ingram Micro (ingrammicro.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "SB C&S (softbank.jp)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.singtel.com/about-us/investor-relations/financial-summary"
     },
     {
-      "rank": 90,
-      "company": "Atlassian",
-      "region": "澳洲",
-      "volume": "約 3,000 - 8,000 台/年",
-      "platform": "Intel Xeon / AMD EPYC 通用伺服器。全球知名的軟體公司（Jira, Confluence）。",
-      "application": "SaaS 平台、AI 功能（Atlassian Intelligence）、資料分析。",
-      "currentSuppliers": "Dell, AWS (主要雲端), Supermicro",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720A-E12, GPU: ESC4000A-E12",
-      "channel": "直供",
-      "difficulty": 5,
-      "challenges": "Atlassian 主要使用雲端但仍有部分自建基礎設施。正在擴展 AI 功能。",
-      "entryPoint": "Atlassian Intelligence AI 功能需要 GPU 伺服器。可從 AI 推論伺服器切入。"
-    },
-    {
-      "rank": 91,
-      "company": "Canva",
-      "region": "澳洲",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon / NVIDIA GPU 伺服器。全球知名的設計平台。",
-      "application": "AI 設計工具、圖像生成、SaaS 平台。",
-      "currentSuppliers": "Dell, AWS (主要雲端)",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "直供",
-      "difficulty": 4,
-      "challenges": "Canva 主要使用雲端但 AI 功能需要本地 GPU 資源。",
-      "entryPoint": "Canva 正在大力投資 AI 設計功能。可從 GPU 伺服器切入。"
-    },
-    {
-      "rank": 92,
+      "rank": 63,
       "company": "VNPT (Vietnam Posts and Telecommunications)",
       "region": "越南",
       "volume": "約 5,000 - 10,000 台/年",
@@ -1383,10 +2746,54 @@
       "channel": "SI/DIST: 越南本地 SI",
       "difficulty": 5,
       "challenges": "越南市場 Huawei 有較強影響力。需要提供差異化方案。",
-      "entryPoint": "VNPT 正在擴展雲端和智慧城市服務。可從通用伺服器切入。"
+      "entryPoint": "VNPT 正在擴展雲端和智慧城市服務。可從通用伺服器切入。",
+      "keyPerson": {
+        "name": "Huynh Quang Liem",
+        "title": "President & CEO",
+        "linkedin": "https://www.linkedin.com/in/huynh-quang-liem-a83233248/",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Qualcomm",
+          "website": "https://www.qualcomm.com",
+          "type": "SI"
+        },
+        {
+          "name": "Broadcom",
+          "website": "https://www.broadcom.com",
+          "type": "SI"
+        },
+        {
+          "name": "Mediatek",
+          "website": "https://www.mediatek.com",
+          "type": "SI"
+        },
+        {
+          "name": "Intel",
+          "website": "https://www.intel.com",
+          "type": "SI"
+        },
+        {
+          "name": "Microsoft",
+          "website": "https://www.microsoft.com",
+          "type": "SI"
+        },
+        {
+          "name": "Nokia",
+          "website": "https://www.nokia.com",
+          "type": "SI"
+        },
+        {
+          "name": "Ericsson",
+          "website": "https://www.ericsson.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://capacityglobal.com/news/vnpt-opens-vietnams-largest-data-centre/"
     },
     {
-      "rank": 93,
+      "rank": 64,
       "company": "Larsen & Toubro (L&T) Infotech",
       "region": "印度",
       "volume": "約 5,000 - 8,000 台/年",
@@ -1398,85 +2805,89 @@
       "channel": "SI/DIST: L&T 自身為大型 SI",
       "difficulty": 5,
       "challenges": "L&T Infotech 與全球 OEM 有既有合約。需要從特定專案切入。",
-      "entryPoint": "L&T 正在擴展 AI 和雲端服務。可從通用伺服器切入，提供價格優勢。"
+      "entryPoint": "L&T 正在擴展 AI 和雲端服務。可從通用伺服器切入，提供價格優勢。",
+      "keyPerson": {
+        "name": "Waseem Khan",
+        "title": "Head - IT Infrastructure",
+        "linkedin": "https://in.linkedin.com/in/waseem-khan-6567b910",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "SAP",
+          "website": "https://www.sap.com/",
+          "type": "SI"
+        },
+        {
+          "name": "IBM",
+          "website": "https://www.ibm.com/",
+          "type": "SI"
+        },
+        {
+          "name": "ServiceNow",
+          "website": "https://www.servicenow.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Databricks",
+          "website": "https://www.databricks.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Boomi",
+          "website": "https://boomi.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Tricentis",
+          "website": "https://www.tricentis.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Dell Technologies",
+          "website": "https://www.delltechnologies.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Duck Creek",
+          "website": "https://www.duckcreek.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Cisco",
+          "website": "https://www.cisco.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Hewlett Packard Enterprise",
+          "website": "https://www.hpe.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Informatica",
+          "website": "https://www.informatica.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Oracle",
+          "website": "https://www.oracle.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Pega",
+          "website": "https://www.pega.com/",
+          "type": "SI"
+        },
+        {
+          "name": "NVIDIA",
+          "website": "https://www.nvidia.com/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://investors.larsentoubro.com/upload/AnnualRep/FY2024AnnualRepLnT%20IAR24.pdf"
     },
     {
-      "rank": 94,
-      "company": "Sharp Corporation",
-      "region": "日本",
-      "volume": "約 2,000 - 5,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。日本電子製造商（鴻海子公司）。",
-      "application": "製造 MES、AI 品質檢測、IoT、顯示器研發。",
-      "currentSuppliers": "Dell, HPE, Foxconn (母公司)",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST",
-      "difficulty": 6,
-      "challenges": "Sharp 為鴻海子公司，IT 採購可能受母公司影響。",
-      "entryPoint": "Sharp 正在推動 AI 和 IoT 化。可從通用伺服器切入。ASUS 與鴻海有合作基礎。"
-    },
-    {
-      "rank": 95,
-      "company": "Byju's (Think & Learn)",
-      "region": "印度",
-      "volume": "約 2,000 - 5,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。印度最大的教育科技公司。",
-      "application": "線上教育平台、AI 個人化學習、影片串流。",
-      "currentSuppliers": "Dell, HPE, AWS (部分雲端)",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST: 印度本地 SI",
-      "difficulty": 3,
-      "challenges": "Byju's 近期面臨財務困難。需要評估信用風險。",
-      "entryPoint": "若 Byju's 恢復穩定，其 AI 教育平台需要伺服器。可提供有競爭力的價格。"
-    },
-    {
-      "rank": 96,
-      "company": "Suzuki Motor Corporation",
-      "region": "日本",
-      "volume": "約 3,000 - 5,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。日本汽車製造商（印度市場領導者）。",
-      "application": "生產管理、CAD/CAE、車聯網、ERP。",
-      "currentSuppliers": "Dell, HPE, Fujitsu",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "Suzuki 與 Fujitsu 有長期合作。日本汽車業偏好穩定供應鏈。",
-      "entryPoint": "Suzuki 在印度市場（Maruti Suzuki）有大量 IT 需求。可從印度業務切入。"
-    },
-    {
-      "rank": 97,
-      "company": "BHP Group (亞太業務)",
-      "region": "澳洲",
-      "volume": "約 3,000 - 6,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。全球最大的礦業公司之一。",
-      "application": "礦業管理、AI 預測維護、自動駕駛礦車、環境監測。",
-      "currentSuppliers": "Dell, HPE",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "channel": "SI/DIST",
-      "difficulty": 6,
-      "challenges": "BHP 有全球採購合約。澳洲本地採購可能受限。",
-      "entryPoint": "BHP 正在推動自動化礦山。可從 AI 和邊緣伺服器切入。"
-    },
-    {
-      "rank": 98,
-      "company": "Woolworths Group",
-      "region": "澳洲",
-      "volume": "約 3,000 - 5,000 台/年",
-      "platform": "Intel Xeon 通用伺服器。澳洲最大的零售商。",
-      "application": "零售管理、供應鏈優化、AI 需求預測、電商平台。",
-      "currentSuppliers": "Dell, HPE",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST",
-      "difficulty": 5,
-      "challenges": "澳洲零售業 IT 預算相對保守。需要展示 TCO 優勢。",
-      "entryPoint": "Woolworths 正在推動 AI 和數位轉型。可從通用伺服器切入。"
-    },
-    {
-      "rank": 99,
+      "rank": 65,
       "company": "Gojek (GoTo Group)",
       "region": "印尼",
       "volume": "約 5,000 - 10,000 台/年",
@@ -1488,10 +2899,1362 @@
       "channel": "SI/DIST: 印尼本地 SI",
       "difficulty": 4,
       "challenges": "GoTo Group（Gojek + Tokopedia 合併）正在整合基礎設施。",
-      "entryPoint": "GoTo Group 正在優化成本。可從通用伺服器切入，提供價格優勢。"
+      "entryPoint": "GoTo Group 正在優化成本。可從通用伺服器切入，提供價格優勢。",
+      "keyPerson": {
+        "name": "Ananto Widhi Nugroho",
+        "title": "Global Head IT",
+        "linkedin": "https://id.linkedin.com/in/ananto-widhi-nugroho-59b23359",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "印尼本地 SI",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.gotocompany.com/en/news/press/goto-group-tencent-cloud-and-alibaba-cloud-sign-agreement-to-boost-cloud-infrastructure-and-nurture-local-digital-talent-in-indonesia"
     },
     {
-      "rank": 100,
+      "rank": 66,
+      "company": "Cyxtera Technologies (亞太業務)",
+      "region": "新加坡",
+      "volume": "約 3,000 - 8,000 台/年",
+      "platform": "Intel/AMD 通用伺服器。全球 DC 營運商的亞太業務。",
+      "application": "共置資料中心、託管服務。",
+      "currentSuppliers": "Dell, Supermicro",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "直供",
+      "difficulty": 4,
+      "challenges": "全球化 DC 營運商，採購決策可能在總部。需要與亞太區域團隊建立關係。",
+      "entryPoint": "Cyxtera 亞太業務正在擴張。可從通用伺服器切入，提供在地支援優勢。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "Cyxtera Technologies (亞太業務) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/brookfields-centersquare-acquires-10-data-centers-in-north-america-in-1bn-deal/"
+    },
+    {
+      "rank": 67,
+      "company": "Subaru Corporation",
+      "region": "日本",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。日本汽車製造商。",
+      "application": "自動駕駛 EyeSight 系統開發、CAD/CAE、生產管理。",
+      "currentSuppliers": "Dell, HPE, Fujitsu",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, GPU 工作站: ESC8000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "日本汽車業偏好穩定的供應鏈。需要通過汽車業的嚴格認證。",
+      "entryPoint": "Subaru 正在加大 EyeSight 自動駕駛的 AI 投資。可從 AI 訓練伺服器切入。",
+      "keyPerson": {
+        "name": "辻 裕里 (Yuri Tsuji)",
+        "title": "執行役員 CIO IT戦略本部長 (Executive Officer, CIO, Head of IT Strategy Division)",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "FPT Software",
+          "website": "https://fptsoftware.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Subaru Distributors Corp.",
+          "website": "https://www.subaru.com/",
+          "type": "DIST"
+        },
+        {
+          "name": "Subaru of New England",
+          "website": "https://www.subaruofnewengland.com/",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.subaru.co.jp/en/ir/finance/performance.html"
+    },
+    {
+      "rank": 68,
+      "company": "Bandai Namco Holdings",
+      "region": "日本",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC 通用伺服器、GPU 伺服器。日本遊戲與娛樂巨頭。",
+      "application": "遊戲伺服器、AI 角色生成、串流媒體、線上服務。",
+      "currentSuppliers": "Dell, HPE, AWS (部分雲端)",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720A-E12, GPU: ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 4,
+      "challenges": "遊戲業對延遲和穩定性要求極高。需要證明 ASUS 伺服器的可靠性。",
+      "entryPoint": "Bandai Namco 正在擴展線上遊戲服務。可從遊戲伺服器切入，展示 ASUS 在遊戲產業的品牌優勢。",
+      "keyPerson": {
+        "name": "Junko Fujita",
+        "title": "Chief Information Officer (CIO) and Chief Information Security Officer (CISO)",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Fujitsu",
+          "website": "https://www.fujitsu.com/global/",
+          "type": "SI"
+        },
+        {
+          "name": "Sony",
+          "website": "https://www.sony.com/en/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.bandainamco.co.jp/en/ir/library/integratedreports.html"
+    },
+    {
+      "rank": 69,
+      "company": "Murata Manufacturing",
+      "region": "日本",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。全球最大的電子元件製造商之一。",
+      "application": "製造 MES、AI 品質檢測、ERP、研發模擬。",
+      "currentSuppliers": "Dell, HPE, Fujitsu",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, AI 推論: ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "日本製造業對品質要求極高。需要通過嚴格的供應商認證。",
+      "entryPoint": "Murata 正在導入 AI 品質檢測。可從 AI 推論伺服器切入。",
+      "keyPerson": {
+        "name": "Fumiyuki Suchi",
+        "title": "Senior Vice President of Corporate Management DX Unit for Corporate Management Group",
+        "linkedin": "https://jp.linkedin.com/in/fumiyuki-suchi-66b0b89",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "SCSK",
+          "website": "https://www.scsk.jp/",
+          "type": "SI"
+        },
+        {
+          "name": "RS Components",
+          "website": "https://jp.rs-online.com/web/",
+          "type": "DIST"
+        },
+        {
+          "name": "Akizuki Denshi Tsusho",
+          "website": "https://akizukidenshi.com/catalog/default.aspx",
+          "type": "DIST"
+        },
+        {
+          "name": "Mouser Electronics",
+          "website": "https://www.mouser.com/",
+          "type": "DIST"
+        },
+        {
+          "name": "Okamoto Musen Denki",
+          "website": "https://www.okamotonet.co.jp/",
+          "type": "DIST"
+        },
+        {
+          "name": "Kyoei Denshi",
+          "website": "https://www.kyoeidenshi.co.jp/",
+          "type": "DIST"
+        },
+        {
+          "name": "Kyowa Denki",
+          "website": "http://www.kyowa-denki.co.jp/",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://corporate.murata.com/ir/library/results"
+    },
+    {
+      "rank": 70,
+      "company": "Daewoo E&C (現 DL E&C)",
+      "region": "韓國",
+      "volume": "約 3,000 - 5,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。韓國大型建設公司。",
+      "application": "BIM 建模、工程模擬、ERP、智慧建築管理。",
+      "currentSuppliers": "Dell, HPE, Lenovo",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, GPU 工作站: ESC8000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "韓國建設業 IT 預算相對保守。需要展示 TCO 優勢。",
+      "entryPoint": "DL E&C 正在推動智慧建築。可從 BIM/工程模擬伺服器切入。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSdaewoo-e&c"
+    },
+    {
+      "rank": 71,
+      "company": "Ola Electric / Ola Cabs",
+      "region": "印度",
+      "volume": "約 3,000 - 8,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC 通用伺服器、GPU 伺服器。印度出行與電動車公司。",
+      "application": "叫車平台、自動駕駛研發、電動車管理系統。",
+      "currentSuppliers": "Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720A-E12, GPU: ESC4000A-E12",
+      "channel": "SI/DIST: 印度本地 SI",
+      "difficulty": 4,
+      "challenges": "Ola 正在快速擴張但資金壓力大。對價格敏感。",
+      "entryPoint": "Ola 正在建立自動駕駛和 AI 能力。可從 GPU 伺服器切入，提供有競爭力的價格。",
+      "keyPerson": {
+        "name": "Suvonil Chatterjee",
+        "title": "Chief Technology and Product Officer",
+        "linkedin": "https://in.linkedin.com/in/suvonil",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "印度本地 SI",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://vahan.parivahan.gov.in/vahan4dashboard/"
+    },
+    {
+      "rank": 72,
+      "company": "Dentsu Group",
+      "region": "日本",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器、GPU 伺服器。全球最大的廣告集團之一。",
+      "application": "廣告投放平台、AI 內容生成、數據分析。",
+      "currentSuppliers": "Dell, HPE, AWS (部分雲端)",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 4,
+      "challenges": "廣告業正在快速擁抱 AI。需要展示 ASUS 在 AI 推論方面的能力。",
+      "entryPoint": "Dentsu 正在大力投資 AI 廣告技術。可從 AI 推論伺服器切入。",
+      "keyPerson": {
+        "name": "Alex Bedier",
+        "title": "Global Chief Information Officer",
+        "linkedin": "https://fr.linkedin.com/in/alexbedier",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "DENTSU SOKEN INC.",
+          "website": "https://www.dentsusoken.com/english",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.group.dentsu.com/en/sustainability/common/pdf/integrated-report2025.pdf"
+    },
+    {
+      "rank": 73,
+      "company": "Razorpay",
+      "region": "印度",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。印度最大的支付閘道之一。",
+      "application": "支付處理、風控系統、商家服務平台。",
+      "currentSuppliers": "Dell, HPE, AWS (部分雲端)",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST: 印度本地 SI",
+      "difficulty": 4,
+      "challenges": "金融科技對安全性和合規性要求高。需要通過 PCI-DSS 等認證。",
+      "entryPoint": "Razorpay 正在快速擴張。可從通用伺服器切入，利用 ASUS 的價格優勢。",
+      "keyPerson": {
+        "name": "Pavan Kumar Nalakonda",
+        "title": "Senior Manager – Head of IT",
+        "linkedin": "https://in.linkedin.com/in/pnalakonda",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Marmeto",
+          "website": "https://marmeto.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Binary Web Solutions",
+          "website": "https://www.binarywebs.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Tansh Jewel",
+          "website": "https://www.tanshjewel.com/",
+          "type": "SI"
+        },
+        {
+          "name": "DeoDap",
+          "website": "https://www.deodap.in/",
+          "type": "SI"
+        },
+        {
+          "name": "TNIT Solutions",
+          "website": "https://www.tnitsolutions.in/",
+          "type": "SI"
+        },
+        {
+          "name": "Commerce Revolution and Future Technologies",
+          "website": "https://craft.co/commerce-revolution-and-future-technologies",
+          "type": "SI"
+        },
+        {
+          "name": "iSolution Microsystems",
+          "website": "https://www.shopaccino.com/",
+          "type": "SI"
+        },
+        {
+          "name": "DigiVation Digital Solutions",
+          "website": "https://www.digivation.co.in/",
+          "type": "SI"
+        },
+        {
+          "name": "Nayana Group",
+          "website": "https://www.nayanamedia.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Mangoleap",
+          "website": "https://mangoleap.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Website Learners",
+          "website": "https://www.websitelearners.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Jio Haptik",
+          "website": "https://haptik.ai/",
+          "type": "SI"
+        },
+        {
+          "name": "AiSensy",
+          "website": "https://aisensy.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Pabbly Connect",
+          "website": "https://www.pabbly.com/connect/",
+          "type": "SI"
+        },
+        {
+          "name": "GreenHonchos",
+          "website": "https://www.greenhonchos.com/",
+          "type": "SI"
+        },
+        {
+          "name": "WhatsTool Business",
+          "website": "https://whatstool.business/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://m.economictimes.com/tech/startups/fintech-razorpay-eyes-global-brands-for-high-margin-biz-in-run-up-to-ipo/articleshow/129514073.cms"
+    },
+    {
+      "rank": 74,
+      "company": "Kakao Bank",
+      "region": "韓國",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。韓國最大的純網銀。",
+      "application": "銀行核心系統、風控、AI 客服。",
+      "currentSuppliers": "Dell, HPE, Samsung",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "韓國金融業對穩定性要求極高。需要通過金融監管認證。",
+      "entryPoint": "Kakao Bank 正在擴展 AI 服務。可從非核心系統的通用伺服器切入。",
+      "keyPerson": {
+        "name": "Shin Jae-hong",
+        "title": "Chief Technology Officer",
+        "linkedin": "https://kr.linkedin.com/in/jaehong-shin-132377359",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "LG CNS",
+          "website": "https://www.lgcns.com",
+          "type": "SI"
+        },
+        {
+          "name": "Hyosung ITX",
+          "website": "https://www.hyosungitx.com/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/koreas-kakao-bank-plans-fifth-data-center/"
+    },
+    {
+      "rank": 75,
+      "company": "Toss (Viva Republica)",
+      "region": "韓國",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC 通用伺服器。韓國金融科技超級 App。",
+      "application": "支付、銀行、證券、保險平台。",
+      "currentSuppliers": "Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720A-E12, 通用1U: RS700A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 4,
+      "challenges": "快速成長的金融科技公司，對新供應商較為開放。",
+      "entryPoint": "Toss 正在快速擴展基礎設施。可從通用伺服器切入，提供快速交付和價格優勢。",
+      "keyPerson": {
+        "name": "Junmo Kim",
+        "title": "Engineering Director",
+        "linkedin": "https://kr.linkedin.com/in/junmo-kim",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://toss.im/career/article/server-platform-developer?srsltid=AfmBOoomFH4AheTk4P20ePY1xhUW4bIhMrNtMqvjsUlPeeZ1EtQOA4ss"
+    },
+    {
+      "rank": 76,
+      "company": "Bukalapak",
+      "region": "印尼",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。印尼大型電商平台。",
+      "application": "電商平台、支付系統、物流管理。",
+      "currentSuppliers": "Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST: 印尼本地 SI",
+      "difficulty": 4,
+      "challenges": "印尼市場價格敏感。需要提供有競爭力的價格。",
+      "entryPoint": "Bukalapak 正在擴展基礎設施。可從通用伺服器切入。",
+      "keyPerson": {
+        "name": "Addhe Warman",
+        "title": "Associate Vice President of IT Infrastructure",
+        "linkedin": "https://id.linkedin.com/in/addhewarman",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Microsoft",
+          "website": "https://news.microsoft.com/apac/2020/11/03/bukalapak-establishes-strategic-partnership-with-microsoft-to-enhance-indonesian-e-commerce/",
+          "type": "SI"
+        },
+        {
+          "name": "Standard Chartered",
+          "website": "https://www.theasianbanker.com/press-releases/standard-chartered-partners-bukalapak-to-boost-financial-inclusion-in-indonesi",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.datacenterdynamics.com/en/broadcasts/jakarta/2019/the-story-behind-bukalapaks-data-center-and-network/"
+    },
+    {
+      "rank": 77,
+      "company": "Preferred Networks",
+      "region": "日本",
+      "volume": "約 3,000 - 8,000 台/年",
+      "platform": "NVIDIA GPU 伺服器、自研 MN-Core 加速器。日本最大的 AI 研究公司。",
+      "application": "深度學習研究、自動駕駛、藥物發現、材料科學。",
+      "currentSuppliers": "Supermicro, 自行組裝",
+      "odmOem": "ODM/自行組裝",
+      "asusModel": "AI 8GPU: ESC N8-E11, AI 4GPU: ESC4000A-E12, AI POD: 液冷機櫃方案",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "PFN 技術能力極強，對硬體有高度客製化需求。需要提供靈活的客製化服務。",
+      "entryPoint": "PFN 正在擴展超級電腦規模。可從 ASUS 液冷 GPU 伺服器切入，展示液冷技術優勢。",
+      "keyPerson": {
+        "name": "Yusuke Doi",
+        "title": "VP of Computing Infrastructure",
+        "linkedin": "https://jp.linkedin.com/in/yusukedoi",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Preferred Networks (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://projects.preferred.jp/supercomputers/en/"
+    },
+    {
+      "rank": 78,
+      "company": "Ricoh Company",
+      "region": "日本",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。日本辦公設備與 IT 服務公司。",
+      "application": "IT 服務、雲端列印、文件管理、AI 文件處理。",
+      "currentSuppliers": "Dell, HPE, Fujitsu",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "Ricoh 正在從硬體公司轉型為 IT 服務公司。採購策略可能在調整中。",
+      "entryPoint": "Ricoh 正在擴展雲端服務。可從通用伺服器切入。",
+      "keyPerson": {
+        "name": "野水 康之",
+        "title": "上席執行役員CTO",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "株式会社イグアス",
+          "website": "http://www.i-guazu.co.jp/",
+          "type": "SI"
+        },
+        {
+          "name": "トッパン・フォームズ株式会社",
+          "website": "http://www.o-tascarry.com",
+          "type": "SI"
+        },
+        {
+          "name": "小林クリエイト株式会社",
+          "website": "http://k-cr.jp/",
+          "type": "SI"
+        },
+        {
+          "name": "株式会社ビジネス・リンクス",
+          "website": "http://www.bll.co.jp/",
+          "type": "SI"
+        },
+        {
+          "name": "永光産業株式会社",
+          "website": "http://www.eikoh-sangyo.co.jp/",
+          "type": "SI"
+        },
+        {
+          "name": "株式会社イセトー",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "日本電算機用品株式会社",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "株式会社JALUX",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "兼松エレクトロニクス株式会社",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "株式会社キング・テック",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "株式会社イグアス",
+          "website": "http://www.i-guazu.co.jp/",
+          "type": "DIST"
+        },
+        {
+          "name": "トッパン・フォームズ株式会社",
+          "website": "http://www.o-tascarry.com",
+          "type": "DIST"
+        },
+        {
+          "name": "小林クリエイト株式会社",
+          "website": "http://k-cr.jp/",
+          "type": "DIST"
+        },
+        {
+          "name": "株式会社ビジネス・リンクス",
+          "website": "http://www.bll.co.jp/",
+          "type": "DIST"
+        },
+        {
+          "name": "永光産業株式会社",
+          "website": "http://www.eikoh-sangyo.co.jp/",
+          "type": "DIST"
+        },
+        {
+          "name": "株式会社イセトー",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "日本電算機用品株式会社",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "株式会社JALUX",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "兼松エレクトロニクス株式会社",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "株式会社キング・テック",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.ricoh.com/IR/library/financial-results"
+    },
+    {
+      "rank": 79,
+      "company": "Paytm (One97 Communications)",
+      "region": "印度",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。印度最大的數位支付平台之一。",
+      "application": "支付處理、商家服務、金融服務平台。",
+      "currentSuppliers": "Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST: 印度本地 SI",
+      "difficulty": 4,
+      "challenges": "Paytm 近期面臨監管壓力，IT 投資可能放緩。",
+      "entryPoint": "Paytm 仍需維護龐大的支付基礎設施。可從通用伺服器更新換代切入。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "印度本地 SI",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSpaytm"
+    },
+    {
+      "rank": 80,
+      "company": "NHN Corporation",
+      "region": "韓國",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。韓國遊戲與雲端服務公司（NHN Cloud）。",
+      "application": "NHN Cloud、遊戲伺服器、支付系統。",
+      "currentSuppliers": "Dell, HPE, Supermicro",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
+      "channel": "直供 + SI/DIST",
+      "difficulty": 4,
+      "challenges": "NHN Cloud 規模較小但成長中。對新供應商較為開放。",
+      "entryPoint": "NHN Cloud 正在擴展雲端服務。可從通用伺服器和 GPU 伺服器切入。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "Saeol Information Technology",
+          "website": "https://www.saeoll.com/",
+          "type": "SI"
+        },
+        {
+          "name": "To Be Tech",
+          "website": "http://www.tobetech.kr/",
+          "type": "SI"
+        },
+        {
+          "name": "CNT Infotech",
+          "website": "https://www.cntit.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Samteo Information Technology",
+          "website": "https://www.regard.co.kr/",
+          "type": "SI"
+        },
+        {
+          "name": "SME Technologies",
+          "website": "https://www.smetechs.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Woosung Information Technology",
+          "website": "http://www.wsint.net/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://englishdart.fss.or.kr/dsbh001/main.do?rcpNo=20250213801505"
+    },
+    {
+      "rank": 81,
+      "company": "Vedanta Limited (IT 部門)",
+      "region": "印度",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。印度大型礦業與資源公司。",
+      "application": "礦業管理、ERP、AI 預測維護、環境監測。",
+      "currentSuppliers": "Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST: 印度本地 SI",
+      "difficulty": 4,
+      "challenges": "礦業公司 IT 預算相對保守。需要展示 TCO 優勢。",
+      "entryPoint": "Vedanta 正在推動數位礦山。可從通用伺服器切入。",
+      "keyPerson": {
+        "name": "Garima Singh",
+        "title": "Head - IT",
+        "linkedin": "https://in.linkedin.com/in/garima-singh-64443774",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "STL Digital",
+          "website": "https://www.stldigital.tech/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.business-standard.com/companies/start-ups/vedanta-invenia-growth-data-centre-system-integration-125090401369_1.html"
+    },
+    {
+      "rank": 82,
+      "company": "Daikin Industries",
+      "region": "日本",
+      "volume": "約 3,000 - 5,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。全球最大的空調製造商。",
+      "application": "IoT 設備管理、AI 預測維護、ERP、智慧工廠。",
+      "currentSuppliers": "Dell, HPE, Fujitsu",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "Daikin 與 Fujitsu 有長期合作。日本製造業偏好本土品牌。",
+      "entryPoint": "Daikin 正在推動 IoT 和 AI 化。可從 IoT 邊緣伺服器切入。ASUS 在日本有品牌優勢。",
+      "keyPerson": {
+        "name": "Tomohiro Mizuguchi",
+        "title": "Executive Officer, In charge of IT Development, General affairs, General Manager of General Affairs Department",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Universal Supply Group",
+          "website": "https://www.universalsupply.com/",
+          "type": "DIST"
+        },
+        {
+          "name": "ABCO HVACR Supply + Solutions",
+          "website": "https://www.abcohvacr.com/",
+          "type": "DIST"
+        },
+        {
+          "name": "Robinson Supply Co.",
+          "website": "https://www.robinsonsupply.com/",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.daikin.com/investor/library/annual"
+    },
+    {
+      "rank": 83,
+      "company": "Astra International",
+      "region": "印尼",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。印尼最大的企業集團之一（汽車、金融、礦業）。",
+      "application": "企業 ERP、金融交易、製造管理、AI 分析。",
+      "currentSuppliers": "Dell, HPE, Lenovo",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST: 印尼本地 SI",
+      "difficulty": 5,
+      "challenges": "Astra 規模龐大，採購流程複雜。需要通過集團認證。",
+      "entryPoint": "Astra 正在推動數位轉型。可從通用伺服器切入，利用 ASUS 在印尼的品牌知名度。",
+      "keyPerson": {
+        "name": "Andy Yulianto",
+        "title": "Head Of Information Technology Department",
+        "linkedin": "https://id.linkedin.com/in/andyyulianto",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Astra Graphia Information Technology",
+          "website": "https://www.ag-it.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Google Cloud",
+          "website": "https://cloud.google.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Hewlett Packard Enterprise",
+          "website": "https://www.hpe.com/",
+          "type": "SI"
+        },
+        {
+          "name": "HP",
+          "website": "https://www.hp.com/",
+          "type": "SI"
+        },
+        {
+          "name": "IBM",
+          "website": "https://www.ibm.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Microsoft",
+          "website": "https://www.microsoft.com/",
+          "type": "SI"
+        },
+        {
+          "name": "SAP",
+          "website": "https://www.sap.com/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://eproc.astra.co.id/"
+    },
+    {
+      "rank": 84,
+      "company": "Tata Motors (JLR)",
+      "region": "印度",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器、GPU 伺服器。印度汽車製造商（含 Jaguar Land Rover）。",
+      "application": "自動駕駛研發、CAD/CAE、生產管理、AI 品質檢測。",
+      "currentSuppliers": "Dell, HPE, Lenovo",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, GPU: ESC8000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "Tata Motors 與 TCS 有密切合作，IT 採購可能透過 TCS 進行。",
+      "entryPoint": "JLR 正在大力投資電動車和自動駕駛。可從 AI 訓練伺服器切入。",
+      "keyPerson": {
+        "name": "Ashwinkuumar Gaikwad",
+        "title": "Head of IT Infrastructure & Service Operations",
+        "linkedin": "https://in.linkedin.com/in/ashwinkuumar-gaikwad-4025b713",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "PTC",
+          "website": "https://www.ptc.com",
+          "type": "SI"
+        },
+        {
+          "name": "Dassault Systèmes",
+          "website": "https://www.3ds.com",
+          "type": "SI"
+        },
+        {
+          "name": "SAP",
+          "website": "https://www.sap.com",
+          "type": "SI"
+        },
+        {
+          "name": "Siemens",
+          "website": "https://www.siemens.com",
+          "type": "SI"
+        },
+        {
+          "name": "Tata Consultancy Services",
+          "website": "https://www.tcs.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://cv.tatamotors.com/volumes"
+    },
+    {
+      "rank": 85,
+      "company": "Canon Inc.",
+      "region": "日本",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。日本光學與影像巨頭。",
+      "application": "AI 影像處理、製造 MES、ERP、研發模擬。",
+      "currentSuppliers": "Dell, HPE, Fujitsu",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "Canon 與 Fujitsu 有長期合作。需要展示 ASUS 的差異化優勢。",
+      "entryPoint": "Canon 正在擴展 AI 影像分析業務。可從 GPU 伺服器切入。",
+      "keyPerson": {
+        "name": "Yoichi Iwabuchi",
+        "title": "Managing Executive Officer, Head of Information & Communication Systems Headquarters",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "iFORCOM Co., Ltd.",
+          "website": "https://www.iforcom.jp/",
+          "type": "SI"
+        },
+        {
+          "name": "Arkadia Co., Ltd.",
+          "website": "https://www.arkadia.co.jp/",
+          "type": "SI"
+        },
+        {
+          "name": "Alps System Integration Co., Ltd.",
+          "website": "https://www.alsi.co.jp/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://global.canon/en/ir/library/annual.html"
+    },
+    {
+      "rank": 86,
+      "company": "Meesho",
+      "region": "印度",
+      "volume": "約 3,000 - 5,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。印度社交電商平台。",
+      "application": "電商平台、AI 推薦、物流優化。",
+      "currentSuppliers": "Dell, HPE, AWS (部分雲端)",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST: 印度本地 SI",
+      "difficulty": 3,
+      "challenges": "快速成長的新創公司，對新供應商較為開放。但資金壓力大。",
+      "entryPoint": "Meesho 正在快速擴展。可從通用伺服器切入，提供有競爭力的價格和快速交付。",
+      "keyPerson": {
+        "name": "Sreejith Vijayendran",
+        "title": "Director of Engineering - Infrastructure",
+        "linkedin": "https://in.linkedin.com/in/sreejith-vijayendran-6111029",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Microsoft",
+          "website": "https://www.microsoft.com/",
+          "type": "SI"
+        },
+        {
+          "name": "ElevenLabs",
+          "website": "https://elevenlabs.io/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://investor.meesho.com/investor-web/_next/docs/annual_report_2023_2024.pdf"
+    },
+    {
+      "rank": 87,
+      "company": "Zomato",
+      "region": "印度",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。印度最大的外賣平台。",
+      "application": "外賣平台、推薦引擎、物流優化、支付系統。",
+      "currentSuppliers": "Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST: 印度本地 SI",
+      "difficulty": 4,
+      "challenges": "快速成長的科技公司，對新供應商較為開放。",
+      "entryPoint": "Zomato 正在擴展 AI 推薦和物流優化。可從通用伺服器切入。",
+      "keyPerson": {
+        "name": "Prateek Tiwari",
+        "title": "Ex-AVP and Head - Security Engineering and IT Infrastructure",
+        "linkedin": "https://in.linkedin.com/in/prateek-0490",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Amazon Web Services",
+          "website": "https://aws.amazon.com/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://aws.amazon.com/blogs/opensource/how-zomato-boosted-performance-25-and-cut-compute-cost-30-migrating-trino-and-druid-workloads-to-aws-graviton/"
+    },
+    {
+      "rank": 88,
+      "company": "DeNA Co., Ltd.",
+      "region": "日本",
+      "volume": "約 3,000 - 5,000 台/年",
+      "platform": "Intel Xeon 通用伺服器、GPU 伺服器。日本遊戲與 AI 公司。",
+      "application": "手機遊戲、AI 研發、自動駕駛（與 Nissan 合作）。",
+      "currentSuppliers": "Dell, HPE, AWS (部分雲端)",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 4,
+      "challenges": "DeNA 正在從遊戲轉型為 AI 公司。對新技術供應商較為開放。",
+      "entryPoint": "DeNA 正在擴展 AI 業務。可從 GPU 伺服器切入。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "SI/DIST",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSdena-co,-ltd"
+    },
+    {
+      "rank": 89,
+      "company": "Atlassian",
+      "region": "澳洲",
+      "volume": "約 3,000 - 8,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC 通用伺服器。全球知名的軟體公司（Jira, Confluence）。",
+      "application": "SaaS 平台、AI 功能（Atlassian Intelligence）、資料分析。",
+      "currentSuppliers": "Dell, AWS (主要雲端), Supermicro",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720A-E12, GPU: ESC4000A-E12",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "Atlassian 主要使用雲端但仍有部分自建基礎設施。正在擴展 AI 功能。",
+      "entryPoint": "Atlassian Intelligence AI 功能需要 GPU 伺服器。可從 AI 推論伺服器切入。",
+      "keyPerson": {
+        "name": "Krish Bandaru",
+        "title": "Head of TPM, Core Eng PaaS",
+        "linkedin": "https://www.linkedin.com/in/krish",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "GLiNTECH",
+          "website": "https://www.glintech.com/",
+          "type": "SI"
+        },
+        {
+          "name": "ServiceRocket - Australia",
+          "website": "https://www.servicerocket.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Elabor8",
+          "website": "https://elabor8.com.au/",
+          "type": "SI"
+        },
+        {
+          "name": "Accenture Australia Pty Ltd",
+          "website": "https://www.accenture.com/au-en",
+          "type": "SI"
+        },
+        {
+          "name": "Togetha Group Pty Ltd.",
+          "website": "https://www.togetha.com.au/",
+          "type": "SI"
+        },
+        {
+          "name": "Area9",
+          "website": "https://www.area9.com.au/",
+          "type": "SI"
+        },
+        {
+          "name": "Sentify",
+          "website": "https://www.sentify.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Systemology Australia Pty Ltd",
+          "website": "https://www.systemology.com.au/",
+          "type": "SI"
+        },
+        {
+          "name": "Datacom Systems",
+          "website": "AU) Pty Ltd",
+          "type": "SI"
+        },
+        {
+          "name": "Elegance Group",
+          "website": "https://www.elegance.group/",
+          "type": "SI"
+        },
+        {
+          "name": "Design Industries",
+          "website": "https://www.di.net.au/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://community.atlassian.com/t5/Jira-questions/How-many-servers-And-what-exactly-does-Atlassian-have/qaq-p/2455072"
+    },
+    {
+      "rank": 90,
+      "company": "Canva",
+      "region": "澳洲",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon / NVIDIA GPU 伺服器。全球知名的設計平台。",
+      "application": "AI 設計工具、圖像生成、SaaS 平台。",
+      "currentSuppliers": "Dell, AWS (主要雲端)",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
+      "channel": "直供",
+      "difficulty": 4,
+      "challenges": "Canva 主要使用雲端但 AI 功能需要本地 GPU 資源。",
+      "entryPoint": "Canva 正在大力投資 AI 設計功能。可從 GPU 伺服器切入。",
+      "keyPerson": {
+        "name": "Fawaz Ahmed",
+        "title": "Senior Director of Engineering | Global Head of Infrastructure",
+        "linkedin": "https://au.linkedin.com/in/thefwz",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Insight",
+          "website": "Asia Pacific)",
+          "type": "SI"
+        },
+        {
+          "name": "Born Digital Solutions Pty Ltd",
+          "website": "https://partners.canva.com/directory/partner/born-digital-solutions-pty-ltd",
+          "type": "SI"
+        },
+        {
+          "name": "Data#3 Limited",
+          "website": "https://partners.canva.com/directory/partner/data3-limited",
+          "type": "SI"
+        },
+        {
+          "name": "Compnow",
+          "website": "https://partners.canva.com/directory/partner/compnow",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://aws.amazon.com/solutions/case-studies/innovators/canva/"
+    },
+    {
+      "rank": 91,
+      "company": "Suzuki Motor Corporation",
+      "region": "日本",
+      "volume": "約 3,000 - 5,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。日本汽車製造商（印度市場領導者）。",
+      "application": "生產管理、CAD/CAE、車聯網、ERP。",
+      "currentSuppliers": "Dell, HPE, Fujitsu",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "Suzuki 與 Fujitsu 有長期合作。日本汽車業偏好穩定供應鏈。",
+      "entryPoint": "Suzuki 在印度市場（Maruti Suzuki）有大量 IT 需求。可從印度業務切入。",
+      "keyPerson": {
+        "name": "Akira Nonaka",
+        "title": "Managing Officer, Executive General Manager, Global IT",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Tata Elxsi",
+          "website": "https://www.tataelxsi.com",
+          "type": "SI"
+        },
+        {
+          "name": "HENNGE",
+          "website": "https://hennge.com/global/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.globalsuzuki.com/ir/library/financialresults/pdf/2024/financial_presentation_s.pdf"
+    },
+    {
+      "rank": 92,
+      "company": "BHP Group (亞太業務)",
+      "region": "澳洲",
+      "volume": "約 3,000 - 6,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。全球最大的礦業公司之一。",
+      "application": "礦業管理、AI 預測維護、自動駕駛礦車、環境監測。",
+      "currentSuppliers": "Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 6,
+      "challenges": "BHP 有全球採購合約。澳洲本地採購可能受限。",
+      "entryPoint": "BHP 正在推動自動化礦山。可從 AI 和邊緣伺服器切入。",
+      "keyPerson": {
+        "name": "Thomas Leen",
+        "title": "Chief Information Security Officer",
+        "linkedin": "https://www.linkedin.com/in/thomas-leen",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Accenture",
+          "website": "https://www.accenture.com",
+          "type": "SI"
+        },
+        {
+          "name": "Infosys",
+          "website": "https://www.infosys.com",
+          "type": "SI"
+        },
+        {
+          "name": "Cognizant",
+          "website": "https://www.cognizant.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.globaldata.com/store/report/bhp-enterprise-tech-analysis/"
+    },
+    {
+      "rank": 93,
+      "company": "Woolworths Group",
+      "region": "澳洲",
+      "volume": "約 3,000 - 5,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。澳洲最大的零售商。",
+      "application": "零售管理、供應鏈優化、AI 需求預測、電商平台。",
+      "currentSuppliers": "Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "澳洲零售業 IT 預算相對保守。需要展示 TCO 優勢。",
+      "entryPoint": "Woolworths 正在推動 AI 和數位轉型。可從通用伺服器切入。",
+      "keyPerson": {
+        "name": "Patrick Misciagna",
+        "title": "Technology Director - Service, Operations and Infrastructure",
+        "linkedin": "https://au.linkedin.com/in/patrick-misciagna",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Tata Consultancy Services",
+          "website": "https://www.tcs.com/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.woolworthsgroup.com.au/content/dam/wwg/sustainability/reports/f25/Woolworths%20Group%20Annual%20Report%202025%20.pdf"
+    },
+    {
+      "rank": 94,
+      "company": "Stability AI (亞太業務)",
+      "region": "日本/亞太",
+      "volume": "約 2,000 - 5,000 台/年（亞太區域）",
+      "platform": "NVIDIA GPU 伺服器。AI 圖像生成公司。",
+      "application": "Stable Diffusion 模型訓練與推論、AI 圖像/影片生成。",
+      "currentSuppliers": "CoreWeave (雲端), Supermicro",
+      "odmOem": "OEM/ODM 混合",
+      "asusModel": "AI 8GPU: ESC N8-E11, AI 4GPU: ESC4000A-E12",
+      "channel": "直供",
+      "difficulty": 5,
+      "challenges": "Stability AI 財務狀況不穩定。需要評估信用風險。",
+      "entryPoint": "Stability AI 在日本有研發團隊。可從日本本地的 GPU 伺服器需求切入。",
+      "keyPerson": {
+        "name": "Takuto T.",
+        "title": "Head of APAC Sales & Partnerships",
+        "linkedin": "https://jp.linkedin.com/in/takuto",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Stability AI (亞太業務) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSstability-ai"
+    },
+    {
+      "rank": 95,
+      "company": "Celltrion",
+      "region": "韓國",
+      "volume": "約 2,000 - 5,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。韓國生物製藥公司。",
+      "application": "藥物研發模擬、AI 藥物發現、生產管理、品質控制。",
+      "currentSuppliers": "Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "製藥業對合規性要求高（GxP）。需要通過相關認證。",
+      "entryPoint": "Celltrion 正在導入 AI 藥物發現。可從 AI 伺服器切入。",
+      "keyPerson": {
+        "name": "Soohyun Kim",
+        "title": "Head of IT Dept.",
+        "linkedin": "https://kr.linkedin.com/in/soohyun-kim-33310244",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Emerson Process Management",
+          "website": "https://www.emerson.com/en-us/automation/fluid-control-pneumatics/biopharmaceutical-manufacturing-solutions",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUScelltrion"
+    },
+    {
+      "rank": 96,
+      "company": "Sharp Corporation",
+      "region": "日本",
+      "volume": "約 2,000 - 5,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。日本電子製造商（鴻海子公司）。",
+      "application": "製造 MES、AI 品質檢測、IoT、顯示器研發。",
+      "currentSuppliers": "Dell, HPE, Foxconn (母公司)",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST",
+      "difficulty": 6,
+      "challenges": "Sharp 為鴻海子公司，IT 採購可能受母公司影響。",
+      "entryPoint": "Sharp 正在推動 AI 和 IoT 化。可從通用伺服器切入。ASUS 與鴻海有合作基礎。",
+      "keyPerson": {
+        "name": "重田 (Shigeta)",
+        "title": "統轄部長, IT戦略統轄部 (General Manager, IT Strategy Division)",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Sharp Marketing Japan",
+          "website": "https://smj.jp.sharp/",
+          "type": "SI"
+        },
+        {
+          "name": "Infotect",
+          "website": "https://www.createwebflow.jp/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://global.sharp/corporate/news/240603-b.html"
+    },
+    {
+      "rank": 97,
+      "company": "Byju's (Think & Learn)",
+      "region": "印度",
+      "volume": "約 2,000 - 5,000 台/年",
+      "platform": "Intel Xeon 通用伺服器。印度最大的教育科技公司。",
+      "application": "線上教育平台、AI 個人化學習、影片串流。",
+      "currentSuppliers": "Dell, HPE, AWS (部分雲端)",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
+      "channel": "SI/DIST: 印度本地 SI",
+      "difficulty": 3,
+      "challenges": "Byju's 近期面臨財務困難。需要評估信用風險。",
+      "entryPoint": "若 Byju's 恢復穩定，其 AI 教育平台需要伺服器。可提供有競爭力的價格。",
+      "keyPerson": {
+        "name": "Kishor Raj",
+        "title": "Vice President - Supply Chain & IT Infrastructure",
+        "linkedin": "https://in.linkedin.com/in/rajkishor",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "印度本地 SI",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.statista.com/topics/11517/byju-s/"
+    },
+    {
+      "rank": 98,
       "company": "Bridgestone Corporation",
       "region": "日本",
       "volume": "約 2,000 - 5,000 台/年",
@@ -1503,7 +4266,94 @@
       "channel": "SI/DIST",
       "difficulty": 5,
       "challenges": "Bridgestone 與 Fujitsu 有長期合作。日本製造業偏好本土品牌。",
-      "entryPoint": "Bridgestone 正在推動智慧工廠和 AI 品質檢測。可從 AI 推論伺服器切入。"
+      "entryPoint": "Bridgestone 正在推動智慧工廠和 AI 品質檢測。可從 AI 推論伺服器切入。",
+      "keyPerson": {
+        "name": "Akira MASUNAGA",
+        "title": "Vice President and Officer Digital IT Infrastructure Concurrently Director, Digital IT Infrastructure Division, Digital Solution Planning Division",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Bridgestone Software Co.,Ltd.",
+          "website": "https://www.bsw.co.jp/en/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.bridgestone.com/ir/library/integrated_report/"
+    },
+    {
+      "company": "Panasonic Holdings",
+      "region": "日本",
+      "volume": "約 2,000-4,000 台/年",
+      "platform": "Intel Xeon 1U/2U 通用伺服器，部分 GPU 伺服器用於 AI 製造",
+      "application": "智慧製造、IoT 平台、AI 品質檢測、企業 ERP",
+      "currentSuppliers": "Dell, HPE, Hitachi",
+      "odmOem": "OEM",
+      "asusModel": "RS700-E11, RS720-E11, ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 6,
+      "challenges": "日本企業傾向使用本土品牌，且 Panasonic 與 Hitachi 有長期合作關係。需展示 ASUS 在 AI 製造領域的解決方案優勢。",
+      "entryPoint": "從 Panasonic 的 AI 智慧製造需求切入，提供 GPU 伺服器用於品質檢測 AI。透過 Macnica 或 SB C&S 等日本通路合作。",
+      "keyPerson": {
+        "name": "Anurag Verma",
+        "title": "Head - IT Infrastructure and Security",
+        "linkedin": "https://in.linkedin.com/in/anurag-verma-2450275a",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Denali Advanced Integration",
+          "website": "https://www.denaliai.com",
+          "type": "SI"
+        },
+        {
+          "name": "Digi-Key Electronics",
+          "website": "https://www.digikey.com",
+          "type": "DIST"
+        },
+        {
+          "name": "Mouser Electronics",
+          "website": "https://www.mouser.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://holdings.panasonic/global/corporate/investors/pdf/annual/2024/pana_ar2024e_a4.pdf",
+      "rank": 99
+    },
+    {
+      "company": "Kotak Mahindra Bank",
+      "region": "印度",
+      "volume": "約 1,500-3,000 台/年",
+      "platform": "Intel Xeon 2U 通用伺服器為主",
+      "application": "核心銀行系統、數位銀行平台、AI 風控",
+      "currentSuppliers": "Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "RS520-E11, RS720-E11",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "印度銀行業對 IT 供應商有嚴格的合規要求（RBI 規範）。需通過印度金融監管機構的供應商審核。",
+      "entryPoint": "透過印度本地 SI 如 TCS 或 Wipro 合作，從數位銀行平台的基礎設施擴張需求切入。",
+      "keyPerson": {
+        "name": "Himanshu Soni",
+        "title": "Senior Vice President - IT Infrastructure Engineering",
+        "linkedin": "https://in.linkedin.com/in/himanshusoni",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Finastra",
+          "website": "https://www.finastra.com",
+          "type": "SI"
+        },
+        {
+          "name": "actyv.ai",
+          "website": "https://www.actyv.ai",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/Annual-Reports/FY-2025/kotak-mahindra-bank/Kotak-Mahindra-Bank-Limited-FY25.pdf",
+      "rank": 100
     }
   ],
   "totalCompanies": 100

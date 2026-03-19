@@ -13,7 +13,36 @@
       "channel": "SI/DIST: Accenture (https://www.accenture.com), Deloitte (https://www.deloitte.com), Slalom (https://www.slalom.com), WWT (https://www.wwt.com)",
       "difficulty": 10,
       "challenges": "AWS 擁有極其龐大的規模經濟和成熟的供應鏈，且伺服器多為自研，規格要求特殊，對供應商的產能、品質、成本控制能力要求極高。要克服此困難，需要展現出卓越的客製化設計能力、全球供應鏈管理能力，並在特定領域（如散熱、電源效率）提供超越現有供應商的解決方案。",
-      "entryPoint": "初期可從非核心或新興業務的客製化需求切入，例如特定區域的邊緣運算節點，或針對新型態 AI 應用（如大型語言模型推理）提供優化的伺服器設計。執行上，需要成立專門的客戶團隊，長期與 AWS 的工程團隊進行深度技術交流，並願意投入資源進行共同開發，建立長期合作夥伴關係。"
+      "entryPoint": "初期可從非核心或新興業務的客製化需求切入，例如特定區域的邊緣運算節點，或針對新型態 AI 應用（如大型語言模型推理）提供優化的伺服器設計。執行上，需要成立專門的客戶團隊，長期與 AWS 的工程團隊進行深度技術交流，並願意投入資源進行共同開發，建立長期合作夥伴關係。",
+      "keyPerson": {
+        "name": "Peter DeSantis",
+        "title": "Senior Vice President, AWS Utility Computing",
+        "linkedin": "https://www.linkedin.com/in/peterdesantis",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Accenture",
+          "website": "https://www.accenture.com",
+          "type": "SI"
+        },
+        {
+          "name": "Deloitte",
+          "website": "https://www.deloitte.com",
+          "type": "SI"
+        },
+        {
+          "name": "Slalom",
+          "website": "https://www.slalom.com",
+          "type": "SI"
+        },
+        {
+          "name": "WWT",
+          "website": "https://www.wwt.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://finance.yahoo.com/news/amazons-data-center-spend-tops-130400662.html"
     },
     {
       "rank": 2,
@@ -28,7 +57,31 @@
       "channel": "直供 + SI/DIST: Insight Enterprises (https://www.insight.com), CDW (https://www.cdw.com), SHI International (https://www.shi.com)",
       "difficulty": 10,
       "challenges": "Microsoft 的供應鏈策略與 AWS 相似，對伺服器有著嚴格的客製化與成本要求，且訂單量巨大，對供應商的全球交付能力是一大考驗。要打入其供應鏈，除了需具備頂尖的研發與製造能力外，還必須在供應鏈的彈性與韌性上有所表現，例如在多地設廠以應對地緣政治風險。",
-      "entryPoint": "可以從特殊應用的伺服器著手，例如針對特定 Azure 服務（如 Azure Stack HCI）提供優化的硬體解決方案，或是參與其下一代 AI 基礎設施的設計。執行上，需要與 Microsoft 的硬體工程團隊建立緊密的合作關係，並在早期設計階段就參與其中，提供創新的設計方案以突顯價值。"
+      "entryPoint": "可以從特殊應用的伺服器著手，例如針對特定 Azure 服務（如 Azure Stack HCI）提供優化的硬體解決方案，或是參與其下一代 AI 基礎設施的設計。執行上，需要與 Microsoft 的硬體工程團隊建立緊密的合作關係，並在早期設計階段就參與其中，提供創新的設計方案以突顯價值。",
+      "keyPerson": {
+        "name": "Shelly Blackburn",
+        "title": "Corporate Vice President of Azure Infrastructure, Digital and App Innovation",
+        "linkedin": "https://www.linkedin.com/in/shellyblackburn",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Insight Enterprises",
+          "website": "https://www.insight.com",
+          "type": "SI"
+        },
+        {
+          "name": "CDW",
+          "website": "https://www.cdw.com",
+          "type": "SI"
+        },
+        {
+          "name": "SHI International",
+          "website": "https://www.shi.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.cnbc.com/2025/01/03/microsoft-expects-to-spend-80-billion-on-ai-data-centers-in-fy-2025.html"
     },
     {
       "rank": 3,
@@ -43,7 +96,31 @@
       "channel": "直供 + SI/DIST: TD SYNNEX (https://www.tdsynnex.com), CDW (https://www.cdw.com), Insight Enterprises (https://www.insight.com)",
       "difficulty": 10,
       "challenges": "Google 對於伺服器硬體的設計有非常獨到的見解與嚴格的客製化要求，特別是在能源效率與散熱技術上。要成為其供應商，必須在技術創新上能與其工程團隊匹配，並提供具備高度擴展性與成本效益的解決方案。克服的關鍵在於展現領先的研發實力，並願意投入資源進行長期的技術合作與驗證。",
-      "entryPoint": "可以針對 Google 的特定產品線（如 YouTube 或 Google Drive）的儲存伺服器，或新一代 TPU Pod 的基礎設施，提供客製化的散熱或機櫃解決方案。執行上，需要透過設計合作夥伴或直接與 Google 的採購與工程團隊建立聯繫，從小規模的專案開始，逐步證明自己的技術實力與供應鏈管理能力，以爭取更大規模的訂單。"
+      "entryPoint": "可以針對 Google 的特定產品線（如 YouTube 或 Google Drive）的儲存伺服器，或新一代 TPU Pod 的基礎設施，提供客製化的散熱或機櫃解決方案。執行上，需要透過設計合作夥伴或直接與 Google 的採購與工程團隊建立聯繫，從小規模的專案開始，逐步證明自己的技術實力與供應鏈管理能力，以爭取更大規模的訂單。",
+      "keyPerson": {
+        "name": "Jennifer Moceri",
+        "title": "Chief Procurement Officer at Google",
+        "linkedin": "https://www.linkedin.com/in/jennifermoceri",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "TD SYNNEX",
+          "website": "https://www.tdsynnex.com",
+          "type": "SI"
+        },
+        {
+          "name": "CDW",
+          "website": "https://www.cdw.com",
+          "type": "SI"
+        },
+        {
+          "name": "Insight Enterprises",
+          "website": "https://www.insight.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://en.wikipedia.org/wiki/Google_data_centers"
     },
     {
       "rank": 4,
@@ -58,7 +135,31 @@
       "channel": "SI/DIST: Wiwynn (https://www.wiwynn.com), Quanta Cloud Technology (QCT) (https://www.qct.io), Celestica (https://www.celestica.com), Hyve Solutions (https://www.hyvesolutions.com)",
       "difficulty": 9,
       "challenges": "Meta 的伺服器採購基於 OCP 標準，對供應商的設計與製造能力有著開放但嚴格的要求。要成為其供應商，必須深入理解 OCP 的設計理念，並在成本、效率、可擴展性上達到 Meta 的標準。克服的關鍵在於積極參與 OCP 社群，貢獻創新的設計，並在生產製造上展現出大規模、高品質的交付能力。",
-      "entryPoint": "可以從 OCP 的標準品或半客製化產品切入，例如提供符合 OCP 標準的機櫃、電源或散熱模組。執行上，需要積極參與 OCP 的工作小組，與 Meta 的工程師建立合作關係，並透過小批量訂單來證明自己的實力，逐步擴大合作範圍。"
+      "entryPoint": "可以從 OCP 的標準品或半客製化產品切入，例如提供符合 OCP 標準的機櫃、電源或散熱模組。執行上，需要積極參與 OCP 的工作小組，與 Meta 的工程師建立合作關係，並透過小批量訂單來證明自己的實力，逐步擴大合作範圍。",
+      "keyPerson": {
+        "name": "Daniel Lee",
+        "title": "Global Director, Data Center Operations",
+        "linkedin": "https://www.linkedin.com/in/danielhlee",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Wiwynn",
+          "website": "https://www.wiwynn.com",
+          "type": "SI"
+        },
+        {
+          "name": "Celestica",
+          "website": "https://www.celestica.com",
+          "type": "SI"
+        },
+        {
+          "name": "Hyve Solutions",
+          "website": "https://www.hyvesolutions.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://finance.yahoo.com/news/meta-microsoft-both-blew-data-012942413.html"
     },
     {
       "rank": 5,
@@ -73,7 +174,21 @@
       "channel": "直供",
       "difficulty": 9,
       "challenges": "Apple 對於其供應鏈有著極高的保密要求和品質標準，且其伺服器設計高度客製化。要打入其供應鏈，不僅需要卓越的技術實力，更需要通過其嚴格的供應商審核流程，並在保密協議下進行合作。克服的關鍵在於擁有領先的製造工藝、嚴格的品管體系，並能配合 Apple 的節奏進行快速的產品迭代。",
-      "entryPoint": "鑑於 Apple 的封閉體系，直接切入核心伺服器供應鏈難度極高。可以嘗試從周邊的基礎設施或非核心業務著手，例如提供資料中心內的客製化機櫃、網路設備或儲存解決方案。執行上，需要透過長期的關係建立，並在品質、交期、成本上展現出絕對的優勢，以爭取到小規模的合作機會，逐步建立信任關係。"
+      "entryPoint": "鑑於 Apple 的封閉體系，直接切入核心伺服器供應鏈難度極高。可以嘗試從周邊的基礎設施或非核心業務著手，例如提供資料中心內的客製化機櫃、網路設備或儲存解決方案。執行上，需要透過長期的關係建立，並在品質、交期、成本上展現出絕對的優勢，以爭取到小規模的合作機會，逐步建立信任關係。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "VP of IT Infrastructure",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "Apple (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/apple-anticipates-substantial-capex-growth-with-investment-in-ai-infrastructure/"
     },
     {
       "rank": 6,
@@ -88,7 +203,41 @@
       "channel": "直供 + SI/DIST: World Wide Technology (https://www.wwt.com), Presidio (https://www.presidio.com), ePlus (https://www.eplus.com)",
       "difficulty": 9,
       "challenges": "Oracle擁有強大的自研硬體與軟體整合能力，其採購模式以自研設計、ODM代工為主，對外部供應商的依賴度較低。要打入其供應鏈，必須在技術上展現獨特價值，例如在特定領域（如散熱、電源效率）提供超越現有供應商的解決方案，並通過嚴格的技術驗證流程。",
-      "entryPoint": "初期可從非核心的周邊元件或次系統開始，建立合作關係與信任。同時，積極參與Oracle的技術論壇和供應商大會，了解其未來的技術路線圖，並針對其下一代雲端基礎設施的需求，主動提出創新的設計方案與之共同開發，爭取成為其新專案的合作夥伴。"
+      "entryPoint": "初期可從非核心的周邊元件或次系統開始，建立合作關係與信任。同時，積極參與Oracle的技術論壇和供應商大會，了解其未來的技術路線圖，並針對其下一代雲端基礎設施的需求，主動提出創新的設計方案與之共同開發，爭取成為其新專案的合作夥伴。",
+      "keyPerson": {
+        "name": "Jae Sook Evans",
+        "title": "Global Chief Information Officer and Executive Vice President, Oracle Cloud Infrastructure (OCI) Platform Services",
+        "linkedin": "https://www.linkedin.com/in/jaesookevans",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "WWT",
+          "website": "https://www.wwt.com",
+          "type": "SI"
+        },
+        {
+          "name": "CDW",
+          "website": "https://www.cdw.com",
+          "type": "SI"
+        },
+        {
+          "name": "SHI International",
+          "website": "https://www.shi.com",
+          "type": "SI"
+        },
+        {
+          "name": "Insight Enterprises",
+          "website": "https://www.insight.com",
+          "type": "SI"
+        },
+        {
+          "name": "Presidio",
+          "website": "https://www.presidio.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://cloudwars.com/cloud/oracle-dominates-competitors-in-cloud-region-buildout-microsoft-2-google-cloud-3-aws-4/"
     },
     {
       "rank": 7,
@@ -103,7 +252,21 @@
       "channel": "直供",
       "difficulty": 8,
       "challenges": "xAI 的採購決策權高度集中在 Elon Musk 本人，且其對供應商的技術能力、執行速度和成本控制有著極端嚴苛的要求。此外，xAI 已經與 Supermicro 和 Dell 建立了緊密的合作關係。要克服這些困難，必須展現出超越競爭對手的技術實力，特別是在液冷、高密度運算和快速部署方面。同時，需要有能夠直接與 Elon Musk 對話的管道和能力。",
-      "entryPoint": "切入點在於 xAI 對於極致效能和快速擴張的追求。可以提出比現有方案更具創新性的液冷解決方案，或是在伺服器密度和能源效率上取得突破，以吸引 Elon Musk 的注意。執行上，需要透過各種管道 (例如，透過與 Tesla 或 SpaceX 的合作關係) 建立與 xAI 高層的聯繫，並準備好一個極具說服力的技術方案和商業提案，直接向其展示 ASUS 的價值。"
+      "entryPoint": "切入點在於 xAI 對於極致效能和快速擴張的追求。可以提出比現有方案更具創新性的液冷解決方案，或是在伺服器密度和能源效率上取得突破，以吸引 Elon Musk 的注意。執行上，需要透過各種管道 (例如，透過與 Tesla 或 SpaceX 的合作關係) 建立與 xAI 高層的聯繫，並準備好一個極具說服力的技術方案和商業提案，直接向其展示 ASUS 的價值。",
+      "keyPerson": {
+        "name": "Daniel Rowland",
+        "title": "Data Center Operations Lead",
+        "linkedin": "https://www.linkedin.com/in/dcrowland",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "xAI (Elon Musk) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://finance.yahoo.com/news/elon-musks-xai-reportedly-shifts-190811861.html"
     },
     {
       "rank": 8,
@@ -118,7 +281,21 @@
       "channel": "直供",
       "difficulty": 9,
       "challenges": "CoreWeave 與 NVIDIA 和 Dell 有深度策略合作關係，技術和供應鏈已高度整合，新供應商難以切入。要克服此困難，必須展示出在下一代產品（如 Blackwell 之後的架構）上具備更強的技術、更快的上市時間或更優越的總體擁有成本(TCO)，並提供樣機進行嚴格的效能驗證。",
-      "entryPoint": "切入點在於其快速擴張下對供應鏈多元化的需求，以及對特定新興應用（如液冷解決方案）的探索。可以從提供少量、非核心但技術領先的客製化機型開始，例如針對特定散熱或密度需求的方案，證明 ASUS 的研發和客製化能力，逐步建立信任關係，再爭取更大規模的訂單。"
+      "entryPoint": "切入點在於其快速擴張下對供應鏈多元化的需求，以及對特定新興應用（如液冷解決方案）的探索。可以從提供少量、非核心但技術領先的客製化機型開始，例如針對特定散熱或密度需求的方案，證明 ASUS 的研發和客製化能力，逐步建立信任關係，再爭取更大規模的訂單。",
+      "keyPerson": {
+        "name": "Boris Lester",
+        "title": "Data Center Equipment Supply Chain Director",
+        "linkedin": "https://www.linkedin.com/in/borislester",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "CoreWeave (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.cnbc.com/2025/05/15/coreweave-earnings-ai.html"
     },
     {
       "rank": 9,
@@ -133,7 +310,26 @@
       "channel": "直供 + SI/DIST: Dell Technologies (https://www.dell.com), World Wide Technology (https://www.wwt.com)",
       "difficulty": 9,
       "challenges": "OpenAI 的採購規模巨大，且與 Microsoft 有深度綁定的策略合作關係，新的供應商難以切入其核心供應鏈。要克服此困難，需要展現出在技術、效能、或供應鏈彈性上的獨特優勢，例如提供更高密度、更節能的客製化解決方案，或是在特定區域的供應與服務能力上超越現有供應商。",
-      "entryPoint": "切入點在於其持續擴張的算力需求以及對供應鏈多元化的考量。可以嘗試從非核心的專案或新建立的資料中心著手，提供小規模的試點方案，展示 ASUS 產品的優越性。執行上，需要由高層直接與 OpenAI 的基礎設施團隊建立聯繫，深入了解其技術痛點和未來規劃，並提出能為其帶來實質價值的客製化解決方案，例如針對特定模型優化的硬體設計，或是更具彈性的供應與維護方案。"
+      "entryPoint": "切入點在於其持續擴張的算力需求以及對供應鏈多元化的考量。可以嘗試從非核心的專案或新建立的資料中心著手，提供小規模的試點方案，展示 ASUS 產品的優越性。執行上，需要由高層直接與 OpenAI 的基礎設施團隊建立聯繫，深入了解其技術痛點和未來規劃，並提出能為其帶來實質價值的客製化解決方案，例如針對特定模型優化的硬體設計，或是更具彈性的供應與維護方案。",
+      "keyPerson": {
+        "name": "Sachin Katti",
+        "title": "Head of Industrial Compute",
+        "linkedin": "https://www.linkedin.com/in/sachin-katti-72777943",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Dell Technologies",
+          "website": "https://www.dell.com",
+          "type": "SI"
+        },
+        {
+          "name": "World Wide Technology",
+          "website": "https://www.wwt.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://finance.yahoo.com/news/openais-stargate-project-cost-500-155233761.html"
     },
     {
       "rank": 10,
@@ -148,7 +344,31 @@
       "channel": "直供 + SI/DIST: CDW (https://www.cdw.com), SHI International (https://www.shi.com), Insight Enterprises (https://www.insight.com)",
       "difficulty": 9,
       "challenges": "Walmart 擁有龐大的全球技術團隊 (Walmart Global Tech)，具備強大的自研能力和議價能力，對供應鏈的要求極為嚴苛。他們同時採用一線 OEM 品牌和 ODM 直接採購模式，以追求最佳成本效益，新進供應商很難在價格和規模上與現有供應商競爭。要克服此困難，需要展示出獨特的技術價值，例如在 AI 伺服器領域提供領先的效能或散熱技術，或是在邊緣運算 (Edge Computing) 應用中提供創新的解決方案。",
-      "entryPoint": "切入點是其快速發展的 AI 應用和邊緣運算需求。Walmart 積極導入生成式 AI 改善購物體驗，並在超過 10,000 家門市部署邊緣運算平台。可以主動向 Walmart Global Tech 提案，提供最新的 ASUS AI 伺服器 (如基於 Blackwell 架構的 ESC NB8-E11) 進行效能評測，或針對其門市的邊緣運算場景，設計客製化的低功耗、高密度伺服器方案，以技術創新而非純粹價格戰來爭取合作機會。"
+      "entryPoint": "切入點是其快速發展的 AI 應用和邊緣運算需求。Walmart 積極導入生成式 AI 改善購物體驗，並在超過 10,000 家門市部署邊緣運算平台。可以主動向 Walmart Global Tech 提案，提供最新的 ASUS AI 伺服器 (如基於 Blackwell 架構的 ESC NB8-E11) 進行效能評測，或針對其門市的邊緣運算場景，設計客製化的低功耗、高密度伺服器方案，以技術創新而非純粹價格戰來爭取合作機會。",
+      "keyPerson": {
+        "name": "Paul Ritchie Jr",
+        "title": "Staff Technical Program Manager | Data Center & Private Cloud Infrastructure | Enterprise-Scale Programs | Walmart Global Tech",
+        "linkedin": "https://www.linkedin.com/in/paulritchiejr",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "CDW",
+          "website": "https://www.cdw.com",
+          "type": "SI"
+        },
+        {
+          "name": "SHI International",
+          "website": "https://www.shi.com",
+          "type": "SI"
+        },
+        {
+          "name": "Insight Enterprises",
+          "website": "https://www.insight.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://finance.yahoo.com/news/walmart-supply-chain-spending-set-125000538.html"
     },
     {
       "rank": 11,
@@ -163,7 +383,51 @@
       "channel": "直供 + SI/DIST: World Wide Technology (https://www.wwt.com), Insight Enterprises (https://www.insight.com), Presidio (https://www.presidio.com)",
       "difficulty": 10,
       "challenges": "JPMorgan Chase 是全球最大的金融機構之一，對供應商的審核極其嚴格，且其 IT 基礎設施龐大而複雜，與現有供應商有長期的合作關係。克服方式：ASUS 需要通過其嚴格的供應商認證流程，並在產品效能、可靠性、安全性、以及供應鏈能力等方面展現出卓越的實力。與其建立高層次的戰略合作關係，並提供全面的解決方案和服務，是成功的關鍵。",
-      "entryPoint": "針對其在 AI 和大數據分析領域的巨大投入，提供高效能的 AI 伺服器和儲存解決方案。執行方式：與其技術創新部門或 AI 實驗室建立聯繫，提供最新的 AI 伺服器樣機進行評估，並展示 ASUS 在金融行業的成功案例。可以考慮與其在特定項目上進行合作，逐步建立信任和合作關係。"
+      "entryPoint": "針對其在 AI 和大數據分析領域的巨大投入，提供高效能的 AI 伺服器和儲存解決方案。執行方式：與其技術創新部門或 AI 實驗室建立聯繫，提供最新的 AI 伺服器樣機進行評估，並展示 ASUS 在金融行業的成功案例。可以考慮與其在特定項目上進行合作，逐步建立信任和合作關係。",
+      "keyPerson": {
+        "name": "Jason Kimbrell",
+        "title": "Vice President, Data Center Operations Manager",
+        "linkedin": "https://www.linkedin.com/in/jason-kimbrell-890b2314",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "WWT",
+          "website": "https://www.wwt.com",
+          "type": "SI"
+        },
+        {
+          "name": "CDW",
+          "website": "https://www.cdw.com",
+          "type": "SI"
+        },
+        {
+          "name": "SHI International",
+          "website": "https://www.shi.com",
+          "type": "SI"
+        },
+        {
+          "name": "Insight Enterprises",
+          "website": "https://www.insight.com",
+          "type": "SI"
+        },
+        {
+          "name": "TD SYNNEX",
+          "website": "https://www.tdsynnex.com",
+          "type": "DIST"
+        },
+        {
+          "name": "Ingram Micro",
+          "website": "https://www.ingrammicro.com",
+          "type": "DIST"
+        },
+        {
+          "name": "Arrow Electronics",
+          "website": "https://www.arrow.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.jpmorganchase.com/about/technology"
     },
     {
       "rank": 12,
@@ -178,25 +442,24 @@
       "channel": "直供。",
       "difficulty": 10,
       "challenges": "Elon Musk 的公司傾向於與少數幾家大型、可靠的供應商建立深度合作關係，訂單規模巨大，對供應鏈的交付能力是極大考驗。Dell 和 HPE 已佔據領先位置，ASUS 作為後來者，需要提供極具吸引力的條件，並可能需要公司高層直接介入以建立關係。",
-      "entryPoint": "鑑於直接競爭的難度，可以嘗試從供應鏈的靈活性和客製化能力切入。例如，針對 xAI 的特殊需求，提出基於 ASUS 自家主機板和散熱技術的高度客製化伺服器方案。另一個策略是成為其第二或第三供應商，以分擔 Dell/HPE 的供應風險，初期可從少量非核心業務的訂單開始，逐步建立信任。"
+      "entryPoint": "鑑於直接競爭的難度，可以嘗試從供應鏈的靈活性和客製化能力切入。例如，針對 xAI 的特殊需求，提出基於 ASUS 自家主機板和散熱技術的高度客製化伺服器方案。另一個策略是成為其第二或第三供應商，以分擔 Dell/HPE 的供應風險，初期可從少量非核心業務的訂單開始，逐步建立信任。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "VP of IT Infrastructure",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "Twitter/X Corp (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.reuters.com/technology/musk-orders-twitter-cut-infrastructure-costs-by-1-bln-sources-2022-11-03/"
     },
     {
       "rank": 13,
-      "company": "IBM",
-      "region": "美國",
-      "volume": "約 40,000 - 60,000 台/年 (此為根據其Power Systems營收及大型主機銷售推估，未包含其龐大的雲端基礎設施自用伺服器)",
-      "platform": "IBM Power (E1150, S1022) 採用自家Power10/11處理器, IBM Z系列大型主機 (z16) 採用自家Telum處理器, 以及與NVIDIA合作的AI伺服器 (Power System AC922)。",
-      "application": "關鍵任務型應用 (金融、交易處理)、企業級資料庫、AI/ML模型訓練、高效能運算 (HPC)、混合雲環境。",
-      "currentSuppliers": "IBM自身為主要設計與製造商 (OEM)。",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E12, AI 2U 4GPU: ESC4000-E11, AI 4U 8GPU: ESC8000-E12",
-      "channel": "直供與通路夥伴 (SI/DIST) 並行，例如與Arrow Electronics, Ingram Micro等大型代理商合作。",
-      "difficulty": 10,
-      "challenges": "IBM擁有極為封閉且垂直整合的供應鏈體系，特別是在其核心的Power與Z系列伺服器。要成為其供應商，不僅需要通過漫長且嚴格的認證流程，還必須在技術上能與其現有架構深度整合。克服的關鍵在於提供高度客製化且具備獨特價值的解決方案，例如針對其特定應用場景的散熱或電源管理技術，並展現長期穩定供貨與技術支援的能力。",
-      "entryPoint": "由於直接切入核心系統困難，可以先從周邊的標準品或儲存設備開始，建立合作實績。另外，IBM近年積極推動開放原始碼與混合雲策略，可關注其在OpenPOWER聯盟或相關開源社群的動態，尋找在開放架構下的合作機會，例如提供基於OpenPOWER架構的客製化伺服器或解決方案，逐步滲透其生態系。"
-    },
-    {
-      "rank": 14,
       "company": "Crusoe Energy",
       "region": "美國",
       "volume": "約 40,000-60,000 台/年 (根據其數吉瓦(GW)等級的資料中心建設計畫和龐大融資規模估算)",
@@ -208,10 +471,24 @@
       "channel": "直供 (Crusoe Cloud 直接向企業客戶提供服務)",
       "difficulty": 9,
       "challenges": "Crusoe 採取獨特的垂直整合模式，從能源、資料中心到伺服器硬體都深度客製化，並與 Supermicro 有策略合作。新供應商需要提供的不僅是伺服器，而是一整套能適應其特殊部署環境（如移動式模組化資料中心）的解決方案。克服的關鍵在於展示比 Supermicro 更優越的客製化能力和供應鏈韌性，例如設計出能源效率更高、或在極端環境下更可靠的伺服器。",
-      "entryPoint": "切入點在於其對供應鏈多元化的需求，以及在非核心業務或新專案上的合作機會。可以從提供特定元件（如高效散熱模組、電源分配單元）開始，證明技術實力。或者，針對其在懷俄明州等地的大型資料中心專案，提出基於 OCP (Open Compute Project) 標準的機櫃級解決方案，展示在超大規模部署下的成本和效率優勢，爭取成為其第二供應商。"
+      "entryPoint": "切入點在於其對供應鏈多元化的需求，以及在非核心業務或新專案上的合作機會。可以從提供特定元件（如高效散熱模組、電源分配單元）開始，證明技術實力。或者，針對其在懷俄明州等地的大型資料中心專案，提出基於 OCP (Open Compute Project) 標準的機櫃級解決方案，展示在超大規模部署下的成本和效率優勢，爭取成為其第二供應商。",
+      "keyPerson": {
+        "name": "Andrew Wee",
+        "title": "VP, Procurement",
+        "linkedin": "https://www.linkedin.com/in/awee1",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Crusoe Energy (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.crusoe.ai/resources/newsroom/crusoe-expands-ai-data-center-campus-in-abilene-to-1-2-gigawatts"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "company": "Visa",
       "region": "美國",
       "volume": "約 40,000 - 60,000 台/年。作為全球最大的支付網絡之一，Visa 處理海量交易，並持續投資於其全球數據中心的擴展與現代化，以確保高可用性、低延遲及強大的詐欺偵測能力。",
@@ -223,10 +500,24 @@
       "channel": "主要透過直供模式與 OEM/ODM 簽訂長期合作協議，部分特殊解決方案會透過專業 SI 採購。",
       "difficulty": 8,
       "challenges": "Visa 對其支付網絡的穩定性與安全性要求達到極致，對供應商的技術能力、可靠性及全球支援體系有著近乎苛刻的標準。其核心系統長期被 IBM 等巨頭佔據，新進者難以撼動。克服的關鍵在於，在其非核心但快速增長的領域，如 AI 推論平台、數據分析叢集等，提供具備頂尖效能與功耗表現的解決方案。通過嚴格的 POC 測試，證明產品能在其大規模、高併發的環境下穩定運行。",
-      "entryPoint": "專注於提供高效能的 AI 伺服器，特別是針對其即時詐欺偵測等需要低延遲推論的應用場景。與 Visa 的技術團隊建立直接溝通管道，深入了解其在下一代數據中心架構上的規劃，並提供客製化的硬體設計方案 (Design-in)。此外，可以與其在開源軟體或行業標準組織中合作，建立技術信譽，並逐步將 ASUS 的硬體解決方案導入其生態系統。"
+      "entryPoint": "專注於提供高效能的 AI 伺服器，特別是針對其即時詐欺偵測等需要低延遲推論的應用場景。與 Visa 的技術團隊建立直接溝通管道，深入了解其在下一代數據中心架構上的規劃，並提供客製化的硬體設計方案 (Design-in)。此外，可以與其在開源軟體或行業標準組織中合作，建立技術信譽，並逐步將 ASUS 的硬體解決方案導入其生態系統。",
+      "keyPerson": {
+        "name": "Rajat Taneja",
+        "title": "President, Technology",
+        "linkedin": "https://www.linkedin.com/in/rajatt",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Visa (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://investor.visa.com/news/news-details/2025/Visa-Extends-Cybersecurity-Expertise-Prioritizing-Proactive-Defense-Strategies-for-Clients/default.aspx"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "company": "UnitedHealth Group",
       "region": "美國",
       "volume": "約 40,000 台/年",
@@ -238,10 +529,34 @@
       "channel": "SI/DIST: CDW (https://www.cdw.com), SHI International (https://www.shi.com), Insight Enterprises (https://www.insight.com)",
       "difficulty": 9,
       "challenges": "UnitedHealth Group 身為醫療保健巨頭，對於資料的隱私與安全性有極高的要求，且受到嚴格的法規監管。需要提供符合 HIPAA 等醫療法規的伺服器解決方案，並通過其嚴格的資安審核。",
-      "entryPoint": "UnitedHealth Group 積極投入 AI 醫療領域，可以提供高效能的 AI 伺服器，協助其加速 AI 模型的訓練與推論。同時，可以與其旗下的 Optum 公司合作，共同開發針對醫療產業的客製化伺服器，例如用於醫療影像分析的 GPU 伺服器。"
+      "entryPoint": "UnitedHealth Group 積極投入 AI 醫療領域，可以提供高效能的 AI 伺服器，協助其加速 AI 模型的訓練與推論。同時，可以與其旗下的 Optum 公司合作，共同開發針對醫療產業的客製化伺服器，例如用於醫療影像分析的 GPU 伺服器。",
+      "keyPerson": {
+        "name": "Don St.Ores",
+        "title": "Director Information Technology Operations",
+        "linkedin": "https://www.linkedin.com/in/don-st-ores-53031618",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "WWT",
+          "website": "https://www.wwt.com",
+          "type": "SI"
+        },
+        {
+          "name": "CDW",
+          "website": "https://www.cdw.com",
+          "type": "SI"
+        },
+        {
+          "name": "TD SYNNEX",
+          "website": "https://www.tdsynnex.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/unitedhealth-data-center-in-minnesota-sold-for-90-million/"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "company": "Goldman Sachs",
       "region": "美國",
       "volume": "約 30,000 - 60,000 台/年 (估計)",
@@ -253,10 +568,34 @@
       "channel": "直供 + SI/DIST: World Wide Technology (https://www.wwt.com), Presidio (https://www.presidio.com), ePlus (https://www.eplus.com)",
       "difficulty": 10,
       "challenges": "Goldman Sachs 對技術的要求極高，尤其是在低延遲和高效能運算方面，其 IT 基礎設施高度客製化，且對供應商的技術能力和服務品質有極高的期望。克服方式：ASUS 需要在低延遲伺服器和 AI 基礎設施方面展現出領先的技術實力，並提供高度客製化的解決方案以滿足其獨特的需求。與其建立緊密的技術合作關係，共同開發創新的解決方案，是進入其供應鏈的關鍵。",
-      "entryPoint": "針對其在高頻交易和 AI 研究方面的需求，提供頂級的低延遲伺服器和 AI 伺服器。執行方式：與其量化交易團隊或 AI 研發團隊進行深入的技術交流，了解其對硬體的具體需求，並提供客製化的樣機進行測試。可以考慮與其合作，共同發表技術白皮書或參與行業標準的制定，以提升 ASUS 在金融科技領域的品牌影響力。"
+      "entryPoint": "針對其在高頻交易和 AI 研究方面的需求，提供頂級的低延遲伺服器和 AI 伺服器。執行方式：與其量化交易團隊或 AI 研發團隊進行深入的技術交流，了解其對硬體的具體需求，並提供客製化的樣機進行測試。可以考慮與其合作，共同發表技術白皮書或參與行業標準的制定，以提升 ASUS 在金融科技領域的品牌影響力。",
+      "keyPerson": {
+        "name": "Raagini Lalwani",
+        "title": "MD, Global Head of Public Cloud Development and Transformation",
+        "linkedin": "https://www.linkedin.com/in/raaginilalwani",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "World Wide Technology",
+          "website": "https://www.wwt.com",
+          "type": "SI"
+        },
+        {
+          "name": "Presidio",
+          "website": "https://www.presidio.com",
+          "type": "SI"
+        },
+        {
+          "name": "ePlus",
+          "website": "https://www.eplus.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.goldmansachs.com/insights/articles/how-ai-is-transforming-data-centers-and-ramping-up-power-demand"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "company": "Salesforce",
       "region": "美國",
       "volume": "約 30,000 - 50,000 台/年 (此為根據其Hyperforce策略轉向公有雲前的自有資料中心規模，以及目前的AI伺服器需求推估)",
@@ -268,10 +607,34 @@
       "channel": "直供 + SI/DIST: Accenture (https://www.accenture.com), Deloitte (https://www2.deloitte.com), Wipro (https://www.wipro.com)",
       "difficulty": 8,
       "challenges": "Salesforce已將其主要基礎設施轉移至公有雲 (Hyperforce)，大幅減少了直接的硬體採購。要與其合作，必須轉向與其合作的雲端服務商 (AWS, Azure, GCP) 建立關係，並使其採用自家產品。另一個機會點是其持續成長的AI應用，可針對其AI模型訓練與推論的需求，提供高效能的GPU伺服器解決方案。",
-      "entryPoint": "積極與AWS、Azure、GCP的伺服器採購團隊接觸，將自家產品導入其供應鏈，並爭取成為其認證的伺服器供應商。同時，直接與Salesforce的AI研發團隊合作，了解其對AI基礎設施的具體需求，提供客製化的AI伺服器或叢集解決方案，以滿足其在AI領域的快速發展。"
+      "entryPoint": "積極與AWS、Azure、GCP的伺服器採購團隊接觸，將自家產品導入其供應鏈，並爭取成為其認證的伺服器供應商。同時，直接與Salesforce的AI研發團隊合作，了解其對AI基礎設施的具體需求，提供客製化的AI伺服器或叢集解決方案，以滿足其在AI領域的快速發展。",
+      "keyPerson": {
+        "name": "Meir Amiel",
+        "title": "President, Chief Trust and Infrastructure Officer",
+        "linkedin": "https://www.linkedin.com/in/meiramiel",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Accenture",
+          "website": "https://www.accenture.com",
+          "type": "SI"
+        },
+        {
+          "name": "Deloitte",
+          "website": "https://www2.deloitte.com",
+          "type": "SI"
+        },
+        {
+          "name": "Wipro",
+          "website": "https://www.wipro.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/salesforce-increases-data-center-spend-in-202122/"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "company": "Bank of America",
       "region": "美國",
       "volume": "約 30,000 - 50,000 台/年。作為全球最大的金融機構之一，其在數位化轉型和 AI 應用的投入巨大，預計伺服器採購量將持續增長。",
@@ -283,10 +646,34 @@
       "channel": "直供 + SI/DIST: Insight Enterprises (https://www.insight.com), World Wide Technology (https://www.wwt.com), Connection (https://www.connection.com)",
       "difficulty": 9,
       "challenges": "Bank of America 的供應鏈體系非常成熟且封閉，對新供應商的審核極為嚴格，尤其在資安與法規遵循方面。要成為其供應商，必須先進入其認可的供應商名單 (Approved Vendor List)，這需要長時間的努力與關係建立。克服之道在於與其現有的 SI 夥伴建立深度合作，並透過 POC (Proof of Concept) 專案展示 ASUS 產品在效能、功耗及總體擁有成本 (TCO) 上的優勢。",
-      "entryPoint": "可從其持續擴展的 AI 基礎設施需求切入，提供基於 NVIDIA 最新架構的高效能 AI 伺服器解決方案。與專注於金融行業解決方案的 SI 合作，共同提出針對其特定應用場景 (如反洗錢、交易分析) 的整合方案。此外，可針對其 ESG (環境、社會和公司治理) 目標，強調 ASUS 綠色運算解決方案在節能減碳方面的效益。"
+      "entryPoint": "可從其持續擴展的 AI 基礎設施需求切入，提供基於 NVIDIA 最新架構的高效能 AI 伺服器解決方案。與專注於金融行業解決方案的 SI 合作，共同提出針對其特定應用場景 (如反洗錢、交易分析) 的整合方案。此外，可針對其 ESG (環境、社會和公司治理) 目標，強調 ASUS 綠色運算解決方案在節能減碳方面的效益。",
+      "keyPerson": {
+        "name": "Hari Gopalkrishnan",
+        "title": "Chief Technology and Information Officer",
+        "linkedin": "https://www.linkedin.com/in/hari-gopalkrishnan-b1469b1",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Insight Enterprises",
+          "website": "https://www.insight.com",
+          "type": "SI"
+        },
+        {
+          "name": "World Wide Technology",
+          "website": "https://www.wwt.com",
+          "type": "SI"
+        },
+        {
+          "name": "Connection",
+          "website": "https://www.connection.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.emarketer.com/content/bank-of-america-investor-day-ai-tech-budget"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "company": "Mastercard",
       "region": "美國",
       "volume": "約 30,000 台/年",
@@ -298,10 +685,24 @@
       "channel": "直供",
       "difficulty": 8,
       "challenges": "Mastercard 的供應鏈相當成熟且穩定，要打入需要長時間的驗證與測試。可以先從提供少量、非核心業務的伺服器開始，建立信任關係後再逐步擴大合作範圍。",
-      "entryPoint": "Mastercard 積極發展 AI 應用，可以提供搭載最新 NVIDIA GPU 的 AI 伺服器進行效能測試，展現 ASUS 在 AI 領域的技術實力。同時，可以針對其全球 60 個資料中心的維運需求，提供客製化的遠端管理解決方案，提升其維運效率。"
+      "entryPoint": "Mastercard 積極發展 AI 應用，可以提供搭載最新 NVIDIA GPU 的 AI 伺服器進行效能測試，展現 ASUS 在 AI 領域的技術實力。同時，可以針對其全球 60 個資料中心的維運需求，提供客製化的遠端管理解決方案，提升其維運效率。",
+      "keyPerson": {
+        "name": "Aaron McLean",
+        "title": "Director of Cloud Engineering",
+        "linkedin": "https://www.linkedin.com/in/aaron-mclean-0424b839",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Mastercard (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/mastercard-to-invest-250m-in-three-data-centers-in-france/"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "company": "General Motors",
       "region": "美國",
       "volume": "約 30,000 - 50,000 台/年 (此為基於其龐大的全球業務、自動駕駛研發、智慧製造以及正在興建的多個大型資料中心，包括耗資 2.58 億美元的密西根資料中心和計畫中 80 億美元的 Janesville 超大規模資料中心園區，所做出的高潛力估計)",
@@ -313,7 +714,50 @@
       "channel": "主要透過大型系統整合商 (SI) 或直接與 OEM 簽訂大規模採購合約。鑑於其正在建立新的超大規模資料中心，很可能會尋求新的供應鏈合作夥伴。",
       "difficulty": 7,
       "challenges": "GM 的採購體系龐大且流程複雜，且對供應商的全球交付與支援能力有嚴格要求。然而，近期 GM 積極推動供應鏈「去風險化」，要求供應商在 2027 年前切斷與中國的聯繫，這為非中國大陸的供應商 (如 ASUS) 提供了絕佳的機會。克服困難的關鍵在於展現強大的全球供應鏈管理能力、成本競爭力以及符合其大規模資料中心部署需求的客製化能力。",
-      "entryPoint": "最佳切入點是其新建的超大規模資料中心專案。可直接與 GM 的基礎設施平台團隊聯繫，提出具備高度擴展性與成本效益的整機櫃 (Rack-Scale) 解決方案，特別是針對其 AI/ML 工作負載，提供基於最新 NVIDIA Blackwell 架構的 AI POD 解決方案 (如 ASUS AI POD GB200/GB300 NVL72)。同時，強調 ASUS 作為台灣廠商，在供應鏈安全與地緣政治風險上的優勢，以符合其供應鏈轉移的戰略目標。可先從提供少量機櫃進行 POC 測試開始，證明其效能、穩定性與管理性，爭取成為其新資料中心的主要供應商之一。"
+      "entryPoint": "最佳切入點是其新建的超大規模資料中心專案。可直接與 GM 的基礎設施平台團隊聯繫，提出具備高度擴展性與成本效益的整機櫃 (Rack-Scale) 解決方案，特別是針對其 AI/ML 工作負載，提供基於最新 NVIDIA Blackwell 架構的 AI POD 解決方案 (如 ASUS AI POD GB200/GB300 NVL72)。同時，強調 ASUS 作為台灣廠商，在供應鏈安全與地緣政治風險上的優勢，以符合其供應鏈轉移的戰略目標。可先從提供少量機櫃進行 POC 測試開始，證明其效能、穩定性與管理性，爭取成為其新資料中心的主要供應商之一。",
+      "keyPerson": {
+        "name": "Ed Nightingale",
+        "title": "Vice President, Digital Products and Infrastructure",
+        "linkedin": "https://www.linkedin.com/in/edn00",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "詳見通路欄位",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.datacenterknowledge.com/investing/gm-plans-258-million-data-center-in-michigan"
+    },
+    {
+      "rank": 21,
+      "company": "AT&T",
+      "region": "美國(德州達拉斯)",
+      "volume": "30,000-40,000",
+      "platform": "Intel Xeon / AMD EPYC (Microsoft Azure for Operators)",
+      "application": "5G網路核心、雲端服務、AI、IoT",
+      "currentSuppliers": "Microsoft, Dell, HPE (via Azure)",
+      "odmOem": "不明確",
+      "asusModel": "RS720-E12, RS720A-E12, ESC8000-E12, ESC N8-E11",
+      "channel": "SI (via Microsoft)",
+      "difficulty": 10,
+      "challenges": "AT&T已將其5G核心網路的營運和基礎設施外包給Microsoft Azure for Operators。這意味著其主要的伺服器採購決策權已轉移至微軟，ASUS需要通過微軟的供應鏈體系才能進入。克服方式：成為Microsoft Azure for Operators的認證硬體供應商。這需要投入大量資源進行產品驗證和整合，並與微軟建立深厚的合作關係。",
+      "entryPoint": "由於AT&T已將其網路雲平台轉移給微軟，直接切入點非常有限。唯一的機會在於成為微軟Azure for Operators的伺服器供應商之一。ASUS可以專注於提供針對電信工作負載優化的高密度、高效能伺服器，特別是在AI和邊緣運算領域，例如符合NVIDIA MGX或HGX標準的AI伺服器(ESC8000-E12P, ESC N8-E11)。這需要一個長期的策略，首先要成為微軟的合作夥伴，並在Azure Marketplace上架產品，再逐步爭取進入AT&T的專用雲端基礎設施。",
+      "keyPerson": {
+        "name": "Steven Dewey",
+        "title": "Associate Director Of Data Center Operations",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "詳見通路欄位",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.lightreading.com/open-ran/at-t-s-spending-to-hit-six-year-high-as-it-ramps-ericsson-open-ran-"
     },
     {
       "rank": 22,
@@ -328,7 +772,41 @@
       "channel": "透過全球的 SI/DIST 合作夥伴進行銷售，例如 Arrow Electronics (www.arrow.com), Avnet (www.avnet.com) 等。",
       "difficulty": 7,
       "challenges": "Nutanix 已與多家一線 OEM 建立深厚的合作關係，市場競爭激烈。ASUS 作為後來者，需要證明其產品的獨特價值與競爭力，並投入行銷資源建立通路關係。克服方式是專注於特定應用場景，例如針對 AI/ML 或邊緣運算提供最佳化的伺服器解決方案，並提供比競爭對手更具吸引力的合作夥伴計畫，以吸引通路夥伴的青睞。",
-      "entryPoint": "切入點是成為 Nutanix 的認證硬體夥伴。ASUS 需要將其伺服器產品提交給 Nutanix 進行嚴格的相容性與效能測試，以確保其平台的穩定性。執行上，建議先從利基市場開始，例如提供高密度或特定 GPU 配置的伺服器，滿足特定客戶群的需求。同時，積極參與 Nutanix 的全球用戶大會 (.NEXT Conference)，直接與客戶和合作夥伴互動，展示 ASUS 的技術實力與解決方案。"
+      "entryPoint": "切入點是成為 Nutanix 的認證硬體夥伴。ASUS 需要將其伺服器產品提交給 Nutanix 進行嚴格的相容性與效能測試，以確保其平台的穩定性。執行上，建議先從利基市場開始，例如提供高密度或特定 GPU 配置的伺服器，滿足特定客戶群的需求。同時，積極參與 Nutanix 的全球用戶大會 (.NEXT Conference)，直接與客戶和合作夥伴互動，展示 ASUS 的技術實力與解決方案。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "VP of IT Infrastructure",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "WWT (wwt.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "CDW (cdw.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "SHI International (shi.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Carahsoft (carahsoft.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "Arrow Electronics (arrow.com)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.nutanix.com/impact-report"
     },
     {
       "rank": 23,
@@ -343,7 +821,21 @@
       "channel": "主要透過大型 SI 如 Atos, HCLTech 及直接與 OEM 簽訂全球採購協議。",
       "difficulty": 9,
       "challenges": "花旗集團的全球供應鏈管理極為嚴謹，對供應商的全球交付能力、技術支援及社會責任 (CSR) 都有嚴格要求。新供應商需要證明其具備全球一致的服務水準及快速回應能力。克服策略在於，先從特定區域或特定業務單位的小規模專案開始合作，建立實績與口碑。同時，積極參與其供應商多元化計畫，並展示 ASUS 在永續發展方面的努力，以符合其企業價值觀。",
-      "entryPoint": "針對其與 Google Cloud 的混合雲戰略，提供優化的混合雲基礎設施解決方案，協助其在本地數據中心與公有雲之間實現無縫的資料與應用遷移。與專精於金融雲端解決方案的 SI 合作，共同開發符合其嚴格資安與合規要求的客製化方案。此外，可提供彈性的融資租賃方案，以降低其一次性資本支出，增加合作的吸引力。"
+      "entryPoint": "針對其與 Google Cloud 的混合雲戰略，提供優化的混合雲基礎設施解決方案，協助其在本地數據中心與公有雲之間實現無縫的資料與應用遷移。與專精於金融雲端解決方案的 SI 合作，共同開發符合其嚴格資安與合規要求的客製化方案。此外，可提供彈性的融資租賃方案，以降低其一次性資本支出，增加合作的吸引力。",
+      "keyPerson": {
+        "name": "Tim Ryan",
+        "title": "Head of Technology and Business Enablement",
+        "linkedin": "https://www.linkedin.com/in/timfryan",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "詳見通路欄位",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://finance.yahoo.com/news/citigroup-forecasts-big-techs-ai-111915251.html"
     },
     {
       "rank": 24,
@@ -358,7 +850,21 @@
       "channel": "直供",
       "difficulty": 7,
       "challenges": "American Express 對於系統的穩定性與安全性要求極高，且其支付網路為自行開發的封閉系統。需要投入大量資源進行相容性測試與驗證，並提供原始碼層級的技術支援能力。",
-      "entryPoint": "American Express 正在將其基礎設施遷移至 Kubernetes 平台，可以提供針對容器化環境最佳化的伺服器，並分享在金融業導入雲原生架構的成功案例。此外，可針對其在北卡羅萊納州的大型資料中心，提供高密度、低耗能的伺服器解決方案，協助其降低營運成本。"
+      "entryPoint": "American Express 正在將其基礎設施遷移至 Kubernetes 平台，可以提供針對容器化環境最佳化的伺服器，並分享在金融業導入雲原生架構的成功案例。此外，可針對其在北卡羅萊納州的大型資料中心，提供高密度、低耗能的伺服器解決方案，協助其降低營運成本。",
+      "keyPerson": {
+        "name": "Paul Bonaro",
+        "title": "Vice President of Global Data Center Infrastructure",
+        "linkedin": "https://www.linkedin.com/posts/paul-bonaro-2661812_teamamex-activity-7035356903257870336-Mtt2",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "American Express (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://infotechlead.com/cio/ai-and-digital-spending-drive-american-express-2025-growth-and-premium-performance-93469"
     },
     {
       "rank": 25,
@@ -373,7 +879,21 @@
       "channel": "直供",
       "difficulty": 8,
       "challenges": "Target 擁有強大的內部技術團隊 (Target Tech)，並採用混合多雲策略 (Google Cloud, Azure)，同時在自有數據中心和數千家門市的邊緣節點部署大量伺服器。其採購決策由內部技術團隊主導，對供應商的技術能力、穩定性和支援服務有很高要求。要克服此困難，需要證明 ASUS 伺服器不僅在硬體上具備競爭力，還能無縫融入其複雜的混合雲和邊緣運算環境，並提供企業級的技術支援。",
-      "entryPoint": "切入點是其在邊緣運算和生成式 AI 的投入。Target 在門市部署了強大的運算平台，並開發了名為 Store Companion 的 AI 助理。可以針對其邊緣運算需求，提供適合零售環境的伺服器解決方案，強調其管理性、低噪音和高能源效率。同時，可提供搭載 NVIDIA GPU 的 AI 伺服器，協助其優化 Store Companion 等 AI 應用的推論效能，透過提供 POC 測試和顧問服務，展現 ASUS 的技術實力與合作價值。"
+      "entryPoint": "切入點是其在邊緣運算和生成式 AI 的投入。Target 在門市部署了強大的運算平台，並開發了名為 Store Companion 的 AI 助理。可以針對其邊緣運算需求，提供適合零售環境的伺服器解決方案，強調其管理性、低噪音和高能源效率。同時，可提供搭載 NVIDIA GPU 的 AI 伺服器，協助其優化 Store Companion 等 AI 應用的推論效能，透過提供 POC 測試和顧問服務，展現 ASUS 的技術實力與合作價值。",
+      "keyPerson": {
+        "name": "Visagan Subburayalu",
+        "title": "Vice President, Infrastructure and Cybersecurity",
+        "linkedin": "https://in.linkedin.com/in/visatii",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Target (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.ciodive.com/news/target-AI-investments-michael-fiddelke/813839/"
     },
     {
       "rank": 26,
@@ -388,7 +908,21 @@
       "channel": "主要透過大型系統整合商 (SI) 或直接與 OEM 簽訂採購合約。",
       "difficulty": 7,
       "challenges": "福特的 IT 系統龐大且與現有供應商深度整合，替換成本高。然而，其積極擁抱 AI 與開源軟體，並投入資料中心相關業務，顯示其對新技術與合作夥伴持開放態度。要打入其供應鏈，需要提供在 AI/ML 工作負載方面具有顯著效能和成本優勢的解決方案，並證明其符合福特在混合基礎設施中的 MLOps 平台要求。",
-      "entryPoint": "最佳切入點是其 AI 平台產品團隊，該團隊負責 MLOps 和混合基礎設施策略。可以提供高效能的 AI 伺服器 (如 ASUS ESC8000A-E13) 進行 POC 測試，展示其在模型訓練和推理方面的卓越效能。此外，福特新成立的電池儲能業務，旨在為資料中心提供備用電源，這也提供了一個獨特的合作機會。可以探討將 ASUS 的伺服器與其電池儲能解決方案相結合，提供一個整合的、高效的資料中心基礎設施方案，共同開拓市場。"
+      "entryPoint": "最佳切入點是其 AI 平台產品團隊，該團隊負責 MLOps 和混合基礎設施策略。可以提供高效能的 AI 伺服器 (如 ASUS ESC8000A-E13) 進行 POC 測試，展示其在模型訓練和推理方面的卓越效能。此外，福特新成立的電池儲能業務，旨在為資料中心提供備用電源，這也提供了一個獨特的合作機會。可以探討將 ASUS 的伺服器與其電池儲能解決方案相結合，提供一個整合的、高效的資料中心基礎設施方案，共同開拓市場。",
+      "keyPerson": {
+        "name": "Sudhakar Pandrangi",
+        "title": "Director Datacenter and Manufacturing Networks",
+        "linkedin": "https://www.linkedin.com/in/sudhakar-pandrangi-6a463110b",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "詳見通路欄位",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.fromtheroad.ford.com/us/en/articles/2025/ford-reinvests-trucks-hybrids-affordable-electric-vehicles"
     },
     {
       "rank": 27,
@@ -403,7 +937,21 @@
       "channel": "直供 (Lambda 直接向終端客戶提供雲端服務和硬體租賃)",
       "difficulty": 8,
       "challenges": "Lambda Labs 與 Supermicro 建立了緊密的 ODM 合作關係，專注於快速導入最新的 NVIDIA 技術。要打入其供應鏈，必須證明在產品設計、散熱技術或供應鏈彈性上優於現有夥伴。克服方式是提供更具成本效益或更高性能的客製化解決方案，例如針對其高密度部署環境優化的液冷機櫃，並提供樣機進行長時間的壓力測試。",
-      "entryPoint": "切入點在於其對非 NVIDIA 平台（如 AMD Instinct MI300X）的潛在需求，以實現供應商多元化並降低成本。可以主動提供基於 AMD 平台的 AI 伺服器方案 (如 RS720A-E12 搭配 Instinct 加速卡)，展示其在特定工作負載下的性價比優勢。同時，可以針對其過去曾銷售但已停止的自有品牌工作站和伺服器業務，探討提供白牌硬體代工的可能性。"
+      "entryPoint": "切入點在於其對非 NVIDIA 平台（如 AMD Instinct MI300X）的潛在需求，以實現供應商多元化並降低成本。可以主動提供基於 AMD 平台的 AI 伺服器方案 (如 RS720A-E12 搭配 Instinct 加速卡)，展示其在特定工作負載下的性價比優勢。同時，可以針對其過去曾銷售但已停止的自有品牌工作站和伺服器業務，探討提供白牌硬體代工的可能性。",
+      "keyPerson": {
+        "name": "Ken Patchett",
+        "title": "VP of Datacenter Infrastructure",
+        "linkedin": "https://www.linkedin.com/in/ken-patchett-582899241",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Carahsoft (www.carahsoft.com)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-signs-usd1-5-billion-deal-with-cloud-startup-lambda-to-rent-back-its-own-ai-chips-18-000-gpus-will-be-leased-over-4-years-as-lambda-gears-up-for-its-ipo"
     },
     {
       "rank": 28,
@@ -418,7 +966,81 @@
       "channel": "直供 + SI: Accenture (https://www.accenture.com), Insight Enterprises (https://www.insight.com)",
       "difficulty": 8,
       "challenges": "LinkedIn 雖為 Microsoft 子公司，但 DC 基礎設施獨立運營，有自己的採購流程與技術標準。其伺服器多為客製化設計，對供應商的技術能力要求高。此外，Microsoft 體系內的供應商關係可能影響外部供應商的進入。需要展示在大規模部署、客製化設計與成本控制方面的能力。",
-      "entryPoint": "LinkedIn 暫停遷移至 Azure 後，持續獨立採購伺服器。可從 AI 推薦系統所需的 GPU 伺服器切入，或從下一代通用伺服器的替換週期切入。透過 Microsoft 體系內的 SI 夥伴（如 Accenture）進行引薦，並展示 ASUS 在 AMD EPYC 平台的性價比優勢。"
+      "entryPoint": "LinkedIn 暫停遷移至 Azure 後，持續獨立採購伺服器。可從 AI 推薦系統所需的 GPU 伺服器切入，或從下一代通用伺服器的替換週期切入。透過 Microsoft 體系內的 SI 夥伴（如 Accenture）進行引薦，並展示 ASUS 在 AMD EPYC 平台的性價比優勢。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "VP of IT Infrastructure",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "WWT (wwt.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "CDW (cdw.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "SHI International (shi.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Insight Enterprises (insight.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Presidio (presidio.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Trace3 (trace3.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "ePlus (eplus.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "D&H Distributing (dandh.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "Ingram Micro (ingrammicro.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "MA Labs, Inc. (malabs.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "Software Brokers of America (softwarebrokers.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "SYNNEX Corporation (tdsynnex.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "Tech Data (tdsynnex.com)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/microsoft-spent-111bn-on-data-center-leases-alone-in-q1-2026/"
     },
     {
       "rank": 29,
@@ -433,7 +1055,21 @@
       "channel": "直供",
       "difficulty": 7,
       "challenges": "Fidelity Investments 的 IT 基礎設施龐大且複雜，對於新供應商的導入流程嚴謹。需要展現強大的供應鏈管理能力，確保能準時交付大量的伺服器，並提供全球一致的售後服務。",
-      "entryPoint": "Fidelity Investments 正在日本建立超大規模資料中心，可以此為契機，提供符合日本市場法規與需求的伺服器。同時，可針對其在 AI 投資領域的需求，提供高效能的 AI 伺服器，並與其研發團隊合作，共同開發客製化的 AI 解決方案。"
+      "entryPoint": "Fidelity Investments 正在日本建立超大規模資料中心，可以此為契機，提供符合日本市場法規與需求的伺服器。同時，可針對其在 AI 投資領域的需求，提供高效能的 AI 伺服器，並與其研發團隊合作，共同開發客製化的 AI 解決方案。",
+      "keyPerson": {
+        "name": "David Vlock",
+        "title": "Director, Data Center Operations",
+        "linkedin": "https://www.linkedin.com/in/david-vlock-cdcmp-b1634579",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "WWT (wwt.com)",
+          "website": "",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.wagnerlawgroup.com/wp-content/uploads/sites/1101401/2025/11/111725RIABizArticleAJSQuote.pdf"
     },
     {
       "rank": 30,
@@ -448,7 +1084,31 @@
       "channel": "直供",
       "difficulty": 9,
       "challenges": "Cloudflare 自主設計伺服器，對供應商的技術能力和配合度要求極高。ASUS 需要展現其在伺服器設計和製造方面的專業能力，並願意與 Cloudflare 進行深度合作。此外，Cloudflare 對成本非常敏感，ASUS 需要提供具有競爭力的價格。",
-      "entryPoint": "可以從 Cloudflare 的新興業務著手，例如 AI/ML 應用，提供搭載 NVIDIA GPU 的解決方案。同時，可以與 Cloudflare 的硬體工程團隊建立關係，了解其下一代伺服器的設計需求，並提供客製化的解決方案。此外，可以考慮與 Cloudflare 的現有 ODM 合作夥伴合作，成為其供應鏈的一部分。"
+      "entryPoint": "可以從 Cloudflare 的新興業務著手，例如 AI/ML 應用，提供搭載 NVIDIA GPU 的解決方案。同時，可以與 Cloudflare 的硬體工程團隊建立關係，了解其下一代伺服器的設計需求，並提供客製化的解決方案。此外，可以考慮與 Cloudflare 的現有 ODM 合作夥伴合作，成為其供應鏈的一部分。",
+      "keyPerson": {
+        "name": "Ignacio Cabrera",
+        "title": "Vice President and Chief Procurement Officer (CPO)",
+        "linkedin": "https://www.linkedin.com/in/cpo-procurement",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Accenture (accenture.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Kyndryl (kyndryl.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "NTT (ntt.com)",
+          "website": "",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://blog.cloudflare.com/backbone2024/"
     },
     {
       "rank": 31,
@@ -463,7 +1123,31 @@
       "channel": "直供為主，同時也透過 SI/DIST 進行銷售，如 Carahsoft (https://www.carahsoft.com/vendors/akamai)。",
       "difficulty": 9,
       "challenges": "Akamai 的基礎設施遍布全球，對伺服器的穩定性和可靠性要求極高，且供應鏈管理複雜。近年來伺服器硬體和能源成本大幅上漲，對其採購策略產生壓力。ASUS 需要證明其產品具備高可靠度和能源效率，並提供具有競爭力的價格和全球交付能力，以應對其成本壓力。此外，Akamai 對於軟體定義基礎設施有深入研究，ASUS 需展現硬體與其軟體堆疊的高度整合能力。",
-      "entryPoint": "可以從 Akamai Cloud 的擴展需求切入，提供高效能的雲端運算伺服器，特別是針對 AI/ML 工作負載的 GPU 伺服器。同時，可以針對其邊緣計算 (Edge) 站點，提供低功耗、高密度、易於管理的客製化伺服器解決方案。與 Akamai 的技術合作夥伴 (Technology Partners) 建立合作關係，共同推廣整合解決方案，也是一個有效的市場進入策略。"
+      "entryPoint": "可以從 Akamai Cloud 的擴展需求切入，提供高效能的雲端運算伺服器，特別是針對 AI/ML 工作負載的 GPU 伺服器。同時，可以針對其邊緣計算 (Edge) 站點，提供低功耗、高密度、易於管理的客製化伺服器解決方案。與 Akamai 的技術合作夥伴 (Technology Partners) 建立合作關係，共同推廣整合解決方案，也是一個有效的市場進入策略。",
+      "keyPerson": {
+        "name": "Sabine A. Sitterli",
+        "title": "Vice President, Global Network Infrastructure",
+        "linkedin": "https://de.linkedin.com/in/sabine-sitterli",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "T-Systems (t-systems.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Westcon-Comstor (westconcomstor.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "Netpoleon Solutions Pte Ltd (netpoleon.com)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.ir.akamai.com/static-files/7b277c5f-83d7-46dd-b28a-5757026f09a7"
     },
     {
       "rank": 32,
@@ -478,25 +1162,107 @@
       "channel": "直供為主，直接與 NVIDIA、AMD 及伺服器 OEM 廠商合作。",
       "difficulty": 9,
       "challenges": "Iris Energy 專注於利用 100% 再生能源建立大規模、高效率的 AI 資料中心，對散熱 (特別是液冷技術) 和能源效率有極高要求。ASUS 需證明其液冷解決方案 (如 ASUS AI POD) 在大規模部署下的穩定性與成本效益，並提供具競爭力的總體擁有成本 (TCO) 分析，以挑戰其現有供應商。",
-      "entryPoint": "以 ASUS 最新的 NVIDIA Blackwell 架構伺服器 (ESC NB8-E11) 及 GB200 NVL72 AI POD 解決方案作為切入點，強調 ASUS 在主機板設計和散熱技術的領先優勢。主動提供樣機進行效能和功耗測試 (Proof of Concept)，並展示 ASUS 供應鏈的彈性，以滿足其快速擴展的部署時程。"
+      "entryPoint": "以 ASUS 最新的 NVIDIA Blackwell 架構伺服器 (ESC NB8-E11) 及 GB200 NVL72 AI POD 解決方案作為切入點，強調 ASUS 在主機板設計和散熱技術的領先優勢。主動提供樣機進行效能和功耗測試 (Proof of Concept)，並展示 ASUS 供應鏈的彈性，以滿足其快速擴展的部署時程。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "VP of IT Infrastructure",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "Iris Energy (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/ai-cloud-iren-purchases-50000-nvidia-b300-gpus/"
     },
     {
-      "company": "Equinix",
-      "region": "美國",
-      "volume": "約 20,000 - 40,000 台/年。Equinix 是全球最大的資料中心營運商，擁有 260+ 個資料中心。除提供 colocation 服務外，其 Equinix Metal（裸金屬雲服務）需要大量自有伺服器。計畫到 2029 年將全球容量翻倍，年資本支出達 $4-5B。",
-      "platform": "Intel Xeon / AMD EPYC 雙平台，1U/2U 通用伺服器為主。Equinix Metal 服務需要高密度伺服器，支援 GPU 加速運算。自有網路基礎設施搭配伺服器部署。",
-      "application": "全球資料中心 colocation 服務、Equinix Metal 裸金屬雲服務、Equinix Fabric 網路互連、AI/ML 運算服務。2024 年營收 $8.7B。",
-      "currentSuppliers": "Dell, HPE, Supermicro",
-      "odmOem": "OEM/ODM 混合",
-      "asusModel": "通用1U: RS700-E11, 通用2U: RS720-E11/RS720A-E12, AI 4U: ESC4000A-E12, 儲存: RS520-E11",
-      "channel": "直供 + SI: Accenture (https://www.accenture.com)",
-      "difficulty": 7,
-      "challenges": "Equinix 作為全球最大 DC 營運商，對伺服器的可靠性、能效與密度要求極高。其 Metal 服務需要高度客製化的伺服器配置。供應商需通過嚴格的認證流程，且需要全球供貨能力。",
-      "entryPoint": "從 Equinix Metal 裸金屬服務的伺服器需求切入，ASUS 可提供高密度、高能效的 1U/2U 伺服器方案。利用 ASUS 在 AMD EPYC 平台的性價比優勢，以及 AI GPU 伺服器的產品線深度。透過 POC 測試建立信任。",
-      "rank": 33
+      "rank": 33,
+      "company": "Comcast / NBCUniversal",
+      "region": "美國(費城)",
+      "volume": "20,000-30,000",
+      "platform": "白牌伺服器 (Intel Xeon / AMD EPYC)",
+      "application": "核心網路、媒體串流、雲端通訊",
+      "currentSuppliers": "DriveNets (軟體), 多家白牌硬體供應商",
+      "odmOem": "Quanta, Wiwynn (推測)",
+      "asusModel": "RS720-E12, RS720A-E12",
+      "channel": "直供",
+      "difficulty": 8,
+      "challenges": "已建立穩固的ODM合作關係、基礎設施高度客製化、對大規模採購的價格敏感。需透過極具競爭力的總體擁有成本（TCO）和節能效率來展現優勢。",
+      "entryPoint": "由於Comcast採用基於軟體的分解式網路架構，可從提供針對其特定軟體（如DriveNets）優化的白牌伺服器著手。強調ASUS伺服器在效能、電源效率和客製化方面的彈性，以符合其大規模、高效率的營運需求。",
+      "keyPerson": {
+        "name": "Michael Rebhorn",
+        "title": "Director, Data Center Operations",
+        "linkedin": "https://www.linkedin.com/in/michael-rebhorn-a5a1172a",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "WWT (wwt.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "TD SYNNEX (tdsynnex.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "Ingram Micro (ingrammicro.com)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.lightreading.com/ai-machine-learning/comcast-takes-ai-to-the-edge"
     },
     {
       "rank": 34,
+      "company": "Verizon Communications",
+      "region": "美國(紐約)",
+      "volume": "20,000-30,000",
+      "platform": "Intel Xeon / AMD EPYC (混合)",
+      "application": "5G網路、雲端服務、IoT、邊緣運算",
+      "currentSuppliers": "Dell, HPE, Cisco, Juniper",
+      "odmOem": "Quanta, Wistron (推測)",
+      "asusModel": "RS720-E12, RS720A-E12, ESC8000A-E13",
+      "channel": "直供/SI",
+      "difficulty": 8,
+      "challenges": "Verizon是全球最大的電信商之一，對供應商有非常嚴格的認證流程和長期的合作關係，且其網路設備與伺服器採購高度整合。克服方式：利用與AWS和Microsoft的合作關係，提供針對其5G Edge和私有雲解決方案優化的伺服器。強調ASUS在AI和邊緣運算伺服器的彈性與客製化能力。",
+      "entryPoint": "切入點在於其快速發展的5G Edge和私有MEC (Mobile Edge Computing) 業務。Verizon與AWS和Azure合作，在企業端部署邊緣運算節點。ASUS可以提供針對這些應用場景優化的邊緣伺服器，例如小尺寸、低功耗、高效能的1U/2U伺服器(RS700/RS720系列)，或是搭載GPU的AI推論伺服器(ESC4000系列)。可透過與AWS/Azure的合作管道，將ASUS伺服器作為其解決方案的一部分推薦給Verizon。",
+      "keyPerson": {
+        "name": "Matthew Butz",
+        "title": "Vice President of Engineering",
+        "linkedin": "https://www.linkedin.com/in/matthewbutz",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Insight (insight.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Ingram Micro (ingrammicro.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "TD SYNNEX (tdsynnex.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "Arrow (arrow.com)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/Archives/edgar/data/732712/000073271224000010/vz-20231231.htm"
+    },
+    {
+      "rank": 35,
       "company": "Tesla",
       "region": "美國",
       "volume": "約 15,000 - 25,000 台/年 (此為根據其Dojo專案規模、自動駕駛訓練需求及近期擴大採購NVIDIA GPU的報導推估)",
@@ -508,10 +1274,24 @@
       "channel": "直供",
       "difficulty": 7,
       "challenges": "Tesla的採購決策高度集中且變動快速，常由Elon Musk親自拍板。其自研Dojo專案的起落，顯示其在技術路線上的不確定性。要與Tesla合作，必須能快速回應其需求變化，並提供具備極致效能與成本效益的解決方案。此外，Tesla對供應鏈的掌控慾望強烈，可能會要求供應商開放技術細節或配合其進行客製化開發。",
-      "entryPoint": "緊跟Elon Musk的公開發言與Tesla的技術發表，掌握其最新的AI基礎設施發展方向。在Dojo專案暫緩後，Tesla對NVIDIA GPU的需求大增，此為切入的絕佳時機。可積極展示自家在NVIDIA平台上的整合能力與效能優勢，並提供彈性的供應鏈方案，以滿足其快速擴張的需求。同時，可關注其在車用AI晶片 (AI5) 上的發展，尋找在車載電腦或邊緣運算領域的合作機會。"
+      "entryPoint": "緊跟Elon Musk的公開發言與Tesla的技術發表，掌握其最新的AI基礎設施發展方向。在Dojo專案暫緩後，Tesla對NVIDIA GPU的需求大增，此為切入的絕佳時機。可積極展示自家在NVIDIA平台上的整合能力與效能優勢，並提供彈性的供應鏈方案，以滿足其快速擴張的需求。同時，可關注其在車用AI晶片 (AI5) 上的發展，尋找在車載電腦或邊緣運算領域的合作機會。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "VP of IT Infrastructure",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "Tesla (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://finance.yahoo.com/news/tesla-unveils-20-billion-capex-161113987.html"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "company": "Morgan Stanley",
       "region": "美國",
       "volume": "約 15,000 - 25,000 台/年。金融業對穩定性及低延遲交易有高度要求，雖然雲端採用率增加，但關鍵業務仍保留在本地數據中心。AI及數據分析需求將推動部分高效能伺服器採購。",
@@ -523,22 +1303,21 @@
       "channel": "主要透過大型系統整合商 (SI) 進行採購，例如 WWT (World Wide Technology) 和 SHI International。",
       "difficulty": 9,
       "challenges": "Morgan Stanley 對供應商的穩定性、安全性及合規性有極高標準，且與現有供應商有長期穩固的合作關係。要打入其供應鏈，必須通過嚴格的供應商審核，並證明產品在效能、穩定性及安全性上優於現有方案。此外，金融業的採購決策流程漫長且複雜，需要長期耕耘。",
-      "entryPoint": "初期可從非核心業務或新興 AI 應用領域切入，提供具高度性價比的解決方案。與其合作的 SI 建立良好關係，透過 SI 將 ASUS 的產品導入其採購清單。同時，積極參與其供應商招募活動，展示 ASUS 的技術實力與成功案例，逐步建立信任感。"
-    },
-    {
-      "rank": 36,
-      "company": "Cisco Systems",
-      "region": "加州(聖荷西)",
-      "volume": "約 15,000-20,000 台/年",
-      "platform": "Intel Xeon 1U/2U 通用伺服器、AMD EPYC 2U 伺服器",
-      "application": "內部IT基礎設施、Webex服務、網路安全分析",
-      "currentSuppliers": "自產(UCS)、Dell、HPE",
-      "odmOem": "OEM 為主",
-      "asusModel": "RS700-E11 (通用1U)、RS720-E12 (通用2U)",
-      "channel": "SI/DIST: CDW (https://www.cdw.com)、SHI International (https://www.shi.com)",
-      "difficulty": 9,
-      "challenges": "Cisco 本身就是伺服器供應商(UCS)，內部大量使用自家產品。克服方式：針對其非核心業務或特定研發測試環境，提供更具性價比的白牌/ODM解決方案",
-      "entryPoint": "從其研發部門的測試環境切入，提供高性價比的通用伺服器，強調 ASUS 在主機板設計的穩定性"
+      "entryPoint": "初期可從非核心業務或新興 AI 應用領域切入，提供具高度性價比的解決方案。與其合作的 SI 建立良好關係，透過 SI 將 ASUS 的產品導入其採購清單。同時，積極參與其供應商招募活動，展示 ASUS 的技術實力與成功案例，逐步建立信任感。",
+      "keyPerson": {
+        "name": "Martin Bradley",
+        "title": "Global Head of Data Centre Engineering and Operations",
+        "linkedin": "https://uk.linkedin.com/in/martin-bradley-8a6594b",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "詳見通路欄位",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.moomoo.com/news/post/60768562/morgan-stanley-2026-will-be-the-year-of-ai-technology"
     },
     {
       "rank": 37,
@@ -553,7 +1332,21 @@
       "channel": "直供 (透過 Vultr.com 網站) 及通路合作夥伴 (Vultr Partner Program)",
       "difficulty": 7,
       "challenges": "Vultr 作為老牌獨立雲端服務商，已建立成熟穩定的供應鏈體系，對價格和供應穩定性要求極高。新供應商需要提供極具競爭力的價格和全球交付能力。克服方式是利用 ASUS 在主機板研發和成本控制上的優勢，提供性價比極高的裸機伺服器方案，並承諾在全球主要區域的快速交付和服務響應。",
-      "entryPoint": "切入點可以是其新擴展的 GPU 雲業務。Vultr 需要快速部署大量 GPU 伺服器以滿足市場需求，這為新供應商提供了機會。可以主動提供搭載最新 NVIDIA 或 AMD GPU 的高密度伺服器方案，如 2U 4GPU 的 ESC4000-E11，並提供靈活的客製化選項（如不同的 CPU、記憶體和儲存配置），以滿足其不同客戶群的需求。同時，可以透過其合作夥伴計畫，與其通路商合作，間接進入其生態系統。"
+      "entryPoint": "切入點可以是其新擴展的 GPU 雲業務。Vultr 需要快速部署大量 GPU 伺服器以滿足市場需求，這為新供應商提供了機會。可以主動提供搭載最新 NVIDIA 或 AMD GPU 的高密度伺服器方案，如 2U 4GPU 的 ESC4000-E11，並提供靈活的客製化選項（如不同的 CPU、記憶體和儲存配置），以滿足其不同客戶群的需求。同時，可以透過其合作夥伴計畫，與其通路商合作，間接進入其生態系統。",
+      "keyPerson": {
+        "name": "Jacob Woode",
+        "title": "Infrastructure Architect",
+        "linkedin": "https://www.linkedin.com/in/jwoode",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Vultr (Constant Contact) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.jobsohio.com/newsroom/news-press/vultr-announces-1-billion-data-center-investment-in-springfield"
     },
     {
       "rank": 38,
@@ -568,7 +1361,21 @@
       "channel": "直供 + SI/DIST: Dell Technologies (https://www.dell.com), Switch (https://www.switch.com), V-Technologies (https://vtechnologies.com)",
       "difficulty": 8,
       "challenges": "FedEx 正在推動「zero mainframe, zero datacenter」策略，積極上雲。要與其雲端策略結合，提供混合雲或邊緣運算解決方案，而非單純的硬體銷售。",
-      "entryPoint": "FedEx 的數據平台 VDAP 及全球超過 600 個獨立運營的環境是很好的切入點。提供高效能、高密度的伺服器，以滿足其大規模數據處理及 AI 運算的需求。同時，針對其全球各地的物流中心提供邊緣運算解決方案。"
+      "entryPoint": "FedEx 的數據平台 VDAP 及全球超過 600 個獨立運營的環境是很好的切入點。提供高效能、高密度的伺服器，以滿足其大規模數據處理及 AI 運算的需求。同時，針對其全球各地的物流中心提供邊緣運算解決方案。",
+      "keyPerson": {
+        "name": "Adam Smith",
+        "title": "EVP, Technology Platforms and Infrastructure",
+        "linkedin": "https://www.linkedin.com/in/adamsmithcan",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Dell Technologies (www.delltechnologies.com)",
+          "website": "",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/"
     },
     {
       "rank": 39,
@@ -583,7 +1390,21 @@
       "channel": "直供 + SI/DIST",
       "difficulty": 8,
       "challenges": "Inflection AI 在被 Microsoft 大部分團隊收購後，其未來發展方向與硬體需求變得較不確定，且與 Microsoft 和 Intel 有深度綁定。要切入其供應鏈，困難度較高。克服方式是專注於其轉向企業市場後的新需求，提供比現有合作夥伴更具彈性或更高性價比的客製化硬體方案。",
-      "entryPoint": "切入點在於其新推出的企業級 AI 應用，以及與 Intel 合作的本地部署方案。可以與 Intel 合作，成為其 AI 硬體應用的供應商之一，或是直接向尋求私有雲 AI 解決方案的企業客戶，提供整合了 Inflection AI 軟體的 ASUS 伺服器。執行上，需要與 Intel 建立合作關係，並同時接觸 Inflection AI 的企業客戶，了解其在本地部署上的具體需求。"
+      "entryPoint": "切入點在於其新推出的企業級 AI 應用，以及與 Intel 合作的本地部署方案。可以與 Intel 合作，成為其 AI 硬體應用的供應商之一，或是直接向尋求私有雲 AI 解決方案的企業客戶，提供整合了 Inflection AI 軟體的 ASUS 伺服器。執行上，需要與 Intel 建立合作關係，並同時接觸 Inflection AI 的企業客戶，了解其在本地部署上的具體需求。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "VP of IT Infrastructure",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "Inflection AI (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://insidehpc.com/2023/06/22000-gpus-inflection-ai-building-22-exaflops-generative-ai-cluster/"
     },
     {
       "rank": 40,
@@ -598,7 +1419,81 @@
       "channel": "SI/DIST (如 World Wide Technology, https://www.wwt.com/)",
       "difficulty": 6,
       "challenges": "Charles Schwab 的技術平台大量採用第三方解決方案，對於新硬體的相容性要求高。需要與其主要的軟體供應商建立合作關係，確保 ASUS 伺服器能無縫接軌其現有系統。",
-      "entryPoint": "Charles Schwab 提供 API 整合平台，可以開發針對其平台的管理工具，讓客戶可以透過單一介面管理 ASUS 伺服器。此外，可以與其合作的系統整合商 (SI) 建立合作關係，透過 SI 的通路將 ASUS 伺服器導入其客戶群。"
+      "entryPoint": "Charles Schwab 提供 API 整合平台，可以開發針對其平台的管理工具，讓客戶可以透過單一介面管理 ASUS 伺服器。此外，可以與其合作的系統整合商 (SI) 建立合作關係，透過 SI 的通路將 ASUS 伺服器導入其客戶群。",
+      "keyPerson": {
+        "name": "Dave Loomis",
+        "title": "Vice President of Infrastructure, Operations and Cloud Platforms",
+        "linkedin": "https://www.linkedin.com/in/dave-loomis-970659",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Agio SkySuite (agioskysuite.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "DocuSign (docusign.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "FIT Solutions (fitsolutions.biz)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Greenboard (greenboard.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Highridge Technology, LLC (hightech-llc.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Iris Software (irissoftware.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "ITEGRIA, LLC (itegria.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Nowcasting.ai INC dba Streetbeat (streetbeat.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Right Size Solutions, Inc. (rightsize-solutions.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "The Tek (thetek.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "UNAPEN, Inc (unapen.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Versoft, Inc. (versoft.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Xantrion (xantrion.com)",
+          "website": "",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=charles-schwab&CIK=&type=10-K"
     },
     {
       "rank": 41,
@@ -613,7 +1508,21 @@
       "channel": "直供",
       "difficulty": 8,
       "challenges": "CVS Health 作為大型醫療保健和零售企業，擁有成熟且穩固的 IT 供應鏈，長期與 Dell、HPE 等一線品牌合作，更換供應商的轉換成本高、風險大。要克服此困難，建議先從其新興的 AI 業務著手，例如 Health100 平台，提供具備更高性價比或客製化彈性的 AI 伺服器解決方案，建立初步合作關係後再逐步擴展。",
-      "entryPoint": "切入點為其與 Google Cloud 合作的 AI 平台，以及龐大的數據分析需求。可主動提出基於 ASUS AI 伺服器 (如 ESC8000-E12) 的 POC (概念驗證) 專案，展示在特定 AI 模型訓練或推論場景下的效能優勢與 TCO (總體擁有成本) 節省效益，並強調 ASUS 的供應鏈彈性與快速客製化能力，滿足其特定業務需求。"
+      "entryPoint": "切入點為其與 Google Cloud 合作的 AI 平台，以及龐大的數據分析需求。可主動提出基於 ASUS AI 伺服器 (如 ESC8000-E12) 的 POC (概念驗證) 專案，展示在特定 AI 模型訓練或推論場景下的效能優勢與 TCO (總體擁有成本) 節省效益，並強調 ASUS 的供應鏈彈性與快速客製化能力，滿足其特定業務需求。",
+      "keyPerson": {
+        "name": "Alan Rosa",
+        "title": "Chief Information Security Officer and SVP, Infrastructure & Operations",
+        "linkedin": "https://www.linkedin.com/in/yankeefan30",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "WEI (wei.com)",
+          "website": "",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://finance.yahoo.com/news/exclusive-cvs-lays-out-20b-plan-to-modernize-us-consumer-healthcare-experience-154127371.html"
     },
     {
       "rank": 42,
@@ -628,7 +1537,21 @@
       "channel": "主要透過大型系統整合商 (SI) 如 World Wide Technology (WWT, wwt.com) 進行採購與部署。",
       "difficulty": 8,
       "challenges": "波音的 IT 基礎設施龐大且複雜，與 Dell、HPE 及 WWT 等供應商有長期且深入的合作關係，要取代現有供應商難度極高。此外，其對供應商的穩定性、可靠性及全球支援能力有極高要求。克服的關鍵在於提供具備顯著成本效益或效能優勢的利基解決方案，並與 WWT 等主要 SI 建立合作關係。",
-      "entryPoint": "最佳切入點是其「智慧工廠」及「自動化」等創新領域。這些新興應用需要大量的邊緣運算及 AI 推理能力，為新供應商提供了機會。可以與 WWT 合作，將 ASUS 的邊-緣運算伺服器 (如 ESC4000-E11) 整合到其解決方案中，提供給波音進行試點。另外，針對其工程模擬與分析部門，提供搭載最新 AMD EPYC 處理器的高效能運算伺服器 (如 RS720A-E12)，展示在特定 CAE/CFD 工作負載下的效能優勢，爭取小規模訂單，建立成功案例。"
+      "entryPoint": "最佳切入點是其「智慧工廠」及「自動化」等創新領域。這些新興應用需要大量的邊緣運算及 AI 推理能力，為新供應商提供了機會。可以與 WWT 合作，將 ASUS 的邊-緣運算伺服器 (如 ESC4000-E11) 整合到其解決方案中，提供給波音進行試點。另外，針對其工程模擬與分析部門，提供搭載最新 AMD EPYC 處理器的高效能運算伺服器 (如 RS720A-E12)，展示在特定 CAE/CFD 工作負載下的效能優勢，爭取小規模訂單，建立成功案例。",
+      "keyPerson": {
+        "name": "Richard Stewart",
+        "title": "Senior Director, Boeing IT Infrastructure & Operations",
+        "linkedin": "https://www.linkedin.com/in/richard-stewart-391341153",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "WWT (wwt.com)",
+          "website": "",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.intricately.com/reports/boeing"
     },
     {
       "rank": 43,
@@ -643,25 +1566,87 @@
       "channel": "直供，與 Supermicro 深度合作。",
       "difficulty": 10,
       "challenges": "Applied Digital 與 Supermicro 建立了非常緊密的合作關係，Supermicro 為其提供了高度客製化的 AI 基礎設施解決方案。要打破此合作關係極為困難，ASUS 必須提出遠超現有方案的價值主張，例如在特定應用場景下顯著的效能提升或更低的營運成本。",
-      "entryPoint": "由於直接取代 Supermicro 的難度極高，建議從利基市場或下一代技術切入。例如，針對其 HPC 應用，推廣採用 AMD EPYC 處理器的 RS720A-E12 2U 伺服器，強調其核心數和性價比優勢。同時，持續介紹 ASUS 在下一代 GPU 平台 (如 GB200) 上的研發進展，尋找在新技術導入時的合作機會。"
+      "entryPoint": "由於直接取代 Supermicro 的難度極高，建議從利基市場或下一代技術切入。例如，針對其 HPC 應用，推廣採用 AMD EPYC 處理器的 RS720A-E12 2U 伺服器，強調其核心數和性價比優勢。同時，持續介紹 ASUS 在下一代 GPU 平台 (如 GB200) 上的研發進展，尋找在新技術導入時的合作機會。",
+      "keyPerson": {
+        "name": "Todd Gale",
+        "title": "Chief Development Officer",
+        "linkedin": "https://www.linkedin.com/in/todd-gale-657a0023",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Applied Digital (APLD) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://ir.applieddigital.com/news-events/press-releases/detail/144/applied-digital-breaks-ground-on-delta-forge-1-a-430-mw-ai"
     },
     {
       "rank": 44,
-      "company": "Leidos",
-      "region": "NA/美國(維吉尼亞州雷斯頓)",
-      "volume": "10,000-15,000 台 (估計，包含為其客戶採購)",
-      "platform": "廣泛採用各大 OEM 廠商的 COTS 伺服器 (Dell, HPE, Cisco)，並整合到為政府和國防客戶提供的解決方案中",
-      "application": "系統整合、IT 現代化、雲端遷移、數據中心現代化、AI/ML 平台、為 NASA 等客戶提供 IT 基礎設施",
-      "currentSuppliers": "Dell, HPE, Cisco, AWS, Microsoft Azure, Google Cloud",
-      "odmOem": "否 (自身為大型系統整合商)",
-      "asusModel": "RS700-E11, RS720-E12, RS720A-E12, ESC4000-E11, ESC8000-E12",
-      "channel": "自身即為最大的 SI 之一，直接向 OEM 採購。",
-      "difficulty": 7,
-      "challenges": "**困難點:** Leidos 作為大型整合商，有非常成熟和穩固的 OEM 合作夥伴關係 (Dell, HPE)。進入其供應鏈需要通過嚴格的審核和長期的合作驗證。**克服方式:** 將 ASUS 定位為具備高度彈性和成本效益的替代方案供應商。在其商業專案或非關鍵任務的政府專案中，提供具備價格競爭力的伺服器選項。",
-      "entryPoint": "**切入點:** 成為 Leidos 的認證供應商，專注於其 AI 數據中心和電網整合等新興業務領域。**執行方式:** 主動聯繫其採購部門，完成供應商註冊流程。針對其公開的專案需求，提供基於 ASUS 伺服器的解決方案，特別是在需要高密度 GPU 或特定硬體配置的場景，展示 ASUS 的客製化能力和快速交付優勢。"
+      "company": "T-Mobile US",
+      "region": "美國(華盛頓州貝爾維尤)",
+      "volume": "15,000-25,000",
+      "platform": "Intel Xeon / AMD EPYC (Dell, HPE)",
+      "application": "5G網路核心、邊緣運算(MEC)、私有網路、AI應用",
+      "currentSuppliers": "Dell, HPE, Nokia, Ericsson",
+      "odmOem": "Quanta, Wistron (推測)",
+      "asusModel": "RS720-E12, ESC4000-E11, ESC8000-E12",
+      "channel": "直供/SI",
+      "difficulty": 9,
+      "challenges": "T-Mobile與Dell和HPE等主要供應商有深度的策略合作，尤其在邊緣運算和私有5G網路領域。其供應鏈非常成熟，新供應商進入門檻極高。克服方式：ASUS需要展現出比現有供應商更優越的彈性、客製化能力和總體擁有成本(TCO)。可以針對特定的新興應用，如AI驅動的網路優化或特定行業的邊緣解決方案，提供概念驗證(PoC)。",
+      "entryPoint": "切入點在於T-Mobile的「Un-carrier」市場策略，他們持續尋求創新的、能降低成本的解決方案。ASUS可以其「5G Advanced Network Solutions」為突破口，提供與Dell VxRail競爭的、基於ASUS伺服器的高度整合、預先驗證的邊緣運算解決方案。可與軟體合作夥伴共同開發，強調其開放架構與避免供應商鎖定的優勢，直接向T-Mobile的企業解決方案部門或其大型企業客戶提案。",
+      "keyPerson": {
+        "name": "Henry Zielinski",
+        "title": "Director, Critical Facility Operations",
+        "linkedin": "https://www.linkedin.com/in/henryzielinski",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "TD SYNNEX (tdsynnex.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "Ingram Micro (ingrammicro.com)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=t-mobile-us&CIK=&type=10-K"
     },
     {
       "rank": 45,
+      "company": "Walt Disney Company",
+      "region": "美國(加州伯班克)",
+      "volume": "15,000-25,000",
+      "platform": "混合雲 (AWS + 自建數據中心), 可能採用通用型機架伺服器",
+      "application": "串流媒體 (Disney+), 內容渲染, 企業IT",
+      "currentSuppliers": "AWS (公有雲), HPE, Dell (自建數據中心推測)",
+      "odmOem": "不明確，可能部分採用",
+      "asusModel": "RS700-E11, RS720-E12",
+      "channel": "直供/SI",
+      "difficulty": 7,
+      "challenges": "迪士尼與AWS有深度合作關係，且自建數據中心供應商穩定，新供應商難以切入。需證明在特定工作負載（如渲染、AI）上具備顯著的性價比或效能優勢。",
+      "entryPoint": "針對其動畫和視覺效果部門，提供高效能的AI/GPU伺服器（如ESC8000/ESC4000系列）進行概念驗證(POC)，展示在渲染和AI應用上的卓越效能。同時，探索其自建數據中心更新週期，提供更具成本效益的通用伺服器方案。",
+      "keyPerson": {
+        "name": "Ricardo Gonzaga",
+        "title": "Head of International Infrastructure",
+        "linkedin": "https://www.linkedin.com/in/ricardo-gonzaga-79391a98",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "CDW (cdw.com)",
+          "website": "",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=walt-disney-company&CIK=&type=10-K"
+    },
+    {
+      "rank": 46,
       "company": "UPS",
       "region": "美國",
       "volume": "約 12,000 - 20,000 台/年 (估計)",
@@ -673,22 +1658,21 @@
       "channel": "直供及 SI",
       "difficulty": 8,
       "challenges": "UPS 大量使用 Google Cloud 進行數據分析及 AI 應用，對雲端平台依賴性高。需要提供能與 Google Cloud 無縫整合的混合雲解決方案，並在特定工作負載上展現比公有雲更高的性價比。",
-      "entryPoint": "UPS 的 Harmonized Enterprise Analytics Tool (HEAT) 平台處理超過 10 億個數據點，需要強大的運算能力。可提供針對性的高效能運算（HPC）及 AI 伺服器。另外，其全球物流網絡中的邊緣運算節點也是一個潛在的切入機會。"
-    },
-    {
-      "rank": 46,
-      "company": "Northrop Grumman",
-      "region": "NA/美國(維吉尼亞州福爾斯徹奇)",
-      "volume": "7,000-12,000 台 (估計)",
-      "platform": "高度客製化、強固型伺服器，混合使用 COTS (Commercial-off-the-shelf) 和自研硬體，Intel Xeon / AMD EPYC",
-      "application": "國防系統、航太、情報數據處理、模擬與訓練、安全基礎設施、AI/ML 應用",
-      "currentSuppliers": "多為具備高度安全認證的供應商，如 Dell Federal, HPE Federal，以及專門的國防承包商",
-      "odmOem": "可能與特定 ODM 合作開發符合軍規的客製化硬體",
-      "asusModel": "RS720-E12, ESC8000-E12 (需進行強固化與客製化)",
-      "channel": "主要透過具備政府合約的 SI/整合商: Leidos (https://www.leidos.com), SAIC (https://www.saic.com), CACI (https://www.caci.com)",
-      "difficulty": 10,
-      "challenges": "**困難點:** 國防承包商對供應商有極高的安全審查和認證要求 (如 CMMC)，供應鏈完全在地化且封閉。產品需符合軍規 (MIL-STD)。**克服方式:** 與 Leidos, SAIC 等已在供應鏈內的整合商建立合作關係，將 ASUS 的 COTS 產品作為其解決方案的一部分。需要投入大量資源進行產品認證與客製化。",
-      "entryPoint": "**切入點:** 專注於其非核心的 IT 基礎設施現代化，或作為二線供應商，為其合作夥伴提供伺服器元件或基礎平台。**執行方式:** 透過與 Leidos 等整合商的合作，了解其在政府專案中對 COTS 伺服器的需求，提供 ASUS 的標準伺服器進行評估，並表達願意投入資源進行必要的強固化與安全認證。"
+      "entryPoint": "UPS 的 Harmonized Enterprise Analytics Tool (HEAT) 平台處理超過 10 億個數據點，需要強大的運算能力。可提供針對性的高效能運算（HPC）及 AI 伺服器。另外，其全球物流網絡中的邊緣運算節點也是一個潛在的切入機會。",
+      "keyPerson": {
+        "name": "Ken Finnerty",
+        "title": "President; IT & Data Analytics",
+        "linkedin": "https://www.linkedin.com/in/ken-finnerty-22aa1b71",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "NTT DATA",
+          "website": "https://us.nttdata.com/en/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://us.nttdata.com/en/news/press-release/2025/march/ntt-data-selected-by-ups-for-digital-transformation-and-modernization"
     },
     {
       "rank": 47,
@@ -703,22 +1687,55 @@
       "channel": "SI/DIST (透過其醫療客戶的採購通路)",
       "difficulty": 9,
       "challenges": "Epic Systems 本身是軟體開發商，其硬體採購主要由使用其 EHR 系統的醫療機構客戶決定，但 Epic 會提供硬體建議和認證。其推薦名單長期由 Dell、HPE 等品牌佔據，技術生態系封閉且穩定。要克服此困難，必須投入大量資源進行產品認證，與 Epic 建立技術合作夥伴關係，證明 ASUS 伺服器在運行其軟體時的穩定性、效能和安全性均能達到或超越現有標準。",
-      "entryPoint": "切入點是取得 Epic 軟體的官方硬體認證。執行上，需要成立專門團隊，與 Epic 的技術部門對接，投入工程資源進行長時間的相容性測試與效能調校。一旦取得認證，即可透過醫療領域的系統整合商 (SI) 或直接向 Epic 的客戶 (大型醫院、診所) 推廣 ASUS 伺服器解決方案，並以更具競爭力的價格或更佳的客製化服務作為誘因。"
+      "entryPoint": "切入點是取得 Epic 軟體的官方硬體認證。執行上，需要成立專門團隊，與 Epic 的技術部門對接，投入工程資源進行長時間的相容性測試與效能調校。一旦取得認證，即可透過醫療領域的系統整合商 (SI) 或直接向 Epic 的客戶 (大型醫院、診所) 推廣 ASUS 伺服器解決方案，並以更具競爭力的價格或更佳的客製化服務作為誘因。",
+      "keyPerson": {
+        "name": "Stirling Martin",
+        "title": "Senior Vice President, Chief Security Officer, and President at Epic Hosting",
+        "linkedin": "https://www.linkedin.com/in/stirlingmartin",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "CDW (dvs.cdw.com/azure/epic)",
+          "website": "",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.healthdatamanagement.com/news/epic-purchase-of-mayo-data-center-brings-benefits-to-both"
     },
     {
       "rank": 48,
-      "company": "SAIC (Science Applications International Corporation)",
+      "company": "Leidos",
       "region": "NA/美國(維吉尼亞州雷斯頓)",
-      "volume": "8,000-12,000 台 (估計，包含為其客戶採購)",
-      "platform": "採用各大 OEM 的 COTS 伺服器 (Dell, HPE)，並透過其 Cloud One 平台整合 AWS, Azure, Google Cloud, OCI",
-      "application": "為政府、國防、情報客戶提供系統整合、企業 IT 現代化、雲端服務、數據分析與 AI 解決方案",
-      "currentSuppliers": "Dell, HPE, Cisco, AWS, Microsoft Azure, Google Cloud, Oracle",
+      "volume": "10,000-15,000 台 (估計，包含為其客戶採購)",
+      "platform": "廣泛採用各大 OEM 廠商的 COTS 伺服器 (Dell, HPE, Cisco)，並整合到為政府和國防客戶提供的解決方案中",
+      "application": "系統整合、IT 現代化、雲端遷移、數據中心現代化、AI/ML 平台、為 NASA 等客戶提供 IT 基礎設施",
+      "currentSuppliers": "Dell, HPE, Cisco, AWS, Microsoft Azure, Google Cloud",
       "odmOem": "否 (自身為大型系統整合商)",
-      "asusModel": "RS700-E11, RS720-E12, RS720A-E12, ESC8000-E12",
-      "channel": "自身即為大型 SI，直接向 OEM 採購。",
+      "asusModel": "RS700-E11, RS720-E12, RS720A-E12, ESC4000-E11, ESC8000-E12",
+      "channel": "自身即為最大的 SI 之一，直接向 OEM 採購。",
       "difficulty": 7,
-      "challenges": "**困難點:** 作為服務政府的整合商，其供應商名單相對固定，且與傳統 OEM 關係緊密。**克服方式:** 將 ASUS 定位為一個靈活且具成本效益的硬體平台選項，協助 SAIC 在競標政府專案時提高價格競爭力。",
-      "entryPoint": "**切入點:** 成為 SAIC 的認證供應商，專注於其在數據分析、AI 和多雲整合服務中所需的硬體。**執行方式:** 聯繫其供應商管理部門並完成註冊。針對其在 OASIS+ 等合約載具上的專案，主動提供基於 ASUS 伺服器的解決方案，以高效能 GPU 伺服器或高密度運算節點作為差異化優勢。"
+      "challenges": "**困難點:** Leidos 作為大型整合商，有非常成熟和穩固的 OEM 合作夥伴關係 (Dell, HPE)。進入其供應鏈需要通過嚴格的審核和長期的合作驗證。**克服方式:** 將 ASUS 定位為具備高度彈性和成本效益的替代方案供應商。在其商業專案或非關鍵任務的政府專案中，提供具備價格競爭力的伺服器選項。",
+      "entryPoint": "**切入點:** 成為 Leidos 的認證供應商，專注於其 AI 數據中心和電網整合等新興業務領域。**執行方式:** 主動聯繫其採購部門，完成供應商註冊流程。針對其公開的專案需求，提供基於 ASUS 伺服器的解決方案，特別是在需要高密度 GPU 或特定硬體配置的場景，展示 ASUS 的客製化能力和快速交付優勢。",
+      "keyPerson": {
+        "name": "Blake Nelson",
+        "title": "Vice President, Cloud and Data Center Practice",
+        "linkedin": "https://www.linkedin.com/in/blakenelson",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "WWT (wwt.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "CDW-G (cdwg.com)",
+          "website": "",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.leidos.com/insights/leidos-helps-utilities-and-developers-tackle-ai-data-centers-power-demands"
     },
     {
       "rank": 49,
@@ -733,7 +1750,21 @@
       "channel": "直供",
       "difficulty": 6,
       "challenges": "Hut 8 正在從比特幣挖礦快速轉型為 AI 基礎設施供應商，對伺服器的交付速度和規模要求極高，且已與 Supermicro 等建立合作。克服方式為，強調 ASUS 在高密度 AI 伺服器上的設計能力與供應鏈彈性，並提供具競爭力的價格與快速交付的承諾。",
-      "entryPoint": "切入點為其新建的大規模 AI 資料中心，特別是與 Google/Anthropic 合作的專案。執行上，應直接與 Hut 8 的高層和技術團隊接觸，提供完整的 AI POD 解決方案，從設計、建置到維運提供一站式服務，並強調 ASUS 在大規模 AI 基礎設施部署上的成功案例。"
+      "entryPoint": "切入點為其新建的大規模 AI 資料中心，特別是與 Google/Anthropic 合作的專案。執行上，應直接與 Hut 8 的高層和技術團隊接觸，提供完整的 AI POD 解決方案，從設計、建置到維運提供一站式服務，並強調 ASUS 在大規模 AI 基礎設施部署上的成功案例。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "VP of IT Infrastructure",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "Amulet Hotkey",
+          "website": "https://www.amulethotkey.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.newswire.ca/news-releases/hut-8-mining-advances-high-performance-computing-capabilities-with-procurement-of-tier-1-server-hardware-853480692.html"
     },
     {
       "rank": 50,
@@ -748,7 +1779,21 @@
       "channel": "直供 (透過 DigitalOcean.com 網站) 及解決方案合作夥伴 (Solutions Partner Program)",
       "difficulty": 6,
       "challenges": "DigitalOcean 極度注重成本效益和營運簡易性，其基礎設施已高度標準化，對新供應商的導入流程嚴格且注重價格競爭力。要克服此困難，必須提供在總體擁有成本 (TCO) 上具有顯著優勢的產品，並證明其產品能無縫整合進 DigitalOcean 的自動化管理平台。",
-      "entryPoint": "切入點在於其新推出的 GPU 計算平台和針對 SMB 的 AI 解決方案。可以提供高性價比的 GPU 伺服器，例如搭載 4 張 NVIDIA L40S 或 A40 GPU 的 2U 伺服器 (如 ESC4000-E11)，這類配置在成本和性能上對中小型 AI 工作負載非常有吸引力。執行上，可以先透過其合作夥伴計畫，與幫助 SMB 客戶導入 AI 的系統整合商合作，讓 ASUS 的硬體作為解決方案的一部分被推薦給 DigitalOcean，建立初步合作案例後再尋求直接合作。"
+      "entryPoint": "切入點在於其新推出的 GPU 計算平台和針對 SMB 的 AI 解決方案。可以提供高性價比的 GPU 伺服器，例如搭載 4 張 NVIDIA L40S 或 A40 GPU 的 2U 伺服器 (如 ESC4000-E11)，這類配置在成本和性能上對中小型 AI 工作負載非常有吸引力。執行上，可以先透過其合作夥伴計畫，與幫助 SMB 客戶導入 AI 的系統整合商合作，讓 ASUS 的硬體作為解決方案的一部分被推薦給 DigitalOcean，建立初步合作案例後再尋求直接合作。",
+      "keyPerson": {
+        "name": "Vinay Kumar",
+        "title": "Chief Product and Technology Officer",
+        "linkedin": "https://www.linkedin.com/in/jenukal",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "DigitalOcean (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.investing.com/news/transcripts/digitalocean-at-morgan-stanley-conference-ai-growth-and-strategic-expansion-93CH-4538836"
     },
     {
       "rank": 51,
@@ -763,7 +1808,21 @@
       "channel": "直供",
       "difficulty": 8,
       "challenges": "Rackspace 與現有供應商合作關係穩固，且採購量大，對價格敏感。需要透過提供更有競爭力的價格、更客製化的解決方案以及更優質的技術支援來爭取訂單。此外，Rackspace 對供應商的可靠性和穩定性要求極高，ASUS 需要證明其產品和供應鏈的可靠性。",
-      "entryPoint": "可以從 Rackspace 的非核心業務或新興業務著手，例如 AI/ML 應用，提供搭載 NVIDIA GPU 的解決方案。同時，可以與 Rackspace 的技術團隊建立關係，了解其具體需求，並提供客製化的解決方案。此外，可以考慮與 Rackspace 的通路合作夥伴合作，透過他們來銷售 ASUS 的產品。"
+      "entryPoint": "可以從 Rackspace 的非核心業務或新興業務著手，例如 AI/ML 應用，提供搭載 NVIDIA GPU 的解決方案。同時，可以與 Rackspace 的技術團隊建立關係，了解其具體需求，並提供客製化的解決方案。此外，可以考慮與 Rackspace 的通路合作夥伴合作，透過他們來銷售 ASUS 的產品。",
+      "keyPerson": {
+        "name": "Jim Weinheimer",
+        "title": "VP of Data Center Operations",
+        "linkedin": "https://www.linkedin.com/in/jimweinheimer",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Rackspace (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.amd.com/content/dam/amd/en/documents/resources/case-studies/rackspace-case-study.pdf"
     },
     {
       "rank": 52,
@@ -778,7 +1837,36 @@
       "channel": "SI/DIST: Insight Enterprises (https://www.insight.com)、World Wide Technology (https://www.wwt.com)",
       "difficulty": 7,
       "challenges": "收購 VMware 後基礎設施龐大，且與現有供應商關係深厚。克服方式：針對其 EDA 晶片設計的高頻運算需求，提供客製化的高時脈伺服器",
-      "entryPoint": "從其半導體設計部門的 EDA 運算叢集切入，提供 RS720-E12 進行效能測試，展示在單核心效能上的優勢"
+      "entryPoint": "從其半導體設計部門的 EDA 運算叢集切入，提供 RS720-E12 進行效能測試，展示在單核心效能上的優勢",
+      "keyPerson": {
+        "name": "Alan Davidson",
+        "title": "Chief Information Officer",
+        "linkedin": "https://www.linkedin.com/in/alan-davidson-0a90286",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Avnet (avnet.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "Arrow Electronics (arrow.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "TD SYNNEX (tdsynnex.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "Ingram Micro (ingrammicro.com)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.digitimes.com/news/a20260305VL208/broadcom-chips-server-rack-shipments-gross-margin.html"
     },
     {
       "rank": 53,
@@ -793,7 +1881,31 @@
       "channel": "SI/DIST: CDW (https://www.cdw.com)、Connection (https://www.connection.com)",
       "difficulty": 7,
       "challenges": "晶片設計對伺服器穩定性要求極高，且已有長期合作的 OEM。克服方式：提供基於最新 AMD EPYC 處理器的高密度運算節點，降低其資料中心空間成本",
-      "entryPoint": "從其 AI 研發部門切入，提供 ESC A8A-E12U 進行 AI 模型訓練測試，強調 ASUS 在散熱設計上的優勢"
+      "entryPoint": "從其 AI 研發部門切入，提供 ESC A8A-E12U 進行 AI 模型訓練測試，強調 ASUS 在散熱設計上的優勢",
+      "keyPerson": {
+        "name": "Zeeshan Sabir",
+        "title": "Vice President of IT infrastructure",
+        "linkedin": "https://www.linkedin.com/in/zeeshan-sabir-8631931",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Arrow Electronics (arrow.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "Avnet, Inc. (avnet.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "Mouser Electronics (mouser.com)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/Archives/edgar/data/804328/000080432822000021/qcom-20220925.htm"
     },
     {
       "rank": 54,
@@ -808,7 +1920,21 @@
       "channel": "直供",
       "difficulty": 7,
       "challenges": "Together AI 作為 NVIDIA 的重要雲端合作夥伴，其採購決策高度依賴 NVIDIA 的技術路線圖與參考架構。他們需要能夠快速、大規模交付最新 GPU 伺服器的供應商，對供應鏈能力、生產彈性與成本控制要求極高。ASUS 需要在與一線 ODM 的競爭中，證明其在交期、品質與價格上的綜合優勢。",
-      "entryPoint": "ASUS 作為 NVIDIA 的長期合作夥伴，應積極爭取成為其認證的伺服器供應商。可以從提供最新一代的 NVIDIA Blackwell 架構伺服器 (如 ASUS AI POD GB200/GB300 NVL72) 作為切入點，強調 ASUS 在主機板設計、散熱技術與系統整合上的研發實力。提供具競爭力的價格、彈性的客製化選項，以及可靠的全球供應鏈支援，將是贏得其訂單的關鍵。"
+      "entryPoint": "ASUS 作為 NVIDIA 的長期合作夥伴，應積極爭取成為其認證的伺服器供應商。可以從提供最新一代的 NVIDIA Blackwell 架構伺服器 (如 ASUS AI POD GB200/GB300 NVL72) 作為切入點，強調 ASUS 在主機板設計、散熱技術與系統整合上的研發實力。提供具競爭力的價格、彈性的客製化選項，以及可靠的全球供應鏈支援，將是贏得其訂單的關鍵。",
+      "keyPerson": {
+        "name": "Mahadev Konar",
+        "title": "SVP of Infrastructure Engineering",
+        "linkedin": "https://www.linkedin.com/in/mahadevkonar",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Dell Technologies",
+          "website": "https://www.dell.com/en-in/dt/corporate/newsroom/announcements/detailpage.press-releases~usa~2025~03~together-ai-taps-dell-technologies-to-scale-ai-acceleration-cloud-for-the-enterprise.htm",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.dell.com/en-in/dt/corporate/newsroom/announcements/detailpage.press-releases~usa~2025~03~together-ai-taps-dell-technologies-to-scale-ai-acceleration-cloud-for-the-enterprise.htm"
     },
     {
       "company": "Twitch (Amazon)",
@@ -823,25 +1949,121 @@
       "difficulty": 9,
       "challenges": "Twitch 作為 Amazon 子公司，採購決策可能受 Amazon 體系影響。其視頻串流對伺服器的頻寬、延遲與可靠性要求極高。已有成熟的供應鏈關係。需要展示在高頻寬應用場景的伺服器方案。",
       "entryPoint": "從視頻轉碼專用伺服器切入，ASUS 1U 高密度伺服器適合 CDN 節點部署。可透過 Amazon 體系內的採購管道進行接觸。展示 ASUS 伺服器在高頻寬、低延遲場景的效能優勢。",
-      "rank": 55
+      "rank": 55,
+      "keyPerson": {
+        "name": "Elena Finnegan",
+        "title": "Head of Global Supply Chain and Procurement, Amazon Web Services (AWS)",
+        "linkedin": "https://www.linkedin.com/in/elenafinnegan",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Twitch (Amazon) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://trembit.com/blog/how-much-does-it-cost-to-maintain-twitch-infrastructure/"
     },
     {
       "rank": 56,
-      "company": "Pfizer",
-      "region": "NA/美國(紐約)",
-      "volume": "6,000-9,000 台 (估計)",
-      "platform": "混合雲策略，大量使用 AWS 和 Google Cloud，本地資料中心採用 Dell PowerEdge, HPE ProLiant 及 IBM 高效能運算叢集",
-      "application": "AI 藥物研發、分子模擬、臨床試驗數據分析 (Real-World Data)、基因組學、數位化生產 (PGS)",
-      "currentSuppliers": "Dell, HPE, IBM, AWS, Google Cloud, Fivetran",
-      "odmOem": "否 (主要透過 OEM 和雲端服務商)",
-      "asusModel": "ESC N8-E11, ESC8000-E12, RS720-E12, ASUS AI POD GB200/GB300 NVL72",
-      "channel": "直供 + SI/DIST: WWT (https://www.wwt.com), CDW (https://www.cdw.com), SHI (https://www.shi.com)",
-      "difficulty": 9,
-      "challenges": "**困難點:** Pfizer 與 AWS 和 Google Cloud 深度合作，許多運算負載已在雲端。本地資料中心對供應商的穩定性和安全性要求極高，且有長期合作夥伴。**克服方式:** 針對其對 AI 運算能力的爆發性需求，提供比雲端更有成本效益的本地 AI 基礎設施方案，例如 ASUS AI POD。強調資料主權和本地部署的安全性。",
-      "entryPoint": "**切入點:** 其位於格羅頓 (Groton) 的研發中心是關鍵，專注於 AI 驅動的藥物探索。**執行方式:** 透過 WWT 等合作夥伴，向其研發 IT 及 Center for Digital Innovation (CDI) 部門，提出以 Blackwell 架構的 ESC NB8-E11 或 AI POD 解決方案，用於加速其大規模 AI 模型訓練，並提供 PoC 進行效能驗證。"
+      "company": "Charter Communications",
+      "region": "美國(康涅狄格州斯坦福)",
+      "volume": "10,000-20,000",
+      "platform": "NVIDIA AI Grid (RTX 6000 PRO Blackwell)",
+      "application": "有線電視、寬頻網路、AI應用、邊緣運算",
+      "currentSuppliers": "NVIDIA, Arris, Cisco",
+      "odmOem": "不明確",
+      "asusModel": "ESC8000-E12P, ESC N8-E11, ASUS AI POD",
+      "channel": "直供/SI",
+      "difficulty": 6,
+      "challenges": "Charter與NVIDIA在AI基礎設施上有直接合作，並採用其參考設計，這可能排擠其他GPU伺服器供應商。此外，其網路設備主要由Arris和Cisco提供，有固定的供應鏈。克服方式：強調ASUS在NVIDIA生態系中的重要地位，以及提供從單一伺服器到整機櫃(AI POD)的完整解決方案能力。提供比NVIDIA參考設計更具彈性或成本效益的客製化選項。",
+      "entryPoint": "Charter正在積極部署邊緣AI基礎設施，這是最直接的切入點。他們採用了NVIDIA的AI Grid參考設計，並使用RTX 6000 PRO Blackwell GPU。ASUS可以提供基於相同GPU或更高階Blackwell架構的AI伺服器，例如MGX架構的ESC8000-E12P或HGX架構的ESC N8-E11。更具潛力的切入點是ASUS AI POD解決方案，提供包含網路、散熱、軟體的完整機櫃級AI方案，直接對應Charter在邊緣資料中心大量部署AI算力的需求。可直接聯繫其產品與技術部門，展示ASUS AI解決方案的效能與TCO優勢。",
+      "keyPerson": {
+        "name": "Rick Burkinshaw",
+        "title": "Sr. Director of Engineering, Datacenter Networks",
+        "linkedin": "https://www.linkedin.com/in/rickburkinshaw",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Charter Communications (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=charter-communications&CIK=&type=10-K"
     },
     {
       "rank": 57,
+      "company": "Warner Bros Discovery",
+      "region": "美國(紐約)",
+      "volume": "10,000-20,000",
+      "platform": "混合雲 (主要為AWS，部分自建)",
+      "application": "串流媒體 (Max, discovery+), 廣告技術, 內容製作",
+      "currentSuppliers": "AWS, Google Cloud (公有雲), 可能有少量自建數據中心",
+      "odmOem": "不明確",
+      "asusModel": "RS700-E11, ESC4000-E11",
+      "channel": "SI/DIST",
+      "difficulty": 9,
+      "challenges": "公司正進行技術平台整合，高度依賴AWS，且財務狀況較為緊張，對新硬體投資謹慎。需提供極具吸引力的成本效益分析，並與其雲端策略結合。",
+      "entryPoint": "由於WBD正將旗下串流媒體遷移至統一的內部技術堆疊，這為新供應商提供了機會。可提出基於ASUS AI伺服器的解決方案，協助其優化內容推薦引擎和廣告投放演算法，以提升用戶體驗和廣告收益。同時，可針對其私有雲或邊緣節點需求，提供高CP值的通用伺服器。",
+      "keyPerson": {
+        "name": "Chris Fontaine",
+        "title": "Group Vice President, Infrastructure & Cloud Engineering",
+        "linkedin": "https://www.linkedin.com/in/christopher-fontaine-2840180995",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "詳見通路欄位",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=warner-bros-discovery&CIK=&type=10-K"
+    },
+    {
+      "rank": 58,
+      "company": "SAIC (Science Applications International Corporation)",
+      "region": "NA/美國(維吉尼亞州雷斯頓)",
+      "volume": "8,000-12,000 台 (估計，包含為其客戶採購)",
+      "platform": "採用各大 OEM 的 COTS 伺服器 (Dell, HPE)，並透過其 Cloud One 平台整合 AWS, Azure, Google Cloud, OCI",
+      "application": "為政府、國防、情報客戶提供系統整合、企業 IT 現代化、雲端服務、數據分析與 AI 解決方案",
+      "currentSuppliers": "Dell, HPE, Cisco, AWS, Microsoft Azure, Google Cloud, Oracle",
+      "odmOem": "否 (自身為大型系統整合商)",
+      "asusModel": "RS700-E11, RS720-E12, RS720A-E12, ESC8000-E12",
+      "channel": "自身即為大型 SI，直接向 OEM 採購。",
+      "difficulty": 7,
+      "challenges": "**困難點:** 作為服務政府的整合商，其供應商名單相對固定，且與傳統 OEM 關係緊密。**克服方式:** 將 ASUS 定位為一個靈活且具成本效益的硬體平台選項，協助 SAIC 在競標政府專案時提高價格競爭力。",
+      "entryPoint": "**切入點:** 成為 SAIC 的認證供應商，專注於其在數據分析、AI 和多雲整合服務中所需的硬體。**執行方式:** 聯繫其供應商管理部門並完成註冊。針對其在 OASIS+ 等合約載具上的專案，主動提供基於 ASUS 伺服器的解決方案，以高效能 GPU 伺服器或高密度運算節點作為差異化優勢。",
+      "keyPerson": {
+        "name": "Nathan Rogers",
+        "title": "Senior Vice President and Chief Information Officer (CIO)",
+        "linkedin": "https://www.linkedin.com/in/nathan-g-rogers",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "WWT (wwt.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "CDW (cdw.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "TD SYNNEX (tdsynnex.com)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=saic&CIK=&type=10-K"
+    },
+    {
+      "rank": 59,
       "company": "Netflix",
       "region": "美國",
       "volume": "約 8,000 - 15,000 台/年。Netflix 的主要運算和應用程式邏輯（非串流部分）完全在 AWS 雲端上，因此這部分不採購伺服器。但其全球內容交付網路 (CDN) — Open Connect — 則由數萬台自行設計的 Open Connect Appliances (OCA) 伺服器組成，這些伺服器會定期更新和擴充。",
@@ -853,25 +2075,24 @@
       "channel": "直供。Netflix 直接與 ODM 廠商合作，進行大規模採購。",
       "difficulty": 8,
       "challenges": "Netflix 的 OCA 伺服器是自行設計的專用硬體，有非常成熟且固定的供應鏈，新廠商難以打入。克服的關鍵在於，必須在下一代 OCA 設計上提供壓倒性的技術優勢，例如在能耗、儲存密度、或單機串流效能上超越現有供應商的設計，才有可能獲得其青睞。",
-      "entryPoint": "切入點在於下一代 OCA 的技術演進，特別是針對 8K 內容、更高能源效率或更低 TCO 的新設計。執行方式是主動向 Netflix 的 Open Connect 團隊提出基於華碩技術的新一代 OCA 設計方案，展示在效能、成本、功耗上的具體優勢，並提供樣機進行測試，爭取成為其下一代硬體的設計合作夥伴或供應商。"
+      "entryPoint": "切入點在於下一代 OCA 的技術演進，特別是針對 8K 內容、更高能源效率或更低 TCO 的新設計。執行方式是主動向 Netflix 的 Open Connect 團隊提出基於華碩技術的新一代 OCA 設計方案，展示在效能、成本、功耗上的具體優勢，並提供樣機進行測試，爭取成為其下一代硬體的設計合作夥伴或供應商。",
+      "keyPerson": {
+        "name": "Jimmy Vosler",
+        "title": "Director | Technical Operations",
+        "linkedin": "https://nl.linkedin.com/in/jimmyvosler",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Netflix (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://urielbitton.substack.com/p/how-much-money-does-netflix-spend"
     },
     {
-      "rank": 58,
-      "company": "General Electric (GE)",
-      "region": "NA/美國(波士頓)",
-      "volume": "5,000-8,000 台 (估計)",
-      "platform": "混合架構，包含主流品牌 (HPE, Dell) 及白牌伺服器，Intel Xeon / AMD EPYC",
-      "application": "工業物聯網 (Predix 平台)、數據分析、模擬運算、企業 IT",
-      "currentSuppliers": "多源供應，包含 Dell, HPE，並與 AWS, Microsoft Azure 有雲端合作",
-      "odmOem": "部分採用 ODM Direct (如 Supermicro, Quanta)",
-      "asusModel": "RS720-E12, RS720A-E12, ESC8000-E12, ESC8000A-E13",
-      "channel": "直供 + SI/DIST: SHI (https://www.shi.com), WWT (https://www.wwt.com)",
-      "difficulty": 8,
-      "challenges": "**困難點:** GE 內部 IT 架構龐大且複雜，供應商關係穩固，且對供應鏈穩定性要求極高。**克服方式:** 針對其工業物聯網或特定數據分析場景，提供高效能的 AI 伺服器 (如 ESC8000 系列) 進行 PoC，並證明 ASUS 在特定工作負載下的效能與 TCO 優勢。",
-      "entryPoint": "**切入點:** GE 分拆後的 GE Vernova (能源) 和 GE Aerospace (航太) 對於數位轉型和 AI 應用有強烈需求。**執行方式:** 透過 WWT 等大型 SI，了解其新專案的硬體需求，並以 ASUS 的 AI POD 解決方案，針對其大規模 AI 訓練需求提出客製化方案。"
-    },
-    {
-      "rank": 59,
+      "rank": 60,
       "company": "Lockheed Martin",
       "region": "美國",
       "volume": "約 8,000 - 12,000 台/年 (此為基於其企業規模、國防合約性質和對高效能運算需求的估計，精確數字難以取得)",
@@ -883,10 +2104,24 @@
       "channel": "直供 + SI/DIST: World Wide Technology (https://www.wwt.com), Presidio (https://www.presidio.com), CDW (https://www.cdw.com)",
       "difficulty": 9,
       "challenges": "洛克希德·馬丁為美國最大國防承包商，其供應鏈有嚴格的安規與認證要求 (如 CMMC)，且與 HPE 等現有供應商合作關係穩固。要打入其供應鏈，首先必須取得所有必要的國防安全認證，並證明產品在穩定性、安全性及長期供應方面超越現有廠商。此外，需要投入大量資源進行長期關係建立與客製化解決方案開發。",
-      "entryPoint": "最佳切入點為其新成立的 AI 子公司 Astris AI，該公司對外提供商業 AI 解決方案，對新技術與供應商的態度可能更開放。可從提供高效能的 AI 伺服器 (如 ASUS 的 ESC8000/N8 系列) 作為試點專案開始，展示 ASUS 產品在 AI 訓練與推理方面的優越性。同時，積極參與其供應商招募活動，並與其合作的 SI 建立聯繫，尋求合作機會，逐步滲透其複雜的採購體系。"
+      "entryPoint": "最佳切入點為其新成立的 AI 子公司 Astris AI，該公司對外提供商業 AI 解決方案，對新技術與供應商的態度可能更開放。可從提供高效能的 AI 伺服器 (如 ASUS 的 ESC8000/N8 系列) 作為試點專案開始，展示 ASUS 產品在 AI 訓練與推理方面的優越性。同時，積極參與其供應商招募活動，並與其合作的 SI 建立聯繫，尋求合作機會，逐步滲透其複雜的採購體系。",
+      "keyPerson": {
+        "name": "Richard Vitek",
+        "title": "Vice President, Data and AI Enablement",
+        "linkedin": "https://www.linkedin.com/in/richard-vitek-b7b8a785",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Arrow Electronics (arrow.com)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/lockheed-martin-awarded-213-million-f-35-data-center-modernization-contract-in-florida/"
     },
     {
-      "rank": 60,
+      "rank": 61,
       "company": "Groq",
       "region": "美國",
       "volume": "約 8,000 - 15,000 台/年 (估計值，基於其快速擴張的資料中心計畫與市場需求)",
@@ -898,10 +2133,24 @@
       "channel": "直供 & 雲端服務 (GroqCloud)",
       "difficulty": 10,
       "challenges": "Groq 的核心是其專為推論設計的 LPU 晶片，以及圍繞此晶片建構的軟硬體生態系，這使其在低延遲推論場景具備極強的競爭力，但也形成了一個高度封閉的系統。ASUS 難以直接參與其核心 LPU 節點的供應。近期與 Nvidia 的授權協議，也為市場增添了更多變數。",
-      "entryPoint": "機會點在於其大規模擴展資料中心所需的基礎設施，包括機櫃、電源、散熱解決方案，以及大量的管理和儲存伺服器。ASUS 可以提供高密度、易於部署的機架解決方案，並整合高效的電源與散熱管理系統。同時，提供客製化的管理伺服器，以滿足 Groq 對其大規模叢集進行高效監控與維護的需求，是可能的切入點。"
+      "entryPoint": "機會點在於其大規模擴展資料中心所需的基礎設施，包括機櫃、電源、散熱解決方案，以及大量的管理和儲存伺服器。ASUS 可以提供高密度、易於部署的機架解決方案，並整合高效的電源與散熱管理系統。同時，提供客製化的管理伺服器，以滿足 Groq 對其大規模叢集進行高效監控與維護的需求，是可能的切入點。",
+      "keyPerson": {
+        "name": "Matt Eng",
+        "title": "Head of Procurement",
+        "linkedin": "https://www.linkedin.com/in/matt--eng",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Carahsoft (carahsoft.com)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.trendforce.com/news/2026/03/10/news-samsung-may-see-groq-orders-jump-70-to-15k-wafers-tesla-reportedly-delays-other-foundry-clients/"
     },
     {
-      "rank": 61,
+      "rank": 62,
       "company": "Zoom Video Communications",
       "region": "加州(聖荷西)",
       "volume": "約 8,000-12,000 台/年",
@@ -913,10 +2162,34 @@
       "channel": "SI/DIST: SHI International, CDW",
       "difficulty": 6,
       "challenges": "Zoom 採用混合雲架構，自建數據中心主要依賴現有供應商。克服方式：針對其新推出的 AI Companion 功能，提供高性價比的 AI 推理伺服器",
-      "entryPoint": "從 AI 推理場景切入，提供 ESC4000-E11 進行 POC 測試，展示在語音轉文字和會議摘要場景的效能優勢"
+      "entryPoint": "從 AI 推理場景切入，提供 ESC4000-E11 進行 POC 測試，展示在語音轉文字和會議摘要場景的效能優勢",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "VP of IT Infrastructure",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "WWT (wwt.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "SHI International (shi.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Insight Enterprises (insight.com)",
+          "website": "",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=zoom-video-communications&CIK=&type=10-K"
     },
     {
-      "rank": 62,
+      "rank": 63,
       "company": "Elevance Health (Anthem)",
       "region": "美國",
       "volume": "約 8,000 台/年",
@@ -928,10 +2201,24 @@
       "channel": "SI/DIST (可能透過 Elevance Systems)",
       "difficulty": 7,
       "challenges": "Elevance Health 透過其子公司 Elevance Systems 進行 IT 服務管理，並與多家大型軟體及雲端服務商 (Microsoft, AWS, Oracle) 深度合作，其基礎設施決策可能深受這些合作夥伴的生態系影響。要克服此點，需要與 Elevance Systems 建立合作關係，使其認可 ASUS 伺服器的價值，並將其納入解決方案藍圖中，同時確保與其主要軟體合作夥伴的產品有良好的兼容性認證。",
-      "entryPoint": "切入點是其持續推動的數位化轉型和數據整合平台。可以與 Elevance Systems 接觸，提供 ASUS 伺服器作為其私有雲或混合雲解決方案的硬體選項，強調 ASUS 伺服器在虛擬化環境下的效能、密度與能源效率。執行上，可先提供測試機讓 Elevance Systems 進行內部評估，並提供完整的技術支援與解決方案架構建議，證明 ASUS 能成為其可靠的基礎設施合作夥伴。"
+      "entryPoint": "切入點是其持續推動的數位化轉型和數據整合平台。可以與 Elevance Systems 接觸，提供 ASUS 伺服器作為其私有雲或混合雲解決方案的硬體選項，強調 ASUS 伺服器在虛擬化環境下的效能、密度與能源效率。執行上，可先提供測試機讓 Elevance Systems 進行內部評估，並提供完整的技術支援與解決方案架構建議，證明 ASUS 能成為其可靠的基礎設施合作夥伴。",
+      "keyPerson": {
+        "name": "Shawn X. White",
+        "title": "Transformational Senior Director of Multi-cloud Engineering & Operations",
+        "linkedin": "https://www.linkedin.com/in/shawn-x-white-886a3910",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "詳見通路欄位",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=elevance-health&CIK=&type=10-K"
     },
     {
-      "rank": 63,
+      "rank": 64,
       "company": "Home Depot",
       "region": "美國",
       "volume": "約 8,000 - 12,000 台/年 (估計)",
@@ -943,22 +2230,26 @@
       "channel": "直供及 SI (如 Compucom)",
       "difficulty": 7,
       "challenges": "Home Depot 已大量投資於 Nutanix 及 Google Cloud，對其生態系依賴度高。需要提供與其現有架構高度整合的解決方案，並證明在特定應用場景（如邊緣運算）的優越性。",
-      "entryPoint": "針對其 2,300+ 的邊緣據點（分店）提供優化的邊緣運算伺服器。同時，可針對其 AI 應用提供高效能的 GPU 伺服器，並與其現有的 Google Cloud 平台無縫對接。"
-    },
-    {
-      "rank": 64,
-      "company": "L3Harris Technologies",
-      "region": "NA/美國(佛羅里達州墨爾本)",
-      "volume": "5,000-8,000 台 (估計)",
-      "platform": "客製化、強固型伺服器，用於通訊、情報、監控和偵察 (C5ISR) 系統",
-      "application": "C5ISR 系統、戰術通訊、數據處理、網路基礎設施、地理空間數據分析",
-      "currentSuppliers": "專門的國防供應商和整合商，如 Mercury Systems, Curtiss-Wright Defense Solutions",
-      "odmOem": "與特定 ODM/OEM 合作開發符合軍規和航太標準的嵌入式和機架式系統",
-      "asusModel": "RS720-E12, ESC4000-E11 (需進行強固化與客製化)",
-      "channel": "主要透過具備政府合約的 SI/整合商: Leidos (https://www.leidos.com), SAIC (https://www.saic.com), General Dynamics Mission Systems (https://gdmissionsystems.com)",
-      "difficulty": 10,
-      "challenges": "**困難點:** 與 Northrop Grumman 類似，L3Harris 的供應鏈受到嚴格的安全和法規控制。產品需要滿足嚴苛的環境和效能標準 (SWaP-C)。**克服方式:** 尋求與其下游整合商或子公司合作的機會，提供標準 COTS 伺服器作為其非關鍵任務系統的一部分。建立長期合作關係，逐步進入其供應鏈。",
-      "entryPoint": "**切入點:** 專注於其基礎設施管理服務 (Infrastructure Managed Services) 或網路營運中心 (NOC) 的商業 IT 需求。**執行方式:** 透過與 Leidos 等大型國防整合商合作，將 ASUS 的標準伺服器產品作為其向 L3Harris 提供的整體解決方案的一部分，用於後端支援或開發環境。"
+      "entryPoint": "針對其 2,300+ 的邊緣據點（分店）提供優化的邊緣運算伺服器。同時，可針對其 AI 應用提供高效能的 GPU 伺服器，並與其現有的 Google Cloud 平台無縫對接。",
+      "keyPerson": {
+        "name": "Fahim Siddiqui",
+        "title": "EVP & CIO",
+        "linkedin": "https://www.linkedin.com/in/fahimsiddiqui",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "CDW",
+          "website": "https://www.cdw.com",
+          "type": "SI"
+        },
+        {
+          "name": "TD SYNNEX",
+          "website": "https://www.tdsynnex.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://ir.homedepot.com/annual-reports"
     },
     {
       "rank": 65,
@@ -973,7 +2264,21 @@
       "channel": "直供",
       "difficulty": 6,
       "challenges": "與 Hut 8 類似，Cipher Mining 同樣在快速擴張其 AI 資料中心業務，對供應商的產能和交付速度有極高要求。克服方式為，展現 ASUS 能夠提供從伺服器到機櫃層級的完整解決方案，並在能源效率和散熱技術上提供優勢，以降低其大規模部署的總體擁有成本 (TCO)。",
-      "entryPoint": "切入點為其與 AWS 和 Fluidstack 的合作案，以及在德州新建的資料中心。執行上，可提出基於 OCP 標準的客製化伺服器方案，並提供液冷等先進散熱技術，以應對德州炎熱氣候下的散熱挑戰，同時提升能源效率。"
+      "entryPoint": "切入點為其與 AWS 和 Fluidstack 的合作案，以及在德州新建的資料中心。執行上，可提出基於 OCP 標準的客製化伺服器方案，並提供液冷等先進散熱技術，以應對德州炎熱氣候下的散熱挑戰，同時提升能源效率。",
+      "keyPerson": {
+        "name": "Lee Rivers",
+        "title": "Senior Vice President, Data Centers",
+        "linkedin": "https://www.linkedin.com/in/lee-rivers-b53134b9",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Cipher Mining (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/Archives/edgar/data/1819989/000181998925000005/cifr-20241231.htm"
     },
     {
       "company": "eBay",
@@ -988,25 +2293,97 @@
       "difficulty": 8,
       "challenges": "eBay 自行設計伺服器，對供應商的客製化能力要求極高。其去中心化 DC 策略意味著需要在多個地點部署。已有成熟的 ODM 合作關係。需要展示在客製化設計與製造方面的能力。",
       "entryPoint": "從 AI 推薦系統所需的 GPU 伺服器切入，eBay 正在加大 AI 投資。ASUS 可提供 ESC 系列 GPU 伺服器的 POC 測試。也可從下一代通用伺服器的替換週期切入，展示 AMD EPYC 平台的性價比。",
-      "rank": 66
+      "rank": 66,
+      "keyPerson": {
+        "name": "Mazen Rawashdeh",
+        "title": "SVP & CTO",
+        "linkedin": "https://www.linkedin.com/in/mazenrawashdeh",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "WWT",
+          "website": "https://www.wwt.com",
+          "type": "SI"
+        },
+        {
+          "name": "Ingram Micro",
+          "website": "https://www.ingrammicro.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://investors.ebayinc.com/financial-information/annual-reports"
     },
     {
-      "rank": 67,
-      "company": "Merck & Co",
-      "region": "NA/美國(新澤西)",
-      "volume": "5,000-7,000 台 (估計)",
-      "platform": "混合架構，本地資料中心採用 Lenovo (HPC), Dell/HPE，並在 Equinix 託管",
-      "application": "AI 藥物探索、高效能運算 (HPC)、臨床研究數據分析、生成式 AI 平台",
-      "currentSuppliers": "Lenovo, Dell, HPE, Equinix",
-      "odmOem": "否 (主要透過 OEM)",
-      "asusModel": "ESC N8-E11, ESC8000-E12, RS720-E12, ASUS AI POD GB200/GB300 NVL72",
-      "channel": "直供 + SI/DIST: WWT (https://www.wwt.com), SHI (https://www.shi.com), CDW (https://www.cdw.com)",
-      "difficulty": 9,
-      "challenges": "**困難點:** 與 Lenovo 在 HPC 領域有深度合作關係，且製藥業對供應商的驗證標準極高。**克服方式:** 針對其內部生成式 AI 平台等新興應用，提供具備效能和成本優勢的 ASUS GPU 伺服器方案，並通過 PoC 證明其價值。",
-      "entryPoint": "**切入點:** 鎖定其位於波士頓的研發中心和新成立的生成式 AI 團隊。**執行方式:** 透過 WWT 或 SHI 等 SI，向其 IT 採購及研發部門介紹 ASUS 的 AI 伺服器及 AI POD 解決方案，爭取在新專案中進行評估和測試，特別是針對其藥物探索的特定演算法。"
+      "company": "ServiceNow",
+      "region": "美國",
+      "volume": "約 8,000-15,000 台/年",
+      "platform": "Intel Xeon 1U/2U 通用伺服器，部分 GPU 伺服器用於 AI",
+      "application": "IT 服務管理 SaaS 平台、AI 工作流自動化、企業數位轉型",
+      "currentSuppliers": "Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "RS700-E11, RS720-E11, ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 5,
+      "challenges": "ServiceNow 正在快速擴張其 AI 能力（Now Assist），需要大量 GPU 伺服器。已有穩定的 Dell/HPE 供應鏈，需要展示差異化優勢。",
+      "entryPoint": "從 ServiceNow 的 AI 擴張需求（Now Assist、GenAI）切入，提供 ASUS GPU 伺服器。ServiceNow 正在全球擴建 DC，是切入的好時機。透過 CDW 或 SHI 等 SI 合作夥伴引薦。",
+      "keyPerson": {
+        "name": "Davin C.",
+        "title": "Group VP, Cloud Infrastructure Engineering",
+        "linkedin": "https://www.linkedin.com/in/davincamara",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "詳見通路欄位",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/servicenow-signs-12bn-contract-with-google-cloud-report/",
+      "rank": 67
     },
     {
       "rank": 68,
+      "company": "Northrop Grumman",
+      "region": "NA/美國(維吉尼亞州福爾斯徹奇)",
+      "volume": "7,000-12,000 台 (估計)",
+      "platform": "高度客製化、強固型伺服器，混合使用 COTS (Commercial-off-the-shelf) 和自研硬體，Intel Xeon / AMD EPYC",
+      "application": "國防系統、航太、情報數據處理、模擬與訓練、安全基礎設施、AI/ML 應用",
+      "currentSuppliers": "多為具備高度安全認證的供應商，如 Dell Federal, HPE Federal，以及專門的國防承包商",
+      "odmOem": "可能與特定 ODM 合作開發符合軍規的客製化硬體",
+      "asusModel": "RS720-E12, ESC8000-E12 (需進行強固化與客製化)",
+      "channel": "主要透過具備政府合約的 SI/整合商: Leidos (https://www.leidos.com), SAIC (https://www.saic.com), CACI (https://www.caci.com)",
+      "difficulty": 10,
+      "challenges": "**困難點:** 國防承包商對供應商有極高的安全審查和認證要求 (如 CMMC)，供應鏈完全在地化且封閉。產品需符合軍規 (MIL-STD)。**克服方式:** 與 Leidos, SAIC 等已在供應鏈內的整合商建立合作關係，將 ASUS 的 COTS 產品作為其解決方案的一部分。需要投入大量資源進行產品認證與客製化。",
+      "entryPoint": "**切入點:** 專注於其非核心的 IT 基礎設施現代化，或作為二線供應商，為其合作夥伴提供伺服器元件或基礎平台。**執行方式:** 透過與 Leidos 等整合商的合作，了解其在政府專案中對 COTS 伺服器的需求，提供 ASUS 的標準伺服器進行評估，並表達願意投入資源進行必要的強固化與安全認證。",
+      "keyPerson": {
+        "name": "Travis Garriss",
+        "title": "Vice President and Chief Information and Digital Officer",
+        "linkedin": "https://www.linkedin.com/in/travisgarriss",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Leidos",
+          "website": "https://www.leidos.com",
+          "type": "SI"
+        },
+        {
+          "name": "SAIC",
+          "website": "https://www.saic.com",
+          "type": "SI"
+        },
+        {
+          "name": "CACI",
+          "website": "https://www.caci.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.aol.com/articles/northrop-grumman-29-2026-95-130452515.html"
+    },
+    {
+      "rank": 69,
       "company": "Raytheon (RTX)",
       "region": "美國",
       "volume": "約 7,000 - 11,000 台/年 (此為基於其作為大型國防承包商，在國防、航空與網路安全領域有大量數據處理與模擬需求的估計)",
@@ -1018,25 +2395,190 @@
       "channel": "主要透過大型系統整合商 (SI) 及具備國防合約資格的通路商，例如可能是與 Dell 或 HPE 合作的政府合約供應商。",
       "difficulty": 9,
       "challenges": "與洛克希德·馬丁情況類似，RTX 的供應鏈進入門檻極高，需要符合美國國防部的各項安全與採購規範。現有與 Dell、HPE 等供應商的合作關係深厚，替換成本高。要克服此困難，必須先取得相關的供應商資格與安全認證，並尋找其在特定領域 (如 AI、網路安全) 的新興需求，提供具有高度差異化和效能優勢的解決方案。",
-      "entryPoint": "可以從其子公司 Collins Aerospace 的數位轉型計畫著手，該公司在航空電子與通訊領域有大量嵌入式系統與軟體開發需求。提供高可靠度的邊緣運算伺服器或開發測試平台，可能是個不錯的切入點。另外，針對其在 AI 與網路安全的研發單位，提供高效能的 GPU 伺服器進行效能評測 (POC)，展示 ASUS 產品在特定工作負載下的優勢，爭取小規模訂單，再逐步擴大合作。"
-    },
-    {
-      "rank": 69,
-      "company": "Johnson & Johnson",
-      "region": "NA/美國(新澤西)",
-      "volume": "4,000-6,000 台 (估計)",
-      "platform": "混合雲架構，本地資料中心採用 Dell PowerEdge, HPE ProLiant，雲端使用 AWS/Azure",
-      "application": "藥物研發 (HPC, AI/ML)、基因組學、臨床試驗數據分析、ERP、供應鏈管理",
-      "currentSuppliers": "Dell, HPE, IBM, AWS, Microsoft Azure",
-      "odmOem": "否 (主要透過 OEM 和大型 SI)",
-      "asusModel": "ESC8000-E12, ESC N8-E11, RS720-E12",
-      "channel": "直供 + SI/DIST: SHI (https://www.shi.com), CDW (https://www.cdw.com), WWT (https://www.wwt.com)",
-      "difficulty": 9,
-      "challenges": "**困難點:** 醫療產業法規嚴格 (如 GxP)，供應商驗證週期長且標準高。現有供應商關係穩固，替換障礙大。**克服方式:** 提供符合法規的解決方案，並與有經驗的 SI 合作。針對特定研發項目提供 PoC，展示 ASUS GPU 伺服器在 AI 藥物研發上的卓越效能。",
-      "entryPoint": "**切入點:** 專注於其 J&J Innovative Medicine 部門的 HPC 和 AI 運算需求。**執行方式:** 透過 SHI 或 WWT 等在醫療領域有深厚經驗的 SI，向其研發 IT 部門推薦 ASUS 的 ESC N8-E11 (HGX) 或 ESC8000-E12，用於加速基因組定序或藥物篩選等工作負載。"
+      "entryPoint": "可以從其子公司 Collins Aerospace 的數位轉型計畫著手，該公司在航空電子與通訊領域有大量嵌入式系統與軟體開發需求。提供高可靠度的邊緣運算伺服器或開發測試平台，可能是個不錯的切入點。另外，針對其在 AI 與網路安全的研發單位，提供高效能的 GPU 伺服器進行效能評測 (POC)，展示 ASUS 產品在特定工作負載下的優勢，爭取小規模訂單，再逐步擴大合作。",
+      "keyPerson": {
+        "name": "Vince Campisi",
+        "title": "SVP & Chief Digital Officer",
+        "linkedin": "https://www.linkedin.com/in/vincecampisi",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Leidos",
+          "website": "https://www.leidos.com",
+          "type": "SI"
+        },
+        {
+          "name": "SAIC",
+          "website": "https://www.saic.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.rtx.com/investors"
     },
     {
       "rank": 70,
+      "company": "Pfizer",
+      "region": "NA/美國(紐約)",
+      "volume": "6,000-9,000 台 (估計)",
+      "platform": "混合雲策略，大量使用 AWS 和 Google Cloud，本地資料中心採用 Dell PowerEdge, HPE ProLiant 及 IBM 高效能運算叢集",
+      "application": "AI 藥物研發、分子模擬、臨床試驗數據分析 (Real-World Data)、基因組學、數位化生產 (PGS)",
+      "currentSuppliers": "Dell, HPE, IBM, AWS, Google Cloud, Fivetran",
+      "odmOem": "否 (主要透過 OEM 和雲端服務商)",
+      "asusModel": "ESC N8-E11, ESC8000-E12, RS720-E12, ASUS AI POD GB200/GB300 NVL72",
+      "channel": "直供 + SI/DIST: WWT (https://www.wwt.com), CDW (https://www.cdw.com), SHI (https://www.shi.com)",
+      "difficulty": 9,
+      "challenges": "**困難點:** Pfizer 與 AWS 和 Google Cloud 深度合作，許多運算負載已在雲端。本地資料中心對供應商的穩定性和安全性要求極高，且有長期合作夥伴。**克服方式:** 針對其對 AI 運算能力的爆發性需求，提供比雲端更有成本效益的本地 AI 基礎設施方案，例如 ASUS AI POD。強調資料主權和本地部署的安全性。",
+      "entryPoint": "**切入點:** 其位於格羅頓 (Groton) 的研發中心是關鍵，專注於 AI 驅動的藥物探索。**執行方式:** 透過 WWT 等合作夥伴，向其研發 IT 及 Center for Digital Innovation (CDI) 部門，提出以 Blackwell 架構的 ESC NB8-E11 或 AI POD 解決方案，用於加速其大規模 AI 模型訓練，並提供 PoC 進行效能驗證。",
+      "keyPerson": {
+        "name": "Lidia Fonseca",
+        "title": "Chief Digital and Technology Officer, Executive Vice President",
+        "linkedin": "https://www.linkedin.com/in/fonseca",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "WWT",
+          "website": "https://www.wwt.com",
+          "type": "SI"
+        },
+        {
+          "name": "CDW",
+          "website": "https://www.cdw.com",
+          "type": "SI"
+        },
+        {
+          "name": "SHI",
+          "website": "https://www.shi.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.drugdiscoverytrends.com/pfizer-exec-frames-digital-as-a-core-business-strategy/"
+    },
+    {
+      "rank": 71,
+      "company": "General Electric (GE)",
+      "region": "NA/美國(波士頓)",
+      "volume": "5,000-8,000 台 (估計)",
+      "platform": "混合架構，包含主流品牌 (HPE, Dell) 及白牌伺服器，Intel Xeon / AMD EPYC",
+      "application": "工業物聯網 (Predix 平台)、數據分析、模擬運算、企業 IT",
+      "currentSuppliers": "多源供應，包含 Dell, HPE，並與 AWS, Microsoft Azure 有雲端合作",
+      "odmOem": "部分採用 ODM Direct (如 Supermicro, Quanta)",
+      "asusModel": "RS720-E12, RS720A-E12, ESC8000-E12, ESC8000A-E13",
+      "channel": "直供 + SI/DIST: SHI (https://www.shi.com), WWT (https://www.wwt.com)",
+      "difficulty": 8,
+      "challenges": "**困難點:** GE 內部 IT 架構龐大且複雜，供應商關係穩固，且對供應鏈穩定性要求極高。**克服方式:** 針對其工業物聯網或特定數據分析場景，提供高效能的 AI 伺服器 (如 ESC8000 系列) 進行 PoC，並證明 ASUS 在特定工作負載下的效能與 TCO 優勢。",
+      "entryPoint": "**切入點:** GE 分拆後的 GE Vernova (能源) 和 GE Aerospace (航太) 對於數位轉型和 AI 應用有強烈需求。**執行方式:** 透過 WWT 等大型 SI，了解其新專案的硬體需求，並以 ASUS 的 AI POD 解決方案，針對其大規模 AI 訓練需求提出客製化方案。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "VP of IT Infrastructure",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "E Tech Group",
+          "website": "https://www.gevernova.com/software/industrial-partners/e-tech-group-1",
+          "type": "SI"
+        },
+        {
+          "name": "Northeast Integration",
+          "website": "https://www.gevernova.com/software/industrial-partners/northeast-integration",
+          "type": "SI"
+        },
+        {
+          "name": "NeoMatrix Industrial Automation",
+          "website": "https://neomatrixinc.com/platforms/ge-vernova-system-integrator/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.globaldata.com/store/report/general-electric-enterprise-tech-analysis/"
+    },
+    {
+      "rank": 72,
+      "company": "L3Harris Technologies",
+      "region": "NA/美國(佛羅里達州墨爾本)",
+      "volume": "5,000-8,000 台 (估計)",
+      "platform": "客製化、強固型伺服器，用於通訊、情報、監控和偵察 (C5ISR) 系統",
+      "application": "C5ISR 系統、戰術通訊、數據處理、網路基礎設施、地理空間數據分析",
+      "currentSuppliers": "專門的國防供應商和整合商，如 Mercury Systems, Curtiss-Wright Defense Solutions",
+      "odmOem": "與特定 ODM/OEM 合作開發符合軍規和航太標準的嵌入式和機架式系統",
+      "asusModel": "RS720-E12, ESC4000-E11 (需進行強固化與客製化)",
+      "channel": "主要透過具備政府合約的 SI/整合商: Leidos (https://www.leidos.com), SAIC (https://www.saic.com), General Dynamics Mission Systems (https://gdmissionsystems.com)",
+      "difficulty": 10,
+      "challenges": "**困難點:** 與 Northrop Grumman 類似，L3Harris 的供應鏈受到嚴格的安全和法規控制。產品需要滿足嚴苛的環境和效能標準 (SWaP-C)。**克服方式:** 尋求與其下游整合商或子公司合作的機會，提供標準 COTS 伺服器作為其非關鍵任務系統的一部分。建立長期合作關係，逐步進入其供應鏈。",
+      "entryPoint": "**切入點:** 專注於其基礎設施管理服務 (Infrastructure Managed Services) 或網路營運中心 (NOC) 的商業 IT 需求。**執行方式:** 透過與 Leidos 等大型國防整合商合作，將 ASUS 的標準伺服器產品作為其向 L3Harris 提供的整體解決方案的一部分，用於後端支援或開發環境。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "VP of IT Infrastructure",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "Critical Path Integrators",
+          "website": "https://www.cpiav.com/",
+          "type": "SI"
+        },
+        {
+          "name": "SupplyCore",
+          "website": "https://www.supplycore.com/",
+          "type": "SI"
+        },
+        {
+          "name": "TD SYNNEX",
+          "website": "https://www.tdsynnex.com/",
+          "type": "DIST"
+        },
+        {
+          "name": "Ingram Micro",
+          "website": "https://www.ingrammicro.com/",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=l3harris-technologies&CIK=&type=10-K"
+    },
+    {
+      "rank": 73,
+      "company": "Merck & Co",
+      "region": "NA/美國(新澤西)",
+      "volume": "5,000-7,000 台 (估計)",
+      "platform": "混合架構，本地資料中心採用 Lenovo (HPC), Dell/HPE，並在 Equinix 託管",
+      "application": "AI 藥物探索、高效能運算 (HPC)、臨床研究數據分析、生成式 AI 平台",
+      "currentSuppliers": "Lenovo, Dell, HPE, Equinix",
+      "odmOem": "否 (主要透過 OEM)",
+      "asusModel": "ESC N8-E11, ESC8000-E12, RS720-E12, ASUS AI POD GB200/GB300 NVL72",
+      "channel": "直供 + SI/DIST: WWT (https://www.wwt.com), SHI (https://www.shi.com), CDW (https://www.cdw.com)",
+      "difficulty": 9,
+      "challenges": "**困難點:** 與 Lenovo 在 HPC 領域有深度合作關係，且製藥業對供應商的驗證標準極高。**克服方式:** 針對其內部生成式 AI 平台等新興應用，提供具備效能和成本優勢的 ASUS GPU 伺服器方案，並通過 PoC 證明其價值。",
+      "entryPoint": "**切入點:** 鎖定其位於波士頓的研發中心和新成立的生成式 AI 團隊。**執行方式:** 透過 WWT 或 SHI 等 SI，向其 IT 採購及研發部門介紹 ASUS 的 AI 伺服器及 AI POD 解決方案，爭取在新專案中進行評估和測試，特別是針對其藥物探索的特定演算法。",
+      "keyPerson": {
+        "name": "Najat Khan",
+        "title": "Chief Data & AI Officer",
+        "linkedin": "https://www.linkedin.com/in/najatkhan",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "WWT",
+          "website": "https://www.wwt.com",
+          "type": "SI"
+        },
+        {
+          "name": "SHI International",
+          "website": "https://www.shi.com",
+          "type": "SI"
+        },
+        {
+          "name": "TD SYNNEX",
+          "website": "https://www.tdsynnex.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.merck.com/investor-relations/annual-report/"
+    },
+    {
+      "rank": 74,
       "company": "Uber",
       "region": "美國",
       "volume": "約 5,000 - 10,000 台/年（自有數據中心），但因公司正將 95% 的 IT 基礎設施轉移至 Google Cloud 和 Oracle Cloud，此數字將逐年遞減。雲端伺服器用量將會非常龐大。",
@@ -1048,10 +2590,24 @@
       "channel": "直供。Uber 擁有龐大的採購規模和技術能力，會直接與 ODM 廠商合作。",
       "difficulty": 9,
       "challenges": "Uber 正在進行大規模的雲端遷移，大幅減少自有硬體的採購，這使得直接銷售硬體變得非常困難。克服方式是轉向提供雲端相關的解決方案或服務，或是針對其剩餘的邊緣運算、特殊工作負載需求，提供高度客製化的解決方案。",
-      "entryPoint": "切入點在於其尚未完全遷移至雲端的特殊應用，例如需要極低延遲的邊緣運算節點，或是特定 AI 模型的訓練硬體。執行方式是與 Uber 的基礎設施團隊建立技術交流，深入了解其在雲端遷移過程中遇到的挑戰，並提出可以彌補雲端不足的混合雲或邊緣運算方案。"
+      "entryPoint": "切入點在於其尚未完全遷移至雲端的特殊應用，例如需要極低延遲的邊緣運算節點，或是特定 AI 模型的訓練硬體。執行方式是與 Uber 的基礎設施團隊建立技術交流，深入了解其在雲端遷移過程中遇到的挑戰，並提出可以彌補雲端不足的混合雲或邊緣運算方案。",
+      "keyPerson": {
+        "name": "Sundeep Jain",
+        "title": "SVP of Engineering",
+        "linkedin": "https://www.linkedin.com/in/sundeepjain",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "WWT",
+          "website": "https://www.wwt.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://investor.uber.com/financial-information/annual-reports"
     },
     {
-      "rank": 71,
+      "rank": 75,
       "company": "Cerebras Systems",
       "region": "美國",
       "volume": "約 5,000 - 10,000 台/年 (估計值，基於其與OpenAI和AWS等的大規模合作案)",
@@ -1063,25 +2619,24 @@
       "channel": "直供 & 雲端服務 (AWS)",
       "difficulty": 10,
       "challenges": "Cerebras 的核心技術在於其自行研發的晶圓級晶片，並圍繞此晶片打造了高度整合的 CS-3 系統，其架構與標準伺服器截然不同，ASUS 難以切入其核心系統。此外，Cerebras 傾向於自行設計或與特定 ODM 合作，以最大化其硬體效能。",
-      "entryPoint": "機會點在於其大規模資料中心部署所需的周邊伺服器，例如資料儲存、網路管理、系統監控等。ASUS 可提供高效能、高密度的儲存伺服器或通用型管理伺服器，並強調其在散熱、電源管理上的優勢，以滿足 Cerebras 大規模部署的穩定性與能效需求。可先從提供少量周邊伺服器進行測試，證明其產品的可靠性與性價比。"
+      "entryPoint": "機會點在於其大規模資料中心部署所需的周邊伺服器，例如資料儲存、網路管理、系統監控等。ASUS 可提供高效能、高密度的儲存伺服器或通用型管理伺服器，並強調其在散熱、電源管理上的優勢，以滿足 Cerebras 大規模部署的穩定性與能效需求。可先從提供少量周邊伺服器進行測試，證明其產品的可靠性與性價比。",
+      "keyPerson": {
+        "name": "Andrew Feldman",
+        "title": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/andrewdfeldman",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "TD SYNNEX",
+          "website": "https://www.tdsynnex.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://cerebras.ai/press-releases"
     },
     {
-      "rank": 72,
-      "company": "Procter & Gamble (P&G)",
-      "region": "NA/美國(俄亥俄州辛辛那提)",
-      "volume": "3,000-5,000 台 (估計)",
-      "platform": "混合雲架構，與 Microsoft Azure 深度合作，本地資料中心應為 Dell/HPE 為主",
-      "application": "供應鏈 AI、數據分析、消費者行為分析、製造流程優化、ERP",
-      "currentSuppliers": "Microsoft Azure, Dell, HPE",
-      "odmOem": "否 (主要透過 OEM 和雲端服務商)",
-      "asusModel": "RS720-E12, RS720A-E12, ESC4000-E11",
-      "channel": "直供 + SI/DIST: CDW (https://www.cdw.com), Insight (https://www.insight.com), SHI (https://www.shi.com)",
-      "difficulty": 8,
-      "challenges": "**困難點:** P&G 與微軟 Azure 有策略性合作，許多分析負載在雲端運行。其全球供應鏈對 IT 系統的穩定性要求極高。**克服方式:** 針對其本地端的數據整合與邊緣運算需求，提供具成本效益的通用伺服器。強調 ASUS 伺服器在混合雲環境中的管理彈性。",
-      "entryPoint": "**切入點:** 專注於其智慧製造工廠的邊緣運算 (Edge Computing) 需求，以及供應鏈數據分析的本地前處理節點。**執行方式:** 透過大型 SI (如 CDW)，向其 IT 維運部門推薦 ASUS 的通用機架式伺服器，作為其混合雲架構的本地節點，並提供 PoC 測試。"
-    },
-    {
-      "rank": 73,
+      "rank": 76,
       "company": "Fastly",
       "region": "美國",
       "volume": "約 5,000 - 8,000 台/年 (根據 2025 年資本支出估算)",
@@ -1093,10 +2648,24 @@
       "channel": "直供",
       "difficulty": 8,
       "challenges": "Fastly 對其基礎設施有著深刻的理解和嚴格的控制，傾向於與能夠提供高度客製化和靈活解決方案的供應商合作。ASUS 需要展現其在硬體設計和軟體整合方面的專業能力，並願意與 Fastly 的工程團隊緊密合作，以滿足其不斷變化的需求。此外，Fastly 的採購量雖然不如超大規模雲端服務提供商，但對價格仍然敏感，ASUS 需要在價格和價值之間找到平衡。",
-      "entryPoint": "可以從 Fastly 的邊緣計算平台著手，提供針對特定工作負載優化的伺服器解決方案。例如，為其 WebAssembly 環境 (Compute@Edge) 提供高效能、低延遲的伺服器。同時，可以與 Fastly 的技術合作夥伴 (Technology Partners) 建立關係，共同推動解決方案的整合與驗證。此外，可以提供靈活的供應鏈和快速的交付能力，以滿足 Fastly 在全球快速部署 POPs 的需求。"
+      "entryPoint": "可以從 Fastly 的邊緣計算平台著手，提供針對特定工作負載優化的伺服器解決方案。例如，為其 WebAssembly 環境 (Compute@Edge) 提供高效能、低延遲的伺服器。同時，可以與 Fastly 的技術合作夥伴 (Technology Partners) 建立關係，共同推動解決方案的整合與驗證。此外，可以提供靈活的供應鏈和快速的交付能力，以滿足 Fastly 在全球快速部署 POPs 的需求。",
+      "keyPerson": {
+        "name": "Chirag Ghosh",
+        "title": "VP of Infrastructure Engineering",
+        "linkedin": "https://www.linkedin.com/in/chiragghosh",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Fastly (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://investors.fastly.com/financial-information/annual-reports"
     },
     {
-      "rank": 74,
+      "rank": 77,
       "company": "Instacart",
       "region": "加州(舊金山)",
       "volume": "約 5,000-8,000 台/年",
@@ -1108,10 +2677,29 @@
       "channel": "SI/DIST: SHI International (https://www.shi.com)、Zones (https://www.zones.com)",
       "difficulty": 6,
       "challenges": "高度依賴 AWS，自建比例較低。克服方式：針對其核心資料庫和 AI 推薦系統，提供高性價比的私有雲伺服器方案",
-      "entryPoint": "從其 AI 推薦系統的推理節點切入，提供 ESC4000-E11 進行 POC 測試，展示在 AI 推理場景的 TCO 優勢"
+      "entryPoint": "從其 AI 推薦系統的推理節點切入，提供 ESC4000-E11 進行 POC 測試，展示在 AI 推理場景的 TCO 優勢",
+      "keyPerson": {
+        "name": "Dustin Pearce",
+        "title": "Vice President of Infrastructure",
+        "linkedin": "https://www.linkedin.com/in/dustin-pearce-ab20b71",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "SHI International",
+          "website": "https://www.shi.com",
+          "type": "SI"
+        },
+        {
+          "name": "Zones",
+          "website": "https://www.zones.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=instacart&CIK=&type=10-K"
     },
     {
-      "rank": 75,
+      "rank": 78,
       "company": "Costco",
       "region": "美國",
       "volume": "約 5,000 - 8,000 台/年 (估計)",
@@ -1123,7 +2711,26 @@
       "channel": "直供為主，部分透過 SI",
       "difficulty": 8,
       "challenges": "Costco IT 系統成熟，供應商關係穩定，切入不易。需要展現 ASUS 產品在性價比、客製化及節能方面的優勢，並提供優於現有供應商的服務。",
-      "entryPoint": "從其快速增長的電商及數據分析業務著手，提供高效能的 AI/ML 解決方案。可先從部門級或邊緣運算等小型專案開始，建立成功案例後再逐步擴大。"
+      "entryPoint": "從其快速增長的電商及數據分析業務著手，提供高效能的 AI/ML 解決方案。可先從部門級或邊緣運算等小型專案開始，建立成功案例後再逐步擴大。",
+      "keyPerson": {
+        "name": "John Sullivan",
+        "title": "VP of IT",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "CDW",
+          "website": "https://www.cdw.com",
+          "type": "SI"
+        },
+        {
+          "name": "SHI International",
+          "website": "https://www.shi.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://investor.costco.com/financial-information/annual-reports"
     },
     {
       "company": "Dropbox",
@@ -1138,7 +2745,21 @@
       "difficulty": 8,
       "challenges": "Dropbox 自行設計伺服器已有近 10 年經驗，第七代硬體設計成熟。其對儲存密度與能效的要求極高。已有穩定的 ODM 合作關係。需要展示在高密度儲存伺服器方面的競爭力。",
       "entryPoint": "從 Dropbox 下一代伺服器硬體的評估階段切入，ASUS 可提供高密度儲存伺服器方案。利用 ASUS 在伺服器主機板設計的能力，提供客製化 ODM 服務。也可從 AI 功能（如智慧搜尋）所需的 GPU 伺服器切入。",
-      "rank": 76
+      "rank": 79,
+      "keyPerson": {
+        "name": "Sylvie Veilleux",
+        "title": "Former CIO (now Board Advisor)",
+        "linkedin": "https://www.linkedin.com/in/sylvieveilleux",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "CDW",
+          "website": "https://www.cdw.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://investors.dropbox.com/financial-information/annual-reports"
     },
     {
       "company": "Yahoo (Apollo Global)",
@@ -1153,325 +2774,24 @@
       "difficulty": 6,
       "challenges": "Yahoo 被 Apollo 收購後正在進行基礎設施現代化，可能面臨預算壓力。其伺服器規模相對較小，但有穩定的替換需求。需要展示成本效益與可靠性。",
       "entryPoint": "Yahoo 在 Apollo 管理下正在進行 IT 現代化，這是切入的好時機。ASUS 可提供高性價比的通用伺服器方案，協助 Yahoo 降低 TCO。從伺服器替換週期切入，透過 CDW 進行推廣。",
-      "rank": 77
-    },
-    {
-      "rank": 78,
-      "company": "Kroger",
-      "region": "美國",
-      "volume": "約 4,000 - 7,000 台/年 (估計)",
-      "platform": "Google Cloud、Oracle Retail Cloud、Intel Xeon/AMD EPYC 伺服器",
-      "application": "零售運營、數據分析、AI/ML、供應鏈管理",
-      "currentSuppliers": "Google Cloud、Oracle、Deloitte (SI)",
-      "odmOem": "主要透過雲端服務商及 SI 採購，硬體 OEM 不明確",
-      "asusModel": "通用1U: RS700-E11, 通用2U: RS720-E12, AI 2U 4GPU: ESC A8A-E12U",
-      "channel": "SI/DIST (如 Deloitte)",
-      "difficulty": 9,
-      "challenges": "Kroger 近年大力擁抱雲端，自建數據中心的需求可能減少。需要與其主要合作夥伴 Google Cloud 及 Deloitte 建立合作關係，將 ASUS 硬體作為其解決方案的一部分。",
-      "entryPoint": "與 Deloitte 等 SI 合作，將 ASUS 伺服器整合到他們為 Kroger 設計的解決方案中。另外，可針對 Kroger 眾多實體店的邊緣運算需求，提供客製化的硬體方案。"
-    },
-    {
-      "rank": 79,
-      "company": "Adobe",
-      "region": "美國",
-      "volume": "約 3,000 - 6,000 台/年。Adobe 的主要服務，包括 Creative Cloud 和 Experience Cloud，都運行在 AWS 和 Microsoft Azure 等公有雲上。但為了其 AI 平台 Adobe Sensei 的模型訓練，以及部分地區的資料中心需求，仍會採購一定數量的實體伺服器，特別是高效能的 GPU 伺服器。",
-      "platform": "混合雲架構。公有雲上使用標準的虛擬機實例。自有數據中心則以高效能運算 (HPC) 和 AI 伺服器為主，大量採用 NVIDIA GPU，如 A100、H100 等，搭配 Intel Xeon 或 AMD EPYC 處理器，構成強大的 AI 訓練叢集。通用伺服器則用於支援內部開發和測試環境。",
-      "application": "AI 模型訓練與推論（Adobe Sensei）、影像和影片渲染、大規模資料分析、以及支援其龐大的雲端服務（如儲存、資料庫、網路等）。",
-      "currentSuppliers": "Dell、HPE、Supermicro 等，以及直接與 ODM 廠商如 Wiwynn、Quanta 合作採購客製化 AI 伺服器。",
-      "odmOem": "混合模式。標準通用伺服器可能透過 OEM 採購，而大規模的 AI 伺服器叢集則傾向與 ODM 直接合作，以取得成本和客製化優勢。",
-      "asusModel": "Adobe 對 AI 算力需求龐大，華碩的 AI 伺服器產品線非常適合。AI 2U 4GPU: ESC4000-E11/ESC A8A-E12U, AI 4U 8GPU: ESC8000-E12/ESC8000A-E13, AI 7U HGX: ESC N8-E11/ESC N8A-E12, AI Blackwell: ESC NB8-E11, AI POD: ASUS AI POD GB200/GB300 NVL72。",
-      "channel": "直供或透過大型系統整合商 (SI)。對於大規模的數據中心建置，Adobe 會直接與供應商洽談。",
-      "difficulty": 7,
-      "challenges": "Adobe 擁有成熟的供應鏈和議價能力，且對伺服器的效能、穩定性和 TCO 要求極高。要打入其供應鏈，必須在產品效能和價格上都具備強大的競爭力。克服方式是專注於提供頂尖效能的 AI 伺服器，並展示其在 Adobe 特定工作負載（如影像處理、機器學習）上的卓越表現。",
-      "entryPoint": "最佳切入點是 Adobe Sensei 平台所需的 AI 訓練硬體。執行方式是與 Adobe 的 AI 基礎設施團隊建立聯繫，提供搭載最新 NVIDIA Blackwell 架構 GPU 的華碩 AI 伺服器樣機進行測試，並提供詳盡的效能測試報告，證明華碩產品在執行其 AI 模型訓練時，能提供比現有供應商更高的效能和更低的 TCO。"
-    },
-    {
       "rank": 80,
-      "company": "Hewlett Packard Inc (HP Inc)",
-      "region": "NA/美國(加州帕羅奧圖)",
-      "volume": "2,000-3,000 台 (估計)",
-      "platform": "HPE ProLiant 系列 (DL/ML), Intel Xeon / AMD EPYC",
-      "application": "內部 IT 維運、產品研發 (PC/印表機)、供應鏈管理、ERP 系統",
-      "currentSuppliers": "主要為 Hewlett Packard Enterprise (HPE) 直供，部分可能透過大型 SI",
-      "odmOem": "否 (自身為 OEM，但採購伺服器時為終端客戶)",
-      "asusModel": "RS700-E11, RS720-E12, RS720A-E12",
-      "channel": "直供 + SI/DIST: CDW (https://www.cdw.com), Insight (https://www.insight.com)",
-      "difficulty": 9,
-      "challenges": "**困難點:** HP Inc. 與 HPE 關係緊密，採購自家體系產品有優惠和整合優勢，替換成本高。**克服方式:** 針對特定非核心應用或新專案，提供具備顯著 TCO 優勢的 ASUS 解決方案，並強調 ASUS 的彈性和客製化能力。",
-      "entryPoint": "**切入點:** 尋找 HP Inc. 內部非 HPE 獨佔的部門，例如新興的軟體或服務單位。**執行方式:** 透過 CDW 或 Insight 等大型 SI 接觸其採購部門，提供 ASUS 通用伺服器進行 PoC 測試，展示性價比與管理便利性。"
+      "keyPerson": {
+        "name": "Austin Lee",
+        "title": "Director of Data Center Operations",
+        "linkedin": "https://www.linkedin.com/in/austin-james-lee",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "CDW",
+          "website": "https://www.cdw.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=yahoo&CIK=&type=10-K"
     },
     {
       "rank": 81,
-      "company": "SambaNova Systems",
-      "region": "美國",
-      "volume": "約 3,000 - 6,000 台/年 (估計值，基於其融資規模與市場擴展計畫)",
-      "platform": "SambaNova DataScale 系統 (內含其自行研發的 Cardinal SN 系列 AI 晶片)，搭配 x86 伺服器進行系統控制與資料處理。",
-      "application": "企業級 AI 應用、大型語言模型 (LLM) 訓練與推論、金融服務、生命科學",
-      "currentSuppliers": "自行設計核心 AI 系統，周邊伺服器可能與 Intel 合作，或向其他 OEM/ODM 採購。",
-      "odmOem": "自有設計 + OEM/ODM",
-      "asusModel": "此為特殊設計，無直接對應型號。但其搭配的 x86 伺服器可參考通用型 2U 機架式伺服器，如 RS720-E12 或 RS720A-E12。",
-      "channel": "直供 & 透過合作夥伴 (如 Intel)",
-      "difficulty": 10,
-      "challenges": "與 Cerebras 類似，SambaNova 的核心競爭力在於其自行研發的 AI 晶片與軟體堆疊，形成一個封閉的生態系統。其 DataScale 系統是高度整合的解決方案，外部廠商難以介入其核心硬體。近期與 Intel 的深度合作，更降低了其他伺服器廠商的切入機會。",
-      "entryPoint": "機會點可能在於其非核心的基礎設施，例如資料儲存、網路交換器周邊的管理伺服器。ASUS 可以嘗試提供高密度、低功耗的儲存或管理伺服器方案，並強調其在系統整合與客製化方面的彈性。另一個潛在機會是，在其與 Intel 合作的框架下，尋找可以補充其方案的利基產品，例如特定用途的加速卡或特殊規格的伺服器。"
-    },
-    {
-      "rank": 82,
-      "company": "Micron Technology",
-      "region": "美國",
-      "volume": "約 3,000 - 8,000 台/年 (估計)。Micron 擁有多座半導體晶圓廠（Boise, Manassas VA 等），半導體製造需要大量伺服器支援 EDA 設計、製程模擬、AI 品質檢測、MES 系統等。正在大力投資 AI 用於半導體製造。",
-      "platform": "Intel Xeon / AMD EPYC 雙平台，2U/4U 通用伺服器與 GPU 伺服器。AI 伺服器用於半導體製程 AI 優化、EDA 模擬、HBM 設計驗證。高效能運算 (HPC) 需求顯著。",
-      "application": "半導體製造（DRAM/NAND/HBM）、EDA 電子設計自動化、製程模擬與優化、AI 品質檢測、企業 IT、研發運算。FY2025 營收 $29.1B，資料中心業務佔 56%。",
-      "currentSuppliers": "Dell, HPE, Supermicro",
-      "odmOem": "OEM",
-      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720-E11/RS720A-E12, AI 8GPU: ESC N8-E11, WS: WS880T",
-      "channel": "直供 + SI/DIST: CDW (https://www.cdw.com), SHI International (https://www.shi.com)",
-      "difficulty": 6,
-      "challenges": "Micron 作為半導體大廠，對伺服器的可靠性與效能要求極高，尤其在 EDA 與製程模擬方面。其 IT 採購有嚴格的供應商認證流程。但 Micron 與 ASUS 在記憶體供應鏈上有長期合作關係，這是重要的互惠基礎。",
-      "entryPoint": "ASUS 大量採購 Micron 記憶體產品（DRAM/SSD），可利用此互惠關係推動伺服器合作。從 AI 伺服器切入（Micron 正在大力投資 AI 用於半導體製造），搭配 ASUS 伺服器搭載 Micron HBM/DDR5 的整合方案。透過 CDW 或 SHI 進行推廣，並安排高層互訪建立策略夥伴關係。"
-    },
-    {
-      "rank": 83,
-      "company": "John Deere",
-      "region": "美國",
-      "volume": "約 3,000 - 5,000 台/年",
-      "platform": "Intel Xeon 2U 通用伺服器 (用於邊緣及廠房)、NVIDIA DGX/HGX AI 伺服器 (用於研發)",
-      "application": "精準農業數據分析 (John Deere Operations Center)、自動駕駛農機研發、工廠自動化與機器人控制、供應鏈與物流管理",
-      "currentSuppliers": "Dell Technologies, Hewlett Packard Enterprise (HPE)",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E12, AI 4U 8GPU: ESC8000-E12",
-      "channel": "直供",
-      "difficulty": 9,
-      "challenges": "John Deere 與 Dell 和 HPE 有長期穩固的合作關係，且其供應鏈管理嚴格，新供應商難以切入。克服方式為，可以從其積極發展的 AI 與自動駕駛領域著手，提供具備高效能與客製化彈性的 NVIDIA AI 伺服器解決方案，並強調 ASUS 在 AI 伺服器領域的技術領先地位。",
-      "entryPoint": "切入點為其在精準農業與自動駕駛領域的龐大運算需求。執行上，可透過與 NVIDIA 的合作關係，共同向 John Deere 的研發部門推薦 ASUS 的 AI 伺服器，並提供樣機進行測試，展示其在處理複雜 AI 模型上的優異性能與穩定性。"
-    },
-    {
-      "rank": 84,
-      "company": "Palantir Technologies",
-      "region": "美國",
-      "volume": "約 2,000 - 5,000 台/年。Palantir 的軟體平台（Foundry, Gotham, AIP）可以部署在公有雲（AWS, Azure, GCP）、客戶的自有數據中心（On-premise）、甚至是機密的氣隙環境（Air-gapped）。因此，其伺服器採購分為兩部分：一部分是為了內部研發和雲端 SaaS 服務的少量採購；另一部分是為其政府和大型企業客戶提供 On-premise 解決方案時，作為解決方案的一部分而採購的伺服器。",
-      "platform": "主要為標準的 x86 架構通用伺服器，採用 Intel Xeon 或 AMD EPYC 處理器，以運行其複雜的數據分析和 AI 軟體。近年來，隨著其 AI 平台（AIP）的發展，對 GPU 伺服器的需求也快速增長，特別是與 NVIDIA 的合作，大量採用 DGX 系統或搭載 H100、GB200 的伺服器。",
-      "application": "運行 Palantir 的三大平台：Foundry（數據整合與操作系統）、Gotham（專為政府情報與國防設計）、AIP（人工智慧平台）。這些平台被用於大規模數據分析、情報整合、供應鏈管理、AI 模型開發與部署等關鍵任務。",
-      "currentSuppliers": "Dell、HPE、Cisco 等一線 OEM 廠商。在為客戶提供解決方案時，通常會與客戶現有的 IT 供應商合作。在 AI 領域，與 NVIDIA 和 Dell 有深度的合作關係。",
-      "odmOem": "主要為 OEM。Palantir 作為軟體公司，專注於軟體開發，硬體部分傾向於採購標準化、經過驗證的 OEM 伺服器，以確保其軟體在不同環境下的穩定性和相容性。",
-      "asusModel": "Palantir 的客戶對數據安全和效能要求極高，華碩的伺服器產品線能提供可靠的選擇。通用1U: RS700-E11, 通用2U: RS720-E12, 通用2U AMD: RS720A-E12。針對其 AI 平台和客戶的 AI 需求，可強力推薦：AI 4U 8GPU: ESC8000-E12/ESC8000A-E13, AI 7U HGX: ESC N8-E11/ESC N8A-E12, AI Blackwell: ESC NB8-E11, AI POD: ASUS AI POD GB200/GB300 NVL72。",
-      "channel": "透過系統整合商 (SI) 或直接與客戶的 IT 部門合作。Palantir 的銷售模式是解決方案導向，硬體採購通常是整個專案的一部分。例如，他們會與 Accenture 等大型 SI 合作，為客戶建置完整的 AI 數據中心。",
-      "difficulty": 6,
-      "challenges": "Palantir 本身的採購量不大，主要的採購來自其終端客戶。要透過 Palantir 銷售伺服器，關鍵在於成為其解決方案中的「推薦硬體」或「認證硬體」。克服方式是與 Palantir 建立技術合作夥伴關係，確保華碩的伺服器對其軟體平台有最佳的相容性和效能表現。",
-      "entryPoint": "切入點是與 Palantir 合作，將華碩的 AI 伺服器（特別是搭載 NVIDIA 最新 GPU 的型號）納入其「主權 AI (Sovereign AI)」或「Chain Reaction」等解決方案的參考架構中。執行方式是投入工程資源，與 Palantir 的技術團隊共同進行軟硬體優化與認證，並針對其主要客戶（如政府、國防、大型能源公司）的需求，提供具備高度安全性和效能的聯合解決方案。"
-    },
-    {
-      "rank": 85,
-      "company": "PayPal",
-      "region": "美國",
-      "volume": "約 2,000-4,000 台/年 (估計)。PayPal 正在進行一項大規模的基礎設施重組計畫，計畫退出部分自有數據中心，並將更多服務遷移到公有雲。然而，他們仍然營運著大量的自有數據中心，並持續進行硬體更新和採購。",
-      "platform": "歷史上曾部署過 ARM 伺服器，但目前主要應為 Intel/AMD 的通用伺服器。隨著其對 AI 和機器學習的大量投入，預計未來將採購大量 NVIDIA AI 伺服器。",
-      "application": "支付處理、詐欺偵測 (每季阻擋 5 億美元詐欺)、風險管理、數據分析、以及新推出的 AI 驅動商業服務 (Agentic Commerce)。",
-      "currentSuppliers": "自有數據中心供應商不明，可能為多家 OEM/ODM。公有雲合作夥伴包括 Google Cloud。",
-      "odmOem": "混合，自有部分可能為 OEM 或 ODM。",
-      "asusModel": "通用伺服器: RS700-E11, RS720-E12, RS720A-E12。AI 伺服器: ESC4000-E11, ESC8000-E12, ESC N8-E11。",
-      "channel": "直供",
-      "difficulty": 6,
-      "challenges": "PayPal 的基礎設施正在轉型中，採購決策可能較為混亂且分散。要克服此點，需要同時與其數據中心運營團隊和雲端策略團隊建立聯繫，理解他們對於不同工作負載 (workload) 的規劃，找出哪些應用會保留在自有數據中心，哪些會上雲。",
-      "entryPoint": "切入點在於其基礎設施重組帶來的機會。他們需要「簡化營運」和「統一平台」，這正是 ASUS 這類能提供從通用伺服器到 AI POD 完整解決方案的供應商的優勢。可以主動提出一個整合方案，展示如何透過標準化的 ASUS 伺服器平台，簡化其自有數據中心的管理，並提供比公有雲更有成本效益的 AI 解決方案。針對其大量的詐欺偵測及 AI 應用，強調整機櫃/POD 方案 (如 ASUS AI POD) 在快速部署和高效能運算上的優勢。"
-    },
-    {
-      "rank": 86,
-      "company": "Caterpillar",
-      "region": "美國",
-      "volume": "約 2,000 - 4,000 台/年",
-      "platform": "Intel Xeon 1U/2U 通用伺服器、NVIDIA AI 伺服器",
-      "application": "全球營運數據管理、產品遠端監控與預測性維護、自動駕駛工程機械研發、AI 應用開發",
-      "currentSuppliers": "Dell Technologies, HPE, Microsoft Azure",
-      "odmOem": "OEM",
-      "asusModel": "通用1U: RS700-E11, AI 4U 8GPU: ESC8000-E12",
-      "channel": "直供",
-      "difficulty": 9,
-      "challenges": "Caterpillar 的 IT 基礎設施已深度整合現有供應商的產品與服務，轉換成本高。克服方式為，專注於其新興的 AI 應用與數據中心電力備援市場，提供高能源效率的伺服器，並結合其自身發電機業務，提出整合性的解決方案。",
-      "entryPoint": "切入點為其與 NVIDIA 的合作，以及其在資料中心備用電源市場的領導地位。執行上，可主動提出搭載最新 NVIDIA GPU 的 ASUS AI 伺服器方案，並強調其能源效率，協助 Caterpillar 降低其內部資料中心及客戶資料中心的營運成本。"
-    },
-    {
-      "rank": 87,
-      "company": "3M",
-      "region": "美國",
-      "volume": "約 1,500 - 2,500 台/年",
-      "platform": "Intel Xeon 2U 通用伺服器、少量 AI/HPC 伺服器",
-      "application": "全球企業資源規劃 (ERP)、供應鏈管理、材料科學研發與模擬、數據分析",
-      "currentSuppliers": "Dell Technologies, IBM",
-      "odmOem": "OEM",
-      "asusModel": "通用2U: RS720-E12, AI 2U 4GPU: ESC4000-E11",
-      "channel": "直供",
-      "difficulty": 8,
-      "challenges": "3M 作為一家歷史悠久的製造業巨頭，其 IT 採購流程相對保守，對新供應商的審核嚴格。克服方式為，利用 3M 自身也是資料中心解決方案供應商的角色，尋求在散熱、連接等技術上合作的機會，進而推廣 ASUS 的伺服器產品。",
-      "entryPoint": "切入點為其在材料科學領域的研發需求，以及其對資料中心能源效率的關注。執行上，可以提供搭載先進散熱技術的 ASUS 伺服器，並提供客製化的 HPC 解決方案，以滿足其在科學計算與模擬上的高效能需求。"
-    },
-    {
-      "rank": 88,
-      "company": "Block (Square)",
-      "region": "美國",
-      "volume": "約 1,000-2,000 台/年 (估計)。Block 運行混合雲架構，同時使用自有數據中心和公有雲 (主要是 AWS)。他們持續投資自有基礎設施，特別是針對支付處理和 AI 應用。",
-      "platform": "自有數據中心可能採用 Intel/AMD 的通用伺服器。近期宣布將部署 NVIDIA GB200 系統，顯示其對高效能 AI 伺服器有強烈需求。",
-      "application": "支付處理、風險控制、數據分析、機器學習 (例如商戶分類、詐欺偵測) 以及 Cash App 的各種服務。",
-      "currentSuppliers": "自有數據中心供應商不明，可能為多家 OEM/ODM。公有雲為 AWS。",
-      "odmOem": "混合，自有部分可能為 OEM 或 ODM，雲端部分為 OEM。",
-      "asusModel": "通用伺服器: RS720-E12, RS720A-E12。AI 伺服器: ESC NB8-E11, ASUS AI POD GB200/GB300 NVL72。",
-      "channel": "直供",
-      "difficulty": 7,
-      "challenges": "Block 的基礎設施細節不完全透明，且混合雲策略增加了複雜性。要克服此點，需要密切關注其技術部落格、開發者論壇和財報會議，以獲取有關其基礎設施投資和技術方向的線索。此外，針對其公開的 AI 硬體採購計畫，可以反推其現有設施的不足之處。",
-      "entryPoint": "Block 是北美首批宣布部署 NVIDIA GB200 的公司之一，這是一個極佳的切入點。可以主動聯繫其基礎設施或 AI 團隊，提供 ASUS 對應的 Blackwell AI 解決方案 (ESC NB8-E11, GB200 NVL72 POD)，強調供貨能力、客製化彈性及散熱解決方案的優勢。同時，可以提供高效能的通用伺服器方案 (RS720 系列)，協助他們在自有數據中心處理非 AI 的工作負載，以降低對 AWS 的依賴及成本。"
-    },
-    {
-      "rank": 89,
-      "company": "Palo Alto Networks",
-      "region": "美國",
-      "volume": "約 1,000 - 2,000 台/年 (主要為內部研發及雲端服務後端支撐)",
-      "platform": "主要為標準的 1U/2U x86 架構通用伺服器，用於軟體開發、測試、建構與維運其 Prisma Cloud 安全平台。隨著 AI 功能的整合，可能開始導入少量搭載 NVIDIA GPU 的伺服器。",
-      "application": "主要用於內部軟體開發、全球威脅情資分析、以及支撐其雲端安全服務 (SaaS) 的後端基礎設施。其銷售的硬體防火牆為自行設計的專用設備，非通用伺服器。",
-      "currentSuppliers": "作為雲端原生公司，其大部分服務運行在 AWS, GCP, Azure 等公有雲上。內部使用的伺服器可能向 Dell, HPE 或 Supermicro 等廠商採購。",
-      "odmOem": "主要為 OEM 採購模式，購買標準化的伺服器產品。",
-      "asusModel": "通用1U: RS700-E11, 通用2U: RS720-E12",
-      "channel": "直供 + SI/DIST: World Wide Technology (https://www.wwt.com), CDW (https://www.cdw.com), Insight Enterprises (https://www.insight.com)",
-      "difficulty": 10,
-      "challenges": "Palo Alto Networks 的核心業務是網路安全軟體與專用硬體，並非通用伺服器的大量採購商。其基礎設施高度依賴公有雲，內部伺服器採購量非常有限且集中於研發用途。要切入極為困難。克服此困難需要轉變銷售策略，從銷售硬體轉為提供整合解決方案，例如將 ASUS 的伺服器與 Palo Alto 的 VM-Series 虛擬防火牆整合，提供給共同的企業客戶。",
-      "entryPoint": "幾乎沒有直接向 Palo Alto Networks 銷售大量通用伺服器的機會。唯一的切入點是尋求技術合作，將 ASUS 的伺服器管理軟體 (如 ASMB) 與 Palo Alto 的安全平台進行整合，提供更全面的資料中心安全可視性。執行上，需要透過其技術合作夥伴計畫，展示雙方整合能為客戶帶來的價值，例如提升裸機伺服器的安全性。這是一個長期且需要高度技術投入的策略。"
-    },
-    {
-      "rank": 90,
-      "company": "CrowdStrike",
-      "region": "美國",
-      "volume": "約 1,000 - 3,000 台/年 (用於全球雲端基礎設施擴展)",
-      "platform": "主要為高效能的 x86 架構通用伺服器，用於建構其全球分散的 Falcon 雲端平台。為了處理巨量的端點數據與 AI 運算，可能採用高密度、多核心的伺服器，並搭配高速網路與儲存設備。",
-      "application": "100% 用於建構與維運其 SaaS 型態的 Falcon 平台。這些伺服器遍布全球多個區域性資料中心，負責收集、處理、分析來自全球客戶端點的遙測數據，並透過 AI 模型偵測威脅。",
-      "currentSuppliers": "作為雲端原生公司，其服務主要建構在自營的裸機伺服器以及部分公有雲 (AWS) 之上。其裸機伺服器供應商可能包含 Dell, Supermicro 或 Quanta 等 ODM 廠商。",
-      "odmOem": "可能混合採用 OEM 與 ODM 模式，以在成本與客製化之間取得平衡。",
-      "asusModel": "通用1U: RS700-E11, 通用2U: RS720-E12, 通用2U AMD: RS720A-E12",
-      "channel": "直供 + SI/DIST: CDW (https://www.cdw.com), SHI International (https://www.shi.com), Insight Enterprises (https://www.insight.com)",
-      "difficulty": 9,
-      "challenges": "CrowdStrike 對其基礎設施的效能、穩定性與安全性有極高的要求，且供應鏈相當穩定。要打入其供應鏈，ASUS 需要證明其產品在效能、TCO (總體擁有成本) 及供應鏈管理上具有顯著優勢。克服方式是提供極具競爭力的價格，並展示 ASUS 伺服器在高負載、大規模部署環境下的穩定性與管理效率。提供客製化服務以滿足其特定需求也是一個關鍵。",
-      "entryPoint": "切入點是直接與其基礎設施採購團隊或技術營運部門建立聯繫。執行上，ASUS 可以提供少量伺服器進行 PoC (概念驗證) 測試，讓 CrowdStrike 的工程師親身體驗其產品的效能與管理介面。同時，可以強調 ASUS 在全球的供應鏈彈性與支援能力，確保能滿足其全球快速擴展的需求。與其在公有雲上的合作夥伴 (如 AWS) 建立關係，提供混合雲解決方案也可能是一個機會點。"
-    },
-    {
-      "rank": 91,
-      "company": "Corebridge Financial",
-      "region": "北美/美國",
-      "volume": "約 500 - 1,500 台/年 (作為大型金融服務公司，採購主要為週期性更新及業務擴展，非超大規模採購)",
-      "platform": "以 Intel Xeon 或 AMD EPYC 為主的 1U/2U 通用型機架式伺服器，用於企業級應用和資料庫。",
-      "application": "核心金融交易系統、客戶關係管理 (CRM)、資料分析、網路安全、內部 IT 基礎設施。採用混合雲策略，部分業務部署在 Microsoft Azure。",
-      "currentSuppliers": "推測為 Dell Technologies, HPE, Lenovo 等一線 OEM 品牌。",
-      "odmOem": "OEM。",
-      "asusModel": "通用 1U: RS700-E11, 通用 2U: RS720-E12, 通用 2U AMD: RS720A-E12。",
-      "channel": "可能透過大型系統整合商 (SI) 或通路代理商 (DIST) 進行採購，例如 CDW, SHI, Insight Enterprises。",
-      "difficulty": 7,
-      "challenges": "金融行業對供應商的穩定性、安全性認證和長期支援能力有嚴格要求。ASUS 需要證明其產品符合金融業的合規標準 (如 FIPS, TAA)，並建立與大型金融 SI 的合作關係，以進入其供應鏈。此外，與根深蒂固的一線 OEM 品牌競爭，需要在品牌認知度和企業級服務支援上投入更多資源。",
-      "entryPoint": "透過與目標 SI 合作，將 ASUS 的通用伺服器產品納入其解決方案組合。針對 Corebridge 的資料分析或虛擬化環境需求，提供搭載 AMD EPYC 處理器的 RS720A-E12 伺服器作為高性價比方案，並提供樣機進行效能評估。強調 ASUS 伺服器的能源效率和更低的總體擁有成本，以吸引對營運成本敏感的 IT 部門。"
-    },
-    {
-      "rank": 92,
-      "company": "Comcast / NBCUniversal",
-      "region": "美國(費城)",
-      "volume": "20,000-30,000",
-      "platform": "白牌伺服器 (Intel Xeon / AMD EPYC)",
-      "application": "核心網路、媒體串流、雲端通訊",
-      "currentSuppliers": "DriveNets (軟體), 多家白牌硬體供應商",
-      "odmOem": "Quanta, Wiwynn (推測)",
-      "asusModel": "RS720-E12, RS720A-E12",
-      "channel": "直供",
-      "difficulty": 8,
-      "challenges": "已建立穩固的ODM合作關係、基礎設施高度客製化、對大規模採購的價格敏感。需透過極具競爭力的總體擁有成本（TCO）和節能效率來展現優勢。",
-      "entryPoint": "由於Comcast採用基於軟體的分解式網路架構，可從提供針對其特定軟體（如DriveNets）優化的白牌伺服器著手。強調ASUS伺服器在效能、電源效率和客製化方面的彈性，以符合其大規模、高效率的營運需求。"
-    },
-    {
-      "rank": 93,
-      "company": "AT&T",
-      "region": "美國(德州達拉斯)",
-      "volume": "30,000-40,000",
-      "platform": "Intel Xeon / AMD EPYC (Microsoft Azure for Operators)",
-      "application": "5G網路核心、雲端服務、AI、IoT",
-      "currentSuppliers": "Microsoft, Dell, HPE (via Azure)",
-      "odmOem": "不明確",
-      "asusModel": "RS720-E12, RS720A-E12, ESC8000-E12, ESC N8-E11",
-      "channel": "SI (via Microsoft)",
-      "difficulty": 10,
-      "challenges": "AT&T已將其5G核心網路的營運和基礎設施外包給Microsoft Azure for Operators。這意味著其主要的伺服器採購決策權已轉移至微軟，ASUS需要通過微軟的供應鏈體系才能進入。克服方式：成為Microsoft Azure for Operators的認證硬體供應商。這需要投入大量資源進行產品驗證和整合，並與微軟建立深厚的合作關係。",
-      "entryPoint": "由於AT&T已將其網路雲平台轉移給微軟，直接切入點非常有限。唯一的機會在於成為微軟Azure for Operators的伺服器供應商之一。ASUS可以專注於提供針對電信工作負載優化的高密度、高效能伺服器，特別是在AI和邊緣運算領域，例如符合NVIDIA MGX或HGX標準的AI伺服器(ESC8000-E12P, ESC N8-E11)。這需要一個長期的策略，首先要成為微軟的合作夥伴，並在Azure Marketplace上架產品，再逐步爭取進入AT&T的專用雲端基礎設施。"
-    },
-    {
-      "rank": 94,
-      "company": "Verizon Communications",
-      "region": "美國(紐約)",
-      "volume": "20,000-30,000",
-      "platform": "Intel Xeon / AMD EPYC (混合)",
-      "application": "5G網路、雲端服務、IoT、邊緣運算",
-      "currentSuppliers": "Dell, HPE, Cisco, Juniper",
-      "odmOem": "Quanta, Wistron (推測)",
-      "asusModel": "RS720-E12, RS720A-E12, ESC8000A-E13",
-      "channel": "直供/SI",
-      "difficulty": 8,
-      "challenges": "Verizon是全球最大的電信商之一，對供應商有非常嚴格的認證流程和長期的合作關係，且其網路設備與伺服器採購高度整合。克服方式：利用與AWS和Microsoft的合作關係，提供針對其5G Edge和私有雲解決方案優化的伺服器。強調ASUS在AI和邊緣運算伺服器的彈性與客製化能力。",
-      "entryPoint": "切入點在於其快速發展的5G Edge和私有MEC (Mobile Edge Computing) 業務。Verizon與AWS和Azure合作，在企業端部署邊緣運算節點。ASUS可以提供針對這些應用場景優化的邊緣伺服器，例如小尺寸、低功耗、高效能的1U/2U伺服器(RS700/RS720系列)，或是搭載GPU的AI推論伺服器(ESC4000系列)。可透過與AWS/Azure的合作管道，將ASUS伺服器作為其解決方案的一部分推薦給Verizon。"
-    },
-    {
-      "rank": 95,
-      "company": "T-Mobile US",
-      "region": "美國(華盛頓州貝爾維尤)",
-      "volume": "15,000-25,000",
-      "platform": "Intel Xeon / AMD EPYC (Dell, HPE)",
-      "application": "5G網路核心、邊緣運算(MEC)、私有網路、AI應用",
-      "currentSuppliers": "Dell, HPE, Nokia, Ericsson",
-      "odmOem": "Quanta, Wistron (推測)",
-      "asusModel": "RS720-E12, ESC4000-E11, ESC8000-E12",
-      "channel": "直供/SI",
-      "difficulty": 9,
-      "challenges": "T-Mobile與Dell和HPE等主要供應商有深度的策略合作，尤其在邊緣運算和私有5G網路領域。其供應鏈非常成熟，新供應商進入門檻極高。克服方式：ASUS需要展現出比現有供應商更優越的彈性、客製化能力和總體擁有成本(TCO)。可以針對特定的新興應用，如AI驅動的網路優化或特定行業的邊緣解決方案，提供概念驗證(PoC)。",
-      "entryPoint": "切入點在於T-Mobile的「Un-carrier」市場策略，他們持續尋求創新的、能降低成本的解決方案。ASUS可以其「5G Advanced Network Solutions」為突破口，提供與Dell VxRail競爭的、基於ASUS伺服器的高度整合、預先驗證的邊緣運算解決方案。可與軟體合作夥伴共同開發，強調其開放架構與避免供應商鎖定的優勢，直接向T-Mobile的企業解決方案部門或其大型企業客戶提案。"
-    },
-    {
-      "rank": 96,
-      "company": "Walt Disney Company",
-      "region": "美國(加州伯班克)",
-      "volume": "15,000-25,000",
-      "platform": "混合雲 (AWS + 自建數據中心), 可能採用通用型機架伺服器",
-      "application": "串流媒體 (Disney+), 內容渲染, 企業IT",
-      "currentSuppliers": "AWS (公有雲), HPE, Dell (自建數據中心推測)",
-      "odmOem": "不明確，可能部分採用",
-      "asusModel": "RS700-E11, RS720-E12",
-      "channel": "直供/SI",
-      "difficulty": 7,
-      "challenges": "迪士尼與AWS有深度合作關係，且自建數據中心供應商穩定，新供應商難以切入。需證明在特定工作負載（如渲染、AI）上具備顯著的性價比或效能優勢。",
-      "entryPoint": "針對其動畫和視覺效果部門，提供高效能的AI/GPU伺服器（如ESC8000/ESC4000系列）進行概念驗證(POC)，展示在渲染和AI應用上的卓越效能。同時，探索其自建數據中心更新週期，提供更具成本效益的通用伺服器方案。"
-    },
-    {
-      "rank": 97,
-      "company": "Charter Communications",
-      "region": "美國(康涅狄格州斯坦福)",
-      "volume": "10,000-20,000",
-      "platform": "NVIDIA AI Grid (RTX 6000 PRO Blackwell)",
-      "application": "有線電視、寬頻網路、AI應用、邊緣運算",
-      "currentSuppliers": "NVIDIA, Arris, Cisco",
-      "odmOem": "不明確",
-      "asusModel": "ESC8000-E12P, ESC N8-E11, ASUS AI POD",
-      "channel": "直供/SI",
-      "difficulty": 6,
-      "challenges": "Charter與NVIDIA在AI基礎設施上有直接合作，並採用其參考設計，這可能排擠其他GPU伺服器供應商。此外，其網路設備主要由Arris和Cisco提供，有固定的供應鏈。克服方式：強調ASUS在NVIDIA生態系中的重要地位，以及提供從單一伺服器到整機櫃(AI POD)的完整解決方案能力。提供比NVIDIA參考設計更具彈性或成本效益的客製化選項。",
-      "entryPoint": "Charter正在積極部署邊緣AI基礎設施，這是最直接的切入點。他們採用了NVIDIA的AI Grid參考設計，並使用RTX 6000 PRO Blackwell GPU。ASUS可以提供基於相同GPU或更高階Blackwell架構的AI伺服器，例如MGX架構的ESC8000-E12P或HGX架構的ESC N8-E11。更具潛力的切入點是ASUS AI POD解決方案，提供包含網路、散熱、軟體的完整機櫃級AI方案，直接對應Charter在邊緣資料中心大量部署AI算力的需求。可直接聯繫其產品與技術部門，展示ASUS AI解決方案的效能與TCO優勢。"
-    },
-    {
-      "rank": 98,
-      "company": "Warner Bros Discovery",
-      "region": "美國(紐約)",
-      "volume": "10,000-20,000",
-      "platform": "混合雲 (主要為AWS，部分自建)",
-      "application": "串流媒體 (Max, discovery+), 廣告技術, 內容製作",
-      "currentSuppliers": "AWS, Google Cloud (公有雲), 可能有少量自建數據中心",
-      "odmOem": "不明確",
-      "asusModel": "RS700-E11, ESC4000-E11",
-      "channel": "SI/DIST",
-      "difficulty": 9,
-      "challenges": "公司正進行技術平台整合，高度依賴AWS，且財務狀況較為緊張，對新硬體投資謹慎。需提供極具吸引力的成本效益分析，並與其雲端策略結合。",
-      "entryPoint": "由於WBD正將旗下串流媒體遷移至統一的內部技術堆疊，這為新供應商提供了機會。可提出基於ASUS AI伺服器的解決方案，協助其優化內容推薦引擎和廣告投放演算法，以提升用戶體驗和廣告收益。同時，可針對其私有雲或邊緣節點需求，提供高CP值的通用伺服器。"
-    },
-    {
-      "rank": 99,
       "company": "Lumen Technologies",
       "region": "美國(路易斯安那州門羅)",
       "volume": "5,000-10,000",
@@ -1483,22 +2803,712 @@
       "channel": "直供/SI",
       "difficulty": 7,
       "challenges": "現有供應商關係穩固，且為大型電信商，對供應商的穩定性與可靠性要求極高，新進者不易切入。克服方式：從邊緣運算或特定AI應用等新興領域著手，提供客製化或更高性價比的解決方案，建立初步合作關係。",
-      "entryPoint": "Lumen的Bare Metal服務是關鍵切入點。他們需要為客戶提供多樣化的硬體選擇。ASUS可主動接觸其採購或技術部門，提供適用於邊緣運算的1U/2U通用伺服器(RS700/RS720系列)進行測試，並強調ASUS在AI伺服器(ESC系列)的完整佈局與效能優勢，滿足其AI應用需求。可先從少量多樣的專案訂單開始，逐步擴大合作。"
+      "entryPoint": "Lumen的Bare Metal服務是關鍵切入點。他們需要為客戶提供多樣化的硬體選擇。ASUS可主動接觸其採購或技術部門，提供適用於邊緣運算的1U/2U通用伺服器(RS700/RS720系列)進行測試，並強調ASUS在AI伺服器(ESC系列)的完整佈局與效能優勢，滿足其AI應用需求。可先從少量多樣的專案訂單開始，逐步擴大合作。",
+      "keyPerson": {
+        "name": "Andy Reese",
+        "title": "Director of Infrastructure Engineering",
+        "linkedin": "https://www.linkedin.com/in/andy-reese-a622541",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Lumen Technologies (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=lumen-technologies&CIK=&type=10-K"
+    },
+    {
+      "rank": 82,
+      "company": "Palantir Technologies",
+      "region": "美國(丹佛)",
+      "volume": "約 5,000-10,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC / NVIDIA A100/H100 GPU",
+      "application": "大數據分析、AI/ML 推論、政府情報分析、企業數據整合",
+      "currentSuppliers": "Dell, HPE, Supermicro",
+      "odmOem": "OEM (Dell/HPE)",
+      "asusModel": "ASUS ESC4000A-E12 (GPU), RS720A-E12 (通用)",
+      "channel": "直供 + SI/DIST",
+      "difficulty": 8,
+      "challenges": "Palantir 與美國政府和情報機構有深度合作，對供應商的安全審查和合規要求極為嚴格。目前主要使用 Dell 和 HPE 的政府認證產品線，ASUS 需要取得相關政府安全認證（如 FedRAMP、ITAR）才有機會切入。",
+      "entryPoint": "1) 先從 Palantir 的商業客戶端切入，提供高性價比的 AI 推論伺服器。2) 與 Palantir 的 Apollo 平台整合，展示 ASUS 伺服器在邊緣部署的優勢。3) 透過 Carahsoft 等政府通路合作夥伴建立關係。",
+      "keyPerson": {
+        "name": "Shyam Sankar",
+        "title": "CTO",
+        "linkedin": "https://www.linkedin.com/in/shyamsankar/",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Carahsoft",
+          "website": "https://www.carahsoft.com",
+          "type": "DIST"
+        },
+        {
+          "name": "World Wide Technology",
+          "website": "https://www.wwt.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://investors.palantir.com/financial-information/sec-filings"
+    },
+    {
+      "rank": 83,
+      "company": "Johnson & Johnson",
+      "region": "NA/美國(新澤西)",
+      "volume": "4,000-6,000 台 (估計)",
+      "platform": "混合雲架構，本地資料中心採用 Dell PowerEdge, HPE ProLiant，雲端使用 AWS/Azure",
+      "application": "藥物研發 (HPC, AI/ML)、基因組學、臨床試驗數據分析、ERP、供應鏈管理",
+      "currentSuppliers": "Dell, HPE, IBM, AWS, Microsoft Azure",
+      "odmOem": "否 (主要透過 OEM 和大型 SI)",
+      "asusModel": "ESC8000-E12, ESC N8-E11, RS720-E12",
+      "channel": "直供 + SI/DIST: SHI (https://www.shi.com), CDW (https://www.cdw.com), WWT (https://www.wwt.com)",
+      "difficulty": 9,
+      "challenges": "**困難點:** 醫療產業法規嚴格 (如 GxP)，供應商驗證週期長且標準高。現有供應商關係穩固，替換障礙大。**克服方式:** 提供符合法規的解決方案，並與有經驗的 SI 合作。針對特定研發項目提供 PoC，展示 ASUS GPU 伺服器在 AI 藥物研發上的卓越效能。",
+      "entryPoint": "**切入點:** 專注於其 J&J Innovative Medicine 部門的 HPC 和 AI 運算需求。**執行方式:** 透過 SHI 或 WWT 等在醫療領域有深厚經驗的 SI，向其研發 IT 部門推薦 ASUS 的 ESC N8-E11 (HGX) 或 ESC8000-E12，用於加速基因組定序或藥物篩選等工作負載。",
+      "keyPerson": {
+        "name": "Jim Swanson",
+        "title": "EVP & CIO",
+        "linkedin": "https://www.linkedin.com/in/jimswanson",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "CDW",
+          "website": "https://www.cdw.com",
+          "type": "SI"
+        },
+        {
+          "name": "Insight Enterprises",
+          "website": "https://www.insight.com",
+          "type": "SI"
+        },
+        {
+          "name": "TD SYNNEX",
+          "website": "https://www.tdsynnex.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.investor.jnj.com/annual-meeting-materials"
+    },
+    {
+      "rank": 84,
+      "company": "Kroger",
+      "region": "美國",
+      "volume": "約 4,000 - 7,000 台/年 (估計)",
+      "platform": "Google Cloud、Oracle Retail Cloud、Intel Xeon/AMD EPYC 伺服器",
+      "application": "零售運營、數據分析、AI/ML、供應鏈管理",
+      "currentSuppliers": "Google Cloud、Oracle、Deloitte (SI)",
+      "odmOem": "主要透過雲端服務商及 SI 採購，硬體 OEM 不明確",
+      "asusModel": "通用1U: RS700-E11, 通用2U: RS720-E12, AI 2U 4GPU: ESC A8A-E12U",
+      "channel": "SI/DIST (如 Deloitte)",
+      "difficulty": 9,
+      "challenges": "Kroger 近年大力擁抱雲端，自建數據中心的需求可能減少。需要與其主要合作夥伴 Google Cloud 及 Deloitte 建立合作關係，將 ASUS 硬體作為其解決方案的一部分。",
+      "entryPoint": "與 Deloitte 等 SI 合作，將 ASUS 伺服器整合到他們為 Kroger 設計的解決方案中。另外，可針對 Kroger 眾多實體店的邊緣運算需求，提供客製化的硬體方案。",
+      "keyPerson": {
+        "name": "Elijah Savage",
+        "title": "VP of Infrastructure, Engineering, and Operations",
+        "linkedin": "https://www.linkedin.com/in/elijah-savage-87a2576",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "詳見通路欄位",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=kroger&CIK=&type=10-K"
+    },
+    {
+      "rank": 85,
+      "region": "美國舊金山",
+      "platform": "Intel Xeon / AMD EPYC 混合平台，NVIDIA GPU 用於自動駕駛 AI 和即時定價演算法。",
+      "application": "即時叫車平台、Uber Eats 外送、自動駕駛研發、AI/ML 定價與路線優化。",
+      "currentSuppliers": "Dell, HPE",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000A-E12",
+      "channel": "SI/DIST: CDW (https://www.cdw.com), SHI International (https://www.shi.com)",
+      "difficulty": 6,
+      "challenges": "Uber 大部分工作負載在 GCP 和 Oracle Cloud 上，但仍維護自有 DC 用於核心平台和 AI 研發。需要展示 ASUS 在 AI 推論伺服器的性價比優勢。",
+      "entryPoint": "1) 從 Uber 的 AI/ML 研發團隊切入，提供 GPU 伺服器 POC；2) 透過 CDW 進行採購流程；3) 利用 ASUS 在灣區的技術支援團隊提供快速服務。",
+      "keyPerson": {
+        "name": "Sundeep Jain",
+        "title": "SVP, Engineering & Infrastructure",
+        "linkedin": "https://www.linkedin.com/in/sundeepjain/",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "CDW",
+          "website": "https://www.cdw.com",
+          "type": "DIST"
+        },
+        {
+          "name": "SHI International",
+          "website": "https://www.shi.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://investor.uber.com/financial-information/annual-reports/",
+      "company": "Uber Technologies",
+      "volume": "約 4,000 - 8,000 台/年"
+    },
+    {
+      "rank": 86,
+      "company": "Procter & Gamble (P&G)",
+      "region": "NA/美國(俄亥俄州辛辛那提)",
+      "volume": "3,000-5,000 台 (估計)",
+      "platform": "混合雲架構，與 Microsoft Azure 深度合作，本地資料中心應為 Dell/HPE 為主",
+      "application": "供應鏈 AI、數據分析、消費者行為分析、製造流程優化、ERP",
+      "currentSuppliers": "Microsoft Azure, Dell, HPE",
+      "odmOem": "否 (主要透過 OEM 和雲端服務商)",
+      "asusModel": "RS720-E12, RS720A-E12, ESC4000-E11",
+      "channel": "直供 + SI/DIST: CDW (https://www.cdw.com), Insight (https://www.insight.com), SHI (https://www.shi.com)",
+      "difficulty": 8,
+      "challenges": "**困難點:** P&G 與微軟 Azure 有策略性合作，許多分析負載在雲端運行。其全球供應鏈對 IT 系統的穩定性要求極高。**克服方式:** 針對其本地端的數據整合與邊緣運算需求，提供具成本效益的通用伺服器。強調 ASUS 伺服器在混合雲環境中的管理彈性。",
+      "entryPoint": "**切入點:** 專注於其智慧製造工廠的邊緣運算 (Edge Computing) 需求，以及供應鏈數據分析的本地前處理節點。**執行方式:** 透過大型 SI (如 CDW)，向其 IT 維運部門推薦 ASUS 的通用機架式伺服器，作為其混合雲架構的本地節點，並提供 PoC 測試。",
+      "keyPerson": {
+        "name": "Zuzanna Dylęgowska",
+        "title": "Senior Director IT, Cloud Engineering",
+        "linkedin": "https://pl.linkedin.com/in/zuzadylegowska",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "CDW",
+          "website": "https://www.cdw.com",
+          "type": "SI"
+        },
+        {
+          "name": "Insight",
+          "website": "https://www.insight.com",
+          "type": "SI"
+        },
+        {
+          "name": "SHI",
+          "website": "https://www.shi.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.globaldata.com/store/report/procter-and-gamble-company-enterprise-tech-analysis/"
+    },
+    {
+      "rank": 87,
+      "company": "Adobe",
+      "region": "美國",
+      "volume": "約 3,000 - 6,000 台/年。Adobe 的主要服務，包括 Creative Cloud 和 Experience Cloud，都運行在 AWS 和 Microsoft Azure 等公有雲上。但為了其 AI 平台 Adobe Sensei 的模型訓練，以及部分地區的資料中心需求，仍會採購一定數量的實體伺服器，特別是高效能的 GPU 伺服器。",
+      "platform": "混合雲架構。公有雲上使用標準的虛擬機實例。自有數據中心則以高效能運算 (HPC) 和 AI 伺服器為主，大量採用 NVIDIA GPU，如 A100、H100 等，搭配 Intel Xeon 或 AMD EPYC 處理器，構成強大的 AI 訓練叢集。通用伺服器則用於支援內部開發和測試環境。",
+      "application": "AI 模型訓練與推論（Adobe Sensei）、影像和影片渲染、大規模資料分析、以及支援其龐大的雲端服務（如儲存、資料庫、網路等）。",
+      "currentSuppliers": "Dell、HPE、Supermicro 等，以及直接與 ODM 廠商如 Wiwynn、Quanta 合作採購客製化 AI 伺服器。",
+      "odmOem": "混合模式。標準通用伺服器可能透過 OEM 採購，而大規模的 AI 伺服器叢集則傾向與 ODM 直接合作，以取得成本和客製化優勢。",
+      "asusModel": "Adobe 對 AI 算力需求龐大，華碩的 AI 伺服器產品線非常適合。AI 2U 4GPU: ESC4000-E11/ESC A8A-E12U, AI 4U 8GPU: ESC8000-E12/ESC8000A-E13, AI 7U HGX: ESC N8-E11/ESC N8A-E12, AI Blackwell: ESC NB8-E11, AI POD: ASUS AI POD GB200/GB300 NVL72。",
+      "channel": "直供或透過大型系統整合商 (SI)。對於大規模的數據中心建置，Adobe 會直接與供應商洽談。",
+      "difficulty": 7,
+      "challenges": "Adobe 擁有成熟的供應鏈和議價能力，且對伺服器的效能、穩定性和 TCO 要求極高。要打入其供應鏈，必須在產品效能和價格上都具備強大的競爭力。克服方式是專注於提供頂尖效能的 AI 伺服器，並展示其在 Adobe 特定工作負載（如影像處理、機器學習）上的卓越表現。",
+      "entryPoint": "最佳切入點是 Adobe Sensei 平台所需的 AI 訓練硬體。執行方式是與 Adobe 的 AI 基礎設施團隊建立聯繫，提供搭載最新 NVIDIA Blackwell 架構 GPU 的華碩 AI 伺服器樣機進行測試，並提供詳盡的效能測試報告，證明華碩產品在執行其 AI 模型訓練時，能提供比現有供應商更高的效能和更低的 TCO。",
+      "keyPerson": {
+        "name": "Gary Simpson",
+        "title": "Vice President, GIO",
+        "linkedin": "https://www.linkedin.com/in/gary-simpson-a10ba5a",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "WWT",
+          "website": "https://www.wwt.com/",
+          "type": "SI"
+        },
+        {
+          "name": "CDW",
+          "website": "https://www.cdw.com/",
+          "type": "SI"
+        },
+        {
+          "name": "SHI",
+          "website": "https://www.shi.com/",
+          "type": "SI"
+        },
+        {
+          "name": "TD SYNNEX",
+          "website": "https://www.tdsynnex.com/",
+          "type": "DIST"
+        },
+        {
+          "name": "Ingram Micro",
+          "website": "https://www.ingrammicro.com/",
+          "type": "DIST"
+        },
+        {
+          "name": "Arrow",
+          "website": "https://www.arrow.com/",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://everus.com/projects/adobe-or1-data-center-dh2-expansion/"
+    },
+    {
+      "rank": 88,
+      "company": "SambaNova Systems",
+      "region": "美國",
+      "volume": "約 3,000 - 6,000 台/年 (估計值，基於其融資規模與市場擴展計畫)",
+      "platform": "SambaNova DataScale 系統 (內含其自行研發的 Cardinal SN 系列 AI 晶片)，搭配 x86 伺服器進行系統控制與資料處理。",
+      "application": "企業級 AI 應用、大型語言模型 (LLM) 訓練與推論、金融服務、生命科學",
+      "currentSuppliers": "自行設計核心 AI 系統，周邊伺服器可能與 Intel 合作，或向其他 OEM/ODM 採購。",
+      "odmOem": "自有設計 + OEM/ODM",
+      "asusModel": "此為特殊設計，無直接對應型號。但其搭配的 x86 伺服器可參考通用型 2U 機架式伺服器，如 RS720-E12 或 RS720A-E12。",
+      "channel": "直供 & 透過合作夥伴 (如 Intel)",
+      "difficulty": 10,
+      "challenges": "與 Cerebras 類似，SambaNova 的核心競爭力在於其自行研發的 AI 晶片與軟體堆疊，形成一個封閉的生態系統。其 DataScale 系統是高度整合的解決方案，外部廠商難以介入其核心硬體。近期與 Intel 的深度合作，更降低了其他伺服器廠商的切入機會。",
+      "entryPoint": "機會點可能在於其非核心的基礎設施，例如資料儲存、網路交換器周邊的管理伺服器。ASUS 可以嘗試提供高密度、低功耗的儲存或管理伺服器方案，並強調其在系統整合與客製化方面的彈性。另一個潛在機會是，在其與 Intel 合作的框架下，尋找可以補充其方案的利基產品，例如特定用途的加速卡或特殊規格的伺服器。",
+      "keyPerson": {
+        "name": "Sayan Moitra",
+        "title": "Director of Engineering, Global Head of Engineering for Infrastructure - Sovereign AI, Data Centers, Managed Service",
+        "linkedin": "https://www.linkedin.com/in/sayan-moitra",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Carahsoft",
+          "website": "https://www.carahsoft.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=sambanova-systems&CIK=&type=10-K"
+    },
+    {
+      "rank": 89,
+      "company": "Micron Technology",
+      "region": "美國",
+      "volume": "約 3,000 - 8,000 台/年 (估計)。Micron 擁有多座半導體晶圓廠（Boise, Manassas VA 等），半導體製造需要大量伺服器支援 EDA 設計、製程模擬、AI 品質檢測、MES 系統等。正在大力投資 AI 用於半導體製造。",
+      "platform": "Intel Xeon / AMD EPYC 雙平台，2U/4U 通用伺服器與 GPU 伺服器。AI 伺服器用於半導體製程 AI 優化、EDA 模擬、HBM 設計驗證。高效能運算 (HPC) 需求顯著。",
+      "application": "半導體製造（DRAM/NAND/HBM）、EDA 電子設計自動化、製程模擬與優化、AI 品質檢測、企業 IT、研發運算。FY2025 營收 $29.1B，資料中心業務佔 56%。",
+      "currentSuppliers": "Dell, HPE, Supermicro",
+      "odmOem": "OEM",
+      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720-E11/RS720A-E12, AI 8GPU: ESC N8-E11, WS: WS880T",
+      "channel": "直供 + SI/DIST: CDW (https://www.cdw.com), SHI International (https://www.shi.com)",
+      "difficulty": 6,
+      "challenges": "Micron 作為半導體大廠，對伺服器的可靠性與效能要求極高，尤其在 EDA 與製程模擬方面。其 IT 採購有嚴格的供應商認證流程。但 Micron 與 ASUS 在記憶體供應鏈上有長期合作關係，這是重要的互惠基礎。",
+      "entryPoint": "ASUS 大量採購 Micron 記憶體產品（DRAM/SSD），可利用此互惠關係推動伺服器合作。從 AI 伺服器切入（Micron 正在大力投資 AI 用於半導體製造），搭配 ASUS 伺服器搭載 Micron HBM/DDR5 的整合方案。透過 CDW 或 SHI 進行推廣，並安排高層互訪建立策略夥伴關係。",
+      "keyPerson": {
+        "name": "待查詢",
+        "title": "VP of IT Infrastructure",
+        "linkedin": "",
+        "source": ""
+      },
+      "siDist": [
+        {
+          "name": "Arrow Electronics (arrow.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "Avnet (avnet.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "TD Synnex (tdsynnex.com)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=micron-technology&CIK=&type=10-K"
+    },
+    {
+      "rank": 90,
+      "company": "John Deere",
+      "region": "美國",
+      "volume": "約 3,000 - 5,000 台/年",
+      "platform": "Intel Xeon 2U 通用伺服器 (用於邊緣及廠房)、NVIDIA DGX/HGX AI 伺服器 (用於研發)",
+      "application": "精準農業數據分析 (John Deere Operations Center)、自動駕駛農機研發、工廠自動化與機器人控制、供應鏈與物流管理",
+      "currentSuppliers": "Dell Technologies, Hewlett Packard Enterprise (HPE)",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E12, AI 4U 8GPU: ESC8000-E12",
+      "channel": "直供",
+      "difficulty": 9,
+      "challenges": "John Deere 與 Dell 和 HPE 有長期穩固的合作關係，且其供應鏈管理嚴格，新供應商難以切入。克服方式為，可以從其積極發展的 AI 與自動駕駛領域著手，提供具備高效能與客製化彈性的 NVIDIA AI 伺服器解決方案，並強調 ASUS 在 AI 伺服器領域的技術領先地位。",
+      "entryPoint": "切入點為其在精準農業與自動駕駛領域的龐大運算需求。執行上，可透過與 NVIDIA 的合作關係，共同向 John Deere 的研發部門推薦 ASUS 的 AI 伺服器，並提供樣機進行測試，展示其在處理複雜 AI 模型上的優異性能與穩定性。",
+      "keyPerson": {
+        "name": "Culley Marshall",
+        "title": "IT Division Leader",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "YASH Technologies",
+          "website": "https://www.yash.com/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=john-deere&CIK=&type=10-K"
+    },
+    {
+      "rank": 91,
+      "region": "美國加州聖荷西",
+      "platform": "Intel Xeon / AMD EPYC 雙平台，用於 VMware 產品測試和企業 IT。NVIDIA GPU 用於 AI 研發。",
+      "application": "VMware 虛擬化平台測試、半導體 EDA 設計、企業軟體研發、AI/ML 研發。",
+      "currentSuppliers": "Dell, HPE, Supermicro",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E11, 4U GPU: ESC4000A-E12",
+      "channel": "SI/DIST: CDW (https://www.cdw.com), Insight Enterprises (https://www.insight.com)",
+      "difficulty": 5,
+      "challenges": "Broadcom 收購 VMware 後正在整合 IT 基礎設施。目前主要使用 Dell/HPE。需要展示 ASUS 伺服器與 VMware 的最佳化整合方案。",
+      "entryPoint": "1) 透過 VMware 認證合作夥伴計畫切入，提供 ASUS 伺服器 + VMware VCF 整合方案；2) 從 Broadcom 的 EDA 研發部門開始，提供高密度運算伺服器；3) 利用 ASUS 在矽谷的技術團隊進行 POC。",
+      "keyPerson": {
+        "name": "Charlie Kawwas",
+        "title": "President, Semiconductor Solutions Group",
+        "linkedin": "https://www.linkedin.com/in/charlie-kawwas/",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "CDW",
+          "website": "https://www.cdw.com",
+          "type": "DIST"
+        },
+        {
+          "name": "Insight Enterprises",
+          "website": "https://www.insight.com",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://investors.broadcom.com/financial-information/annual-reports",
+      "company": "Broadcom (VMware)",
+      "volume": "約 3,000 - 6,000 台/年"
+    },
+    {
+      "rank": 92,
+      "company": "Workday",
+      "region": "美國(加州普萊森頓)",
+      "volume": "約 3,000-5,000 台/年",
+      "platform": "Intel Xeon / AMD EPYC",
+      "application": "企業 HCM/ERP SaaS 平台、AI/ML 工作負載",
+      "currentSuppliers": "Dell, HPE",
+      "odmOem": "OEM (Dell/HPE)",
+      "asusModel": "ASUS RS720A-E12 (通用), RS520A-E12 (儲存)",
+      "channel": "直供 + SI/DIST",
+      "difficulty": 6,
+      "challenges": "Workday 作為大型 SaaS 企業，對伺服器的穩定性和支援服務要求極高。目前已與 Dell/HPE 建立長期合作關係，切換供應商的成本和風險較高。",
+      "entryPoint": "1) 透過 Workday 的新資料中心擴建計畫切入，提供具競爭力的報價。2) 展示 ASUS 在 SaaS 工作負載的效能優勢和 TCO 節省。3) 透過 CDW/SHI 等共同通路合作夥伴建立初步關係。",
+      "keyPerson": {
+        "name": "Sheri Rhodes",
+        "title": "CIO",
+        "linkedin": "https://www.linkedin.com/in/sheri-rhodes/",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "CDW",
+          "website": "https://www.cdw.com",
+          "type": "DIST"
+        },
+        {
+          "name": "SHI International",
+          "website": "https://www.shi.com",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.workday.com/en-us/company/investor-relations.html"
+    },
+    {
+      "rank": 93,
+      "company": "PayPal",
+      "region": "美國",
+      "volume": "約 2,000-4,000 台/年 (估計)。PayPal 正在進行一項大規模的基礎設施重組計畫，計畫退出部分自有數據中心，並將更多服務遷移到公有雲。然而，他們仍然營運著大量的自有數據中心，並持續進行硬體更新和採購。",
+      "platform": "歷史上曾部署過 ARM 伺服器，但目前主要應為 Intel/AMD 的通用伺服器。隨著其對 AI 和機器學習的大量投入，預計未來將採購大量 NVIDIA AI 伺服器。",
+      "application": "支付處理、詐欺偵測 (每季阻擋 5 億美元詐欺)、風險管理、數據分析、以及新推出的 AI 驅動商業服務 (Agentic Commerce)。",
+      "currentSuppliers": "自有數據中心供應商不明，可能為多家 OEM/ODM。公有雲合作夥伴包括 Google Cloud。",
+      "odmOem": "混合，自有部分可能為 OEM 或 ODM。",
+      "asusModel": "通用伺服器: RS700-E11, RS720-E12, RS720A-E12。AI 伺服器: ESC4000-E11, ESC8000-E12, ESC N8-E11。",
+      "channel": "直供",
+      "difficulty": 6,
+      "challenges": "PayPal 的基礎設施正在轉型中，採購決策可能較為混亂且分散。要克服此點，需要同時與其數據中心運營團隊和雲端策略團隊建立聯繫，理解他們對於不同工作負載 (workload) 的規劃，找出哪些應用會保留在自有數據中心，哪些會上雲。",
+      "entryPoint": "切入點在於其基礎設施重組帶來的機會。他們需要「簡化營運」和「統一平台」，這正是 ASUS 這類能提供從通用伺服器到 AI POD 完整解決方案的供應商的優勢。可以主動提出一個整合方案，展示如何透過標準化的 ASUS 伺服器平台，簡化其自有數據中心的管理，並提供比公有雲更有成本效益的 AI 解決方案。針對其大量的詐欺偵測及 AI 應用，強調整機櫃/POD 方案 (如 ASUS AI POD) 在快速部署和高效能運算上的優勢。",
+      "keyPerson": {
+        "name": "Richard Reyher",
+        "title": "Sr. Director of Data Centers",
+        "linkedin": "",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "IWD Agency",
+          "website": "https://www.iwdagency.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Classy Llama",
+          "website": "https://www.classyllama.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Gorilla Group",
+          "website": "https://www.gorillagroup.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Blue Acorn",
+          "website": "https://www.blueacorn.com/",
+          "type": "SI"
+        },
+        {
+          "name": "Lyons Consulting Group",
+          "website": "https://www.lyonscg.com/",
+          "type": "SI"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=paypal&CIK=&type=10-K"
+    },
+    {
+      "rank": 94,
+      "company": "Caterpillar",
+      "region": "美國",
+      "volume": "約 2,000 - 4,000 台/年",
+      "platform": "Intel Xeon 1U/2U 通用伺服器、NVIDIA AI 伺服器",
+      "application": "全球營運數據管理、產品遠端監控與預測性維護、自動駕駛工程機械研發、AI 應用開發",
+      "currentSuppliers": "Dell Technologies, HPE, Microsoft Azure",
+      "odmOem": "OEM",
+      "asusModel": "通用1U: RS700-E11, AI 4U 8GPU: ESC8000-E12",
+      "channel": "直供",
+      "difficulty": 9,
+      "challenges": "Caterpillar 的 IT 基礎設施已深度整合現有供應商的產品與服務，轉換成本高。克服方式為，專注於其新興的 AI 應用與數據中心電力備援市場，提供高能源效率的伺服器，並結合其自身發電機業務，提出整合性的解決方案。",
+      "entryPoint": "切入點為其與 NVIDIA 的合作，以及其在資料中心備用電源市場的領導地位。執行上，可主動提出搭載最新 NVIDIA GPU 的 ASUS AI 伺服器方案，並強調其能源效率，協助 Caterpillar 降低其內部資料中心及客戶資料中心的營運成本。",
+      "keyPerson": {
+        "name": "Jamie Engstrom",
+        "title": "Chief Information Officer and Senior Vice President",
+        "linkedin": "https://www.linkedin.com/in/jamie-engstrom-a082a42",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Caterpillar (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=caterpillar&CIK=&type=10-K"
+    },
+    {
+      "company": "Reddit",
+      "region": "美國",
+      "volume": "約 2,000-5,000 台/年",
+      "platform": "AMD EPYC 1U/2U 通用伺服器，NVIDIA GPU 用於 AI 推薦系統",
+      "application": "社群平台、AI 內容推薦、廣告投放系統、資料分析",
+      "currentSuppliers": "Dell, 部分 ODM",
+      "odmOem": "OEM/ODM",
+      "asusModel": "RS700A-E12, RS720A-E12, ESC4000A-E12",
+      "channel": "SI/DIST",
+      "difficulty": 4,
+      "challenges": "Reddit 2024 年 IPO 後正在快速擴張基礎設施，但規模仍相對較小。需要展示 ASUS 在中型規模部署的靈活性和性價比優勢。",
+      "entryPoint": "Reddit IPO 後正在大幅擴張 AI 能力和基礎設施，是切入的絕佳時機。可從 AI 推薦系統的 GPU 伺服器需求切入，透過 CDW 或 SHI 合作。",
+      "keyPerson": {
+        "name": "Chris Slowe",
+        "title": "Chief Technology Officer",
+        "linkedin": "https://www.linkedin.com/in/chrisslowe",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "詳見通路欄位",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=reddit&CIK=&type=10-K",
+      "rank": 95
+    },
+    {
+      "rank": 96,
+      "company": "3M",
+      "region": "美國",
+      "volume": "約 1,500 - 2,500 台/年",
+      "platform": "Intel Xeon 2U 通用伺服器、少量 AI/HPC 伺服器",
+      "application": "全球企業資源規劃 (ERP)、供應鏈管理、材料科學研發與模擬、數據分析",
+      "currentSuppliers": "Dell Technologies, IBM",
+      "odmOem": "OEM",
+      "asusModel": "通用2U: RS720-E12, AI 2U 4GPU: ESC4000-E11",
+      "channel": "直供",
+      "difficulty": 8,
+      "challenges": "3M 作為一家歷史悠久的製造業巨頭，其 IT 採購流程相對保守，對新供應商的審核嚴格。克服方式為，利用 3M 自身也是資料中心解決方案供應商的角色，尋求在散熱、連接等技術上合作的機會，進而推廣 ASUS 的伺服器產品。",
+      "entryPoint": "切入點為其在材料科學領域的研發需求，以及其對資料中心能源效率的關注。執行上，可以提供搭載先進散熱技術的 ASUS 伺服器，並提供客製化的 HPC 解決方案，以滿足其在科學計算與模擬上的高效能需求。",
+      "keyPerson": {
+        "name": "Mark Murphy",
+        "title": "Executive Vice President, Chief Information and Digital Officer",
+        "linkedin": "https://www.linkedin.com/in/markwmurphyii",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "3M (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://enkiai.com/ai-market-intelligence/3ms-2025-ai-data-center-strategy-revealed"
+    },
+    {
+      "rank": 97,
+      "company": "Block (Square)",
+      "region": "美國",
+      "volume": "約 1,000-2,000 台/年 (估計)。Block 運行混合雲架構，同時使用自有數據中心和公有雲 (主要是 AWS)。他們持續投資自有基礎設施，特別是針對支付處理和 AI 應用。",
+      "platform": "自有數據中心可能採用 Intel/AMD 的通用伺服器。近期宣布將部署 NVIDIA GB200 系統，顯示其對高效能 AI 伺服器有強烈需求。",
+      "application": "支付處理、風險控制、數據分析、機器學習 (例如商戶分類、詐欺偵測) 以及 Cash App 的各種服務。",
+      "currentSuppliers": "自有數據中心供應商不明，可能為多家 OEM/ODM。公有雲為 AWS。",
+      "odmOem": "混合，自有部分可能為 OEM 或 ODM，雲端部分為 OEM。",
+      "asusModel": "通用伺服器: RS720-E12, RS720A-E12。AI 伺服器: ESC NB8-E11, ASUS AI POD GB200/GB300 NVL72。",
+      "channel": "直供",
+      "difficulty": 7,
+      "challenges": "Block 的基礎設施細節不完全透明，且混合雲策略增加了複雜性。要克服此點，需要密切關注其技術部落格、開發者論壇和財報會議，以獲取有關其基礎設施投資和技術方向的線索。此外，針對其公開的 AI 硬體採購計畫，可以反推其現有設施的不足之處。",
+      "entryPoint": "Block 是北美首批宣布部署 NVIDIA GB200 的公司之一，這是一個極佳的切入點。可以主動聯繫其基礎設施或 AI 團隊，提供 ASUS 對應的 Blackwell AI 解決方案 (ESC NB8-E11, GB200 NVL72 POD)，強調供貨能力、客製化彈性及散熱解決方案的優勢。同時，可以提供高效能的通用伺服器方案 (RS720 系列)，協助他們在自有數據中心處理非 AI 的工作負載，以降低對 AWS 的依賴及成本。",
+      "keyPerson": {
+        "name": "Arnaud Weber",
+        "title": "Engineering Lead",
+        "linkedin": "https://www.linkedin.com/in/weberarnaud",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "Block (Square) (直供)",
+          "website": "",
+          "type": "Direct"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=block&CIK=&type=10-K"
+    },
+    {
+      "rank": 98,
+      "company": "Palo Alto Networks",
+      "region": "美國",
+      "volume": "約 1,000 - 2,000 台/年 (主要為內部研發及雲端服務後端支撐)",
+      "platform": "主要為標準的 1U/2U x86 架構通用伺服器，用於軟體開發、測試、建構與維運其 Prisma Cloud 安全平台。隨著 AI 功能的整合，可能開始導入少量搭載 NVIDIA GPU 的伺服器。",
+      "application": "主要用於內部軟體開發、全球威脅情資分析、以及支撐其雲端安全服務 (SaaS) 的後端基礎設施。其銷售的硬體防火牆為自行設計的專用設備，非通用伺服器。",
+      "currentSuppliers": "作為雲端原生公司，其大部分服務運行在 AWS, GCP, Azure 等公有雲上。內部使用的伺服器可能向 Dell, HPE 或 Supermicro 等廠商採購。",
+      "odmOem": "主要為 OEM 採購模式，購買標準化的伺服器產品。",
+      "asusModel": "通用1U: RS700-E11, 通用2U: RS720-E12",
+      "channel": "直供 + SI/DIST: World Wide Technology (https://www.wwt.com), CDW (https://www.cdw.com), Insight Enterprises (https://www.insight.com)",
+      "difficulty": 10,
+      "challenges": "Palo Alto Networks 的核心業務是網路安全軟體與專用硬體，並非通用伺服器的大量採購商。其基礎設施高度依賴公有雲，內部伺服器採購量非常有限且集中於研發用途。要切入極為困難。克服此困難需要轉變銷售策略，從銷售硬體轉為提供整合解決方案，例如將 ASUS 的伺服器與 Palo Alto 的 VM-Series 虛擬防火牆整合，提供給共同的企業客戶。",
+      "entryPoint": "幾乎沒有直接向 Palo Alto Networks 銷售大量通用伺服器的機會。唯一的切入點是尋求技術合作，將 ASUS 的伺服器管理軟體 (如 ASMB) 與 Palo Alto 的安全平台進行整合，提供更全面的資料中心安全可視性。執行上，需要透過其技術合作夥伴計畫，展示雙方整合能為客戶帶來的價值，例如提升裸機伺服器的安全性。這是一個長期且需要高度技術投入的策略。",
+      "keyPerson": {
+        "name": "Meerah Rajavel",
+        "title": "Chief Information Officer",
+        "linkedin": "https://www.linkedin.com/in/meerah-rajavel",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "WWT (wwt.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "CDW (cdw.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "SHI (shi.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Insight (insight.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Presidio (presidio.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "TD SYNNEX (tdsynnex.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "Westcon-Comstor (westconcomstor.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "Exclusive Networks (exclusive-networks.com)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=palo-alto-networks&CIK=&type=10-K"
+    },
+    {
+      "rank": 99,
+      "company": "CrowdStrike",
+      "region": "美國",
+      "volume": "約 1,000 - 3,000 台/年 (用於全球雲端基礎設施擴展)",
+      "platform": "主要為高效能的 x86 架構通用伺服器，用於建構其全球分散的 Falcon 雲端平台。為了處理巨量的端點數據與 AI 運算，可能採用高密度、多核心的伺服器，並搭配高速網路與儲存設備。",
+      "application": "100% 用於建構與維運其 SaaS 型態的 Falcon 平台。這些伺服器遍布全球多個區域性資料中心，負責收集、處理、分析來自全球客戶端點的遙測數據，並透過 AI 模型偵測威脅。",
+      "currentSuppliers": "作為雲端原生公司，其服務主要建構在自營的裸機伺服器以及部分公有雲 (AWS) 之上。其裸機伺服器供應商可能包含 Dell, Supermicro 或 Quanta 等 ODM 廠商。",
+      "odmOem": "可能混合採用 OEM 與 ODM 模式，以在成本與客製化之間取得平衡。",
+      "asusModel": "通用1U: RS700-E11, 通用2U: RS720-E12, 通用2U AMD: RS720A-E12",
+      "channel": "直供 + SI/DIST: CDW (https://www.cdw.com), SHI International (https://www.shi.com), Insight Enterprises (https://www.insight.com)",
+      "difficulty": 9,
+      "challenges": "CrowdStrike 對其基礎設施的效能、穩定性與安全性有極高的要求，且供應鏈相當穩定。要打入其供應鏈，ASUS 需要證明其產品在效能、TCO (總體擁有成本) 及供應鏈管理上具有顯著優勢。克服方式是提供極具競爭力的價格，並展示 ASUS 伺服器在高負載、大規模部署環境下的穩定性與管理效率。提供客製化服務以滿足其特定需求也是一個關鍵。",
+      "entryPoint": "切入點是直接與其基礎設施採購團隊或技術營運部門建立聯繫。執行上，ASUS 可以提供少量伺服器進行 PoC (概念驗證) 測試，讓 CrowdStrike 的工程師親身體驗其產品的效能與管理介面。同時，可以強調 ASUS 在全球的供應鏈彈性與支援能力，確保能滿足其全球快速擴展的需求。與其在公有雲上的合作夥伴 (如 AWS) 建立關係，提供混合雲解決方案也可能是一個機會點。",
+      "keyPerson": {
+        "name": "Greg Sly",
+        "title": "SVP Infrastructure",
+        "linkedin": "https://www.linkedin.com/in/greg-sly",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "CDW (cdw.com)",
+          "website": "",
+          "type": "SI"
+        },
+        {
+          "name": "Carahsoft (carahsoft.com)",
+          "website": "",
+          "type": "DIST"
+        },
+        {
+          "name": "Westcon-Comstor (westconcomstor.com)",
+          "website": "",
+          "type": "DIST"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=crowdstrike&CIK=&type=10-K"
     },
     {
       "rank": 100,
-      "company": "Twilio",
-      "region": "美國(舊金山)",
-      "volume": "5,000-10,000",
-      "platform": "混合雲 (AWS + 自有全球數據中心)",
-      "application": "雲端通訊API、客戶互動平台",
-      "currentSuppliers": "AWS (公有雲), 自行管理數據中心硬體",
-      "odmOem": "不明確，可能有部分ODM合作",
-      "asusModel": "RS700-E11, RS720-E12",
-      "channel": "直供/SI",
-      "difficulty": 6,
-      "challenges": "Twilio採用混合雲架構，對基礎設施的可靠性和全球覆蓋有極高要求，已建立成熟的供應鏈和維運體系。新供應商需通過嚴格的驗證，並證明能無縫整合進其複雜的全球基礎設施。",
-      "entryPoint": "Twilio在全球擁有多個邊緣節點（Edge Locations），這是ASUS可以切入的機會點。針對這些地理分散的節點，提供標準化、易於部署和遠端管理的1U/2U通用伺服器（如RS700/RS720系列），強調其高密度、低功耗和高可靠性，以降低其全球維運的複雜度和成本。"
+      "company": "Corebridge Financial",
+      "region": "北美/美國",
+      "volume": "約 500 - 1,500 台/年 (作為大型金融服務公司，採購主要為週期性更新及業務擴展，非超大規模採購)",
+      "platform": "以 Intel Xeon 或 AMD EPYC 為主的 1U/2U 通用型機架式伺服器，用於企業級應用和資料庫。",
+      "application": "核心金融交易系統、客戶關係管理 (CRM)、資料分析、網路安全、內部 IT 基礎設施。採用混合雲策略，部分業務部署在 Microsoft Azure。",
+      "currentSuppliers": "推測為 Dell Technologies, HPE, Lenovo 等一線 OEM 品牌。",
+      "odmOem": "OEM。",
+      "asusModel": "通用 1U: RS700-E11, 通用 2U: RS720-E12, 通用 2U AMD: RS720A-E12。",
+      "channel": "可能透過大型系統整合商 (SI) 或通路代理商 (DIST) 進行採購，例如 CDW, SHI, Insight Enterprises。",
+      "difficulty": 7,
+      "challenges": "金融行業對供應商的穩定性、安全性認證和長期支援能力有嚴格要求。ASUS 需要證明其產品符合金融業的合規標準 (如 FIPS, TAA)，並建立與大型金融 SI 的合作關係，以進入其供應鏈。此外，與根深蒂固的一線 OEM 品牌競爭，需要在品牌認知度和企業級服務支援上投入更多資源。",
+      "entryPoint": "透過與目標 SI 合作，將 ASUS 的通用伺服器產品納入其解決方案組合。針對 Corebridge 的資料分析或虛擬化環境需求，提供搭載 AMD EPYC 處理器的 RS720A-E12 伺服器作為高性價比方案，並提供樣機進行效能評估。強調 ASUS 伺服器的能源效率和更低的總體擁有成本，以吸引對營運成本敏感的 IT 部門。",
+      "keyPerson": {
+        "name": "Krishna Tirunagari",
+        "title": "SVP, Head of Public Cloud Services, Cloud Engineering|Cloud Architecture|Infrastructure Automation",
+        "linkedin": "https://www.linkedin.com/in/krishna-tirunagari-44396b1b",
+        "source": "LinkedIn"
+      },
+      "siDist": [
+        {
+          "name": "詳見通路欄位",
+          "website": "",
+          "type": "SI/DIST"
+        }
+      ],
+      "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=corebridge-financial&CIK=&type=10-K"
     }
   ],
   "asusProducts": [

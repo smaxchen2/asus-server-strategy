@@ -3,6 +3,19 @@ import apacData from "@/data/apac_companies.json";
 import emeaData from "@/data/emea_companies.json";
 import chinaData from "@/data/china_companies.json";
 
+export type SiDistEntry = {
+  name: string;
+  website: string;
+  type: string;
+};
+
+export type KeyPerson = {
+  name: string;
+  title: string;
+  linkedin: string;
+  source: string;
+};
+
 export type Company = {
   rank: number;
   company: string;
@@ -17,6 +30,9 @@ export type Company = {
   difficulty: number;
   challenges: string;
   entryPoint: string;
+  keyPerson?: KeyPerson;
+  siDist?: SiDistEntry[];
+  volumeSource?: string;
 };
 
 export type RegionKey = "na" | "apac" | "emea" | "china";
