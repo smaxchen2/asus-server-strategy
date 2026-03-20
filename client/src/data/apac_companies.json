@@ -201,6 +201,57 @@
     },
     {
       "rank": 5,
+      "company": "NSCALE",
+      "region": "英國/挪威",
+      "volume": "約 20,000-100,000 台/年 (估計值，基於已宣布的數據中心項目，如挪威的60MW設施和美國的8GW+園區，以及行業對每GW AI伺服器數量的估算)",
+      "platform": "CPU: Intel Xeon, AMD EPYC; GPU: NVIDIA GB200, H100; Form Factors: 1U, 2U, 4U, 8U (Dell PowerEdge XE9712, R660, R760, R760xa)",
+      "application": "AI training, inference, cloud hosting, HPC, enterprise IT",
+      "currentSuppliers": "Dell Technologies",
+      "odmOem": "OEM",
+      "asusModel": "AI 4U 8GPU: ESC8000-E12, ESC NB8-E11; 通用2U: RS720-E12, RS720A-E12; 通用1U: RS700-E11",
+      "channel": "直供/SI (待確認)",
+      "difficulty": 8,
+      "challenges": "【技術門檻】Nscale's infrastructure is built on a tightly integrated Dell and NVIDIA stack. ASUS must not only match the performance of the latest Dell hardware but also demonstrate seamless integration with Nscale's existing management and orchestration software. The switching cost from a software and operations perspective is significant.\n【供應鏈壁壘】Dell's global supply chain and ability to deliver at scale is a major advantage. With Nscale procuring tens of thousands of servers, ASUS must provide strong assurances and a proven track record of its ability to meet high-volume demands for cutting-edge components, especially supply-constrained GPUs.\n【商務挑戰】The Dell-Nscale relationship is a strategic alliance, likely involving favorable pricing, dedicated support, and joint marketing. ASUS needs to create a compelling counter-offer that goes beyond unit price, potentially including co-engineering resources, flexible financing, and a clear long-term partnership roadmap.",
+      "entryPoint": "【archetype戰術】Position ASUS as the agile and high-performance partner for a rapidly growing \"neocloud\" leader. Emphasize customization, engineering collaboration, and superior performance-per-watt as key differentiators against the more standardized offerings of a larger incumbent like Dell.\n【短期（6-12個月）】Focus on a \"beachhead\" strategy. Instead of a full replacement, target a new, specific workload or a smaller-scale deployment. Propose a proof-of-concept (POC) with a differentiated solution, such as an AMD-based GPU server (ESC4000A-E12), to showcase performance and introduce supplier diversity. Engage the office of the CTO (David Power) with compelling performance benchmarks.\n【中期（1-2年）】Cultivate a supply chain relationship. As Nscale scales, they will inevitably seek to mitigate risk by qualifying a second major server supplier. Position ASUS as the primary alternative. Engage with the procurement team (Rick Gervasi) to understand their long-term needs and demonstrate ASUS's supply chain capabilities. Aim to win a portion of a future large-scale build-out.\n【長期（2-3年）】Evolve from a supplier to a strategic partner. This requires executive-level alignment to explore co-development of next-generation data center technologies (e.g., liquid cooling, custom server form factors) that align with Nscale's long-term infrastructure roadmap.\n【關鍵行動】1. Initiate technical deep-dive sessions with Nscale's engineering team, led by the CTO. 2. Formally request to be included in all future RFIs and RFQs for server infrastructure. 3. Develop a high-level executive summary outlining a multi-year strategic partnership proposal for Nscale's leadership. 4. Identify and establish contact with the new VP of Sourcing and Procurement once they are hired.",
+      "keyPerson": {
+        "name": "David Power",
+        "title": "Chief Technology Officer",
+        "linkedin": "https://uk.linkedin.com/in/david-power-1417b98",
+        "source": "LinkedIn"
+      },
+      "techDecisionMaker": {
+        "name": "David Power",
+        "title": "Chief Technology Officer",
+        "linkedin": "https://uk.linkedin.com/in/david-power-1417b98",
+        "commStrategy": "以 AI 伺服器效能基準測試和 NVIDIA 認證為切入點，展示 ASUS 在 GPU 伺服器領域的技術實力。提供 POC 測試機會，讓技術團隊實際驗證 ASUS 伺服器的效能與穩定性。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Rick Gervasi",
+        "title": "Director, Global Supply Chain & Procurement",
+        "linkedin": "https://www.linkedin.com/in/rick-gervasi",
+        "commStrategy": "強調供應鏈多元化降低風險的價值，提供具競爭力的 TCO 分析。展示 ASUS 全球交付能力與彈性付款方案。"
+      },
+      "siDist": [
+        {
+          "name": "Datacipher",
+          "website": "https://www.datacipher.com",
+          "type": "SI",
+          "isActual": false
+        },
+        {
+          "name": "Microland",
+          "website": "https://www.microland.com",
+          "type": "SI",
+          "isActual": false
+        }
+      ],
+      "actualSiPartners": "",
+      "volumeSource": "https://www.theinformation.com/newsletters/the-information-finance/nscale-crashes-big-leagues-data-center-developers",
+      "industry": "NeoCloud/AI",
+      "archetype": "neocloud"
+    },
+    {
+      "rank": 6,
       "company": "SK C&C / SK Telecom",
       "region": "韓國",
       "volume": "約 50,000 - 80,000 台/年",
@@ -250,7 +301,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "company": "Tata Consultancy Services (TCS)",
       "region": "印度",
       "volume": "約 40,000 - 70,000 台/年",
@@ -342,7 +393,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "company": "Naver Corporation",
       "region": "韓國",
       "volume": "約 40,000 - 60,000 台/年",
@@ -410,7 +461,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "company": "Yotta Data Services (Hiranandani Group)",
       "region": "印度",
       "volume": "約 30,000 - 60,000 台/年",
@@ -467,7 +518,7 @@
       "archetype": "neocloud"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "company": "Infosys",
       "region": "印度",
       "volume": "約 30,000 - 50,000 台/年",
@@ -547,7 +598,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "company": "KDDI Corporation",
       "region": "日本",
       "volume": "約 30,000 - 50,000 台/年",
@@ -669,7 +720,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "company": "KT Corporation",
       "region": "韓國",
       "volume": "約 30,000 - 50,000 台/年",
@@ -713,7 +764,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "company": "Sea Group (Shopee / Garena)",
       "region": "新加坡",
       "volume": "約 30,000 - 50,000 台/年",
@@ -757,7 +808,7 @@
       "archetype": "retail"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "company": "Bharti Airtel",
       "region": "印度",
       "volume": "約 30,000 - 50,000 台/年",
@@ -855,7 +906,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "company": "Rakuten Group",
       "region": "日本",
       "volume": "約 25,000 - 40,000 台/年",
@@ -899,7 +950,7 @@
       "archetype": "retail"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "company": "Sakura Internet",
       "region": "日本",
       "volume": "約 20,000 - 40,000 台/年",
@@ -943,7 +994,7 @@
       "archetype": "neocloud"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "company": "Telkom Indonesia (Telkomsel)",
       "region": "印尼",
       "volume": "約 20,000 - 40,000 台/年",
@@ -993,7 +1044,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "company": "Singtel (Singapore Telecommunications)",
       "region": "新加坡",
       "volume": "約 20,000 - 35,000 台/年",
@@ -1103,7 +1154,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "company": "Wipro Limited",
       "region": "印度",
       "volume": "約 20,000 - 35,000 台/年",
@@ -1147,7 +1198,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "company": "Kakao Corporation",
       "region": "韓國",
       "volume": "約 20,000 - 35,000 台/年",
@@ -1191,7 +1242,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "company": "HCL Technologies",
       "region": "印度",
       "volume": "約 20,000 - 35,000 台/年",
@@ -1253,7 +1304,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "company": "Hitachi, Ltd.",
       "region": "日本",
       "volume": "約 20,000 - 35,000 台/年",
@@ -1297,7 +1348,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "company": "Grab Holdings",
       "region": "新加坡",
       "volume": "約 15,000 - 25,000 台/年",
@@ -1347,7 +1398,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "company": "Coupang",
       "region": "韓國",
       "volume": "約 15,000 - 25,000 台/年",
@@ -1391,7 +1442,7 @@
       "archetype": "retail"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "company": "LINE Corporation (LY Corporation)",
       "region": "日本",
       "volume": "約 15,000 - 25,000 台/年",
@@ -1447,7 +1498,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "company": "Toyota Motor Corporation",
       "region": "日本",
       "volume": "約 15,000 - 25,000 台/年",
@@ -1497,7 +1548,7 @@
       "archetype": "automotive"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "company": "Tech Mahindra",
       "region": "印度",
       "volume": "約 15,000 - 25,000 台/年",
@@ -1625,7 +1676,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "company": "Viettel Group",
       "region": "越南",
       "volume": "約 15,000 - 25,000 台/年",
@@ -1675,7 +1726,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "company": "Samsung Electronics (半導體/研發)",
       "region": "韓國",
       "volume": "約 15,000 - 25,000 台/年（半導體研發部門）",
@@ -1731,7 +1782,58 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 29,
+      "rank": 30,
+      "company": "CTRL-S Data Centers",
+      "region": "印度",
+      "volume": "約 15,000-25,000 台/年 (估計值，基於未來 6 年 20 億美元投資計畫，以每台伺服器平均 5,000-8,000 美元成本推估)",
+      "platform": "주로 Intel Xeon 및 AMD EPYC CPU를 사용하는 맞춤형 고밀도 랙. AI 워크로드를 위해 NVIDIA H100/H200/B200 GPU를 채택할 가능성이 높습니다.",
+      "application": "AI 훈련 및 추론, 클라우드 호스팅, HPC, 엔터프라이즈 IT",
+      "currentSuppliers": "알 수 없음",
+      "odmOem": "혼합",
+      "asusModel": "범용 2U: RS720-E12, AI 4U 8GPU: ESC8000-E12, 고밀도: ESC N8-E11 (HGX H100 8-GPU), Blackwell: ESC NB8-E11",
+      "channel": "直供/SI (待確認)",
+      "difficulty": 8,
+      "challenges": "【기술 문턱】고밀도 및 액체 냉각 솔루션에 대한 검증된 전문성. 【공급망 장벽】기존 ODM 공급업체와의 강력한 관계. 【상업적 도전】경쟁력 있는 가격 및 대규모 배포 능력.",
+      "entryPoint": "【단기(6-12개월)】NVIDIA Blackwell 플랫폼 기반의 차세대 GPU 서버 기술 시연. 【중기(1-2년)】특정 AI 프로젝트를 위한 파일럿 프로그램 공동 개발. 【장기(2-3년)】전략적 파트너십을 통해 주요 ODM 공급업체 중 하나가 됨. 【핵심 조치】CTO 및 조달 책임자와의 기술 및 상업적 논의 시작.",
+      "keyPerson": {
+        "name": "Ashish Ahuja",
+        "title": "Chief Technology Officer",
+        "linkedin": "https://www.linkedin.com/in/ashishahuja-google",
+        "source": "LinkedIn"
+      },
+      "techDecisionMaker": {
+        "name": "Ashish Ahuja",
+        "title": "Chief Technology Officer",
+        "linkedin": "https://www.linkedin.com/in/ashishahuja-google",
+        "commStrategy": "以 AI 伺服器效能基準測試和 NVIDIA 認證為切入點，展示 ASUS 在 GPU 伺服器領域的技術實力。提供 POC 測試機會，讓技術團隊實際驗證 ASUS 伺服器的效能與穩定性。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Jwala Deep Akshintala",
+        "title": "Senior Vice President - Commercials",
+        "linkedin": "https://in.linkedin.com/in/jwala-deep-akshintala-17b863176",
+        "commStrategy": "強調供應鏈多元化降低風險的價值，提供具競爭力的 TCO 分析。展示 ASUS 全球交付能力與彈性付款方案。"
+      },
+      "siDist": [
+        {
+          "name": "Datacipher",
+          "website": "https://www.datacipher.com",
+          "type": "SI",
+          "isActual": false
+        },
+        {
+          "name": "Microland",
+          "website": "https://www.microland.com",
+          "type": "SI",
+          "isActual": false
+        }
+      ],
+      "actualSiPartners": "",
+      "volumeSource": "https://telecom.economictimes.indiatimes.com/news/industry/ctrls-president-calls-for-more-data-center-cities-in-india-to-meet-ai-demand/123054963",
+      "industry": "NeoCloud/AI",
+      "archetype": "neocloud"
+    },
+    {
+      "rank": 31,
       "company": "Tokopedia (GoTo Group)",
       "region": "印尼",
       "volume": "約 10,000 - 20,000 台/年",
@@ -1793,7 +1895,7 @@
       "archetype": "retail"
     },
     {
-      "rank": 30,
+      "rank": 32,
       "company": "Sony Group Corporation",
       "region": "日本",
       "volume": "約 10,000 - 20,000 台/年",
@@ -1855,7 +1957,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 31,
+      "rank": 33,
       "company": "True Corporation (CP Group)",
       "region": "泰國",
       "volume": "約 10,000 - 18,000 台/年",
@@ -1899,7 +2001,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 32,
+      "rank": 34,
       "company": "Axiata Group",
       "region": "馬來西亞",
       "volume": "約 10,000 - 18,000 台/年",
@@ -1943,7 +2045,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 33,
+      "rank": 35,
       "company": "Hyundai AutoEver",
       "region": "韓國",
       "volume": "約 10,000 - 18,000 台/年",
@@ -1999,7 +2101,7 @@
       "archetype": "automotive"
     },
     {
-      "rank": 34,
+      "rank": 36,
       "company": "LG CNS",
       "region": "韓國",
       "volume": "約 10,000 - 18,000 台/年",
@@ -2049,7 +2151,7 @@
       "archetype": "automotive"
     },
     {
-      "rank": 35,
+      "rank": 37,
       "company": "Tata Communications",
       "region": "印度",
       "volume": "約 10,000 - 18,000 台/年",
@@ -2123,7 +2225,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 36,
+      "rank": 38,
       "company": "STT GDC (ST Telemedia Global Data Centres)",
       "region": "新加坡",
       "volume": "約 10,000 - 18,000 台/年",
@@ -2173,7 +2275,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 37,
+      "rank": 39,
       "company": "Globe Telecom",
       "region": "菲律賓",
       "volume": "約 8,000 - 15,000 台/年",
@@ -2217,7 +2319,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 38,
+      "rank": 40,
       "company": "PLDT / Smart Communications",
       "region": "菲律賓",
       "volume": "約 8,000 - 15,000 台/年",
@@ -2267,7 +2369,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 39,
+      "rank": 41,
       "company": "FPT Corporation",
       "region": "越南",
       "volume": "約 8,000 - 15,000 台/年",
@@ -2341,7 +2443,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 40,
+      "rank": 42,
       "company": "Toshiba Digital Solutions",
       "region": "日本",
       "volume": "約 8,000 - 15,000 台/年",
@@ -2391,7 +2493,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 41,
+      "rank": 43,
       "company": "AIS (Advanced Info Service)",
       "region": "泰國",
       "volume": "約 8,000 - 15,000 台/年",
@@ -2435,7 +2537,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 42,
+      "rank": 44,
       "company": "Indosat Ooredoo Hutchison",
       "region": "印尼",
       "volume": "約 8,000 - 15,000 台/年",
@@ -2479,7 +2581,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 43,
+      "rank": 45,
       "company": "Mitsubishi Electric",
       "region": "日本",
       "volume": "約 8,000 - 15,000 台/年",
@@ -2565,7 +2667,7 @@
       "archetype": "financial"
     },
     {
-      "rank": 44,
+      "rank": 46,
       "company": "Kyndryl (亞太業務)",
       "region": "日本/亞太",
       "volume": "約 8,000 - 15,000 台/年（亞太區域）",
@@ -2669,7 +2771,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 45,
+      "rank": 47,
       "company": "Flipkart (Walmart India)",
       "region": "印度",
       "volume": "約 8,000 - 15,000 台/年",
@@ -2713,7 +2815,7 @@
       "archetype": "retail"
     },
     {
-      "rank": 46,
+      "rank": 48,
       "company": "Hyundai Motor Company",
       "region": "韓國",
       "volume": "約 8,000 - 15,000 台/年",
@@ -2757,7 +2859,7 @@
       "archetype": "automotive"
     },
     {
-      "rank": 47,
+      "rank": 49,
       "company": "NTT Docomo",
       "region": "日本",
       "volume": "約 8,000 - 15,000 台/年",
@@ -2801,7 +2903,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 48,
+      "rank": 50,
       "company": "Telstra (澳洲電信)",
       "region": "澳洲",
       "volume": "約 8,000 - 15,000 台/年",
@@ -2893,7 +2995,64 @@
       "archetype": "telecom"
     },
     {
-      "rank": 49,
+      "rank": 51,
+      "company": "AM Green (Amara Raja Group)",
+      "region": "印度",
+      "volume": "約 10,000-15,000 台/年 (估計值，基於50萬個GPU，每台伺服器8個GPU，分2-3年階段部署)",
+      "platform": "The project will utilize high-performance chipsets, likely GPUs from NVIDIA's latest architectures (H100/H200/B200/GB200). The servers are expected to be high-density 4U or 8U chassis with 8 GPUs per server, based on a custom architecture designed in partnership with OXMIQ Labs. CPU choice will likely be between Intel Xeon and AMD EPYC.",
+      "application": "AI training and inference at massive scale, cloud hosting for global hyperscalers, frontier labs, and supporting India's sovereign AI initiatives.",
+      "currentSuppliers": "Unknown (Greenfield project). Likely to engage with major ODMs like Quanta, Wistron (Wiwynn), Supermicro, or major OEMs like Dell, HPE.",
+      "odmOem": "Mixed",
+      "asusModel": "AI 8GPU: ESC N8-E11 (HGX H100), ESC NB8-E11 (Blackwell), ESC8000-E12; 通用2U: RS720-E12, RS720A-E12",
+      "channel": "SI: Datacipher (www.datacipher.com); SI: Microland (www.microland.com); SI: Inspira Enterprise (www.inspiraenterprise.com)",
+      "difficulty": 8,
+      "challenges": "【archetype戰術】AM Green is a 'neocloud' building a massive, specialized AI cloud. ASUS must compete with top-tier ODMs on co-development and customized, high-performance hardware at scale.\n【技術門檻】The involvement of Raja Koduri's OXMIQ Labs implies a very high technical barrier. They are likely architecting the entire stack from the silicon up. ASUS must demonstrate superior server design, thermal engineering, and power efficiency, and be prepared for deep co-design.\n【供應鏈壁壘】Securing ~500,000 latest-generation GPUs over 2-3 years is a huge challenge. ASUS will compete with giant ODMs (Quanta, Wiwynn, Supermicro) who have stronger relationships with NVIDIA and operate at a larger scale.\n【商務挑戰】This multi-billion dollar deal will be hyper-competitive on price. ASUS has no existing relationship and will need an extremely aggressive commercial strategy to break in against established ODMs.",
+      "entryPoint": "【archetype戰術】Engage as a technology partner, not just a vendor. Focus on ASUS's engineering prowess and flexibility. Build a relationship with OXMIQ Labs to position ASUS as the ideal hardware partner.\n【短期（6-12個月）】1. High-Level Engagement with Anil Chalamalasetty, Mahesh Kolli (AM Green), and Raja Koduri (OXMIQ). 2. Showcase advanced GPU server platforms (e.g., ESC NB8-E11, ESC8000-E12) and provide evaluation units. 3. Arrange technical deep-dive workshops with OXMIQ and AM Intelligence Labs.\n【中期（1-2年）】1. Propose a semi-custom or fully-custom server design. 2. Secure a pilot project for a PoC cluster or ancillary systems. 3. Provide a detailed supply chain plan demonstrating volume and pace capabilities.\n【長期（2-3年）】1. Become a primary server supplier for the 1GW data center. 2. Evolve into a long-term technology partner for future designs.\n【關鍵行動】1. Assign a senior executive sponsor. 2. Form a dedicated tiger team (engineering, sales, supply chain). 3. Leverage ASUS's local presence in India.",
+      "keyPerson": {
+        "name": "Raja Koduri",
+        "title": "Founder and CEO, OXMIQ Labs (Technology Partner)",
+        "linkedin": "https://www.linkedin.com/in/raja-koduri-3a51611",
+        "source": "LinkedIn"
+      },
+      "techDecisionMaker": {
+        "name": "Raja Koduri",
+        "title": "Founder and CEO, OXMIQ Labs (Technology Partner)",
+        "linkedin": "https://www.linkedin.com/in/raja-koduri-3a51611",
+        "commStrategy": "以 AI 伺服器效能基準測試和 NVIDIA 認證為切入點，展示 ASUS 在 GPU 伺服器領域的技術實力。提供 POC 測試機會，讓技術團隊實際驗證 ASUS 伺服器的效能與穩定性。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Mahesh Kolli",
+        "title": "Founder & Group President, AM Green",
+        "linkedin": "https://uk.linkedin.com/in/kolli-mahesh-25345b5",
+        "commStrategy": "強調供應鏈多元化降低風險的價值，提供具競爭力的 TCO 分析。展示 ASUS 全球交付能力與彈性付款方案。"
+      },
+      "siDist": [
+        {
+          "name": "Datacipher",
+          "website": "www.datacipher.com",
+          "type": "SI",
+          "isActual": false
+        },
+        {
+          "name": "Microland",
+          "website": "www.microland.com",
+          "type": "SI",
+          "isActual": false
+        },
+        {
+          "name": "Inspira Enterprise",
+          "website": "www.inspiraenterprise.com",
+          "type": "SI",
+          "isActual": false
+        }
+      ],
+      "actualSiPartners": "",
+      "volumeSource": "https://m.economictimes.com/tech/artificial-intelligence/am-group-to-build-usd-25-billion-gw-scale-ai-compute-hub-in-uttar-pradesh/articleshow/126816764.cms",
+      "industry": "NeoCloud/AI",
+      "archetype": "neocloud"
+    },
+    {
+      "rank": 52,
       "company": "Maxis Berhad",
       "region": "馬來西亞",
       "volume": "約 5,000 - 10,000 台/年",
@@ -2937,7 +3096,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 50,
+      "rank": 53,
       "company": "Raxio Group",
       "region": "新加坡/東南亞",
       "volume": "約 5,000 - 10,000 台/年",
@@ -2981,7 +3140,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 51,
+      "rank": 54,
       "company": "Digital Edge",
       "region": "新加坡/亞太",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3025,7 +3184,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 52,
+      "rank": 55,
       "company": "Lotte Data Communication",
       "region": "韓國",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3183,7 +3342,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 53,
+      "rank": 56,
       "company": "Digi Telecommunications",
       "region": "馬來西亞",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3239,7 +3398,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 54,
+      "rank": 57,
       "company": "IIJ (Internet Initiative Japan)",
       "region": "日本",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3283,7 +3442,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 55,
+      "rank": 58,
       "company": "GMO Internet Group",
       "region": "日本",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3327,7 +3486,7 @@
       "archetype": "automotive"
     },
     {
-      "rank": 56,
+      "rank": 59,
       "company": "SCSK Corporation",
       "region": "日本",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3401,7 +3560,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 57,
+      "rank": 60,
       "company": "POSCO ICT (現 POSCO DX)",
       "region": "韓國",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3451,7 +3610,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 58,
+      "rank": 61,
       "company": "Mahindra Group (Tech Mahindra 以外)",
       "region": "印度",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3579,7 +3738,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 59,
+      "rank": 62,
       "company": "Zoho Corporation",
       "region": "印度",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3641,7 +3800,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 60,
+      "rank": 63,
       "company": "Hanwha Group (韓華)",
       "region": "韓國",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3697,7 +3856,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 61,
+      "rank": 64,
       "company": "Vingroup (VinAI / VinBigData)",
       "region": "越南",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3741,7 +3900,7 @@
       "archetype": "financial"
     },
     {
-      "rank": 62,
+      "rank": 65,
       "company": "Optus (Singtel 子公司)",
       "region": "澳洲",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3851,7 +4010,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 63,
+      "rank": 66,
       "company": "VNPT (Vietnam Posts and Telecommunications)",
       "region": "越南",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3931,7 +4090,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 64,
+      "rank": 67,
       "company": "Gojek (GoTo Group)",
       "region": "印尼",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3975,7 +4134,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 65,
+      "rank": 68,
       "company": "Larsen & Toubro (L&T) Infotech",
       "region": "印度",
       "volume": "約 5,000 - 8,000 台/年",
@@ -4097,7 +4256,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 66,
+      "rank": 69,
       "company": "Cyxtera Technologies (亞太業務)",
       "region": "新加坡",
       "volume": "約 3,000 - 8,000 台/年",
@@ -4141,7 +4300,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 67,
+      "rank": 70,
       "company": "Ola Electric / Ola Cabs",
       "region": "印度",
       "volume": "約 3,000 - 8,000 台/年",
@@ -4185,7 +4344,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 68,
+      "rank": 71,
       "company": "Preferred Networks",
       "region": "日本",
       "volume": "約 3,000 - 8,000 台/年",
@@ -4229,7 +4388,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 69,
+      "rank": 72,
       "company": "Atlassian",
       "region": "澳洲",
       "volume": "約 3,000 - 8,000 台/年",
@@ -4333,7 +4492,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 70,
+      "rank": 73,
       "company": "Subaru Corporation",
       "region": "日本",
       "volume": "約 3,000 - 6,000 台/年",
@@ -4389,7 +4548,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 71,
+      "rank": 74,
       "company": "Bandai Namco Holdings",
       "region": "日本",
       "volume": "約 3,000 - 6,000 台/年",
@@ -4439,7 +4598,7 @@
       "archetype": "financial"
     },
     {
-      "rank": 72,
+      "rank": 75,
       "company": "Murata Manufacturing",
       "region": "日本",
       "volume": "約 3,000 - 6,000 台/年",
@@ -4519,7 +4678,7 @@
       "archetype": "financial"
     },
     {
-      "rank": 73,
+      "rank": 76,
       "company": "Dentsu Group",
       "region": "日本",
       "volume": "約 3,000 - 6,000 台/年",
@@ -4563,7 +4722,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 74,
+      "rank": 77,
       "company": "Razorpay",
       "region": "印度",
       "volume": "約 3,000 - 6,000 台/年",
@@ -4697,7 +4856,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 75,
+      "rank": 78,
       "company": "Kakao Bank",
       "region": "韓國",
       "volume": "約 3,000 - 6,000 台/年",
@@ -4747,7 +4906,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 76,
+      "rank": 79,
       "company": "Toss (Viva Republica)",
       "region": "韓國",
       "volume": "約 3,000 - 6,000 台/年",
@@ -4791,7 +4950,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 77,
+      "rank": 80,
       "company": "Bukalapak",
       "region": "印尼",
       "volume": "約 3,000 - 6,000 台/年",
@@ -4841,7 +5000,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 78,
+      "rank": 81,
       "company": "Ricoh Company",
       "region": "日本",
       "volume": "約 3,000 - 6,000 台/年",
@@ -4999,7 +5158,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 79,
+      "rank": 82,
       "company": "Paytm (One97 Communications)",
       "region": "印度",
       "volume": "約 3,000 - 6,000 台/年",
@@ -5043,7 +5202,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 80,
+      "rank": 83,
       "company": "NHN Corporation",
       "region": "韓國",
       "volume": "約 3,000 - 6,000 台/年",
@@ -5117,7 +5276,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 81,
+      "rank": 84,
       "company": "Vedanta Limited (IT 部門)",
       "region": "印度",
       "volume": "約 3,000 - 6,000 台/年",
@@ -5161,7 +5320,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 82,
+      "rank": 85,
       "company": "Astra International",
       "region": "印尼",
       "volume": "約 3,000 - 6,000 台/年",
@@ -5241,7 +5400,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 83,
+      "rank": 86,
       "company": "Tata Motors (JLR)",
       "region": "印度",
       "volume": "約 3,000 - 6,000 台/年",
@@ -5309,7 +5468,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 84,
+      "rank": 87,
       "company": "Canon Inc.",
       "region": "日本",
       "volume": "約 3,000 - 6,000 台/年",
@@ -5365,7 +5524,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 85,
+      "rank": 88,
       "company": "Zomato",
       "region": "印度",
       "volume": "約 3,000 - 6,000 台/年",
@@ -5409,7 +5568,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 86,
+      "rank": 89,
       "company": "Canva",
       "region": "澳洲",
       "volume": "約 3,000 - 6,000 台/年",
@@ -5471,7 +5630,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 87,
+      "rank": 90,
       "company": "BHP Group (亞太業務)",
       "region": "澳洲",
       "volume": "約 3,000 - 6,000 台/年",
@@ -5527,7 +5686,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 88,
+      "rank": 91,
       "company": "Daewoo E&C (現 DL E&C)",
       "region": "韓國",
       "volume": "約 3,000 - 5,000 台/年",
@@ -5571,7 +5730,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 89,
+      "rank": 92,
       "company": "Daikin Industries",
       "region": "日本",
       "volume": "約 3,000 - 5,000 台/年",
@@ -5627,7 +5786,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 90,
+      "rank": 93,
       "company": "Meesho",
       "region": "印度",
       "volume": "約 3,000 - 5,000 台/年",
@@ -5677,7 +5836,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 91,
+      "rank": 94,
       "company": "DeNA Co., Ltd.",
       "region": "日本",
       "volume": "約 3,000 - 5,000 台/年",
@@ -5721,7 +5880,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 92,
+      "rank": 95,
       "company": "Suzuki Motor Corporation",
       "region": "日本",
       "volume": "約 3,000 - 5,000 台/年",
@@ -5771,7 +5930,7 @@
       "archetype": "automotive"
     },
     {
-      "rank": 93,
+      "rank": 96,
       "company": "Woolworths Group",
       "region": "澳洲",
       "volume": "約 3,000 - 5,000 台/年",
@@ -5815,7 +5974,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 94,
+      "rank": 97,
       "company": "Stability AI (亞太業務)",
       "region": "日本/亞太",
       "volume": "約 2,000 - 5,000 台/年（亞太區域）",
@@ -5859,7 +6018,7 @@
       "archetype": "neocloud"
     },
     {
-      "rank": 95,
+      "rank": 98,
       "company": "Celltrion",
       "region": "韓國",
       "volume": "約 2,000 - 5,000 台/年",
@@ -5903,7 +6062,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 96,
+      "rank": 99,
       "company": "Sharp Corporation",
       "region": "日本",
       "volume": "約 2,000 - 5,000 台/年",
@@ -5953,7 +6112,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 97,
+      "rank": 100,
       "company": "Byju's (Think & Learn)",
       "region": "印度",
       "volume": "約 2,000 - 5,000 台/年",
@@ -5997,7 +6156,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 98,
+      "rank": 101,
       "company": "Bridgestone Corporation",
       "region": "日本",
       "volume": "約 2,000 - 5,000 台/年",
@@ -6080,7 +6239,7 @@
         }
       ],
       "volumeSource": "https://holdings.panasonic/global/corporate/investors/pdf/annual/2024/pana_ar2024e_a4.pdf",
-      "rank": 99,
+      "rank": 102,
       "industry": "科技/製造",
       "techDecisionMaker": {
         "name": "Anurag Verma",
@@ -6130,7 +6289,7 @@
         }
       ],
       "volumeSource": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/Annual-Reports/FY-2025/kotak-mahindra-bank/Kotak-Mahindra-Bank-Limited-FY25.pdf",
-      "rank": 100,
+      "rank": 103,
       "industry": "金融",
       "techDecisionMaker": {
         "name": "Himanshu Soni",
@@ -6145,6 +6304,51 @@
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
       "archetype": "financial"
+    },
+    {
+      "rank": 104,
+      "company": "RunSun Cloud (潤陽)",
+      "region": "新加坡",
+      "volume": "約 500-1,500 台/年 (此為估計值。基於其作為新興高階 GPU 雲端服務提供商，專注於最新的 NVIDIA 技術，並已開始產生服務收入。採購量將隨著其客戶增長而快速擴大)。",
+      "platform": "CPU: Grace CPU (Arm Neoverse V2), GPU: NVIDIA GB200, B200, H200, H100, Form Factor: Rack-scale, liquid-cooled (推測為 4U/8U)",
+      "application": "AI 訓練、AI 推論、高效能運算 (HPC)、雲端託管",
+      "currentSuppliers": "Unknown",
+      "odmOem": "Mixed",
+      "asusModel": "AI 伺服器 (Blackwell): ESC NB8-E11, AI 伺服器 (Hopper): ESC N8-E11, ESC8000-E12, 通用伺服器: RS720-E12, RS720A-E12",
+      "channel": "SI/DIST: NetClass Technology (https://www.netclass.us)",
+      "difficulty": 7,
+      "challenges": "【技術門檻】RunSun Cloud 專注於最新的 NVIDIA Blackwell 和 Grace Hopper 平台，特別是液冷方案的 GB200 NVL72。華碩需要展示其擁有同等競爭力且能即時供貨的解決方案，任何產品上市時間的延遲都將是重大劣勢。\n【供應鏈壁壘】一線ODM大廠（如廣達、緯創/緯穎、美超微）與 NVIDIA 關係緊密，掌握了新 GPU 平台的大部分產能。華碩需要證明其擁有更優越的供應鏈能力，以確保能為 RunSun 穩定提供這些高需求的關鍵零組件。\n【商務挑戰】作為一家新創公司，RunSun 可能對價格非常敏感，且可能已從其初始供應商那裡獲得了優惠價格。華碩需要在定價上採取積極策略，並提供靈活的商業條款。此外，他們與系統整合商 NetClass 的合作關係也為銷售流程增加了複雜性。",
+      "entryPoint": "【archetype戰術】針對 Neocloud 客戶，提供高度客製化、快速導入以及彈性付款的方案，強調 TCO (總體擁有成本) 優勢。\n【短期（6-12個月）】針對其 H100/H200 需求，提供 ESC N8-E11 或 ESC8000-E12 的樣機進行 PoC (概念驗證) 測試，展示華碩伺服器的效能與穩定性。同時，與其通路夥伴 NetClass Technology 建立合作關係。\n【中期（1-2年）】積極推廣華碩的 Blackwell 平台解決方案 (ESC NB8-E11)，強調華碩在散熱設計、電源效率和管理軟體上的優勢。爭取成為其下一代基礎設施的第二或第三供應商。\n【長期（2-3年）】深化技術合作，共同針對東南亞市場的 AI 應用進行伺服器效能優化，甚至探討聯合開發的可能性，成為其長期的戰略硬體夥伴。\n【關鍵行動】立即聯繫 RunSun Cloud 的 CTO Jason Yan，安排一場技術簡報會議，介紹華碩的 AI 伺服器產品組合與藍圖。",
+      "keyPerson": {
+        "name": "Jason Yan",
+        "title": "CTO",
+        "linkedin": "https://sg.linkedin.com/in/jason-yan-7550382a",
+        "source": "LinkedIn"
+      },
+      "techDecisionMaker": {
+        "name": "Jason Yan",
+        "title": "CTO",
+        "linkedin": "https://sg.linkedin.com/in/jason-yan-7550382a",
+        "commStrategy": "以 AI 伺服器效能基準測試和 NVIDIA 認證為切入點，展示 ASUS 在 GPU 伺服器領域的技術實力。提供 POC 測試機會，讓技術團隊實際驗證 ASUS 伺服器的效能與穩定性。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Tim Ding",
+        "title": "General Manager at Runsun Inc, GPU Cloud, NCP",
+        "linkedin": "https://www.linkedin.com/in/timding",
+        "commStrategy": "強調供應鏈多元化降低風險的價值，提供具競爭力的 TCO 分析。展示 ASUS 全球交付能力與彈性付款方案。"
+      },
+      "siDist": [
+        {
+          "name": "NetClass Technology",
+          "website": "https://www.netclass.us",
+          "type": "SI/DIST",
+          "isActual": true
+        }
+      ],
+      "actualSiPartners": "",
+      "volumeSource": "https://www.ainvest.com/news/netclass-tech-partners-runsun-cloud-ai-computing-infrastructure-2510/",
+      "industry": "NeoCloud/AI",
+      "archetype": "neocloud"
     }
   ],
   "totalCompanies": 100

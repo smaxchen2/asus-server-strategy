@@ -605,7 +605,7 @@ export default function Home() {
               <Globe className="w-3 h-3" />
               <span className="ml-1">4 Regions</span>
               <span className="mx-1.5 w-px h-3 bg-border" />
-              <span>400 Companies</span>
+              <span>404 Companies</span>
             </div>
           </div>
         </div>
