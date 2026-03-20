@@ -6,6 +6,7 @@ import ErrorBoundary from "./components/ErrorBoundary";
 import { ThemeProvider } from "./contexts/ThemeContext";
 import Home from "./pages/Home";
 import CompanyDetail from "./pages/CompanyDetail";
+import DataStatus from "./pages/DataStatus";
 
 function Router() {
   return (
@@ -14,6 +15,7 @@ function Router() {
       <Route path={"/region/:region"} component={Home} />
       <Route path={"/region/:region/company/:rank"} component={CompanyDetail} />
       <Route path={"/company/:rank"} component={CompanyDetail} />
+      <Route path={"/internal/data-status"} component={DataStatus} />
       <Route path={"/404"} component={NotFound} />
       <Route component={NotFound} />
     </Switch>
