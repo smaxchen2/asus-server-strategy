@@ -26,6 +26,7 @@ import {
 import * as XLSX from "xlsx";
 import StructuredText, { StructuredCommStrategy } from "@/components/StructuredText";
 import DifficultyModal from "@/components/DifficultyModal";
+import RegionMapBg from "@/components/RegionMapBg";
 
 /* ─── CSV Export ─── */
 function exportToCSV(companies: Company[], regionLabel: string, t: Translations) {
@@ -646,25 +647,33 @@ export default function Home() {
       </header>
 
       {/* Hero / Dashboard Strip */}
-      <section className="bg-foreground text-background">
-        <div className="container py-8">
-          <div className="grid grid-cols-1 lg:grid-cols-[1fr_auto] gap-8 items-center">
-            <div>
-              <p className="text-[10px] font-bold tracking-[0.2em] uppercase text-background/50 mb-2">
+      <section className={`relative overflow-hidden text-white ${
+        currentRegionKey === "na" ? "bg-gradient-to-r from-blue-900 via-blue-800 to-blue-700" :
+        currentRegionKey === "apac" ? "bg-gradient-to-r from-emerald-900 via-emerald-800 to-emerald-700" :
+        currentRegionKey === "emea" ? "bg-gradient-to-r from-amber-900 via-amber-800 to-amber-700" :
+        "bg-gradient-to-r from-red-900 via-red-800 to-red-700"
+      }`}>
+        <RegionMapBg region={currentRegionKey} />
+        <div className="container py-4 relative z-10">
+          <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-3">
+            {/* Left: Title */}
+            <div className="flex-shrink-0">
+              <p className="text-[10px] font-semibold tracking-[0.2em] uppercase text-white/50 mb-1">
                 {rl.flag} {rl.short} {t.marketIntelligence}
               </p>
-              <h2 className="text-2xl md:text-3xl font-black tracking-tight mb-3" style={{ fontFamily: "'DM Sans', sans-serif" }}>
+              <h2 className="text-lg md:text-xl font-bold tracking-tight" style={{ fontFamily: "'DM Sans', sans-serif" }}>
                 {rl.label} {t.strategyOverviewSuffix}
               </h2>
-              <p className="text-sm text-background/60 leading-relaxed max-w-xl">
-                {rl.label} Top {companies.length} {t.regionDescriptionSuffix}{t.regionDescriptionDetails}
+              <p className="text-xs text-white/50 mt-0.5 max-w-md">
+                {rl.label} Top {companies.length} {t.regionDescriptionSuffix}
               </p>
             </div>
-            <div className="grid grid-cols-2 gap-4 lg:gap-6">
-              <DarkKPI icon={Building2} value={String(companies.length)} label={t.kpiCompanies} sub={`${rl.label} ${t.kpiTopPrefix} ${companies.length}`} />
-              <DarkKPI icon={TrendingUp} value={regionConfig.totalVolume} label={t.kpiUnitsPerYear} sub={t.kpiAnnualVolume} />
-              <DarkKPI icon={Zap} value={String(neocloudCount)} label={t.kpiNeoCloud} sub={t.kpiAICloud} accent="amber" />
-              <DarkKPI icon={Target} value={String(hardCount)} label={t.kpiHighDifficulty} sub={t.kpiScore810} accent="red" />
+            {/* Right: KPIs in a single row */}
+            <div className="flex items-center gap-6 lg:gap-8">
+              <CompactKPI icon={Building2} value={String(companies.length)} label={t.kpiCompanies} />
+              <CompactKPI icon={TrendingUp} value={regionConfig.totalVolume} label={t.kpiUnitsPerYear} />
+              <CompactKPI icon={Zap} value={String(neocloudCount)} label={t.kpiNeoCloud} accent="amber" />
+              <CompactKPI icon={Target} value={String(hardCount)} label={t.kpiHighDifficulty} accent="red" />
             </div>
           </div>
         </div>
@@ -889,21 +898,24 @@ export default function Home() {
 
 /* ─── Sub-components ─── */
 
-function DarkKPI({ icon: Icon, value, label, sub, accent }: { icon: any; value: string; label: string; sub: string; accent?: string }) {
+function CompactKPI({ icon: Icon, value, label, accent }: { icon: any; value: string; label: string; accent?: string }) {
   const accentMap: Record<string, string> = {
-    amber: "text-amber-400",
-    red: "text-red-400",
-    emerald: "text-emerald-400",
+    amber: "text-amber-300",
+    red: "text-red-300",
+    emerald: "text-emerald-300",
   };
   const valueColor = accent ? accentMap[accent] || "text-white" : "text-white";
   return (
-    <div className="text-center">
-      <Icon className="w-4 h-4 text-white/30 mx-auto mb-1.5" />
-      <div className={`text-2xl font-black tabular-nums ${valueColor}`} style={{ fontFamily: "'DM Sans', sans-serif" }}>
-        {value}
+    <div className="flex items-center gap-2">
+      <div className="w-8 h-8 rounded-lg bg-white/10 flex items-center justify-center flex-shrink-0">
+        <Icon className="w-4 h-4 text-white/60" />
       </div>
-      <div className="text-[10px] text-white/70 font-medium">{label}</div>
-      <div className="text-[9px] text-white/40 mt-0.5">{sub}</div>
+      <div>
+        <div className={`text-lg font-bold tabular-nums leading-tight ${valueColor}`} style={{ fontFamily: "'DM Sans', sans-serif" }}>
+          {value}
+        </div>
+        <div className="text-[10px] text-white/50 font-medium leading-tight">{label}</div>
+      </div>
     </div>
   );
 }
