@@ -28,7 +28,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.reuters.com/technology/bytedance-2024-revenue-grew-about-40-information-reports-2025-01-07/",
+      "volumeSource": "https://www.reuters.com/technology/",
       "industry": "Social",
       "techDecisionMaker": {
         "name": "梁汝波 (Liang Rubo)",
@@ -158,7 +158,7 @@
       "siDist": [
         {
           "name": "紫光數碼",
-          "website": "https://www.unis.com.cn",
+          "website": "https://www.unisplendour.com/",
           "type": "DIST",
           "isActual": false
         }
@@ -197,7 +197,7 @@
       "keyPerson": {
         "name": "曹鵬 (Cao Peng)",
         "title": "CEO JD Technology",
-        "linkedin": "https://www.linkedin.com/company/jd-com",
+        "linkedin": "https://www.linkedin.com/company/jd.com",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -213,7 +213,7 @@
       "techDecisionMaker": {
         "name": "曹鵬 (Cao Peng)",
         "title": "CEO JD Technology",
-        "linkedin": "https://www.linkedin.com/company/jd-com",
+        "linkedin": "https://www.linkedin.com/company/jd.com",
         "commStrategy": "Focus on server requirements for AI recommendation systems, supply chain optimization, and in-store edge AI."
       },
       "procurementDecisionMaker": {
@@ -338,7 +338,7 @@
       "siDist": [
         {
           "name": "紫光數碼",
-          "website": "https://www.unis.com.cn",
+          "website": "https://www.unisplendour.com/",
           "type": "DIST",
           "isActual": false
         }
@@ -433,7 +433,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS小紅書",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Tech",
       "techDecisionMaker": {
         "name": "毛文超 (Charlwin Mao)",
@@ -478,7 +478,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSAnt Group",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "FinTech",
       "techDecisionMaker": {
         "name": "井賢棟 (Eric Jing)",
@@ -557,7 +557,7 @@
       "keyPerson": {
         "name": "程維 (Cheng Wei)",
         "title": "Founder & CEO",
-        "linkedin": "https://www.linkedin.com/company/dikitech",
+        "linkedin": "https://www.linkedin.com/company/didiglobal",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -573,7 +573,7 @@
       "techDecisionMaker": {
         "name": "程維 (Cheng Wei)",
         "title": "Founder & CEO",
-        "linkedin": "https://www.linkedin.com/company/dikitech",
+        "linkedin": "https://www.linkedin.com/company/didiglobal",
         "commStrategy": "Showcase ASUS servers' performance advantages and energy efficiency in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
@@ -608,7 +608,7 @@
       "siDist": [
         {
           "name": "紫光數碼",
-          "website": "https://www.unis.com.cn",
+          "website": "https://www.unisplendour.com/",
           "type": "DIST",
           "isActual": false
         }
@@ -928,7 +928,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS順豐科技",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Logistics",
       "techDecisionMaker": {
         "name": "王衛 (Wang Wei)",
@@ -973,7 +973,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS月之暗面",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "NeoCloud/AI",
       "techDecisionMaker": {
         "name": "楊植麟 (Yang Zhilin)",
@@ -1148,12 +1148,12 @@
       "siDist": [
         {
           "name": "紫光數碼",
-          "website": "https://www.unis.com.cn",
+          "website": "https://www.unisplendour.com/",
           "type": "DIST",
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS聯影醫療",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Finance",
       "techDecisionMaker": {
         "name": "張強 (Zhang Qiang)",
@@ -1187,7 +1187,7 @@
       "keyPerson": {
         "name": "曾毓群 (Robin Zeng)",
         "title": "Founder & Chairman",
-        "linkedin": "https://www.linkedin.com/company/catl",
+        "linkedin": "https://www.linkedin.com/company/contemporary-amperex-technology-gmbh",
         "source": "LinkedIn"
       },
       "siDist": [
@@ -1203,7 +1203,7 @@
       "techDecisionMaker": {
         "name": "曾毓群 (Robin Zeng)",
         "title": "Founder & Chairman",
-        "linkedin": "https://www.linkedin.com/company/catl",
+        "linkedin": "https://www.linkedin.com/company/contemporary-amperex-technology-gmbh",
         "commStrategy": "Focus on the GPU computing needs of autonomous driving training, IoV data processing, and factory edge AI applications"
       },
       "procurementDecisionMaker": {
@@ -1243,7 +1243,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.byd.com/en/InvestorRelations.html",
+      "volumeSource": "https://www.byd.com/en",
       "industry": "Automotive",
       "techDecisionMaker": {
         "name": "王傳福 (Wang Chuanfu)",
@@ -1283,12 +1283,12 @@
       "siDist": [
         {
           "name": "紫光數碼",
-          "website": "https://www.unis.com.cn",
+          "website": "https://www.unisplendour.com/",
           "type": "DIST",
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS海爾卡奧斯",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Manufacturing",
       "techDecisionMaker": {
         "name": "周雲傑 (Zhou Yunjie)",
@@ -1333,7 +1333,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS用友網絡",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Tech",
       "techDecisionMaker": {
         "name": "王文京 (Wang Wenjing)",
@@ -1423,7 +1423,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUStcl-科技",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Manufacturing",
       "techDecisionMaker": {
         "name": "李東生 (Li Dongsheng)",
@@ -1738,7 +1738,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSoppo-/-一加",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Consumer Electronics",
       "techDecisionMaker": {
         "name": "劉作虎 (Pete Lau)",
@@ -1783,7 +1783,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSvivo",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Consumer Electronics",
       "techDecisionMaker": {
         "name": "沈煒 (Shen Wei)",
@@ -1828,7 +1828,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.kingdee.com/investor/",
+      "volumeSource": "https://www.kingdee.com/",
       "industry": "Finance",
       "techDecisionMaker": {
         "name": "徐少春 (Xu Shaochun)",
@@ -1873,7 +1873,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS地平線",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "NeoCloud/AI",
       "techDecisionMaker": {
         "name": "余凱 (Yu Kai)",
@@ -2007,7 +2007,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS光年之外",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "rank": 45,
       "industry": "NeoCloud/AI",
       "techDecisionMaker": {
@@ -2097,7 +2097,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS匯豐軟件",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "rank": 47,
       "industry": "Finance",
       "techDecisionMaker": {
@@ -2143,7 +2143,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://ir.ly.com/",
+      "volumeSource": "https://www.ly.com/",
       "industry": "Tech",
       "techDecisionMaker": {
         "name": "馬和平 (Ma Heping)",
@@ -2223,7 +2223,7 @@
         "name": "待查詢",
         "title": "VP, AI Infrastructure",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20聯影智能%20(United%20Imaging%20Intelligence)",
-        "source": "http://notice.10jqka.com.cn/api/pdf/38405c6686b0f78f.pdf"
+        "source": "https://www.united-imaging.com/en/about"
       },
       "siDist": [
         {
@@ -2233,7 +2233,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS聯影智能",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Finance",
       "techDecisionMaker": {
         "name": "待查詢",
@@ -2278,7 +2278,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS度小滿金融",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Finance",
       "techDecisionMaker": {
         "name": "朱光 (Zhu Guang)",
@@ -2368,7 +2368,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS哈囉出行",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Tech",
       "techDecisionMaker": {
         "name": "楊磊 (Yang Lei)",
@@ -2413,7 +2413,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS達達集團",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Tech",
       "techDecisionMaker": {
         "name": "何輝劍 (He Huijian)",
@@ -2458,7 +2458,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS傳音控股",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Finance",
       "techDecisionMaker": {
         "name": "竺兆江 (Zhu Zhaojiang)",
@@ -2503,7 +2503,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS藥明生物",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Pharma",
       "techDecisionMaker": {
         "name": "陳智勝 (Chris Chen)",
@@ -2548,7 +2548,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS第四範式",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Tech",
       "techDecisionMaker": {
         "name": "戴文淵 (Dai Wenyuan)",
@@ -2593,7 +2593,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS有贊",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Tech",
       "techDecisionMaker": {
         "name": "白鴉 (Bai Ya)",
@@ -2628,7 +2628,7 @@
         "name": "段威 (Duan Wei)",
         "title": "CEO",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=段威%20(Duan%20Wei)%20匯量科技%20(Mobvista%20/%20Mintegral)",
-        "source": "https://hk.finance.yahoo.com/quote/1860.HK/profile/"
+        "source": "https://finance.yahoo.com/quote/1860.HK/"
       },
       "siDist": [
         {
@@ -2638,7 +2638,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS匯量科技",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Tech",
       "techDecisionMaker": {
         "name": "段威 (Duan Wei)",
@@ -2683,7 +2683,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS微盟集團",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Tech",
       "techDecisionMaker": {
         "name": "孫濤勇 (Sun Taoyong)",
@@ -2728,7 +2728,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS明源雲",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Finance",
       "techDecisionMaker": {
         "name": "高宇 (Gao Yu)",
@@ -2818,7 +2818,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS哪吒汽車",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Automotive",
       "techDecisionMaker": {
         "name": "張勇 (Zhang Yong)",
@@ -2953,7 +2953,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS%E5%89%B5%E7%BB%B4%E9%9B%86%E5%9B%A2",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Semiconductor",
       "techDecisionMaker": {
         "name": "王志國 (Wang Zhiguo)",
@@ -3074,7 +3074,7 @@
         "name": "李書福 (Li Shufu)",
         "title": "Founder & Chairman",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=李書福%20(Li%20Shufu)%20吉利汽車%20(Geely%20Auto)",
-        "source": "https://www.geelyauto.com.hk/zh-cn/%E7%AE%A1%E7%90%86%E5%B1%A2/"
+        "source": "https://www.geelyauto.com.hk/"
       },
       "siDist": [
         {
@@ -3084,7 +3084,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://global.geely.com/investor-relations",
+      "volumeSource": "https://global.geely.com/en",
       "rank": 69,
       "industry": "Automotive",
       "techDecisionMaker": {
@@ -3172,7 +3172,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS九坤投資",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "rank": 71,
       "industry": "Tech",
       "techDecisionMaker": {
@@ -3212,7 +3212,7 @@
       "siDist": [
         {
           "name": "紫光數碼",
-          "website": "https://www.unis.com.cn",
+          "website": "https://www.unisplendour.com/",
           "type": "DIST",
           "isActual": false
         }
@@ -3308,7 +3308,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS思必馳",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Telecom",
       "techDecisionMaker": {
         "name": "高始興 (Gao Shixing)",
@@ -3353,7 +3353,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS趣丸科技",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Tech",
       "techDecisionMaker": {
         "name": "宋克 (Song Ke)",
@@ -3398,7 +3398,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS蔚來能源",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Automotive",
       "techDecisionMaker": {
         "name": "沈斐 (Shen Fei)",
@@ -3443,7 +3443,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS泰格醫藥",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Healthcare",
       "techDecisionMaker": {
         "name": "葉小平 (Ye Xiaoping)",
@@ -3482,7 +3482,7 @@
       "siDist": [
         {
           "name": "紫光數碼",
-          "website": "https://www.unis.com.cn",
+          "website": "https://www.unisplendour.com/",
           "type": "DIST",
           "isActual": false
         }
@@ -3533,7 +3533,7 @@
         },
         {
           "name": "紫光數碼",
-          "website": "https://www.unis.com.cn",
+          "website": "https://www.unisplendour.com/",
           "type": "DIST",
           "isActual": false
         }
@@ -3673,7 +3673,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS嘉實基金",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "rank": 82,
       "industry": "Tech",
       "techDecisionMaker": {
@@ -3713,12 +3713,12 @@
       "siDist": [
         {
           "name": "紫光數碼",
-          "website": "https://www.unis.com.cn",
+          "website": "https://www.unisplendour.com/",
           "type": "DIST",
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS明略科技",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "rank": 83,
       "industry": "Finance",
       "techDecisionMaker": {
@@ -3763,7 +3763,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS數夢工場",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "rank": 84,
       "industry": "Tech",
       "techDecisionMaker": {
@@ -3899,7 +3899,7 @@
       "siDist": [
         {
           "name": "紫光數碼",
-          "website": "https://www.unis.com.cn",
+          "website": "https://www.unisplendour.com/",
           "type": "DIST",
           "isActual": false
         }
@@ -4039,7 +4039,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS衛星化學",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "rank": 90,
       "industry": "Tech",
       "techDecisionMaker": {
@@ -4079,7 +4079,7 @@
       "siDist": [
         {
           "name": "Unis Digital",
-          "website": "https://www.unis.com.cn",
+          "website": "https://www.unisplendour.com/",
           "type": "DIST",
           "isActual": false
         }
@@ -4129,7 +4129,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS商米科技",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "rank": 92,
       "industry": "Tech",
       "techDecisionMaker": {
@@ -4169,7 +4169,7 @@
       "siDist": [
         {
           "name": "Unis Digital",
-          "website": "https://www.unis.com.cn",
+          "website": "https://www.unisplendour.com/",
           "type": "DIST",
           "isActual": false
         }
@@ -4304,12 +4304,12 @@
       "siDist": [
         {
           "name": "紫光數碼",
-          "website": "https://www.unis.com.cn",
+          "website": "https://www.unisplendour.com/",
           "type": "DIST",
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS華勤技術",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "rank": 96,
       "industry": "Tech",
       "techDecisionMaker": {
@@ -4349,7 +4349,7 @@
       "siDist": [
         {
           "name": "紫光數碼",
-          "website": "https://www.unis.com.cn",
+          "website": "https://www.unisplendour.com/",
           "type": "DIST",
           "isActual": false
         }
@@ -4444,7 +4444,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS聯想之星",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "rank": 99,
       "industry": "Tech",
       "techDecisionMaker": {
@@ -4484,12 +4484,12 @@
       "siDist": [
         {
           "name": "紫光數碼",
-          "website": "https://www.unis.com.cn",
+          "website": "https://www.unisplendour.com/",
           "type": "DIST",
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS火花思維",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "rank": 100,
       "industry": "Tech",
       "techDecisionMaker": {

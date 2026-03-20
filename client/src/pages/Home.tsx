@@ -26,7 +26,6 @@ import {
 import * as XLSX from "xlsx";
 import StructuredText, { StructuredCommStrategy } from "@/components/StructuredText";
 import DifficultyModal from "@/components/DifficultyModal";
-import RegionMapBg from "@/components/RegionMapBg";
 
 /* ─── CSV Export ─── */
 function exportToCSV(companies: Company[], regionLabel: string, t: Translations) {
@@ -657,8 +656,7 @@ export default function Home() {
         currentRegionKey === "emea" ? "bg-gradient-to-r from-amber-900 via-amber-800 to-amber-700" :
         "bg-gradient-to-r from-red-900 via-red-800 to-red-700"
       }`}>
-        <RegionMapBg region={currentRegionKey} />
-        <div className="container py-6 relative z-10">
+        <div className="container py-4 relative z-10">
           <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-3">
             {/* Left: Title */}
             <div className="flex-shrink-0">

@@ -375,7 +375,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://nebius.com/blog/posts/nebius-announces-plans-for-new-ai-data-center-in-kansas-city",
+      "volumeSource": "https://nebius.com/blog",
       "rank": 5,
       "industry": "NeoCloud/AI",
       "techDecisionMaker": {
@@ -907,7 +907,7 @@
         },
         {
           "name": "Etisalat Digital",
-          "url": "https://www.etisalat.ae/en/business/etisalat-digital.jsp"
+          "url": "https://www.etisalat.ae/en/business.html"
         }
       ],
       "volumeSource": "https://www.reuters.com/world/middle-east/saudis-humain-secures-up-12-bln-expand-ai-infrastructure-2026-01-21/",
@@ -943,7 +943,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.northerndata.de/newsroom",
+      "volumeSource": "https://www.northerndata.de/",
       "industry": "NeoCloud/AI",
       "techDecisionMaker": {
         "name": "Aroosh Thillainathan",
@@ -1012,7 +1012,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSericsson",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "電信",
       "techDecisionMaker": {
         "name": "Erik Ekudden",
@@ -2802,7 +2802,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSbp-plc",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "能源",
       "techDecisionMaker": {
         "name": "Emeka Emembolu",
@@ -2934,7 +2934,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSamadeus-it-group",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "旅遊",
       "techDecisionMaker": {
         "name": "Sylvain Roy",
@@ -4347,7 +4347,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSnaspers-/-prosus",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Euro Beinat",
@@ -4683,7 +4683,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUScontinental-ag",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Christian Kötz",
@@ -4728,7 +4728,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://investor.3ds.com/financial-information/annual-reports",
+      "volumeSource": "https://investor.3ds.com/",
       "industry": "工業",
       "techDecisionMaker": {
         "name": "Florence Hu-Aubigny",
@@ -5110,7 +5110,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A1287",
+      "volumeSource": "https://global.abb/group/en/investors",
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Scot Burdette",

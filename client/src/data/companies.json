@@ -3450,7 +3450,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://ir.homedepot.com/annual-reports",
+      "volumeSource": "https://ir.homedepot.com/",
       "industry": "零售",
       "techDecisionMaker": {
         "name": "Fahim Siddiqui",
@@ -3648,7 +3648,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://cerebras.ai/press-releases",
+      "volumeSource": "https://cerebras.ai/blog",
       "industry": "NeoCloud/AI",
       "techDecisionMaker": {
         "name": "Andrew Feldman",
@@ -4101,7 +4101,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://investors.fastly.com/financial-information/annual-reports",
+      "volumeSource": "https://investors.fastly.com/",
       "industry": "基礎設施",
       "techDecisionMaker": {
         "name": "Chirag Ghosh",

@@ -136,7 +136,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsoftbank-group-/-softbank-corp",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Telecom",
       "techDecisionMaker": {
         "name": "Keiichi Makizono",
@@ -500,7 +500,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.yotta.com/yotta-nvidia-partnership-ai-supercomputer",
+      "volumeSource": "https://www.yotta.com/",
       "industry": "NeoCloud/AI",
       "techDecisionMaker": {
         "name": "Milind Kulkarni",
@@ -792,7 +792,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsea-group",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "E-commerce",
       "techDecisionMaker": {
         "name": "XIANGFENG (Kevin) ZHU",
@@ -936,7 +936,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSrakuten-group",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "E-commerce",
       "techDecisionMaker": {
         "name": "Yuji Nagata",
@@ -981,7 +981,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsakura-internet",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "NeoCloud/AI",
       "techDecisionMaker": {
         "name": "Yota Egusa",
@@ -1032,7 +1032,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUStelkom-indonesia",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Tech",
       "techDecisionMaker": {
         "name": "待查詢",
@@ -1296,7 +1296,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUShcl-technologies",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Tech",
       "techDecisionMaker": {
         "name": "Sunit Tyagi",
@@ -1341,7 +1341,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUShitachi,-ltd",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Tech",
       "techDecisionMaker": {
         "name": "To be searched",
@@ -1392,7 +1392,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSgrab-holdings",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Transportation",
       "techDecisionMaker": {
         "name": "Mohan Krishnan",
@@ -1437,7 +1437,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUScoupang",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "E-commerce",
       "techDecisionMaker": {
         "name": "Atul Goel",
@@ -1483,7 +1483,7 @@
         },
         {
           "name": "SB C&S Corp.",
-          "website": "https://www.it-ex.com/line-works/",
+          "website": "https://www.it-ex.com/",
           "type": "DIST",
           "isActual": false
         },
@@ -1725,7 +1725,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSviettel-group",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Telecom",
       "techDecisionMaker": {
         "name": "待查詢",
@@ -1924,7 +1924,7 @@
       "currentSuppliers": "Dell, HPE, AWS (Cloud)",
       "odmOem": "Original Equipment Manufacturer",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, General 2U: RS720-E11",
-      "channel": "SI: Sony Global Solutions (https://www.sonygs.co.jp)",
+      "channel": "SI: Sony Global Solutions (https://www.sony.com/ja/)",
       "difficulty": 5,
       "challenges": "【Enterprise IT Strategy】【Brand Awareness】ASUS has lower brand recognition in the server market compared to Dell, HPE, and Lenovo, requiring more market education. 【Existing Relationships】Dell, HPE, and AWS (cloud) have established stable partnerships and service systems. 【Procurement Inertia】Enterprise IT procurement tends to favor existing suppliers to mitigate risk. 【Technical Support】Need to demonstrate comprehensive after-sales service and technical support capabilities.",
       "entryPoint": "【Enterprise IT Strategy】【Short-term (3-6 months)】1. Recommend ASUS server product lines to Sony Group Corporation through existing channel partners, arranging product demonstrations and technical exchanges. 2. Provide competitive quotation proposals for their upcoming equipment refresh cycle. 【Mid-term (6-12 months)】3. Gain in-depth understanding of Sony Group Corporation's IT infrastructure planning and technology roadmap, providing targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in AI, HPC, and other fields. 【Long-term (1-2 years)】5. Expand the scope of cooperation, from a single product line to a complete server product portfolio. 6. Establish long-term maintenance service contracts to ensure customer satisfaction and continued cooperation. 【Key Actions】Appoint a dedicated account manager responsible for the Sony Group Corporation client, establish initial contact through NTT DATA (nttdata.com), and arrange the first technical exchange meeting within 30 days.",
@@ -1960,7 +1960,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsony-group-corporation",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Consumer Electronics",
       "techDecisionMaker": {
         "name": "Tsuyoshi Kodera",
@@ -2533,7 +2533,7 @@
       "currentSuppliers": "Dell, HPE, Huawei",
       "odmOem": "OEM",
       "asusModel": "General 2U: RS720-E11, General 1U: RS700-E11",
-      "channel": "SI/DIST: AIS Business (https://business.ais.th)",
+      "channel": "SI/DIST: AIS Business (https://www.ais.th/business/)",
       "difficulty": 4,
       "challenges": "【Telecom Industry Tactics】【Lower Technical Barrier】AIS (Advanced Info Service) adopts relatively standardized server specifications, and the technical entry barrier is relatively low, but product quality and delivery times still need to be ensured. 【Supply Chain Barriers】Dell, HPE, and Huawei have established stable partnerships and service systems. ASUS needs to demonstrate clear differentiated value to win replacement or new opportunities. 【Industry Characteristics】The telecom industry has strict requirements for the stability and long-term maintenance support of network equipment and servers. The procurement cycle is long, but the order volume is stable.",
       "entryPoint": "【Telecom Industry Tactics】【Short-term (1-3 months)】1. Directly contact AIS (Advanced Info Service) through channel partners or the ASUS sales team to provide product catalogs and quotations. 2. Leverage ASUS's brand awareness and cost-performance advantages to quickly establish a cooperative relationship. 【Mid-term (6-12 months)】3. Provide ASUS 1U/2U high-density server solutions for 5G core network and edge computing needs. 4. Participate in the network equipment renewal bidding of AIS (Advanced Info Service) and provide competitive TCO analysis. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish long-term maintenance service contracts to ensure customer satisfaction and continuous cooperation. 【Key Actions】Appoint a dedicated account manager for the AIS (Advanced Info Service) account, establish initial contact through TCS, and arrange the first technical exchange meeting within 30 days.",
@@ -3164,7 +3164,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSraxio-group",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Tech",
       "techDecisionMaker": {
         "name": "To be searched",
@@ -3357,7 +3357,7 @@
         },
         {
           "name": "HIQSYSTEM",
-          "website": "http://www.hiqsystem.com/",
+          "website": "https://www.hiqsys.co.kr/",
           "type": "SI",
           "isActual": false
         },
@@ -3590,7 +3590,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSscsk-corporation",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Semiconductor",
       "techDecisionMaker": {
         "name": "Katsumi Yamanaka",
@@ -4689,7 +4689,7 @@
         },
         {
           "name": "RS Components",
-          "website": "https://jp.rs-online.com/web/",
+          "website": "https://jp.rs-online.com/",
           "type": "DIST",
           "isActual": false
         },
@@ -5255,7 +5255,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSpaytm",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Telecom",
       "techDecisionMaker": {
         "name": "To be confirmed",
@@ -5850,7 +5850,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSdaewoo-e&c",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Tech",
       "techDecisionMaker": {
         "name": "To be searched",
@@ -6003,7 +6003,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSdena-co,-ltd",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Tech",
       "techDecisionMaker": {
         "name": "To be searched",
@@ -6144,7 +6144,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSstability-ai",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "NeoCloud/AI",
       "techDecisionMaker": {
         "name": "Takuto T.",
@@ -6184,12 +6184,12 @@
       "siDist": [
         {
           "name": "Emerson Process Management",
-          "website": "https://www.emerson.com/en-us/automation/fluid-control-pneumatics/biopharmaceutical-manufacturing-solutions",
+          "website": "https://www.emerson.com/en-us/automation",
           "type": "SI",
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUScelltrion",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "Tech",
       "techDecisionMaker": {
         "name": "Soohyun Kim",
@@ -6465,7 +6465,7 @@
       "currentSuppliers": "Unknown",
       "odmOem": "Mixed",
       "asusModel": "AI Server (Blackwell): ESC NB8-E11, AI Server (Hopper): ESC N8-E11, ESC8000-E12, General-Purpose Server: RS720-E12, RS720A-E12",
-      "channel": "SI/DIST: NetClass Technology (https://www.netclass.us)",
+      "channel": "SI/DIST: NetClass Technology (https://www.netclass.co.kr/)",
       "difficulty": 2,
       "challenges": "【Technical Barrier】RunSun Cloud focuses on the latest NVIDIA Blackwell and Grace Hopper platforms, especially the liquid-cooled GB200 NVL72. ASUS needs to demonstrate that it has a competitive and readily available solution; any delay in product launch will be a major disadvantage.\n【Supply Chain Barrier】Tier-1 ODMs (like Quanta, Wistron/Wiwynn, Supermicro) have close ties with NVIDIA and control most of the production capacity for new GPU platforms. ASUS needs to prove it has superior supply chain capabilities to ensure a stable supply of these high-demand key components for RunSun.\n【Business Challenge】As a startup, RunSun is likely very price-sensitive and may have already secured preferential pricing from its initial suppliers. ASUS needs to adopt an aggressive pricing strategy and offer flexible business terms. Additionally, their partnership with system integrator NetClass adds complexity to the sales process.",
       "entryPoint": "【Archetype Tactics】For Neocloud customers, provide highly customized, rapidly deployable, and flexibly financed solutions, emphasizing TCO (Total Cost of Ownership) advantages.\n【Short-term (6-12 months)】For their H100/H200 needs, provide an ESC N8-E11 or ESC8000-E12 sample for PoC (Proof of Concept) testing to demonstrate the performance and stability of ASUS servers. Simultaneously, establish a partnership with their channel partner, NetClass Technology.\n【Mid-term (1-2 years)】Actively promote ASUS's Blackwell platform solution (ESC NB8-E11), emphasizing ASUS's advantages in thermal design, power efficiency, and management software. Strive to become their second or third supplier for their next-generation infrastructure.\n【Long-term (2-3 years)】Deepen technical cooperation, jointly optimize server performance for AI applications in the Southeast Asian market, and even explore the possibility of joint development to become their long-term strategic hardware partner.\n【Key Action】Immediately contact RunSun Cloud's CTO, Jason Yan, to arrange a technical briefing to introduce ASUS's AI server product portfolio and roadmap.",
@@ -6490,7 +6490,7 @@
       "siDist": [
         {
           "name": "NetClass Technology",
-          "website": "https://www.netclass.us",
+          "website": "https://www.netclass.co.kr/",
           "type": "SI/DIST",
           "isActual": true
         }

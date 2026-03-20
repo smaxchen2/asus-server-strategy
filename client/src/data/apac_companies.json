@@ -141,7 +141,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsoftbank-group-/-softbank-corp",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "電信",
       "techDecisionMaker": {
         "name": "Keiichi Makizono",
@@ -508,7 +508,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.yotta.com/yotta-nvidia-partnership-ai-supercomputer",
+      "volumeSource": "https://www.yotta.com/",
       "industry": "NeoCloud/AI",
       "techDecisionMaker": {
         "name": "Milind Kulkarni",
@@ -803,7 +803,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsea-group",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "電商",
       "techDecisionMaker": {
         "name": "XIANGFENG (Kevin) ZHU",
@@ -947,7 +947,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSrakuten-group",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "電商",
       "techDecisionMaker": {
         "name": "Yuji Nagata",
@@ -992,7 +992,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsakura-internet",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "NeoCloud/AI",
       "techDecisionMaker": {
         "name": "Yota Egusa",
@@ -1043,7 +1043,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUStelkom-indonesia",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "科技",
       "techDecisionMaker": {
         "name": "待查詢",
@@ -1307,7 +1307,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUShcl-technologies",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Sunit Tyagi",
@@ -1352,7 +1352,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUShitachi,-ltd",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "科技",
       "techDecisionMaker": {
         "name": "待查詢",
@@ -1403,7 +1403,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSgrab-holdings",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "交通",
       "techDecisionMaker": {
         "name": "Mohan Krishnan",
@@ -1448,7 +1448,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUScoupang",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "電商",
       "techDecisionMaker": {
         "name": "Atul Goel",
@@ -1494,7 +1494,7 @@
         },
         {
           "name": "SB C&S株式会社",
-          "website": "https://www.it-ex.com/line-works/",
+          "website": "https://www.it-ex.com/",
           "type": "DIST",
           "isActual": false
         },
@@ -1736,7 +1736,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSviettel-group",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "電信",
       "techDecisionMaker": {
         "name": "待查詢",
@@ -1935,7 +1935,7 @@
       "currentSuppliers": "Dell, HPE, AWS (雲端)",
       "odmOem": "OEM",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, 通用2U: RS720-E11",
-      "channel": "SI: Sony Global Solutions (https://www.sonygs.co.jp)",
+      "channel": "SI: Sony Global Solutions (https://www.sony.com/ja/)",
       "difficulty": 5,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, AWS (雲端)已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Sony Group Corporation 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Sony Group Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Sony Group Corporation 客戶，透過 NTT DATA (nttdata.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
@@ -1971,7 +1971,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsony-group-corporation",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "消費電子",
       "techDecisionMaker": {
         "name": "Tsuyoshi Kodera",
@@ -2544,7 +2544,7 @@
       "currentSuppliers": "Dell, HPE, Huawei",
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "channel": "SI/DIST: AIS Business (https://business.ais.th)",
+      "channel": "SI/DIST: AIS Business (https://www.ais.th/business/)",
       "difficulty": 4,
       "challenges": "【電信業戰術】【技術門檻較低】AIS (Advanced Info Service) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, Huawei，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【產業特性】電信業對網路設備和伺服器的穩定性、長期維護支援有嚴格要求，採購週期長但訂單量穩定。",
       "entryPoint": "【電信業戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 AIS (Advanced Info Service)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 AIS (Advanced Info Service) 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 AIS (Advanced Info Service) 客戶，透過 TCS 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
@@ -3175,7 +3175,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSraxio-group",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "科技",
       "techDecisionMaker": {
         "name": "待查詢",
@@ -3368,7 +3368,7 @@
         },
         {
           "name": "HIQSYSTEM",
-          "website": "http://www.hiqsystem.com/",
+          "website": "https://www.hiqsys.co.kr/",
           "type": "SI",
           "isActual": false
         },
@@ -3601,7 +3601,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSscsk-corporation",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "半導體",
       "techDecisionMaker": {
         "name": "Katsumi Yamanaka",
@@ -4700,7 +4700,7 @@
         },
         {
           "name": "RS Components",
-          "website": "https://jp.rs-online.com/web/",
+          "website": "https://jp.rs-online.com/",
           "type": "DIST",
           "isActual": false
         },
@@ -5266,7 +5266,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSpaytm",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "電信",
       "techDecisionMaker": {
         "name": "待查詢",
@@ -5861,7 +5861,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSdaewoo-e&c",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "科技",
       "techDecisionMaker": {
         "name": "待查詢",
@@ -6014,7 +6014,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSdena-co,-ltd",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "科技",
       "techDecisionMaker": {
         "name": "待查詢",
@@ -6155,7 +6155,7 @@
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSstability-ai",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "NeoCloud/AI",
       "techDecisionMaker": {
         "name": "Takuto T.",
@@ -6195,12 +6195,12 @@
       "siDist": [
         {
           "name": "Emerson Process Management",
-          "website": "https://www.emerson.com/en-us/automation/fluid-control-pneumatics/biopharmaceutical-manufacturing-solutions",
+          "website": "https://www.emerson.com/en-us/automation",
           "type": "SI",
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUScelltrion",
+      "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Soohyun Kim",
@@ -6476,7 +6476,7 @@
       "currentSuppliers": "Unknown",
       "odmOem": "Mixed",
       "asusModel": "AI 伺服器 (Blackwell): ESC NB8-E11, AI 伺服器 (Hopper): ESC N8-E11, ESC8000-E12, 通用伺服器: RS720-E12, RS720A-E12",
-      "channel": "SI/DIST: NetClass Technology (https://www.netclass.us)",
+      "channel": "SI/DIST: NetClass Technology (https://www.netclass.co.kr/)",
       "difficulty": 2,
       "challenges": "【技術門檻】RunSun Cloud 專注於最新的 NVIDIA Blackwell 和 Grace Hopper 平台，特別是液冷方案的 GB200 NVL72。華碩需要展示其擁有同等競爭力且能即時供貨的解決方案，任何產品上市時間的延遲都將是重大劣勢。\n【供應鏈壁壘】一線ODM大廠（如廣達、緯創/緯穎、美超微）與 NVIDIA 關係緊密，掌握了新 GPU 平台的大部分產能。華碩需要證明其擁有更優越的供應鏈能力，以確保能為 RunSun 穩定提供這些高需求的關鍵零組件。\n【商務挑戰】作為一家新創公司，RunSun 可能對價格非常敏感，且可能已從其初始供應商那裡獲得了優惠價格。華碩需要在定價上採取積極策略，並提供靈活的商業條款。此外，他們與系統整合商 NetClass 的合作關係也為銷售流程增加了複雜性。",
       "entryPoint": "【archetype戰術】針對 Neocloud 客戶，提供高度客製化、快速導入以及彈性付款的方案，強調 TCO (總體擁有成本) 優勢。\n【短期（6-12個月）】針對其 H100/H200 需求，提供 ESC N8-E11 或 ESC8000-E12 的樣機進行 PoC (概念驗證) 測試，展示華碩伺服器的效能與穩定性。同時，與其通路夥伴 NetClass Technology 建立合作關係。\n【中期（1-2年）】積極推廣華碩的 Blackwell 平台解決方案 (ESC NB8-E11)，強調華碩在散熱設計、電源效率和管理軟體上的優勢。爭取成為其下一代基礎設施的第二或第三供應商。\n【長期（2-3年）】深化技術合作，共同針對東南亞市場的 AI 應用進行伺服器效能優化，甚至探討聯合開發的可能性，成為其長期的戰略硬體夥伴。\n【關鍵行動】立即聯繫 RunSun Cloud 的 CTO Jason Yan，安排一場技術簡報會議，介紹華碩的 AI 伺服器產品組合與藍圖。",
@@ -6501,7 +6501,7 @@
       "siDist": [
         {
           "name": "NetClass Technology",
-          "website": "https://www.netclass.us",
+          "website": "https://www.netclass.co.kr/",
           "type": "SI/DIST",
           "isActual": true
         }
