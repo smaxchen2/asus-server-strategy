@@ -251,7 +251,7 @@
         }
       ],
       "volumeSource": "https://www.sap.com/investors/en/financial-documents-and-events.html",
-      "industry": "科技/企業軟體",
+      "industry": "企業軟體",
       "techDecisionMaker": {
         "name": "Stefan Rettkowski",
         "title": "歐洲資料中心管理主管",
@@ -525,7 +525,7 @@
         }
       ],
       "volumeSource": "https://en.wikipedia.org/wiki/Hetzner",
-      "industry": "科技/社群",
+      "industry": "社群",
       "techDecisionMaker": {
         "name": "Renee Werner",
         "title": "數據中心運營與建設總監",
@@ -707,7 +707,7 @@
         }
       ],
       "volumeSource": "https://assets.new.siemens.com/siemens/assets/api/uuid:344347ec-a1bd-44cb-aaaa-711d1b3ec1b8/Siemens-Annual-Report-2024.pdf",
-      "industry": "工業/製造",
+      "industry": "工業",
       "techDecisionMaker": {
         "name": "Ciaran Flanagan",
         "title": "副總裁兼全球數據中心解決方案與服務主管",
@@ -1013,7 +1013,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSericsson",
-      "industry": "科技/電信",
+      "industry": "電信",
       "techDecisionMaker": {
         "name": "Erik Ekudden",
         "title": "Group CTO",
@@ -1280,7 +1280,7 @@
         }
       ],
       "volumeSource": "https://www.nokia.com/newsroom/nokia-corporation-financial-report-for-q4-2025-and-full-year-2025/",
-      "industry": "科技/電信",
+      "industry": "電信",
       "techDecisionMaker": {
         "name": "Azfar Aslam",
         "title": "歐洲副總裁兼首席技術官",
@@ -1349,7 +1349,7 @@
         }
       ],
       "volumeSource": "https://www.bosch.com/company/supply-chain/purchasing/",
-      "industry": "工業/製造",
+      "industry": "工業",
       "techDecisionMaker": {
         "name": "Mathias Pillin",
         "title": "CTO Bosch Mobility",
@@ -1526,7 +1526,7 @@
         }
       ],
       "volumeSource": "https://www.volkswagen-group.com/en/key-figures-18842",
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "Hauke Stars",
         "title": "IT董事會成員",
@@ -2053,7 +2053,7 @@
         }
       ],
       "volumeSource": "https://www.annualreports.com/HostedData/AnnualReports/PDF/atos_2021.pdf",
-      "industry": "科技/IT服務",
+      "industry": "IT服務",
       "techDecisionMaker": {
         "name": "Laurent Barbet",
         "title": "資深副總裁兼基礎設施與數據管理主管",
@@ -2155,7 +2155,7 @@
         }
       ],
       "volumeSource": "https://www.results.philips.com/",
-      "industry": "醫療/科技",
+      "industry": "醫療科技",
       "techDecisionMaker": {
         "name": "Sreedhar Madisetty",
         "title": "IT基礎設施採購主管",
@@ -2206,7 +2206,7 @@
         }
       ],
       "volumeSource": "https://investors.worldline.com/content/dam/worldline-shared/documents/universal-registration-document/worldline-urd-2025-en.pdf",
-      "industry": "科技/社群",
+      "industry": "社群",
       "techDecisionMaker": {
         "name": "Candice Dillon",
         "title": "集團首席技術官",
@@ -2263,7 +2263,7 @@
         }
       ],
       "volumeSource": "https://aws.amazon.com/blogs/big-data/how-bmw-group-built-a-serverless-terabyte-scale-data-transformation-architecture-with-dbt-and-amazon-athena/",
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "Markus Brunner",
         "title": "Head Of Infrastructure",
@@ -2713,7 +2713,7 @@
         }
       ],
       "volumeSource": "https://www.datacenterdynamics.com/en/news/nestl%C3%A9-sells-data-center-in-switzerland-to-local-real-estate-firm/",
-      "industry": "消費品/製造",
+      "industry": "消費品",
       "techDecisionMaker": {
         "name": "Christopher Wright",
         "title": "資訊科技主管及Nestlé集團首席資訊官",
@@ -2758,7 +2758,7 @@
         }
       ],
       "volumeSource": "https://finance.yahoo.com/news/roche-boosts-ai-infrastructure-additional-114653156.html",
-      "industry": "醫療/製藥",
+      "industry": "製藥",
       "techDecisionMaker": {
         "name": "Wafaa Mamilli",
         "title": "首席數位與科技官",
@@ -2860,7 +2860,7 @@
         }
       ],
       "volumeSource": "https://www.daimlertruck.com/en/newsroom/pressrelease/daimler-truck-unit-sales-2025-422510-units-53323810",
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "Raghavendra Vaidya",
         "title": "Group CIO, Daimler Truck AG",
@@ -2935,7 +2935,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSamadeus-it-group",
-      "industry": "科技/旅遊",
+      "industry": "旅遊",
       "techDecisionMaker": {
         "name": "Sylvain Roy",
         "title": "Chief Technology Officer",
@@ -2980,7 +2980,7 @@
         }
       ],
       "volumeSource": "https://www.globaldata.com/company-profile/airbus-se/premium-data/ict-spend-tech-priorities/",
-      "industry": "國防/航太",
+      "industry": "國防",
       "techDecisionMaker": {
         "name": "Firoz Ansari",
         "title": "數位基礎設施與平台負責人",
@@ -3031,7 +3031,7 @@
         }
       ],
       "volumeSource": "https://www.stellantis.com/en/news/press-releases/2021/december/stellantis-targets-20-billion-in-incremental-annual-revenues-by-2030-driven-by-software-enabled-vehicles",
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "Ned Curic",
         "title": "首席工程與技術官",
@@ -3106,7 +3106,7 @@
         }
       ],
       "volumeSource": "https://investors.capgemini.com/en/annual-reports/",
-      "industry": "科技/IT服務",
+      "industry": "IT服務",
       "techDecisionMaker": {
         "name": "Reza HARIRI",
         "title": "Vice President CIO Advisory",
@@ -3382,7 +3382,7 @@
         }
       ],
       "volumeSource": "https://baxtel.com/data-center/novartis",
-      "industry": "醫療/製藥",
+      "industry": "製藥",
       "techDecisionMaker": {
         "name": "Vijaya Trichur",
         "title": "全球副總裁，雲端與基礎設施解決方案負責人",
@@ -3991,7 +3991,7 @@
         }
       ],
       "volumeSource": "https://www.adyen.com/press-and-media/adyen-publishes-h2-2025-financial-results-3pgu2",
-      "industry": "金融/科技",
+      "industry": "金融科技",
       "techDecisionMaker": {
         "name": "Philippe Bontje",
         "title": "產品經理 基礎設施",
@@ -4048,7 +4048,7 @@
         }
       ],
       "volumeSource": "https://corporate.zalando.com/en/investor-relations",
-      "industry": "科技/電商",
+      "industry": "電商",
       "techDecisionMaker": {
         "name": "Mykhailo Prykhodko",
         "title": "Head of SAP Infrastructure",
@@ -4111,7 +4111,7 @@
         }
       ],
       "volumeSource": "https://www.asml.com/en/investors/annual-report/2025/financials",
-      "industry": "科技/半導體",
+      "industry": "半導體",
       "techDecisionMaker": {
         "name": "Allan Cockriel",
         "title": "Chief Information Officer",
@@ -4258,7 +4258,7 @@
         }
       ],
       "volumeSource": "https://www.thalesgroup.com/en/supplier-relations",
-      "industry": "國防/航太",
+      "industry": "國防",
       "techDecisionMaker": {
         "name": "Alexandre KEHIL",
         "title": "基礎設施與資訊科技服務主管",
@@ -4441,7 +4441,7 @@
         }
       ],
       "volumeSource": "https://www.haproxy.com/user-spotlight-series/hyperscaling-self-service-infrastructure-transitioning-from-ticketing-to-load-balancing-as-a-service-at-criteo",
-      "industry": "科技/廣告",
+      "industry": "廣告",
       "techDecisionMaker": {
         "name": "Matthieu Blumberg",
         "title": "工程基礎設施、安全性、內部IT資深副總裁",
@@ -4486,7 +4486,7 @@
         }
       ],
       "volumeSource": "https://www.leonardo.com/documents/15646808/0/2024+Integrated+Annual+Report.pdf?t=1749748195850",
-      "industry": "國防/航太",
+      "industry": "國防",
       "techDecisionMaker": {
         "name": "Massa Alessandro",
         "title": "首席技術與創新官",
@@ -4531,7 +4531,7 @@
         }
       ],
       "volumeSource": "https://www.intricately.com/reports/bae-systems",
-      "industry": "國防/航太",
+      "industry": "國防",
       "techDecisionMaker": {
         "name": "Simon Whibberley",
         "title": "IT 基礎設施與運營主管",
@@ -4729,7 +4729,7 @@
         }
       ],
       "volumeSource": "https://investor.3ds.com/financial-information/annual-reports",
-      "industry": "科技/工業",
+      "industry": "工業",
       "techDecisionMaker": {
         "name": "Florence Hu-Aubigny",
         "title": "EVP R&D",
@@ -5312,7 +5312,7 @@
         }
       ],
       "volumeSource": "https://www.globaldata.com/company-profile/sopra-steria-group/premium-data/ict-spend-tech-priorities/",
-      "industry": "科技/IT服務",
+      "industry": "IT服務",
       "techDecisionMaker": {
         "name": "Jean-Marie Souchu",
         "title": "基礎設施管理總監",
@@ -5402,7 +5402,7 @@
         }
       ],
       "volumeSource": "https://www.statista.com/statistics/1377926/delivery-hero-order-volume/",
-      "industry": "科技/電商",
+      "industry": "電商",
       "techDecisionMaker": {
         "name": "Kai Wichmann",
         "title": "基礎設施工程總監",
@@ -5603,7 +5603,7 @@
         }
       ],
       "volumeSource": "https://investors.nxp.com/financial-information/irol-sec",
-      "industry": "科技/半導體",
+      "industry": "半導體",
       "techDecisionMaker": {
         "name": "Lars Reger",
         "title": "執行副總裁兼首席技術官",
@@ -5780,7 +5780,7 @@
         }
       ],
       "volumeSource": "https://investors.klarna.com/overview/default.aspx",
-      "industry": "金融/科技",
+      "industry": "金融科技",
       "techDecisionMaker": {
         "name": "Pontus Burman",
         "title": "基礎設施主管（顧問）",
@@ -5870,7 +5870,7 @@
         }
       ],
       "volumeSource": "https://www.statista.com/statistics/1377926/delivery-hero-order-volume/",
-      "industry": "科技/電商",
+      "industry": "電商",
       "techDecisionMaker": {
         "name": "Kai Wichmann",
         "title": "基礎設施工程總監",
@@ -6005,7 +6005,7 @@
         }
       ],
       "volumeSource": "https://www.revolut.com/news",
-      "industry": "金融/科技",
+      "industry": "金融科技",
       "techDecisionMaker": {
         "name": "Vlad Yatsenko",
         "title": "Co-Founder & CTO",
@@ -6050,7 +6050,7 @@
         }
       ],
       "volumeSource": "https://www.ubisoft.com/en-us/company/about-us/investors",
-      "industry": "媒體/遊戲",
+      "industry": "遊戲",
       "techDecisionMaker": {
         "name": "Christian Guillemot",
         "title": "CTO",
@@ -6341,7 +6341,7 @@
         }
       ],
       "volumeSource": "https://www.zurich.com/en/investor-relations",
-      "industry": "金融/保險",
+      "industry": "保險",
       "techDecisionMaker": {
         "name": "Ericson Chan",
         "title": "Group CIO",
@@ -6392,7 +6392,7 @@
         }
       ],
       "volumeSource": "https://www.astrazeneca.com/investor-relations.html",
-      "industry": "醫療/製藥",
+      "industry": "製藥",
       "techDecisionMaker": {
         "name": "Cristina Duran",
         "title": "VP IT Infrastructure",
@@ -6443,7 +6443,7 @@
         }
       ],
       "volumeSource": "https://investor.3ds.com/",
-      "industry": "科技/工業",
+      "industry": "工業",
       "techDecisionMaker": {
         "name": "Pascal Daloz",
         "title": "CEO",

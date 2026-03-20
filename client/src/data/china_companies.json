@@ -32,7 +32,7 @@
         }
       ],
       "volumeSource": "https://www.reuters.com/technology/bytedance-2024-revenue-grew-about-40-information-reports-2025-01-07/",
-      "industry": "科技/社群",
+      "industry": "社群",
       "techDecisionMaker": {
         "name": "梁汝波 (Liang Rubo)",
         "title": "CEO",
@@ -77,7 +77,7 @@
         }
       ],
       "volumeSource": "https://www.alibabagroup.com/en-US/ir",
-      "industry": "科技/雲端",
+      "industry": "雲端",
       "techDecisionMaker": {
         "name": "吳泳銘 (Eddie Wu)",
         "title": "CEO Alibaba Cloud",
@@ -122,7 +122,7 @@
         }
       ],
       "volumeSource": "https://www.tencent.com/en-us/investors.html",
-      "industry": "科技/社群",
+      "industry": "社群",
       "techDecisionMaker": {
         "name": "邱躍鵬 (Dowson Tong)",
         "title": "SVP Cloud & Smart Industries",
@@ -167,7 +167,7 @@
         }
       ],
       "volumeSource": "https://ir.baidu.com/",
-      "industry": "科技/AI",
+      "industry": "AI",
       "techDecisionMaker": {
         "name": "沈抖 (Shen Dou)",
         "title": "EVP 及 智能雲部門主管",
@@ -212,7 +212,7 @@
         }
       ],
       "volumeSource": "https://ir.jd.com/",
-      "industry": "科技/電商",
+      "industry": "電商",
       "techDecisionMaker": {
         "name": "曹鵬 (Cao Peng)",
         "title": "CEO JD Technology",
@@ -257,7 +257,7 @@
         }
       ],
       "volumeSource": "https://www.meituan.com/en-US/investor",
-      "industry": "科技/電商",
+      "industry": "電商",
       "techDecisionMaker": {
         "name": "王興 (Wang Xing)",
         "title": "CEO",
@@ -347,7 +347,7 @@
         }
       ],
       "volumeSource": "https://ir.netease.com/",
-      "industry": "科技/遊戲",
+      "industry": "遊戲",
       "techDecisionMaker": {
         "name": "丁磊 (William Ding)",
         "title": "CEO & Founder",
@@ -482,7 +482,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS螞蟻集團",
-      "industry": "金融/科技",
+      "industry": "金融科技",
       "techDecisionMaker": {
         "name": "井賢棟 (Eric Jing)",
         "title": "Chairman & CEO",
@@ -527,7 +527,7 @@
         }
       ],
       "volumeSource": "https://ir.bilibili.com/",
-      "industry": "科技/媒體",
+      "industry": "媒體",
       "techDecisionMaker": {
         "name": "陳睿 (Rui Chen)",
         "title": "Chairman & CEO",
@@ -572,7 +572,7 @@
         }
       ],
       "volumeSource": "https://ir.didiglobal.com/",
-      "industry": "科技/交通",
+      "industry": "交通",
       "techDecisionMaker": {
         "name": "程維 (Cheng Wei)",
         "title": "Founder & CEO",
@@ -752,7 +752,7 @@
         }
       ],
       "volumeSource": "https://ir.weibo.com/",
-      "industry": "科技/社群",
+      "industry": "社群",
       "techDecisionMaker": {
         "name": "王高飛 (Gaofei Wang)",
         "title": "CEO",
@@ -797,7 +797,7 @@
         }
       ],
       "volumeSource": "https://investors.trip.com/",
-      "industry": "科技/旅遊",
+      "industry": "旅遊",
       "techDecisionMaker": {
         "name": "孫潔 (Jane Sun)",
         "title": "CEO",
@@ -842,7 +842,7 @@
         }
       ],
       "volumeSource": "https://ir.mi.com/",
-      "industry": "科技/消費電子",
+      "industry": "消費電子",
       "techDecisionMaker": {
         "name": "雷軍 (Lei Jun)",
         "title": "Founder & CEO",
@@ -1202,7 +1202,7 @@
         }
       ],
       "volumeSource": "https://www.catl.com/en/investor/",
-      "industry": "能源/製造",
+      "industry": "能源",
       "techDecisionMaker": {
         "name": "曾毓群 (Robin Zeng)",
         "title": "Founder & Chairman",
@@ -1247,7 +1247,7 @@
         }
       ],
       "volumeSource": "https://www.byd.com/en/InvestorRelations.html",
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "王傳福 (Wang Chuanfu)",
         "title": "Founder & Chairman",
@@ -1292,7 +1292,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS海爾卡奧斯",
-      "industry": "科技/製造",
+      "industry": "製造",
       "techDecisionMaker": {
         "name": "周雲傑 (Zhou Yunjie)",
         "title": "Chairman Haier Group",
@@ -1427,7 +1427,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUStcl-科技",
-      "industry": "科技/製造",
+      "industry": "製造",
       "techDecisionMaker": {
         "name": "李東生 (Li Dongsheng)",
         "title": "Founder & Chairman",
@@ -1472,7 +1472,7 @@
         }
       ],
       "volumeSource": "https://ir.wuxiapptec.com/",
-      "industry": "醫療/製藥",
+      "industry": "製藥",
       "techDecisionMaker": {
         "name": "李革 (Ge Li)",
         "title": "Founder & Chairman",
@@ -1607,7 +1607,7 @@
         }
       ],
       "volumeSource": "https://ir.lixiang.com/",
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "李想 (Li Xiang)",
         "title": "Founder & CEO",
@@ -1652,7 +1652,7 @@
         }
       ],
       "volumeSource": "https://ir.nio.com/",
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "李斌 (William Li)",
         "title": "Founder & CEO",
@@ -1697,7 +1697,7 @@
         }
       ],
       "volumeSource": "https://ir.xiaopeng.com/",
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "何小鵬 (He Xiaopeng)",
         "title": "Founder & CEO",
@@ -1742,7 +1742,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSoppo-/-一加",
-      "industry": "科技/消費電子",
+      "industry": "消費電子",
       "techDecisionMaker": {
         "name": "劉作虎 (Pete Lau)",
         "title": "SVP & Chief Product Officer",
@@ -1787,7 +1787,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSvivo",
-      "industry": "科技/消費電子",
+      "industry": "消費電子",
       "techDecisionMaker": {
         "name": "沈煒 (Shen Wei)",
         "title": "Founder & CEO",
@@ -2192,7 +2192,7 @@
         }
       ],
       "volumeSource": "https://ir.bilibili.com/",
-      "industry": "科技/媒體",
+      "industry": "媒體",
       "techDecisionMaker": {
         "name": "陳睿 (Rui Chen)",
         "title": "Chairman & CEO",
@@ -2507,7 +2507,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS藥明生物",
-      "industry": "醫療/製藥",
+      "industry": "製藥",
       "techDecisionMaker": {
         "name": "陳智勝 (Chris Chen)",
         "title": "CEO",
@@ -2822,7 +2822,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS哪吒汽車",
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "張勇 (Zhang Yong)",
         "title": "CEO",
@@ -2867,7 +2867,7 @@
         }
       ],
       "volumeSource": "https://ir.leapmotor.com/",
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "朱江明 (Zhu Jiangming)",
         "title": "Founder & CEO",
@@ -2957,7 +2957,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS創維集團",
-      "industry": "科技/半導體",
+      "industry": "半導體",
       "techDecisionMaker": {
         "name": "王志國 (Wang Zhiguo)",
         "title": "CEO",
@@ -3092,7 +3092,7 @@
       ],
       "volumeSource": "https://global.geely.com/investor-relations",
       "rank": 69,
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "李書福 (Li Shufu)",
         "title": "Founder & Chairman",
@@ -3407,7 +3407,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS蔚來能源",
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "沈斐 (Shen Fei)",
         "title": "SVP NIO Power",
@@ -3497,7 +3497,7 @@
       ],
       "volumeSource": "https://www.gwm.com.cn/investor.html",
       "rank": 78,
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "魏建軍 (Wei Jianjun)",
         "title": "Founder & Chairman",
@@ -3593,7 +3593,7 @@
       ],
       "volumeSource": "https://www.zhongan.com/open/investor",
       "rank": 80,
-      "industry": "科技/社群",
+      "industry": "社群",
       "techDecisionMaker": {
         "name": "姜興 (Jiang Xing)",
         "title": "CEO",

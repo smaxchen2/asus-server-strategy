@@ -142,20 +142,20 @@ function getRegionLabels(t: Translations): Record<RegionKey, { label: string; sh
 
 function getIndustryCategories(t: Translations) {
   return [
-    { label: t.industryAll, value: "all" },
-    { label: t.industryNeoCloud, value: "NeoCloud/AI" },
-    { label: t.industryTech, value: "科技" },
-    { label: t.industryFinance, value: "金融" },
-    { label: t.industryHealthcare, value: "醫療" },
-    { label: t.industryDefense, value: "國防" },
-    { label: t.industryTelecom, value: "電信" },
-    { label: t.industryEnergy, value: "能源" },
-    { label: t.industryAutomotive, value: "汽車" },
-    { label: t.industryRetail, value: "零售" },
-    { label: t.industryMedia, value: "媒體" },
-    { label: t.industryLogistics, value: "物流" },
-    { label: t.industryIndustrial, value: "工業" },
-    { label: t.industryOther, value: "其他" },
+    { label: t.industryAll, value: "all", match: [] as string[] },
+    { label: t.industryNeoCloud, value: "NeoCloud/AI", match: ["NeoCloud", "NeoCloud/AI"] },
+    { label: t.industryTech, value: "tech", match: ["科技", "Tech", "AI", "半導體", "Semiconductor", "電商", "E-commerce", "社群", "Social", "雲端", "Cloud", "IT服務", "IT Services", "消費電子", "Consumer Electronics", "企業軟體", "Enterprise SW", "基礎設施", "Infrastructure", "搜尋", "Search", "廣告", "Advertising", "通訊", "遊戲", "Gaming", "製造", "Manufacturing", "交通", "Transportation", "Travel", "旅遊"] },
+    { label: t.industryFinance, value: "finance", match: ["金融", "Finance", "FinTech", "金融科技", "保險", "Insurance"] },
+    { label: t.industryHealthcare, value: "healthcare", match: ["醫療", "Healthcare", "製藥", "Pharma", "HealthTech", "醫療科技"] },
+    { label: t.industryDefense, value: "defense", match: ["國防", "Defense", "國防IT", "Defense IT"] },
+    { label: t.industryTelecom, value: "telecom", match: ["電信", "Telecom"] },
+    { label: t.industryEnergy, value: "energy", match: ["能源", "Energy"] },
+    { label: t.industryAutomotive, value: "automotive", match: ["汽車", "Automotive"] },
+    { label: t.industryRetail, value: "retail", match: ["零售", "Retail"] },
+    { label: t.industryMedia, value: "media", match: ["媒體", "Media"] },
+    { label: t.industryLogistics, value: "logistics", match: ["物流", "Logistics"] },
+    { label: t.industryIndustrial, value: "industrial", match: ["工業", "Industrial", "消費品", "Consumer Goods"] },
+    { label: t.industryOther, value: "other", match: [] as string[] },
   ];
 }
 
@@ -524,14 +524,18 @@ export default function Home() {
     else if (channelFilter === "mixed") result = result.filter((c) => c.channel.includes("直供") && (c.channel.includes("SI") || c.channel.includes("DIST")));
 
     if (industryFilter !== "all") {
-      if (industryFilter === "其他") {
-        const mainCategories = INDUSTRY_CATEGORIES.filter(c => c.value !== "all" && c.value !== "其他").map(c => c.value);
+      const selectedCat = INDUSTRY_CATEGORIES.find(c => c.value === industryFilter);
+      if (industryFilter === "other") {
+        const allMatchTerms = INDUSTRY_CATEGORIES.filter(c => c.value !== "all" && c.value !== "other").flatMap(c => c.match);
         result = result.filter(c => {
           const ind = c.industry || "";
-          return !mainCategories.some(cat => ind.includes(cat));
+          return !allMatchTerms.some(term => ind === term || ind.includes(term));
         });
-      } else {
-        result = result.filter(c => (c.industry || "").includes(industryFilter));
+      } else if (selectedCat) {
+        result = result.filter(c => {
+          const ind = c.industry || "";
+          return selectedCat.match.some(term => ind === term || ind.includes(term));
+        });
       }
     }
 
@@ -733,13 +737,16 @@ export default function Home() {
               {INDUSTRY_CATEGORIES.map((cat) => {
                 const count = cat.value === "all"
                   ? companies.length
-                  : cat.value === "其他"
+                  : cat.value === "other"
                     ? companies.filter(c => {
                         const ind = c.industry || "";
-                        const mainCats = INDUSTRY_CATEGORIES.filter(x => x.value !== "all" && x.value !== "其他").map(x => x.value);
-                        return !mainCats.some(mc => ind.includes(mc));
+                        const allTerms = INDUSTRY_CATEGORIES.filter(x => x.value !== "all" && x.value !== "other").flatMap(x => x.match);
+                        return !allTerms.some(term => ind === term || ind.includes(term));
                       }).length
-                    : companies.filter(c => (c.industry || "").includes(cat.value)).length;
+                    : companies.filter(c => {
+                        const ind = c.industry || "";
+                        return cat.match.some(term => ind === term || ind.includes(term));
+                      }).length;
                 if (count === 0 && cat.value !== "all") return null;
                 return (
                   <button
@@ -774,7 +781,7 @@ export default function Home() {
             {t.showing} <strong className="text-foreground">{filtered.length}</strong> {t.of} {companies.length} {t.companiesSuffix}
             {industryFilter !== "all" && (
               <span className="ml-2 px-1.5 py-0.5 bg-indigo-50 text-indigo-700 text-[10px] font-medium">
-                {industryFilter}
+                {INDUSTRY_CATEGORIES.find(c => c.value === industryFilter)?.label || industryFilter}
               </span>
             )}
           </span>
@@ -824,21 +831,18 @@ export default function Home() {
                     </td>
                     <td className="px-3 py-3">
                       {company.industry && (
-                        <span className={`text-[10px] px-1.5 py-0.5 font-medium whitespace-nowrap ${
-                          (company.industry || "").includes("NeoCloud")
-                            ? "bg-amber-100 text-amber-800"
-                            : (company.industry || "").includes("金融")
-                              ? "bg-blue-50 text-blue-700"
-                              : (company.industry || "").includes("醫療")
-                                ? "bg-green-50 text-green-700"
-                                : (company.industry || "").includes("國防")
-                                  ? "bg-slate-100 text-slate-700"
-                                  : (company.industry || "").includes("能源")
-                                    ? "bg-yellow-50 text-yellow-700"
-                                    : (company.industry || "").includes("電信")
-                                      ? "bg-cyan-50 text-cyan-700"
-                                      : "bg-indigo-50 text-indigo-700"
-                        }`}>
+                        <span className={`text-[10px] px-1.5 py-0.5 font-medium whitespace-nowrap ${(() => {
+                          const ind = (company.industry || "").toLowerCase();
+                          if (ind.includes("neocloud")) return "bg-amber-100 text-amber-800";
+                          if (ind.includes("金融") || ind.includes("finance") || ind.includes("fintech") || ind.includes("保險") || ind.includes("insurance")) return "bg-blue-50 text-blue-700";
+                          if (ind.includes("醫療") || ind.includes("health") || ind.includes("製藥") || ind.includes("pharma")) return "bg-green-50 text-green-700";
+                          if (ind.includes("國防") || ind.includes("defense")) return "bg-slate-100 text-slate-700";
+                          if (ind.includes("能源") || ind.includes("energy")) return "bg-yellow-50 text-yellow-700";
+                          if (ind.includes("電信") || ind.includes("telecom")) return "bg-cyan-50 text-cyan-700";
+                          if (ind.includes("汽車") || ind.includes("automotive")) return "bg-orange-50 text-orange-700";
+                          if (ind.includes("零售") || ind.includes("retail")) return "bg-pink-50 text-pink-700";
+                          return "bg-indigo-50 text-indigo-700";
+                        })()}`}>
                           {company.industry}
                         </span>
                       )}

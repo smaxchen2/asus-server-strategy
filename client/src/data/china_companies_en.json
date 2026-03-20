@@ -29,7 +29,7 @@
         }
       ],
       "volumeSource": "https://www.reuters.com/technology/bytedance-2024-revenue-grew-about-40-information-reports-2025-01-07/",
-      "industry": "Technology/Social",
+      "industry": "Social",
       "techDecisionMaker": {
         "name": "梁汝波 (Liang Rubo)",
         "title": "CEO",
@@ -74,7 +74,7 @@
         }
       ],
       "volumeSource": "https://www.alibabagroup.com/en-US/ir",
-      "industry": "Technology/Cloud",
+      "industry": "Cloud",
       "techDecisionMaker": {
         "name": "吳泳銘 (Eddie Wu)",
         "title": "CEO Alibaba Cloud",
@@ -119,7 +119,7 @@
         }
       ],
       "volumeSource": "https://www.tencent.com/en-us/investors.html",
-      "industry": "Technology/Social",
+      "industry": "Social",
       "techDecisionMaker": {
         "name": "邱躍鵬 (Dowson Tong)",
         "title": "SVP Cloud & Smart Industries",
@@ -164,7 +164,7 @@
         }
       ],
       "volumeSource": "https://ir.baidu.com/",
-      "industry": "Technology/AI",
+      "industry": "AI",
       "techDecisionMaker": {
         "name": "沈抖 (Shen Dou)",
         "title": "EVP & Head of Intelligent Cloud",
@@ -209,7 +209,7 @@
         }
       ],
       "volumeSource": "https://ir.jd.com/",
-      "industry": "Technology/E-commerce",
+      "industry": "E-commerce",
       "techDecisionMaker": {
         "name": "曹鵬 (Cao Peng)",
         "title": "CEO JD Technology",
@@ -254,7 +254,7 @@
         }
       ],
       "volumeSource": "https://www.meituan.com/en-US/investor",
-      "industry": "Technology/E-commerce",
+      "industry": "E-commerce",
       "techDecisionMaker": {
         "name": "王興 (Wang Xing)",
         "title": "CEO",
@@ -344,7 +344,7 @@
         }
       ],
       "volumeSource": "https://ir.netease.com/",
-      "industry": "Technology/Gaming",
+      "industry": "Gaming",
       "techDecisionMaker": {
         "name": "丁磊 (William Ding)",
         "title": "CEO & Founder",
@@ -434,7 +434,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS小紅書",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "毛文超 (Charlwin Mao)",
         "title": "Co-Founder & CEO",
@@ -479,7 +479,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSAnt Group",
-      "industry": "Finance/Technology",
+      "industry": "FinTech",
       "techDecisionMaker": {
         "name": "井賢棟 (Eric Jing)",
         "title": "Chairman & CEO",
@@ -524,7 +524,7 @@
         }
       ],
       "volumeSource": "https://ir.bilibili.com/",
-      "industry": "Technology/Media",
+      "industry": "Media",
       "techDecisionMaker": {
         "name": "陳睿 (Rui Chen)",
         "title": "Chairman & CEO",
@@ -569,7 +569,7 @@
         }
       ],
       "volumeSource": "https://ir.didiglobal.com/",
-      "industry": "Technology/Transportation",
+      "industry": "Transportation",
       "techDecisionMaker": {
         "name": "程維 (Cheng Wei)",
         "title": "Founder & CEO",
@@ -749,7 +749,7 @@
         }
       ],
       "volumeSource": "https://ir.weibo.com/",
-      "industry": "Technology/Social",
+      "industry": "Social",
       "techDecisionMaker": {
         "name": "王高飛 (Gaofei Wang)",
         "title": "CEO",
@@ -794,7 +794,7 @@
         }
       ],
       "volumeSource": "https://investors.trip.com/",
-      "industry": "Technology/Travel",
+      "industry": "Travel",
       "techDecisionMaker": {
         "name": "孫潔 (Jane Sun)",
         "title": "CEO",
@@ -839,7 +839,7 @@
         }
       ],
       "volumeSource": "https://ir.mi.com/",
-      "industry": "Technology/Consumer Electronics",
+      "industry": "Consumer Electronics",
       "techDecisionMaker": {
         "name": "雷軍 (Lei Jun)",
         "title": "Founder & CEO",
@@ -1199,7 +1199,7 @@
         }
       ],
       "volumeSource": "https://www.catl.com/en/investor/",
-      "industry": "Energy/Manufacturing",
+      "industry": "Energy",
       "techDecisionMaker": {
         "name": "曾毓群 (Robin Zeng)",
         "title": "Founder & Chairman",
@@ -1244,7 +1244,7 @@
         }
       ],
       "volumeSource": "https://www.byd.com/en/InvestorRelations.html",
-      "industry": "Automotive/Manufacturing",
+      "industry": "Automotive",
       "techDecisionMaker": {
         "name": "王傳福 (Wang Chuanfu)",
         "title": "Founder & Chairman",
@@ -1289,7 +1289,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS海爾卡奧斯",
-      "industry": "Technology/Manufacturing",
+      "industry": "Manufacturing",
       "techDecisionMaker": {
         "name": "周雲傑 (Zhou Yunjie)",
         "title": "Chairman Haier Group",
@@ -1334,7 +1334,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS用友網絡",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "王文京 (Wang Wenjing)",
         "title": "Founder & Chairman",
@@ -1424,7 +1424,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUStcl-科技",
-      "industry": "Technology/Manufacturing",
+      "industry": "Manufacturing",
       "techDecisionMaker": {
         "name": "李東生 (Li Dongsheng)",
         "title": "Founder & Chairman",
@@ -1469,7 +1469,7 @@
         }
       ],
       "volumeSource": "https://ir.wuxiapptec.com/",
-      "industry": "Healthcare/Pharmaceutical",
+      "industry": "Pharma",
       "techDecisionMaker": {
         "name": "李革 (Ge Li)",
         "title": "Founder & Chairman",
@@ -1604,7 +1604,7 @@
         }
       ],
       "volumeSource": "https://ir.lixiang.com/",
-      "industry": "Automotive/Manufacturing",
+      "industry": "Automotive",
       "techDecisionMaker": {
         "name": "李想 (Li Xiang)",
         "title": "Founder & CEO",
@@ -1649,7 +1649,7 @@
         }
       ],
       "volumeSource": "https://ir.nio.com/",
-      "industry": "Automotive/Manufacturing",
+      "industry": "Automotive",
       "techDecisionMaker": {
         "name": "李斌 (William Li)",
         "title": "Founder & CEO",
@@ -1694,7 +1694,7 @@
         }
       ],
       "volumeSource": "https://ir.xiaopeng.com/",
-      "industry": "Automotive/Manufacturing",
+      "industry": "Automotive",
       "techDecisionMaker": {
         "name": "何小鵬 (He Xiaopeng)",
         "title": "Founder & CEO",
@@ -1739,7 +1739,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSoppo-/-一加",
-      "industry": "Technology/Consumer Electronics",
+      "industry": "Consumer Electronics",
       "techDecisionMaker": {
         "name": "劉作虎 (Pete Lau)",
         "title": "SVP & Chief Product Officer",
@@ -1784,7 +1784,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSvivo",
-      "industry": "Technology/Consumer Electronics",
+      "industry": "Consumer Electronics",
       "techDecisionMaker": {
         "name": "沈煒 (Shen Wei)",
         "title": "Founder & CEO",
@@ -1919,7 +1919,7 @@
         }
       ],
       "volumeSource": "https://ir.zeekrlife.com/",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "安聰慧 (An Conghui)",
         "title": "CEO",
@@ -1964,7 +1964,7 @@
         }
       ],
       "volumeSource": "https://ir.pony.ai/",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "彭軍 (James Peng)",
         "title": "Co-Founder & CEO",
@@ -2054,7 +2054,7 @@
       ],
       "volumeSource": "https://www.sangfor.com/en/about/investor-relations",
       "rank": 46,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "何朝曦 (He Zhaoxi)",
         "title": "Founder & Chairman",
@@ -2144,7 +2144,7 @@
         }
       ],
       "volumeSource": "https://ir.ly.com/",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "馬和平 (Ma Heping)",
         "title": "CEO",
@@ -2189,7 +2189,7 @@
         }
       ],
       "volumeSource": "https://ir.bilibili.com/",
-      "industry": "Technology/Media",
+      "industry": "Media",
       "techDecisionMaker": {
         "name": "陳睿 (Rui Chen)",
         "title": "Chairman & CEO",
@@ -2369,7 +2369,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS哈囉出行",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "楊磊 (Yang Lei)",
         "title": "Founder & CEO",
@@ -2414,7 +2414,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS達達集團",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "何輝劍 (He Huijian)",
         "title": "CEO",
@@ -2504,7 +2504,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS藥明生物",
-      "industry": "Healthcare/Pharmaceutical",
+      "industry": "Pharma",
       "techDecisionMaker": {
         "name": "陳智勝 (Chris Chen)",
         "title": "CEO",
@@ -2549,7 +2549,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS第四範式",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "戴文淵 (Dai Wenyuan)",
         "title": "Founder & CEO",
@@ -2594,7 +2594,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS有贊",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "白鴉 (Bai Ya)",
         "title": "Founder & CEO",
@@ -2639,7 +2639,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS匯量科技",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "段威 (Duan Wei)",
         "title": "CEO",
@@ -2684,7 +2684,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS微盟集團",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "孫濤勇 (Sun Taoyong)",
         "title": "Founder & CEO",
@@ -2819,7 +2819,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS哪吒汽車",
-      "industry": "Automotive/Manufacturing",
+      "industry": "Automotive",
       "techDecisionMaker": {
         "name": "張勇 (Zhang Yong)",
         "title": "CEO",
@@ -2864,7 +2864,7 @@
         }
       ],
       "volumeSource": "https://ir.leapmotor.com/",
-      "industry": "Automotive/Manufacturing",
+      "industry": "Automotive",
       "techDecisionMaker": {
         "name": "朱江明 (Zhu Jiangming)",
         "title": "Founder & CEO",
@@ -2954,7 +2954,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS%E5%89%B5%E7%BB%B4%E9%9B%86%E5%9B%A2",
-      "industry": "Technology/Semiconductors",
+      "industry": "Semiconductor",
       "techDecisionMaker": {
         "name": "王志國 (Wang Zhiguo)",
         "title": "CEO",
@@ -2998,7 +2998,7 @@
         }
       ],
       "volumeSource": "https://ir.weride.ai/",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "韓旭 (Han Xu)",
         "title": "Co-Founder & CEO",
@@ -3042,7 +3042,7 @@
       ],
       "volumeSource": "https://modelbest.cn",
       "rank": 68,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "刘知远 (Liu Zhiyuan)",
         "title": "Co-Founder & Chief Scientist",
@@ -3086,7 +3086,7 @@
       ],
       "volumeSource": "https://global.geely.com/investor-relations",
       "rank": 69,
-      "industry": "Automotive/Manufacturing",
+      "industry": "Automotive",
       "techDecisionMaker": {
         "name": "李書福 (Li Shufu)",
         "title": "Founder & Chairman",
@@ -3130,7 +3130,7 @@
       ],
       "volumeSource": "https://www.qianxin.com",
       "rank": 70,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "齊向東 (Qi Xiangdong)",
         "title": "Founder & Chairman",
@@ -3174,7 +3174,7 @@
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS九坤投資",
       "rank": 71,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "王琛 (Wang Chen)",
         "title": "Founder & CEO",
@@ -3219,7 +3219,7 @@
       ],
       "volumeSource": "https://www.transwarp.cn/en/investor",
       "rank": 72,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "孫元浩 (Sun Yuanhao)",
         "title": "Founder & CEO",
@@ -3354,7 +3354,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS趣丸科技",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "宋克 (Song Ke)",
         "title": "CEO",
@@ -3399,7 +3399,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS蔚來能源",
-      "industry": "Automotive/Manufacturing",
+      "industry": "Automotive",
       "techDecisionMaker": {
         "name": "沈斐 (Shen Fei)",
         "title": "SVP NIO Power",
@@ -3489,7 +3489,7 @@
       ],
       "volumeSource": "https://www.gwm.com.cn/investor.html",
       "rank": 78,
-      "industry": "Automotive/Manufacturing",
+      "industry": "Automotive",
       "techDecisionMaker": {
         "name": "魏建軍 (Wei Jianjun)",
         "title": "Founder & Chairman",
@@ -3540,7 +3540,7 @@
       ],
       "volumeSource": "https://www.sanygroup.com/en/investor.html",
       "rank": 79,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "梁穩根 (Liang Wengen)",
         "title": "Founder & Chairman",
@@ -3585,7 +3585,7 @@
       ],
       "volumeSource": "https://www.zhongan.com/open/investor",
       "rank": 80,
-      "industry": "Technology/Social",
+      "industry": "Social",
       "techDecisionMaker": {
         "name": "姜興 (Jiang Xing)",
         "title": "CEO",
@@ -3675,7 +3675,7 @@
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS嘉實基金",
       "rank": 82,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "趙學軍 (Zhao Xuejun)",
         "title": "Chairman",
@@ -3765,7 +3765,7 @@
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS數夢工場",
       "rank": 84,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "王巍 (Wang Wei)",
         "title": "CEO",
@@ -3810,7 +3810,7 @@
       ],
       "volumeSource": "https://www.intellif.com",
       "rank": 85,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "陳寧 (Chen Ning)",
         "title": "Founder & CEO",
@@ -3861,7 +3861,7 @@
         }
       ],
       "volumeSource": "https://www.transwarp.cn/investor",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "孫元浩",
         "title": "Founder & CEO",
@@ -3906,7 +3906,7 @@
       ],
       "volumeSource": "https://ir.tuya.com/",
       "rank": 87,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "王學集 (Jerry Wang)",
         "title": "Founder & CEO",
@@ -3951,7 +3951,7 @@
       ],
       "volumeSource": "https://www.unisound.com",
       "rank": 88,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "黃偉 (Huang Wei)",
         "title": "Founder & CEO",
@@ -4041,7 +4041,7 @@
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS衛星化學",
       "rank": 90,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "楊衛東 (Yang Weidong)",
         "title": "VP IT",
@@ -4086,7 +4086,7 @@
       ],
       "volumeSource": "https://ir.wondershare.com/",
       "rank": 91,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Wu Taibing",
         "title": "Founder & CEO",
@@ -4131,7 +4131,7 @@
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS商米科技",
       "rank": 92,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Lin Zhe",
         "title": "Founder & CEO",
@@ -4221,7 +4221,7 @@
       ],
       "volumeSource": "https://www.datagrand.com",
       "rank": 94,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Chen Yunwen",
         "title": "Founder & CEO",
@@ -4266,7 +4266,7 @@
       ],
       "volumeSource": "https://www.linklogis.com/investor.html",
       "rank": 95,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Song Qun",
         "title": "Founder & CEO",
@@ -4311,7 +4311,7 @@
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS華勤技術",
       "rank": 96,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "邱文生 (Qiu Wensheng)",
         "title": "Founder & CEO",
@@ -4401,7 +4401,7 @@
       ],
       "volumeSource": "https://ir.anker-in.com/",
       "rank": 98,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "陽萃 (Steven Yang)",
         "title": "Founder & CEO",
@@ -4446,7 +4446,7 @@
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS聯想之星",
       "rank": 99,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "王明耀 (Wang Mingyao)",
         "title": "President",
@@ -4491,7 +4491,7 @@
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUS火花思維",
       "rank": 100,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "羅劍 (Luo Jian)",
         "title": "Founder & CEO",

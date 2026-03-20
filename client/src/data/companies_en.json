@@ -47,7 +47,7 @@
         }
       ],
       "volumeSource": "https://finance.yahoo.com/news/amazons-data-center-spend-tops-130400662.html",
-      "industry": "Technology/Cloud",
+      "industry": "Cloud",
       "techDecisionMaker": {
         "name": "Peter DeSantis",
         "title": "Senior Vice President, AWS Utility Computing",
@@ -105,7 +105,7 @@
         }
       ],
       "volumeSource": "https://www.cnbc.com/2025/01/03/microsoft-expects-to-spend-80-billion-on-ai-data-centers-in-fy-2025.html",
-      "industry": "Technology/Cloud",
+      "industry": "Cloud",
       "techDecisionMaker": {
         "name": "Mark Russinovich",
         "title": "Chief Technology Officer and Technical Fellow, Microsoft Azure",
@@ -163,7 +163,7 @@
         }
       ],
       "volumeSource": "https://en.wikipedia.org/wiki/Google_data_centers",
-      "industry": "Technology/Cloud",
+      "industry": "Cloud",
       "techDecisionMaker": {
         "name": "Bikash Koley",
         "title": "Vice President, Global Infrastructure and Capacity",
@@ -221,7 +221,7 @@
         }
       ],
       "volumeSource": "https://finance.yahoo.com/news/meta-microsoft-both-blew-data-012942413.html",
-      "industry": "Technology/Social",
+      "industry": "Social",
       "techDecisionMaker": {
         "name": "Santosh Janardhan",
         "title": "Head of Global Infrastructure, Co-Head of Engineering",
@@ -267,7 +267,7 @@
         }
       ],
       "volumeSource": "https://www.datacenterdynamics.com/en/news/apple-anticipates-substantial-capex-growth-with-investment-in-ai-infrastructure/",
-      "industry": "Technology/Consumer Electronics",
+      "industry": "Consumer Electronics",
       "techDecisionMaker": {
         "name": "John Ternus",
         "title": "Senior Vice President of Hardware Engineering",
@@ -337,7 +337,7 @@
         }
       ],
       "volumeSource": "https://cloudwars.com/cloud/oracle-dominates-competitors-in-cloud-region-buildout-microsoft-2-google-cloud-3-aws-4/",
-      "industry": "Technology/Enterprise Software",
+      "industry": "Enterprise SW",
       "techDecisionMaker": {
         "name": "Clay Magouyrk",
         "title": "CEO, Oracle",
@@ -680,7 +680,7 @@
         }
       ],
       "volumeSource": "https://www.datacenterdynamics.com/en/news/microsoft-spent-111bn-on-data-center-leases-alone-in-q1-2026/",
-      "industry": "Technology/Social",
+      "industry": "Social",
       "techDecisionMaker": {
         "name": "Mohak Shroff",
         "title": "SVP of Engineering",
@@ -725,7 +725,7 @@
         }
       ],
       "volumeSource": "https://www.reuters.com/technology/musk-orders-twitter-cut-infrastructure-costs-by-1-bln-sources-2022-11-03/",
-      "industry": "Technology/Social",
+      "industry": "Social",
       "techDecisionMaker": {
         "name": "Dantley Davis",
         "title": "VP of Infrastructure Engineering",
@@ -988,7 +988,7 @@
         }
       ],
       "volumeSource": "https://www.datacenterdynamics.com/en/news/salesforce-increases-data-center-spend-in-202122/",
-      "industry": "Technology/Enterprise Software",
+      "industry": "Enterprise SW",
       "techDecisionMaker": {
         "name": "Meir Amiel",
         "title": "President, Chief Trust and Infrastructure Officer",
@@ -1091,7 +1091,7 @@
         }
       ],
       "volumeSource": "https://www.datacenterknowledge.com/investing/gm-plans-258-million-data-center-in-michigan",
-      "industry": "Automotive/Manufacturing",
+      "industry": "Automotive",
       "techDecisionMaker": {
         "name": "Ed Nightingale",
         "title": "Vice President, Digital Products and Infrastructure",
@@ -1262,7 +1262,7 @@
         }
       ],
       "volumeSource": "https://www.nutanix.com/impact-report",
-      "industry": "Technology/Infrastructure",
+      "industry": "Infrastructure",
       "techDecisionMaker": {
         "name": "Wendy Pfeiffer",
         "title": "CIO",
@@ -1353,7 +1353,7 @@
         }
       ],
       "volumeSource": "https://www.fromtheroad.ford.com/us/en/articles/2025/ford-reinvests-trucks-hybrids-affordable-electric-vehicles",
-      "industry": "Automotive/Manufacturing",
+      "industry": "Automotive",
       "techDecisionMaker": {
         "name": "Sudhakar Pandrangi",
         "title": "Director Datacenter and Manufacturing Networks",
@@ -1443,7 +1443,7 @@
         }
       ],
       "volumeSource": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-signs-usd1-5-billion-deal-with-cloud-startup-lambda-to-rent-back-its-own-ai-chips-18-000-gpus-will-be-leased-over-4-years-as-lambda-gears-up-for-its-ipo",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Michael Balaban",
         "title": "Co-founder and CTO",
@@ -1499,7 +1499,7 @@
         }
       ],
       "volumeSource": "https://blog.cloudflare.com/backbone2024/",
-      "industry": "Technology/Infrastructure",
+      "industry": "Infrastructure",
       "techDecisionMaker": {
         "name": "",
         "title": "CTO / VP of Infrastructure",
@@ -1555,7 +1555,7 @@
         }
       ],
       "volumeSource": "https://www.ir.akamai.com/static-files/7b277c5f-83d7-46dd-b28a-5757026f09a7",
-      "industry": "Technology/Infrastructure",
+      "industry": "Infrastructure",
       "techDecisionMaker": {
         "name": "Sabine A. Sitterli",
         "title": "Vice President, Global Network Infrastructure",
@@ -1599,7 +1599,7 @@
         }
       ],
       "volumeSource": "https://www.datacenterdynamics.com/en/news/ai-cloud-iren-purchases-50000-nvidia-b300-gpus/",
-      "industry": "Technology/AI",
+      "industry": "AI",
       "techDecisionMaker": {
         "name": "Daniel Roberts",
         "title": "Co-Founder & Co-CEO",
@@ -1655,7 +1655,7 @@
         }
       ],
       "volumeSource": "https://www.lightreading.com/ai-machine-learning/comcast-takes-ai-to-the-edge",
-      "industry": "Telecom/Media",
+      "industry": "Telecom",
       "techDecisionMaker": {
         "name": "Michael Rebhorn",
         "title": "Director, Data Center Operations",
@@ -1852,7 +1852,7 @@
         }
       ],
       "volumeSource": "https://finance.yahoo.com/news/tesla-unveils-20-billion-capex-161113987.html",
-      "industry": "Automotive/Manufacturing",
+      "industry": "Automotive",
       "techDecisionMaker": {
         "name": "Ashok Elluswamy",
         "title": "VP of AI Software",
@@ -1943,7 +1943,7 @@
         }
       ],
       "volumeSource": "https://www.jobsohio.com/newsroom/news-press/vultr-announces-1-billion-data-center-investment-in-springfield",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Nathan Goulding",
         "title": "SVP, Engineering",
@@ -2221,7 +2221,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=walt-disney-company&CIK=&type=10-K",
-      "industry": "Media/Entertainment",
+      "industry": "Media",
       "techDecisionMaker": {
         "name": "Ricardo Gonzaga",
         "title": "Head of International Infrastructure",
@@ -2401,7 +2401,7 @@
         }
       ],
       "volumeSource": "https://www.investing.com/news/transcripts/digitalocean-at-morgan-stanley-conference-ai-growth-and-strategic-expansion-93CH-4538836",
-      "industry": "Technology/Cloud",
+      "industry": "Cloud",
       "techDecisionMaker": {
         "name": "Vinay Kumar",
         "title": "Chief Product and Technology Officer",
@@ -2491,7 +2491,7 @@
         }
       ],
       "volumeSource": "https://trembit.com/blog/how-much-does-it-cost-to-maintain-twitch-infrastructure/",
-      "industry": "Media/Entertainment",
+      "industry": "Media",
       "procurementDecisionMaker": {
         "name": "Elena Finnegan",
         "title": "Head of Global Supply Chain and Procurement, Amazon Web Services (AWS)",
@@ -2581,7 +2581,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=warner-bros-discovery&CIK=&type=10-K",
-      "industry": "Media/Entertainment",
+      "industry": "Media",
       "techDecisionMaker": {
         "name": "Chris Fontaine",
         "title": "Group Vice President, Infrastructure & Cloud Engineering",
@@ -2794,7 +2794,7 @@
         }
       ],
       "volumeSource": "https://www.leidos.com/insights/leidos-helps-utilities-and-developers-tackle-ai-data-centers-power-demands",
-      "industry": "Defense/IT Services",
+      "industry": "Defense IT",
       "techDecisionMaker": {
         "name": "Blake Nelson",
         "title": "Vice President, Cloud and Data Center Practice",
@@ -2839,7 +2839,7 @@
         }
       ],
       "volumeSource": "https://www.amd.com/content/dam/amd/en/documents/resources/case-studies/rackspace-case-study.pdf",
-      "industry": "Technology/Cloud",
+      "industry": "Cloud",
       "techDecisionMaker": {
         "name": "Jim Weinheimer",
         "title": "VP of Data Center Operations",
@@ -2902,7 +2902,7 @@
         }
       ],
       "volumeSource": "https://www.digitimes.com/news/a20260305VL208/broadcom-chips-server-rack-shipments-gross-margin.html",
-      "industry": "Technology/Semiconductor",
+      "industry": "Semiconductor",
       "techDecisionMaker": {
         "name": "Alan Davidson",
         "title": "Chief Information Officer",
@@ -2959,7 +2959,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/Archives/edgar/data/804328/000080432822000021/qcom-20220925.htm",
-      "industry": "Technology/Semiconductor",
+      "industry": "Semiconductor",
       "techDecisionMaker": {
         "name": "Zeeshan Sabir",
         "title": "Vice President of IT infrastructure",
@@ -3004,7 +3004,7 @@
         }
       ],
       "volumeSource": "https://urielbitton.substack.com/p/how-much-money-does-netflix-spend",
-      "industry": "Media/Entertainment",
+      "industry": "Media",
       "techDecisionMaker": {
         "name": "Jimmy Vosler",
         "title": "Director | Technical Operations",
@@ -3145,7 +3145,7 @@
         }
       ],
       "volumeSource": "https://investors.ebayinc.com/financial-information/annual-reports",
-      "industry": "Technology/E-commerce",
+      "industry": "E-commerce",
       "techDecisionMaker": {
         "name": "Mazen Rawashdeh",
         "title": "SVP & CTO",
@@ -3190,7 +3190,7 @@
       ],
       "volumeSource": "https://www.datacenterdynamics.com/en/news/servicenow-signs-12bn-contract-with-google-cloud-report/",
       "rank": 61,
-      "industry": "Technology/Enterprise Software",
+      "industry": "Enterprise SW",
       "techDecisionMaker": {
         "name": "Davin C.",
         "title": "Group VP, Cloud Infrastructure Engineering",
@@ -3292,7 +3292,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=saic&CIK=&type=10-K",
-      "industry": "Defense/IT Services",
+      "industry": "Defense IT",
       "techDecisionMaker": {
         "name": "Nathan Rogers",
         "title": "Senior Vice President and Chief Information Officer (CIO)",
@@ -3337,7 +3337,7 @@
         }
       ],
       "volumeSource": "https://www.datacenterdynamics.com/en/news/lockheed-martin-awarded-213-million-f-35-data-center-modernization-contract-in-florida/",
-      "industry": "Defense/Aerospace",
+      "industry": "Defense",
       "techDecisionMaker": {
         "name": "Richard Vitek",
         "title": "Vice President, Data and AI Enablement",
@@ -3394,7 +3394,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=zoom-video-communications&CIK=&type=10-K",
-      "industry": "Technology/Telecom",
+      "industry": "Telecom",
       "techDecisionMaker": {
         "name": "Xuedong Huang",
         "title": "CTO",
@@ -3502,7 +3502,7 @@
         }
       ],
       "volumeSource": "https://www.aol.com/articles/northrop-grumman-29-2026-95-130452515.html",
-      "industry": "Defense/Aerospace",
+      "industry": "Defense",
       "techDecisionMaker": {
         "name": "Travis Garriss",
         "title": "Vice President and Chief Information and Digital Officer",
@@ -3553,7 +3553,7 @@
         }
       ],
       "volumeSource": "https://www.rtx.com/investors",
-      "industry": "Defense/Aerospace",
+      "industry": "Defense",
       "techDecisionMaker": {
         "name": "Vince Campisi",
         "title": "SVP & Chief Digital Officer",
@@ -3598,7 +3598,7 @@
         }
       ],
       "volumeSource": "https://investor.uber.com/financial-information/annual-reports",
-      "industry": "Technology/Transportation",
+      "industry": "Transportation",
       "techDecisionMaker": {
         "name": "Sundeep Jain",
         "title": "SVP of Engineering",
@@ -3688,7 +3688,7 @@
         }
       ],
       "volumeSource": "https://investors.dropbox.com/financial-information/annual-reports",
-      "industry": "Technology/Cloud",
+      "industry": "Cloud",
       "techDecisionMaker": {
         "name": "Sylvie Veilleux",
         "title": "Former CIO (now Board Advisor)",
@@ -3733,7 +3733,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=yahoo&CIK=&type=10-K",
-      "industry": "Technology/Media",
+      "industry": "Media",
       "techDecisionMaker": {
         "name": "Austin Lee",
         "title": "Director of Data Center Operations",
@@ -3829,7 +3829,7 @@
         }
       ],
       "volumeSource": "https://investors.palantir.com/financial-information/sec-filings",
-      "industry": "Technology/AI",
+      "industry": "AI",
       "techDecisionMaker": {
         "name": "Shyam Sankar",
         "title": "CTO",
@@ -3886,7 +3886,7 @@
         }
       ],
       "volumeSource": "https://www.drugdiscoverytrends.com/pfizer-exec-frames-digital-as-a-core-business-strategy/",
-      "industry": "Healthcare/Pharmaceutical",
+      "industry": "Pharma",
       "techDecisionMaker": {
         "name": "Lidia Fonseca",
         "title": "Chief Digital and Technology Officer, Executive Vice President",
@@ -3988,7 +3988,7 @@
         }
       ],
       "volumeSource": "https://www.globaldata.com/store/report/general-electric-enterprise-tech-analysis/",
-      "industry": "Industrial/Manufacturing",
+      "industry": "Industrial",
       "techDecisionMaker": {
         "name": "Vince Campisi",
         "title": "SVP & CIO",
@@ -4051,7 +4051,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=l3harris-technologies&CIK=&type=10-K",
-      "industry": "Defense/Aerospace",
+      "industry": "Defense",
       "techDecisionMaker": {
         "name": "Ross Niebergall",
         "title": "CTO",
@@ -4096,7 +4096,7 @@
         }
       ],
       "volumeSource": "https://investors.fastly.com/financial-information/annual-reports",
-      "industry": "Technology/Infrastructure",
+      "industry": "Infrastructure",
       "techDecisionMaker": {
         "name": "Chirag Ghosh",
         "title": "VP of Infrastructure Engineering",
@@ -4147,7 +4147,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=instacart&CIK=&type=10-K",
-      "industry": "Technology/E-commerce",
+      "industry": "E-commerce",
       "techDecisionMaker": {
         "name": "Dustin Pearce",
         "title": "Vice President of Infrastructure",
@@ -4249,7 +4249,7 @@
       "volumeSource": "https://investor.uber.com/financial-information/annual-reports/",
       "company": "Uber Technologies",
       "volume": "Approximately 4,000 - 8,000 units/year",
-      "industry": "IT/Transportation",
+      "industry": "Transportation",
       "techDecisionMaker": {
         "name": "Sundeep Jain",
         "title": "SVP, Engineering & Infrastructure",
@@ -4306,7 +4306,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=micron-technology&CIK=&type=10-K",
-      "industry": "IT/Semiconductor",
+      "industry": "Semiconductor",
       "techDecisionMaker": {
         "name": "April Arnzen",
         "title": "SVP & Chief People Officer",
@@ -4363,7 +4363,7 @@
         }
       ],
       "volumeSource": "https://www.merck.com/investor-relations/annual-report/",
-      "industry": "【Healthcare/Pharmaceutical】",
+      "industry": "Pharma",
       "techDecisionMaker": {
         "name": "Najat Khan",
         "title": "Chief Data & AI Officer",
@@ -4465,7 +4465,7 @@
         }
       ],
       "volumeSource": "https://www.investor.jnj.com/annual-meeting-materials",
-      "industry": "Healthcare/Pharmaceutical",
+      "industry": "Pharma",
       "techDecisionMaker": {
         "name": "Jim Swanson",
         "title": "EVP & CIO",
@@ -4540,7 +4540,7 @@
         }
       ],
       "volumeSource": "https://everus.com/projects/adobe-or1-data-center-dh2-expansion/",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Gary Simpson",
         "title": "Vice President, GIO",
@@ -4585,7 +4585,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=sambanova-systems&CIK=&type=10-K",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Sayan Moitra",
         "title": "Director of Engineering, Global Head of Engineering for Infrastructure - Sovereign AI, Data Centers, Managed Service",
@@ -4636,7 +4636,7 @@
       "volumeSource": "https://investors.broadcom.com/financial-information/annual-reports",
       "company": "Broadcom (VMware)",
       "volume": "Approx. 3,000 - 6,000 units/年",
-      "industry": "Technology/Semiconductor",
+      "industry": "Semiconductor",
       "techDecisionMaker": {
         "name": "Charlie Kawwas",
         "title": "President, Semiconductor Solutions Group",
@@ -4693,7 +4693,7 @@
         }
       ],
       "volumeSource": "https://www.globaldata.com/store/report/procter-and-gamble-company-enterprise-tech-analysis/",
-      "industry": "Consumer Goods/Manufacturing",
+      "industry": "Consumer Goods",
       "techDecisionMaker": {
         "name": "Zuzanna Dylęgowska",
         "title": "Senior Director IT, Cloud Engineering",
@@ -4738,7 +4738,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=john-deere&CIK=&type=10-K",
-      "industry": "Industrial/Manufacturing",
+      "industry": "Industrial",
       "techDecisionMaker": {
         "name": "Ganesh Jayaram",
         "title": "VP & CIO",
@@ -4789,7 +4789,7 @@
         }
       ],
       "volumeSource": "https://www.workday.com/en-us/company/investor-relations.html",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Sheri Rhodes",
         "title": "CIO",
@@ -4834,7 +4834,7 @@
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=reddit&CIK=&type=10-K",
       "rank": 93,
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Chris Slowe",
         "title": "Chief Technology Officer",
@@ -4903,7 +4903,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=paypal&CIK=&type=10-K",
-      "industry": "Finance/Technology",
+      "industry": "FinTech",
       "techDecisionMaker": {
         "name": "Archana Singh",
         "title": "CTO",
@@ -4948,7 +4948,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=caterpillar&CIK=&type=10-K",
-      "industry": "Industrial/Manufacturing",
+      "industry": "Industrial",
       "techDecisionMaker": {
         "name": "Jamie Engstrom",
         "title": "Chief Information Officer and Senior Vice President",
@@ -5005,7 +5005,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=crowdstrike&CIK=&type=10-K",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Greg Sly",
         "title": "SVP Infrastructure",
@@ -5050,7 +5050,7 @@
         }
       ],
       "volumeSource": "https://enkiai.com/ai-market-intelligence/3ms-2025-ai-data-center-strategy-revealed",
-      "industry": "Industrial/Manufacturing",
+      "industry": "Industrial",
       "techDecisionMaker": {
         "name": "Mark Murphy",
         "title": "Executive Vice President, Chief Information and Digital Officer",
@@ -5095,7 +5095,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=block&CIK=&type=10-K",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Arnaud Weber",
         "title": "Engineering Lead",
@@ -5182,7 +5182,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=palo-alto-networks&CIK=&type=10-K",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Meerah Rajavel",
         "title": "Chief Information Officer",

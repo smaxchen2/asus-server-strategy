@@ -91,7 +91,7 @@
         }
       ],
       "volumeSource": "https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/",
-      "industry": "能源/電信",
+      "industry": "能源",
       "techDecisionMaker": {
         "name": "Kiran Thomas",
         "title": "President, Reliance Jio",
@@ -142,7 +142,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsoftbank-group-/-softbank-corp",
-      "industry": "科技/電信",
+      "industry": "電信",
       "techDecisionMaker": {
         "name": "Keiichi Makizono",
         "title": "執行副總裁兼首席資訊官，技術單位主管",
@@ -187,7 +187,7 @@
         }
       ],
       "volumeSource": "https://www.thelec.net/news/articleView.html?idxno=5795",
-      "industry": "科技/半導體",
+      "industry": "半導體",
       "techDecisionMaker": {
         "name": "Eunyoung Kim",
         "title": "執行副總裁，雲端技術辦公室",
@@ -290,7 +290,7 @@
         }
       ],
       "volumeSource": "https://www.datacenterdynamics.com/en/news/south-koreas-sk-telecom-reports-growth-in-data-center-and-ai-related-business-for-q1-2025/",
-      "industry": "科技/半導體",
+      "industry": "半導體",
       "techDecisionMaker": {
         "name": "Suyong Park",
         "title": "副總裁，雲端業務主管",
@@ -383,7 +383,7 @@
         }
       ],
       "volumeSource": "https://techcrunch.com/2025/11/20/indias-tcs-gets-tpg-to-fund-half-of-2b-ai-data-center-project/",
-      "industry": "科技/IT服務",
+      "industry": "IT服務",
       "techDecisionMaker": {
         "name": "Akhilesh Kumar",
         "title": "基礎設施服務總監",
@@ -452,7 +452,7 @@
         }
       ],
       "volumeSource": "https://www.thelec.net/news/articleView.html?idxno=5874",
-      "industry": "科技/搜尋",
+      "industry": "搜尋",
       "techDecisionMaker": {
         "name": "Kim Yu-won",
         "title": "Naver Cloud 的執行長兼總裁",
@@ -591,7 +591,7 @@
         }
       ],
       "volumeSource": "https://www.infosys.com/investors/reports-filings/annual-report.html",
-      "industry": "科技/IT服務",
+      "industry": "IT服務",
       "techDecisionMaker": {
         "name": "Anant Adya",
         "title": "執行副總裁兼美洲及亞太區雲端、基礎設施與安全服務（CIS）主管",
@@ -804,7 +804,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsea-group",
-      "industry": "科技/電商",
+      "industry": "電商",
       "techDecisionMaker": {
         "name": "XIANGFENG (Kevin) ZHU",
         "title": "高級總監，集團首席運營官辦公室",
@@ -948,7 +948,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSrakuten-group",
-      "industry": "科技/電商",
+      "industry": "電商",
       "techDecisionMaker": {
         "name": "Yuji Nagata",
         "title": "技術平台事業部 總經理",
@@ -1200,7 +1200,7 @@
         }
       ],
       "volumeSource": "https://globalelectronicscouncil.org/wp-content/uploads/GEC_CaseStudy-Wipro_new.pdf",
-      "industry": "科技/IT服務",
+      "industry": "IT服務",
       "techDecisionMaker": {
         "name": "Sandeep K Vasudevan",
         "title": "資訊技術基礎設施主管",
@@ -1245,7 +1245,7 @@
         }
       ],
       "volumeSource": "https://datacentremagazine.com/data-centres/kakao-build-dollar337mn-data-centre-korean-market-booms",
-      "industry": "科技/社群",
+      "industry": "社群",
       "techDecisionMaker": {
         "name": "Go Woo-chan",
         "title": "Head of Infrastructure",
@@ -1404,7 +1404,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSgrab-holdings",
-      "industry": "科技/交通",
+      "industry": "交通",
       "techDecisionMaker": {
         "name": "Mohan Krishnan",
         "title": "工程技術基礎設施主管",
@@ -1449,7 +1449,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUScoupang",
-      "industry": "科技/電商",
+      "industry": "電商",
       "techDecisionMaker": {
         "name": "Atul Goel",
         "title": "Head of Cloud Infrastructure",
@@ -1506,7 +1506,7 @@
         }
       ],
       "volumeSource": "https://logmi.jp/brandtopics/325890",
-      "industry": "科技/社群",
+      "industry": "社群",
       "techDecisionMaker": {
         "name": "Yang Seokho",
         "title": "高級執行官，CTO領域，數據與人工智慧事業群負責人",
@@ -1557,7 +1557,7 @@
         }
       ],
       "volumeSource": "https://www.globaldata.com/store/report/toyota-motor-corporation-enterprise-tech-analysis/",
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "Hiroki Nakajima",
         "title": "執行副總裁，首席技術官",
@@ -1794,7 +1794,7 @@
         }
       ],
       "volumeSource": "https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2025_3Q_Interim_Report.pdf",
-      "industry": "科技/半導體",
+      "industry": "半導體",
       "techDecisionMaker": {
         "name": "Jai-Hyuk Song",
         "title": "裝置解決方案（DS）部門總裁兼首席技術官，半導體研發中心負責人",
@@ -1909,7 +1909,7 @@
         }
       ],
       "volumeSource": "https://www.gotocompany.com/en/news/press/goto-group-tencent-cloud-and-alibaba-cloud-sign-agreement-to-boost-cloud-infrastructure-and-nurture-local-digital-talent-in-indonesia",
-      "industry": "科技/電商",
+      "industry": "電商",
       "techDecisionMaker": {
         "name": "Wuzhen (William) Xiong",
         "title": "Chief Technology Officer",
@@ -1972,7 +1972,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSsony-group-corporation",
-      "industry": "科技/消費電子",
+      "industry": "消費電子",
       "techDecisionMaker": {
         "name": "Tsuyoshi Kodera",
         "title": "高階主管，CDO（數位與技術平台（數位轉型策略、資訊系統、資訊安全、先進技術領域）、研發、技術策略、品質管理）",
@@ -2119,7 +2119,7 @@
         }
       ],
       "volumeSource": "https://www.reuters.com/business/autos-transportation/hyundai-motor-group-invest-63-bln-ai-data-centre-robot-factory-south-korea-2026-02-27/",
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "Kyungsoo Lee",
         "title": "VP / Cloud Infra Center",
@@ -2170,7 +2170,7 @@
         }
       ],
       "volumeSource": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202508060006",
-      "industry": "科技/製造",
+      "industry": "製造",
       "techDecisionMaker": {
         "name": "Jong Wan Kim",
         "title": "LG CNS基礎設施單位副總裁",
@@ -2245,7 +2245,7 @@
         }
       ],
       "volumeSource": "https://www.datacenterdynamics.com/en/news/indias-tata-launches-business-entity-for-1gw-data-center-build-out/",
-      "industry": "科技/IT服務",
+      "industry": "IT服務",
       "techDecisionMaker": {
         "name": "Ramkumar Muthaiyan",
         "title": "技術主管 - 網絡安全與雲端",
@@ -2296,7 +2296,7 @@
         }
       ],
       "volumeSource": "https://www.datacenterdynamics.com/en/news/kkr-and-singtel-fully-acquire-data-center-firm-stt-gdc/",
-      "industry": "媒體/娛樂",
+      "industry": "媒體",
       "techDecisionMaker": {
         "name": "Dan Pointon",
         "title": "集團首席技術官",
@@ -2695,7 +2695,7 @@
         }
       ],
       "volumeSource": "https://www.forbes.com/sites/mitsubishi-electric/2024/08/21/the-transformation-of-mitsubishi-electric-investing-in-a-digitally-integrated-future/",
-      "industry": "金融/工業",
+      "industry": "金融",
       "techDecisionMaker": {
         "name": "Hiroshi Sato",
         "title": "Head of Global IT platform",
@@ -2890,7 +2890,7 @@
         }
       ],
       "volumeSource": "https://www.hyundai.com/worldwide/en/company/ir/ir-resources/sales-results",
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "Eunsook Jin",
         "title": "資訊通信技術管理部門總裁兼主管",
@@ -3602,7 +3602,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSscsk-corporation",
-      "industry": "科技/半導體",
+      "industry": "半導體",
       "techDecisionMaker": {
         "name": "Katsumi Yamanaka",
         "title": "技術服務部建築解決方案部門總經理 IT基礎設施服務事業群",
@@ -4184,7 +4184,7 @@
         }
       ],
       "volumeSource": "https://www.gotocompany.com/en/news/press/goto-group-tencent-cloud-and-alibaba-cloud-sign-agreement-to-boost-cloud-infrastructure-and-nurture-local-digital-talent-in-indonesia",
-      "industry": "科技/交通",
+      "industry": "交通",
       "techDecisionMaker": {
         "name": "Ananto Widhi Nugroho",
         "title": "Global Head IT",
@@ -4967,7 +4967,7 @@
         }
       ],
       "volumeSource": "https://www.datacenterdynamics.com/en/news/koreas-kakao-bank-plans-fifth-data-center/",
-      "industry": "科技/社群",
+      "industry": "社群",
       "techDecisionMaker": {
         "name": "Shin Jae-hong",
         "title": "Chief Technology Officer",
@@ -5537,7 +5537,7 @@
         }
       ],
       "volumeSource": "https://cv.tatamotors.com/volumes",
-      "industry": "科技/IT服務",
+      "industry": "IT服務",
       "techDecisionMaker": {
         "name": "Ashwinkuumar Gaikwad",
         "title": "IT基礎設施及服務運營主管",
@@ -6066,7 +6066,7 @@
         }
       ],
       "volumeSource": "https://www.globalsuzuki.com/ir/library/financialresults/pdf/2024/financial_presentation_s.pdf",
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "Akira Nonaka",
         "title": "常務董事、執行總經理、全球資訊技術部門",
@@ -6399,7 +6399,7 @@
       ],
       "volumeSource": "https://holdings.panasonic/global/corporate/investors/pdf/annual/2024/pana_ar2024e_a4.pdf",
       "rank": 103,
-      "industry": "科技/製造",
+      "industry": "製造",
       "techDecisionMaker": {
         "name": "Anurag Verma",
         "title": "資訊基礎設施與安全部門主管",

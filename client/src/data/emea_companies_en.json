@@ -251,7 +251,7 @@
         }
       ],
       "volumeSource": "https://www.sap.com/investors/en/financial-documents-and-events.html",
-      "industry": "Technology/Enterprise Software",
+      "industry": "Enterprise SW",
       "techDecisionMaker": {
         "name": "Stefan Rettkowski",
         "title": "Director Data Center Management Europe",
@@ -480,7 +480,7 @@
         }
       ],
       "volumeSource": "https://www.telefonica.com/en/communication-room/press-room/telefonica-invests-e77-billion-infrastructure-deployment-10-years-sdgs/",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Enrique Blanco Nadales",
         "title": "Global CTIO",
@@ -525,7 +525,7 @@
         }
       ],
       "volumeSource": "https://en.wikipedia.org/wiki/Hetzner",
-      "industry": "Technology/Social",
+      "industry": "Social",
       "techDecisionMaker": {
         "name": "Renee Werner",
         "title": "Director Data Center Operations & Construction",
@@ -644,7 +644,7 @@
       },
       "siDist": [],
       "volumeSource": "https://www.ionos.com/about",
-      "industry": "Technology",
+      "industry": "Tech",
       "archetype": "neocloud",
       "difficultyReason": "D1(Supplier Lock-in)=8, D2(Decision Complexity)=2, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=2, D6(Geopolitical Risk)=3. The overall entry difficulty is relatively high mainly due to the high supplier lock-in."
     },
@@ -707,7 +707,7 @@
         }
       ],
       "volumeSource": "https://assets.new.siemens.com/siemens/assets/api/uuid:344347ec-a1bd-44cb-aaaa-711d1b3ec1b8/Siemens-Annual-Report-2024.pdf",
-      "industry": "Industrial/Manufacturing",
+      "industry": "Industrial",
       "techDecisionMaker": {
         "name": "Ciaran Flanagan",
         "title": "Vice President & Global Head of Data Center Solutions & Services",
@@ -1007,7 +1007,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSericsson",
-      "industry": "Technology/Telecom",
+      "industry": "Telecom",
       "techDecisionMaker": {
         "name": "Erik Ekudden",
         "title": "Group CTO",
@@ -1121,7 +1121,7 @@
         }
       ],
       "volumeSource": "https://www.aramco.com/-/media/publications/corporate-reports/annual-reports/saudi-aramco-ara-2023-english.pdf",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Basim AlRuwaii",
         "title": "VP IT Infrastructure",
@@ -1166,7 +1166,7 @@
         }
       ],
       "volumeSource": "https://w3techs.com/technologies/details/dc-groupiliad",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Jean-Baptiste Kempf",
         "title": "CTO",
@@ -1274,7 +1274,7 @@
         }
       ],
       "volumeSource": "https://www.nokia.com/newsroom/nokia-corporation-financial-report-for-q4-2025-and-full-year-2025/",
-      "industry": "Technology/Telecom",
+      "industry": "Telecom",
       "techDecisionMaker": {
         "name": "Azfar Aslam",
         "title": "Vice President & Chief Technology Officer, Europe",
@@ -1343,7 +1343,7 @@
         }
       ],
       "volumeSource": "https://www.bosch.com/company/supply-chain/purchasing/",
-      "industry": "Industrial/Manufacturing",
+      "industry": "Industrial",
       "techDecisionMaker": {
         "name": "Mathias Pillin",
         "title": "CTO Bosch Mobility",
@@ -1412,7 +1412,7 @@
         }
       ],
       "volumeSource": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2024/eand-integrated-annual-report-en.pdf",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Khalid Murshed",
         "title": "CEO e& enterprise",
@@ -1520,7 +1520,7 @@
         }
       ],
       "volumeSource": "https://www.volkswagen-group.com/en/key-figures-18842",
-      "industry": "Automotive/Manufacturing",
+      "industry": "Automotive",
       "techDecisionMaker": {
         "name": "Hauke Stars",
         "title": "Member of the Board of Management for IT",
@@ -1750,7 +1750,7 @@
         }
       ],
       "volumeSource": "https://help.mistral.ai/en/articles/347390-does-mistral-ai-disclose-its-training-datasets",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Timothée Lacroix",
         "title": "Co-Founder & CTO",
@@ -2002,7 +2002,7 @@
         }
       ],
       "volumeSource": "https://www.globaldata.com/store/report/saudi-aramco-enterprise-tech-analysis/",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Basim AlRuwaii",
         "title": "Infrastructure Vice President, Information Technology",
@@ -2047,7 +2047,7 @@
         }
       ],
       "volumeSource": "https://www.annualreports.com/HostedData/AnnualReports/PDF/atos_2021.pdf",
-      "industry": "Technology/IT Services",
+      "industry": "IT Services",
       "techDecisionMaker": {
         "name": "Laurent Barbet",
         "title": "Senior VP & Head of Infrastructure and Data Management",
@@ -2110,7 +2110,7 @@
         }
       ],
       "volumeSource": "",
-      "industry": "Technology",
+      "industry": "Tech",
       "archetype": "neocloud",
       "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=2, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=3, D6(Geopolitical Risk)=1. The entry barrier is relatively low, with the main challenge being channel expansion (3)."
     },
@@ -2149,7 +2149,7 @@
         }
       ],
       "volumeSource": "https://www.results.philips.com/",
-      "industry": "Healthcare/Technology",
+      "industry": "HealthTech",
       "techDecisionMaker": {
         "name": "Sreedhar Madisetty",
         "title": "Director - IT Infrastructure Procurement",
@@ -2200,7 +2200,7 @@
         }
       ],
       "volumeSource": "https://investors.worldline.com/content/dam/worldline-shared/documents/universal-registration-document/worldline-urd-2025-en.pdf",
-      "industry": "Technology/Social",
+      "industry": "Social",
       "techDecisionMaker": {
         "name": "Candice Dillon",
         "title": "Group Chief Technology Officer",
@@ -2257,7 +2257,7 @@
         }
       ],
       "volumeSource": "https://aws.amazon.com/blogs/big-data/how-bmw-group-built-a-serverless-terabyte-scale-data-transformation-architecture-with-dbt-and-amazon-athena/",
-      "industry": "Automotive/Manufacturing",
+      "industry": "Automotive",
       "techDecisionMaker": {
         "name": "Markus Brunner",
         "title": "Head Of Infrastructure",
@@ -2359,7 +2359,7 @@
         }
       ],
       "volumeSource": "https://www.mtn.com/wp-content/uploads/2025/04/MTN-Group-FY-24-Integrated-Report_spreads.pdf",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Mazen Mroué",
         "title": "Group Chief Digital and Fintech Officer",
@@ -2542,7 +2542,7 @@
         }
       ],
       "volumeSource": "https://www.ionos-group.com/fileadmin/Publications/presentations/2023_11_14_IONOS_Corporate_Presentation_NDR_web.pdf",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Markus Noga",
         "title": "Chief Technology Officer (CTO)",
@@ -2707,7 +2707,7 @@
         }
       ],
       "volumeSource": "https://www.datacenterdynamics.com/en/news/nestl%C3%A9-sells-data-center-in-switzerland-to-local-real-estate-firm/",
-      "industry": "Consumer Goods/Manufacturing",
+      "industry": "Consumer Goods",
       "techDecisionMaker": {
         "name": "Christopher Wright",
         "title": "Head of Information Technology and Nestlé Group CIO",
@@ -2752,7 +2752,7 @@
         }
       ],
       "volumeSource": "https://finance.yahoo.com/news/roche-boosts-ai-infrastructure-additional-114653156.html",
-      "industry": "Healthcare/Pharmaceutical",
+      "industry": "Pharma",
       "techDecisionMaker": {
         "name": "Wafaa Mamilli",
         "title": "Chief Digital and Technology Officer",
@@ -2854,7 +2854,7 @@
         }
       ],
       "volumeSource": "https://www.daimlertruck.com/en/newsroom/pressrelease/daimler-truck-unit-sales-2025-422510-units-53323810",
-      "industry": "Automotive/Manufacturing",
+      "industry": "Automotive",
       "techDecisionMaker": {
         "name": "Raghavendra Vaidya",
         "title": "Group CIO, Daimler Truck AG",
@@ -2929,7 +2929,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSamadeus-it-group",
-      "industry": "Technology/Travel",
+      "industry": "Travel",
       "techDecisionMaker": {
         "name": "Sylvain Roy",
         "title": "Chief Technology Officer",
@@ -2974,7 +2974,7 @@
         }
       ],
       "volumeSource": "https://www.globaldata.com/company-profile/airbus-se/premium-data/ict-spend-tech-priorities/",
-      "industry": "Defense/Aerospace",
+      "industry": "Defense",
       "techDecisionMaker": {
         "name": "Firoz Ansari",
         "title": "Head of Digital Infrastructure & Platforms",
@@ -3025,7 +3025,7 @@
         }
       ],
       "volumeSource": "https://www.stellantis.com/en/news/press-releases/2021/december/stellantis-targets-20-billion-in-incremental-annual-revenues-by-2030-driven-by-software-enabled-vehicles",
-      "industry": "Automotive/Manufacturing",
+      "industry": "Automotive",
       "techDecisionMaker": {
         "name": "Ned Curic",
         "title": "Chief Engineering & Technology Officer",
@@ -3100,7 +3100,7 @@
         }
       ],
       "volumeSource": "https://investors.capgemini.com/en/annual-reports/",
-      "industry": "Technology/IT Services",
+      "industry": "IT Services",
       "techDecisionMaker": {
         "name": "Reza HARIRI",
         "title": "Vice President CIO Advisory",
@@ -3331,7 +3331,7 @@
         }
       ],
       "volumeSource": "https://www.neom.com/en-us",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Joseph Bradley",
         "title": "CEO NEOM Tech & Digital",
@@ -3376,7 +3376,7 @@
         }
       ],
       "volumeSource": "https://baxtel.com/data-center/novartis",
-      "industry": "Healthcare/Pharmaceutical",
+      "industry": "Pharma",
       "techDecisionMaker": {
         "name": "Vijaya Trichur",
         "title": "Global Vice President, Head Cloud & Infrastructure Solutions",
@@ -3466,7 +3466,7 @@
         }
       ],
       "volumeSource": "https://huggingface.co/datasets/Aleph-Alpha/Aleph-Alpha-GermanWeb",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Andy Lippert",
         "title": "VP Infrastructure",
@@ -3511,7 +3511,7 @@
         }
       ],
       "volumeSource": "https://www.telcotitans.com/vodafonewatch/safaricom-preps-500m-investment-into-african-ai-infra/9303.article",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "James Maitai",
         "title": "Group Chief Technology and Information Officer",
@@ -3754,7 +3754,7 @@
         }
       ],
       "volumeSource": "https://www.unilever.com/investors/annual-report-and-accounts/",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Steve McCrystal",
         "title": "Chief Enterprise Technology Officer",
@@ -3979,7 +3979,7 @@
         }
       ],
       "volumeSource": "https://www.adyen.com/press-and-media/adyen-publishes-h2-2025-financial-results-3pgu2",
-      "industry": "Finance/Technology",
+      "industry": "FinTech",
       "techDecisionMaker": {
         "name": "Philippe Bontje",
         "title": "Product Manager Infrastructure",
@@ -4036,7 +4036,7 @@
         }
       ],
       "volumeSource": "https://corporate.zalando.com/en/investor-relations",
-      "industry": "Technology/E-commerce",
+      "industry": "E-commerce",
       "techDecisionMaker": {
         "name": "Mykhailo Prykhodko",
         "title": "Head of SAP Infrastructure",
@@ -4099,7 +4099,7 @@
         }
       ],
       "volumeSource": "https://www.asml.com/en/investors/annual-report/2025/financials",
-      "industry": "Technology/Semiconductor",
+      "industry": "Semiconductor",
       "techDecisionMaker": {
         "name": "Allan Cockriel",
         "title": "Chief Information Officer",
@@ -4144,7 +4144,7 @@
         }
       ],
       "volumeSource": "https://ffo3gv1cf3ir.merlincdn.net/hakkimizda/en/yatirimciiliskileri/InvestorReportLibrary/Turkcell-EFR-2025-ENG.pdf?20260319_03",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Pol Irgav",
         "title": "Associate Director | Head Of Project & IT Service Management",
@@ -4195,7 +4195,7 @@
         }
       ],
       "volumeSource": "https://www.volvogroup.com/content/dam/volvo-group/markets/master/news/2026/feb/Volvo-Group-Annual-Report-2025.pdf",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Scott Rafkin",
         "title": "Executive Vice President and Chief Digital Officer",
@@ -4246,7 +4246,7 @@
         }
       ],
       "volumeSource": "https://www.thalesgroup.com/en/supplier-relations",
-      "industry": "Defense/Aerospace",
+      "industry": "Defense",
       "techDecisionMaker": {
         "name": "Alexandre KEHIL",
         "title": "Head of Infrastructure & IT Services",
@@ -4291,7 +4291,7 @@
         }
       ],
       "volumeSource": "https://www.reuters.com/business/schneider-beats-profit-expectations-data-center-demand-offsets-weak-dollar-2026-02-26/",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Dominique Zuliani",
         "title": "Head of IT GSC Europe",
@@ -4336,7 +4336,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUSnaspers-/-prosus",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Euro Beinat",
         "title": "Global Head AI and Data Science",
@@ -4429,7 +4429,7 @@
         }
       ],
       "volumeSource": "https://www.haproxy.com/user-spotlight-series/hyperscaling-self-service-infrastructure-transitioning-from-ticketing-to-load-balancing-as-a-service-at-criteo",
-      "industry": "Technology/Advertising",
+      "industry": "Advertising",
       "techDecisionMaker": {
         "name": "Matthieu Blumberg",
         "title": "Senior Vice President of Engineering Infrastructure, Security, Internal IT",
@@ -4474,7 +4474,7 @@
         }
       ],
       "volumeSource": "https://www.leonardo.com/documents/15646808/0/2024+Integrated+Annual+Report.pdf?t=1749748195850",
-      "industry": "Defense/Aerospace",
+      "industry": "Defense",
       "techDecisionMaker": {
         "name": "Massa Alessandro",
         "title": "Chief Technology & Innovation Officer",
@@ -4519,7 +4519,7 @@
         }
       ],
       "volumeSource": "https://www.intricately.com/reports/bae-systems",
-      "industry": "Defense/Aerospace",
+      "industry": "Defense",
       "techDecisionMaker": {
         "name": "Simon Whibberley",
         "title": "Head of IT Infrastructure & Operations",
@@ -4672,7 +4672,7 @@
         }
       ],
       "volumeSource": "https://www.idc.com/getdoc.jsp?containerId=prUScontinental-ag",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Christian Kötz",
         "title": "Chairperson of the Executive Board",
@@ -4717,7 +4717,7 @@
         }
       ],
       "volumeSource": "https://investor.3ds.com/financial-information/annual-reports",
-      "industry": "Technology/Industrial",
+      "industry": "Industrial",
       "techDecisionMaker": {
         "name": "Florence Hu-Aubigny",
         "title": "EVP R&D",
@@ -4768,7 +4768,7 @@
         }
       ],
       "volumeSource": "https://www.ooredoo.com/en/investors/",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Sheikh Mohammed Bin Abdulla Al Thani",
         "title": "Deputy Group CEO",
@@ -5066,7 +5066,7 @@
         }
       ],
       "volumeSource": "https://www.atea.com/media/nubfsooi/transcript-q4-2024.pdf",
-      "industry": "Technology",
+      "industry": "Tech",
       "archetype": "enterprise_general",
       "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=5, D3(Technical Barrier)=3, D4(Channel Access)=4, D5(Competition)=6, D6(Geopolitical Risk)=3. 綜合評估各維度，難度中等。"
     },
@@ -5099,7 +5099,7 @@
         }
       ],
       "volumeSource": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A1287",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Scot Burdette",
         "title": "Global CIO",
@@ -5180,7 +5180,7 @@
         }
       ],
       "volumeSource": "https://www.infineon.com/assets/row/public/documents/corporate/investors/annual-reports/2025/2025-annual-report-v01-00-en.pdf",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Stephen Pullen",
         "title": "Vice President, IT Infrastructure Applications & Security",
@@ -5300,7 +5300,7 @@
         }
       ],
       "volumeSource": "https://www.globaldata.com/company-profile/sopra-steria-group/premium-data/ict-spend-tech-priorities/",
-      "industry": "Technology/IT Services",
+      "industry": "IT Services",
       "techDecisionMaker": {
         "name": "Jean-Marie Souchu",
         "title": "Infrastructure Management Director",
@@ -5390,7 +5390,7 @@
         }
       ],
       "volumeSource": "https://www.statista.com/statistics/1377926/delivery-hero-order-volume/",
-      "industry": "Technology/E-commerce",
+      "industry": "E-commerce",
       "techDecisionMaker": {
         "name": "Kai Wichmann",
         "title": "Director Infrastructure Engineering",
@@ -5435,7 +5435,7 @@
         }
       ],
       "volumeSource": "https://bolt.eu/en/blog/bolt-engineering-estonia/",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "待查詢",
         "title": "VP, Engineering & Infrastructure",
@@ -5480,7 +5480,7 @@
         }
       ],
       "volumeSource": "https://liquid.tech/",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "David Eurin",
         "title": "Group CTO",
@@ -5591,7 +5591,7 @@
         }
       ],
       "volumeSource": "https://investors.nxp.com/financial-information/irol-sec",
-      "industry": "Technology/Semiconductor",
+      "industry": "Semiconductor",
       "techDecisionMaker": {
         "name": "Lars Reger",
         "title": "Executive Vice President and Chief Technology Officer",
@@ -5636,7 +5636,7 @@
         }
       ],
       "volumeSource": "https://www.research-tree.com/companies/uk/retail-finance/wise-plc-class-a/research/hypothesis-research/wise-leveraging-profitability-to-drive-infrastructure-and-growth/112_3b5590b8-a5c0-44e6-a36e-cb133e79c0a7",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Kostas Stamatoukos",
         "title": "Sr Director Of Engineering, Wise Platform & Receive",
@@ -5768,7 +5768,7 @@
         }
       ],
       "volumeSource": "https://investors.klarna.com/overview/default.aspx",
-      "industry": "Finance/Technology",
+      "industry": "FinTech",
       "techDecisionMaker": {
         "name": "Pontus Burman",
         "title": "Head of Infrastructure (Consultant)",
@@ -5813,7 +5813,7 @@
         }
       ],
       "volumeSource": "https://adevinta.com/wp-content/uploads/2024/04/Adevinta-AR-2023.pdf",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "待查詢",
         "title": "VP, Platform Engineering",
@@ -5858,7 +5858,7 @@
         }
       ],
       "volumeSource": "https://www.statista.com/statistics/1377926/delivery-hero-order-volume/",
-      "industry": "Technology/e-commerce",
+      "industry": "E-commerce",
       "techDecisionMaker": {
         "name": "Kai Wichmann",
         "title": "Director Infrastructure Engineering",
@@ -5903,7 +5903,7 @@
         }
       ],
       "volumeSource": "https://www.forvia.com/en/investors/equity-investors-analyst/financial-results",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Raphaël Viard",
         "title": "Group Senior Vice President, Chief Digital and Information Officer",
@@ -5948,7 +5948,7 @@
         }
       ],
       "volumeSource": "https://www.businessofapps.com/data/getir-statistics/",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Atahan Kara",
         "title": "VP of Infrastructure, Data&AI",
@@ -5993,7 +5993,7 @@
         }
       ],
       "volumeSource": "https://www.revolut.com/news",
-      "industry": "Finance/Technology",
+      "industry": "FinTech",
       "techDecisionMaker": {
         "name": "Vlad Yatsenko",
         "title": "Co-Founder & CTO",
@@ -6038,7 +6038,7 @@
         }
       ],
       "volumeSource": "https://www.ubisoft.com/en-us/company/about-us/investors",
-      "industry": "Media/Gaming",
+      "industry": "Gaming",
       "techDecisionMaker": {
         "name": "Christian Guillemot",
         "title": "CTO",
@@ -6083,7 +6083,7 @@
         }
       ],
       "volumeSource": "https://www.safran-group.com/finance",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Christophe Fontaine",
         "title": "VP IT & Digital",
@@ -6128,7 +6128,7 @@
         }
       ],
       "volumeSource": "https://www.zain.com/en/investor-relations/",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Nawaf Al-Gharabally",
         "title": "Group CTO",
@@ -6284,7 +6284,7 @@
         }
       ],
       "volumeSource": "https://www.a1.group/en/investor-relations",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Marcus Grausam",
         "title": "CEO A1 Austria & CTO",
@@ -6329,7 +6329,7 @@
         }
       ],
       "volumeSource": "https://www.zurich.com/en/investor-relations",
-      "industry": "Finance/Insurance",
+      "industry": "Insurance",
       "techDecisionMaker": {
         "name": "Ericson Chan",
         "title": "Group CIO",
@@ -6380,7 +6380,7 @@
         }
       ],
       "volumeSource": "https://www.astrazeneca.com/investor-relations.html",
-      "industry": "Healthcare/Pharmaceutical",
+      "industry": "Pharma",
       "techDecisionMaker": {
         "name": "Cristina Duran",
         "title": "VP IT Infrastructure",
@@ -6431,7 +6431,7 @@
         }
       ],
       "volumeSource": "https://investor.3ds.com/",
-      "industry": "Technology/Industrial",
+      "industry": "Industrial",
       "techDecisionMaker": {
         "name": "Pascal Daloz",
         "title": "CEO",
@@ -6514,7 +6514,7 @@
         }
       ],
       "volumeSource": "https://n26.com/en-eu/press",
-      "industry": "Technology",
+      "industry": "Tech",
       "techDecisionMaker": {
         "name": "Jan Kemper",
         "title": "CFO & Co-CEO",
@@ -6602,7 +6602,7 @@
       },
       "siDist": [],
       "volumeSource": "https://en.wikipedia.org/wiki/SAP_Cloud_Infrastructure",
-      "industry": "Technology",
+      "industry": "Tech",
       "archetype": "neocloud",
       "difficultyReason": "D1(Supplier Lock-in)=2, D2(Decision Complexity)=5, D3(Technical Barrier)=5, D4(Channel Access)=5, D5(Competition)=5, D6(Geopolitical Risk)=3. Considering supplier lock-in (2), decision complexity (5), technical barrier (5), channel access (5), market competition (5), and geopolitical risk (3), the overall difficulty is assessed as 4 points."
     },
@@ -6823,7 +6823,7 @@
         }
       ],
       "volumeSource": "",
-      "industry": "Technology",
+      "industry": "Tech",
       "archetype": "enterprise_general",
       "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=3, D3(Technical Barrier)=1, D4(Channel Access)=3, D5(Competition)=3, D6(Geopolitical Risk)=2. The main challenge comes from having a primary supplier but not exclusive, with moderate switching costs."
     }

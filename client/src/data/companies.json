@@ -47,7 +47,7 @@
         }
       ],
       "volumeSource": "https://finance.yahoo.com/news/amazons-data-center-spend-tops-130400662.html",
-      "industry": "科技/雲端",
+      "industry": "雲端",
       "techDecisionMaker": {
         "name": "Peter DeSantis",
         "title": "AWS 公用事業計算資深副總裁",
@@ -105,7 +105,7 @@
         }
       ],
       "volumeSource": "https://www.cnbc.com/2025/01/03/microsoft-expects-to-spend-80-billion-on-ai-data-centers-in-fy-2025.html",
-      "industry": "科技/雲端",
+      "industry": "雲端",
       "techDecisionMaker": {
         "name": "Mark Russinovich",
         "title": "微軟 Azure 首席技術官兼技術院士",
@@ -163,7 +163,7 @@
         }
       ],
       "volumeSource": "https://en.wikipedia.org/wiki/Google_data_centers",
-      "industry": "科技/雲端",
+      "industry": "雲端",
       "techDecisionMaker": {
         "name": "Bikash Koley",
         "title": "全球基礎設施與容量副總裁",
@@ -221,7 +221,7 @@
         }
       ],
       "volumeSource": "https://finance.yahoo.com/news/meta-microsoft-both-blew-data-012942413.html",
-      "industry": "科技/社群",
+      "industry": "社群",
       "techDecisionMaker": {
         "name": "Santosh Janardhan",
         "title": "全球基礎設施主管，工程聯合主管",
@@ -267,7 +267,7 @@
         }
       ],
       "volumeSource": "https://www.datacenterdynamics.com/en/news/apple-anticipates-substantial-capex-growth-with-investment-in-ai-infrastructure/",
-      "industry": "科技/消費電子",
+      "industry": "消費電子",
       "techDecisionMaker": {
         "name": "John Ternus",
         "title": "硬體工程資深副總裁",
@@ -337,7 +337,7 @@
         }
       ],
       "volumeSource": "https://cloudwars.com/cloud/oracle-dominates-competitors-in-cloud-region-buildout-microsoft-2-google-cloud-3-aws-4/",
-      "industry": "科技/企業軟體",
+      "industry": "企業軟體",
       "techDecisionMaker": {
         "name": "Clay Magouyrk",
         "title": "CEO, Oracle",
@@ -680,7 +680,7 @@
         }
       ],
       "volumeSource": "https://www.datacenterdynamics.com/en/news/microsoft-spent-111bn-on-data-center-leases-alone-in-q1-2026/",
-      "industry": "科技/社群",
+      "industry": "社群",
       "techDecisionMaker": {
         "name": "Mohak Shroff",
         "title": "SVP of Engineering",
@@ -725,7 +725,7 @@
         }
       ],
       "volumeSource": "https://www.reuters.com/technology/musk-orders-twitter-cut-infrastructure-costs-by-1-bln-sources-2022-11-03/",
-      "industry": "科技/社群",
+      "industry": "社群",
       "techDecisionMaker": {
         "name": "Dantley Davis",
         "title": "基礎設施工程副總裁",
@@ -988,7 +988,7 @@
         }
       ],
       "volumeSource": "https://www.datacenterdynamics.com/en/news/salesforce-increases-data-center-spend-in-202122/",
-      "industry": "科技/企業軟體",
+      "industry": "企業軟體",
       "techDecisionMaker": {
         "name": "Meir Amiel",
         "title": "總裁，首席信任與基礎設施官",
@@ -1091,7 +1091,7 @@
         }
       ],
       "volumeSource": "https://www.datacenterknowledge.com/investing/gm-plans-258-million-data-center-in-michigan",
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "Ed Nightingale",
         "title": "數位產品與基礎設施副總裁",
@@ -1262,7 +1262,7 @@
         }
       ],
       "volumeSource": "https://www.nutanix.com/impact-report",
-      "industry": "科技/基礎設施",
+      "industry": "基礎設施",
       "techDecisionMaker": {
         "name": "Wendy Pfeiffer",
         "title": "CIO",
@@ -1353,7 +1353,7 @@
         }
       ],
       "volumeSource": "https://www.fromtheroad.ford.com/us/en/articles/2025/ford-reinvests-trucks-hybrids-affordable-electric-vehicles",
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "Sudhakar Pandrangi",
         "title": "資料中心及製造網路總監",
@@ -1501,7 +1501,7 @@
         }
       ],
       "volumeSource": "https://blog.cloudflare.com/backbone2024/",
-      "industry": "科技/基礎設施",
+      "industry": "基礎設施",
       "procurementDecisionMaker": {
         "name": "Ignacio Cabrera",
         "title": "副總裁兼首席採購官 (CPO)",
@@ -1558,7 +1558,7 @@
         }
       ],
       "volumeSource": "https://www.ir.akamai.com/static-files/7b277c5f-83d7-46dd-b28a-5757026f09a7",
-      "industry": "科技/基礎設施",
+      "industry": "基礎設施",
       "techDecisionMaker": {
         "name": "Sabine A. Sitterli",
         "title": "全球網路基礎設施副總裁",
@@ -1660,7 +1660,7 @@
         }
       ],
       "volumeSource": "https://www.lightreading.com/ai-machine-learning/comcast-takes-ai-to-the-edge",
-      "industry": "電信/媒體",
+      "industry": "電信",
       "techDecisionMaker": {
         "name": "Michael Rebhorn",
         "title": "數據中心運營總監",
@@ -1858,7 +1858,7 @@
         }
       ],
       "volumeSource": "https://finance.yahoo.com/news/tesla-unveils-20-billion-capex-161113987.html",
-      "industry": "汽車/製造",
+      "industry": "汽車",
       "techDecisionMaker": {
         "name": "Ashok Elluswamy",
         "title": "VP of AI Software",
@@ -2085,7 +2085,7 @@
         }
       ],
       "volumeSource": "https://www.intricately.com/reports/boeing",
-      "industry": "國防/航太",
+      "industry": "國防",
       "techDecisionMaker": {
         "name": "Richard Stewart",
         "title": "資深總監，Boeing IT基礎設施與運營",
@@ -2227,7 +2227,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=walt-disney-company&CIK=&type=10-K",
-      "industry": "媒體/娛樂",
+      "industry": "媒體",
       "techDecisionMaker": {
         "name": "Ricardo Gonzaga",
         "title": "國際基礎設施主管",
@@ -2407,7 +2407,7 @@
         }
       ],
       "volumeSource": "https://www.investing.com/news/transcripts/digitalocean-at-morgan-stanley-conference-ai-growth-and-strategic-expansion-93CH-4538836",
-      "industry": "科技/雲端",
+      "industry": "雲端",
       "techDecisionMaker": {
         "name": "Vinay Kumar",
         "title": "首席產品與技術長",
@@ -2497,7 +2497,7 @@
         }
       ],
       "volumeSource": "https://trembit.com/blog/how-much-does-it-cost-to-maintain-twitch-infrastructure/",
-      "industry": "媒體/娛樂",
+      "industry": "媒體",
       "procurementDecisionMaker": {
         "name": "Elena Finnegan",
         "title": "全球供應鏈與採購主管，Amazon Web Services (AWS)",
@@ -2587,7 +2587,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=warner-bros-discovery&CIK=&type=10-K",
-      "industry": "媒體/娛樂",
+      "industry": "媒體",
       "techDecisionMaker": {
         "name": "Chris Fontaine",
         "title": "基礎設施與雲端工程集團副總裁",
@@ -2800,7 +2800,7 @@
         }
       ],
       "volumeSource": "https://www.leidos.com/insights/leidos-helps-utilities-and-developers-tackle-ai-data-centers-power-demands",
-      "industry": "國防/IT服務",
+      "industry": "國防IT",
       "techDecisionMaker": {
         "name": "Blake Nelson",
         "title": "副總裁，雲端與資料中心實務",
@@ -2845,7 +2845,7 @@
         }
       ],
       "volumeSource": "https://www.amd.com/content/dam/amd/en/documents/resources/case-studies/rackspace-case-study.pdf",
-      "industry": "科技/雲端",
+      "industry": "雲端",
       "techDecisionMaker": {
         "name": "Jim Weinheimer",
         "title": "VP of Data Center Operations",
@@ -2908,7 +2908,7 @@
         }
       ],
       "volumeSource": "https://www.digitimes.com/news/a20260305VL208/broadcom-chips-server-rack-shipments-gross-margin.html",
-      "industry": "科技/半導體",
+      "industry": "半導體",
       "techDecisionMaker": {
         "name": "Alan Davidson",
         "title": "Chief Information Officer",
@@ -2965,7 +2965,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/Archives/edgar/data/804328/000080432822000021/qcom-20220925.htm",
-      "industry": "科技/半導體",
+      "industry": "半導體",
       "techDecisionMaker": {
         "name": "Zeeshan Sabir",
         "title": "資訊基礎設施副總裁",
@@ -3010,7 +3010,7 @@
         }
       ],
       "volumeSource": "https://urielbitton.substack.com/p/how-much-money-does-netflix-spend",
-      "industry": "媒體/娛樂",
+      "industry": "媒體",
       "techDecisionMaker": {
         "name": "Jimmy Vosler",
         "title": "總監 | 技術運營",
@@ -3151,7 +3151,7 @@
         }
       ],
       "volumeSource": "https://investors.ebayinc.com/financial-information/annual-reports",
-      "industry": "科技/電商",
+      "industry": "電商",
       "techDecisionMaker": {
         "name": "Mazen Rawashdeh",
         "title": "SVP & CTO",
@@ -3196,7 +3196,7 @@
       ],
       "volumeSource": "https://www.datacenterdynamics.com/en/news/servicenow-signs-12bn-contract-with-google-cloud-report/",
       "rank": 61,
-      "industry": "科技/企業軟體",
+      "industry": "企業軟體",
       "techDecisionMaker": {
         "name": "Davin C.",
         "title": "雲端基礎設施工程集團副總裁",
@@ -3298,7 +3298,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=saic&CIK=&type=10-K",
-      "industry": "國防/IT服務",
+      "industry": "國防IT",
       "techDecisionMaker": {
         "name": "Nathan Rogers",
         "title": "資深副總裁兼首席資訊官（CIO）",
@@ -3343,7 +3343,7 @@
         }
       ],
       "volumeSource": "https://www.datacenterdynamics.com/en/news/lockheed-martin-awarded-213-million-f-35-data-center-modernization-contract-in-florida/",
-      "industry": "國防/航太",
+      "industry": "國防",
       "techDecisionMaker": {
         "name": "Richard Vitek",
         "title": "副總裁，數據與人工智慧賦能",
@@ -3400,7 +3400,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=zoom-video-communications&CIK=&type=10-K",
-      "industry": "科技/通訊",
+      "industry": "通訊",
       "techDecisionMaker": {
         "name": "Xuedong Huang",
         "title": "CTO",
@@ -3508,7 +3508,7 @@
         }
       ],
       "volumeSource": "https://www.aol.com/articles/northrop-grumman-29-2026-95-130452515.html",
-      "industry": "國防/航太",
+      "industry": "國防",
       "techDecisionMaker": {
         "name": "Travis Garriss",
         "title": "副總裁兼首席資訊與數位長",
@@ -3559,7 +3559,7 @@
         }
       ],
       "volumeSource": "https://www.rtx.com/investors",
-      "industry": "國防/航太",
+      "industry": "國防",
       "techDecisionMaker": {
         "name": "Vince Campisi",
         "title": "SVP & Chief Digital Officer",
@@ -3604,7 +3604,7 @@
         }
       ],
       "volumeSource": "https://investor.uber.com/financial-information/annual-reports",
-      "industry": "科技/交通",
+      "industry": "交通",
       "techDecisionMaker": {
         "name": "Sundeep Jain",
         "title": "SVP of Engineering",
@@ -3694,7 +3694,7 @@
         }
       ],
       "volumeSource": "https://investors.dropbox.com/financial-information/annual-reports",
-      "industry": "科技/雲端",
+      "industry": "雲端",
       "techDecisionMaker": {
         "name": "Sylvie Veilleux",
         "title": "前首席資訊官（現任董事會顧問）",
@@ -3739,7 +3739,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=yahoo&CIK=&type=10-K",
-      "industry": "科技/媒體",
+      "industry": "媒體",
       "techDecisionMaker": {
         "name": "Austin Lee",
         "title": "數據中心運營總監",
@@ -3835,7 +3835,7 @@
         }
       ],
       "volumeSource": "https://investors.palantir.com/financial-information/sec-filings",
-      "industry": "科技/AI",
+      "industry": "AI",
       "techDecisionMaker": {
         "name": "Shyam Sankar",
         "title": "CTO",
@@ -3892,7 +3892,7 @@
         }
       ],
       "volumeSource": "https://www.drugdiscoverytrends.com/pfizer-exec-frames-digital-as-a-core-business-strategy/",
-      "industry": "醫療/製藥",
+      "industry": "製藥",
       "techDecisionMaker": {
         "name": "Lidia Fonseca",
         "title": "首席數位與技術長，執行副總裁",
@@ -3994,7 +3994,7 @@
         }
       ],
       "volumeSource": "https://www.globaldata.com/store/report/general-electric-enterprise-tech-analysis/",
-      "industry": "工業/製造",
+      "industry": "工業",
       "techDecisionMaker": {
         "name": "Vince Campisi",
         "title": "SVP & CIO",
@@ -4057,7 +4057,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=l3harris-technologies&CIK=&type=10-K",
-      "industry": "國防/航太",
+      "industry": "國防",
       "techDecisionMaker": {
         "name": "Ross Niebergall",
         "title": "CTO",
@@ -4102,7 +4102,7 @@
         }
       ],
       "volumeSource": "https://investors.fastly.com/financial-information/annual-reports",
-      "industry": "科技/基礎設施",
+      "industry": "基礎設施",
       "techDecisionMaker": {
         "name": "Chirag Ghosh",
         "title": "基礎設施工程副總裁",
@@ -4153,7 +4153,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=instacart&CIK=&type=10-K",
-      "industry": "科技/電商",
+      "industry": "電商",
       "techDecisionMaker": {
         "name": "Dustin Pearce",
         "title": "基礎設施副總裁",
@@ -4255,7 +4255,7 @@
       "volumeSource": "https://investor.uber.com/financial-information/annual-reports/",
       "company": "Uber Technologies",
       "volume": "約 4,000 - 8,000 台/年",
-      "industry": "科技/交通",
+      "industry": "交通",
       "techDecisionMaker": {
         "name": "Sundeep Jain",
         "title": "工程與基礎設施資深副總裁",
@@ -4312,7 +4312,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=micron-technology&CIK=&type=10-K",
-      "industry": "科技/半導體",
+      "industry": "半導體",
       "techDecisionMaker": {
         "name": "April Arnzen",
         "title": "SVP & Chief People Officer",
@@ -4369,7 +4369,7 @@
         }
       ],
       "volumeSource": "https://www.merck.com/investor-relations/annual-report/",
-      "industry": "醫療/製藥",
+      "industry": "製藥",
       "techDecisionMaker": {
         "name": "Najat Khan",
         "title": "Chief Data & AI Officer",
@@ -4471,7 +4471,7 @@
         }
       ],
       "volumeSource": "https://www.investor.jnj.com/annual-meeting-materials",
-      "industry": "醫療/製藥",
+      "industry": "製藥",
       "techDecisionMaker": {
         "name": "Jim Swanson",
         "title": "EVP & CIO",
@@ -4642,7 +4642,7 @@
       "volumeSource": "https://investors.broadcom.com/financial-information/annual-reports",
       "company": "Broadcom (VMware)",
       "volume": "約 3,000 - 6,000 台/年",
-      "industry": "科技/半導體",
+      "industry": "半導體",
       "techDecisionMaker": {
         "name": "Charlie Kawwas",
         "title": "半導體解決方案集團總裁",
@@ -4699,7 +4699,7 @@
         }
       ],
       "volumeSource": "https://www.globaldata.com/store/report/procter-and-gamble-company-enterprise-tech-analysis/",
-      "industry": "消費品/製造",
+      "industry": "消費品",
       "techDecisionMaker": {
         "name": "Zuzanna Dylęgowska",
         "title": "IT 高級總監，雲端工程",
@@ -4744,7 +4744,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=john-deere&CIK=&type=10-K",
-      "industry": "工業/製造",
+      "industry": "工業",
       "techDecisionMaker": {
         "name": "Ganesh Jayaram",
         "title": "VP & CIO",
@@ -4909,7 +4909,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=paypal&CIK=&type=10-K",
-      "industry": "金融/科技",
+      "industry": "金融科技",
       "techDecisionMaker": {
         "name": "Archana Singh",
         "title": "CTO",
@@ -4954,7 +4954,7 @@
         }
       ],
       "volumeSource": "https://www.sec.gov/cgi-bin/browse-edgar?company=caterpillar&CIK=&type=10-K",
-      "industry": "工業/製造",
+      "industry": "工業",
       "techDecisionMaker": {
         "name": "Jamie Engstrom",
         "title": "首席資訊官兼資深副總裁",
@@ -5056,7 +5056,7 @@
         }
       ],
       "volumeSource": "https://enkiai.com/ai-market-intelligence/3ms-2025-ai-data-center-strategy-revealed",
-      "industry": "工業/製造",
+      "industry": "工業",
       "techDecisionMaker": {
         "name": "Mark Murphy",
         "title": "執行副總裁、首席資訊與數位長",
