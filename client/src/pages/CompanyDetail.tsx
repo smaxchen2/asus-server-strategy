@@ -29,10 +29,10 @@ function DifficultyBadge({ score }: { score: number }) {
 }
 
 export default function CompanyDetail() {
-  const { t } = useLanguage();
+  const { t, lang } = useLanguage();
   const params = useParams<{ rank: string; region?: string }>();
   const regionKey = (params.region || "na") as RegionKey;
-  const regionConfig = getRegion(regionKey);
+  const regionConfig = getRegion(regionKey, lang as "zh" | "en");
   const rank = parseInt(params.rank || "1");
   const company = regionConfig.companies.find((c) => c.rank === rank);
 

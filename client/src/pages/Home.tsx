@@ -2,7 +2,7 @@ import { useState, useMemo, Fragment } from "react";
 import { Link, useParams, useLocation } from "wouter";
 import { getRegion, regionKeys, type RegionKey, type Company } from "@/lib/regions";
 import { useLanguage } from "@/contexts/LanguageContext";
-import type { Translations } from "@/lib/i18n";
+import type { Translations, Lang } from "@/lib/i18n";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import {
   Search,
@@ -424,11 +424,11 @@ function DifficultyDistribution({ companies }: { companies: Company[] }) {
 
 /* ─── Main Component ─── */
 export default function Home() {
-  const { t } = useLanguage();
+  const { t, lang } = useLanguage();
   const params = useParams<{ region?: string }>();
   const [, navigate] = useLocation();
   const currentRegionKey = (params.region || "na") as RegionKey;
-  const regionConfig = getRegion(currentRegionKey);
+  const regionConfig = getRegion(currentRegionKey, lang as "zh" | "en");
   const companies = regionConfig.companies;
 
   const [search, setSearch] = useState("");
@@ -580,7 +580,7 @@ export default function Home() {
               {regionKeys.map((key) => {
                 const r = regionLabels[key];
                 const isActive = key === currentRegionKey;
-                const regionData = getRegion(key);
+                const regionData = getRegion(key, lang as "zh" | "en");
                 return (
                   <button
                     key={key}

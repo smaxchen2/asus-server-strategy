@@ -26,6 +26,7 @@ interface Section {
 
 /** 已知的 archetype 前綴標籤 */
 const ARCHETYPE_PREFIXES = new Set([
+  // Chinese
   "超大規模雲端戰術",
   "neocloud",
   "企業 IT 戰術",
@@ -36,6 +37,26 @@ const ARCHETYPE_PREFIXES = new Set([
   "汽車/製造業戰術",
   "零售業戰術",
   "能源業戰術",
+  // English
+  "Hyperscale Cloud Strategy",
+  "NeoCloud Strategy",
+  "NeoCloud/AI Strategy",
+  "Enterprise IT Strategy",
+  "Enterprise IT Tactics",
+  "Financial Industry Strategy",
+  "Financial Industry Tactics",
+  "Healthcare Industry Strategy",
+  "Healthcare Industry Tactics",
+  "Defense Industry Strategy",
+  "Defense Industry Tactics",
+  "Telecom Industry Strategy",
+  "Telecom Industry Tactics",
+  "Automotive/Manufacturing Strategy",
+  "Automotive/Manufacturing Tactics",
+  "Retail Industry Strategy",
+  "Retail Industry Tactics",
+  "Energy Industry Strategy",
+  "Energy Industry Tactics",
 ]);
 
 function parseSections(text: string): Section[] {
