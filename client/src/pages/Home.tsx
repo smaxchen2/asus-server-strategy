@@ -220,7 +220,7 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
             <div className="bg-white p-5 space-y-3">
               {company.industry && (
                 <div>
-                  <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">{t.industryCategory}</div>
+                  <div className="text-xs font-bold tracking-[0.12em] uppercase text-foreground/80 mb-1.5">{t.industryCategory}</div>
                   <span className="inline-flex items-center gap-1 text-xs px-2 py-0.5 bg-indigo-50 text-indigo-700 font-medium">
                     <Tag className="w-3 h-3" />{company.industry}
                   </span>
@@ -237,7 +237,7 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
             <div className="bg-white p-5 space-y-4">
               {company.difficultyReason && (
                 <div>
-                  <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-blue-600 mb-2">{lang === 'en' ? 'DIFFICULTY ANALYSIS' : '難易度分析'}</div>
+                  <div className="text-xs font-bold tracking-[0.12em] uppercase text-blue-700 mb-2">{lang === 'en' ? 'DIFFICULTY ANALYSIS' : '難易度分析'}</div>
                   <div className="text-xs leading-relaxed text-muted-foreground bg-blue-50/50 p-2.5 border border-blue-100">
                     <div className="flex items-center gap-2 mb-1.5">
                       <span className="text-sm font-bold">{company.difficulty}/10</span>
@@ -248,11 +248,11 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
                 </div>
               )}
               <div className={company.difficultyReason ? 'border-t border-border/50 pt-4' : ''}>
-                <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-red-600 mb-2">{t.challengesTitle}</div>
+                <div className="text-xs font-bold tracking-[0.12em] uppercase text-red-700 mb-2">{t.challengesTitle}</div>
                 <StructuredText text={company.challenges} variant="compact" titleColor="text-red-700" />
               </div>
               <div className="border-t border-border/50 pt-4">
-                <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-emerald-600 mb-2">{t.entryPointTitle}</div>
+                <div className="text-xs font-bold tracking-[0.12em] uppercase text-emerald-700 mb-2">{t.entryPointTitle}</div>
                 <StructuredText text={company.entryPoint} variant="compact" titleColor="text-emerald-700" />
               </div>
             </div>
@@ -260,7 +260,7 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
             {/* Column 3: SI/DIST + Volume Source */}
             <div className="bg-white p-5 space-y-3">
               <div>
-                <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1.5">
+                <div className="text-xs font-bold tracking-[0.12em] uppercase text-foreground/80 mb-1.5">
                   {t.channelLabel}
                 </div>
                 <p className="text-xs font-medium mb-2">{company.channel}</p>
@@ -289,7 +289,7 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
               </div>
               {volSrc && (
                 <div>
-                  <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1.5">
+                  <div className="text-xs font-bold tracking-[0.12em] uppercase text-foreground/80 mb-1.5">
                     {t.volumeSource}
                   </div>
                   <a href={volSrc} target="_blank" rel="noopener noreferrer"
@@ -323,7 +323,7 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
 
               {/* Technical Decision Maker */}
               <div>
-                <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-blue-600 mb-1.5">
+                <div className="text-xs font-bold tracking-[0.12em] uppercase text-blue-700 mb-1.5">
                   <span className="flex items-center gap-1"><User className="w-3 h-3" /> {t.techDecisionMaker}</span>
                 </div>
                 {techDM && techDM.name ? (
@@ -341,8 +341,8 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
                     )}
                     {techDM.commStrategy && (
                       <div className="mt-1.5 p-2 bg-blue-50 border-l-2 border-blue-400">
-                        <p className="text-[10px] font-semibold text-blue-700 mb-1">{t.commStrategy}</p>
-                        <div className="text-[10px] text-blue-800">
+                        <p className="text-[11px] font-semibold text-blue-700 mb-1">{t.commStrategy}</p>
+                        <div className="text-[11px] text-blue-800">
                           <StructuredCommStrategy text={techDM.commStrategy} variant="compact" />
                         </div>
                       </div>
@@ -355,7 +355,7 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
 
               {/* Procurement Decision Maker */}
               <div>
-                <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-amber-600 mb-1.5">
+                <div className="text-xs font-bold tracking-[0.12em] uppercase text-amber-700 mb-1.5">
                   <span className="flex items-center gap-1"><User className="w-3 h-3" /> {t.procurementDecisionMaker}</span>
                 </div>
                 {procDM && procDM.name ? (
@@ -373,8 +373,8 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
                     )}
                     {procDM.commStrategy && (
                       <div className="mt-1.5 p-2 bg-amber-50 border-l-2 border-amber-400">
-                        <p className="text-[10px] font-semibold text-amber-700 mb-1">{t.commStrategy}</p>
-                        <div className="text-[10px] text-amber-800">
+                        <p className="text-[11px] font-semibold text-amber-700 mb-1">{t.commStrategy}</p>
+                        <div className="text-[11px] text-amber-800">
                           <StructuredCommStrategy text={procDM.commStrategy} variant="compact" />
                         </div>
                       </div>
@@ -402,8 +402,8 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
 function InfoBlock({ label, value }: { label: string; value: string }) {
   return (
     <div>
-      <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">{label}</div>
-      <p className="text-xs leading-relaxed">{value}</p>
+      <div className="text-xs font-bold tracking-[0.12em] uppercase text-foreground/80 mb-1.5">{label}</div>
+      <p className="text-[11px] leading-relaxed text-foreground/60">{value}</p>
     </div>
   );
 }

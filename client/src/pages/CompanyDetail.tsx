@@ -126,9 +126,9 @@ export default function CompanyDetail() {
             <div key={i} className="bg-white p-6">
               <div className="flex items-center gap-2 mb-3">
                 <section.icon className="w-4 h-4 text-primary" />
-                <h3 className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground">{section.title}</h3>
+                <h3 className="text-xs font-bold tracking-[0.12em] uppercase text-foreground/80">{section.title}</h3>
               </div>
-              <p className="text-sm leading-relaxed text-foreground">{section.content}</p>
+              <p className="text-[13px] leading-relaxed text-foreground/60">{section.content}</p>
             </div>
           ))}
         </div>
@@ -139,7 +139,7 @@ export default function CompanyDetail() {
           <div className="bg-white p-6">
             <div className="flex items-center gap-2 mb-3">
               <User className="w-4 h-4 text-primary" />
-              <h3 className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground">{t.keyPerson}</h3>
+              <h3 className="text-xs font-bold tracking-[0.12em] uppercase text-foreground/80">{t.keyPerson}</h3>
             </div>
             {kp && kp.name ? (
               <div className="space-y-1">
@@ -167,7 +167,7 @@ export default function CompanyDetail() {
           <div className="bg-white p-6">
             <div className="flex items-center gap-2 mb-3">
               <Truck className="w-4 h-4 text-primary" />
-              <h3 className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground">{t.siDistPartners}</h3>
+              <h3 className="text-xs font-bold tracking-[0.12em] uppercase text-foreground/80">{t.siDistPartners}</h3>
             </div>
             {siDist && siDist.length > 0 ? (
               <div className="space-y-2">
@@ -196,7 +196,7 @@ export default function CompanyDetail() {
           <div className="bg-white p-6">
             <div className="flex items-center gap-2 mb-3">
               <LinkIcon className="w-4 h-4 text-primary" />
-              <h3 className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground">{t.volumeSourceLabel}</h3>
+              <h3 className="text-xs font-bold tracking-[0.12em] uppercase text-foreground/80">{t.volumeSourceLabel}</h3>
             </div>
             {volSrc ? (
               <a href={volSrc} target="_blank" rel="noopener noreferrer"

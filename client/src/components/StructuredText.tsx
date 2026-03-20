@@ -8,6 +8,7 @@ import { Fragment } from "react";
  * 2. 段落內的數字編號（如 "1. "、"2. "）自動換行為條列
  * 3. 第一個【】標記（archetype 前綴）不顯示為標題
  * 4. 支援 variant: "compact"（Home 列表用）和 "full"（Detail 頁用）
+ * 5. 標題字體明顯大於內文，顏色與內文區分，提升可讀性
  */
 
 type Variant = "compact" | "full";
@@ -85,14 +86,8 @@ function parseSections(text: string): Section[] {
 
     // Skip archetype prefix tags (they're just labels, not section titles)
     if (ARCHETYPE_PREFIXES.has(tag)) {
-      // If there's body text directly after archetype tag (before next tag), add it
-      if (body && !body.startsWith("")) {
-        // Only add if it's actual content, not just leading into next section
-        // Usually archetype prefix is followed immediately by another 【】
-        // so body would be empty or whitespace
-        if (body.length > 0) {
-          sections.push({ title: "", body });
-        }
+      if (body && body.length > 0) {
+        sections.push({ title: "", body });
       }
       continue;
     }
@@ -108,11 +103,9 @@ function splitNumberedItems(text: string): string[] {
   if (!text) return [];
 
   // Match patterns like "1. ", "2. ", etc. that appear mid-text (not at start)
-  // Split before each number pattern
   const items = text.split(/(?=\d+\.\s)/).filter((s) => s.trim());
 
   if (items.length <= 1) {
-    // No numbered items found, return as single block
     return [text];
   }
 
@@ -127,7 +120,7 @@ export default function StructuredText({
   const sections = parseSections(text);
 
   if (sections.length === 0) {
-    return <p className="text-xs leading-relaxed text-foreground/80">{text}</p>;
+    return <p className="text-xs leading-relaxed text-foreground/70">{text}</p>;
   }
 
   // If only one section with no title, just render the body with numbered items
@@ -135,7 +128,7 @@ export default function StructuredText({
     const items = splitNumberedItems(sections[0].body);
     if (items.length <= 1) {
       return (
-        <p className="text-xs leading-relaxed text-foreground/80">
+        <p className="text-xs leading-relaxed text-foreground/70">
           {sections[0].body}
         </p>
       );
@@ -143,7 +136,7 @@ export default function StructuredText({
     return (
       <div className="space-y-1.5">
         {items.map((item, idx) => (
-          <p key={idx} className="text-xs leading-relaxed text-foreground/80">
+          <p key={idx} className="text-xs leading-relaxed text-foreground/70">
             {item}
           </p>
         ))}
@@ -152,13 +145,17 @@ export default function StructuredText({
   }
 
   const isCompact = variant === "compact";
-  const sectionGap = isCompact ? "space-y-3" : "space-y-4";
+  const sectionGap = isCompact ? "space-y-4" : "space-y-5";
+
+  // 標題：compact 用 text-xs (12px)，full 用 text-sm (14px)
+  // 內文：compact 用 text-[11px]，full 用 text-xs (12px)
+  // 標題顏色用 titleColor（深色），內文用 text-foreground/65（較淡）
   const titleSize = isCompact
-    ? "text-[10px] font-bold tracking-wide"
-    : "text-xs font-bold tracking-wide";
+    ? "text-xs font-bold tracking-wide"
+    : "text-sm font-bold tracking-wide";
   const bodySize = isCompact
-    ? "text-xs leading-relaxed"
-    : "text-sm leading-relaxed";
+    ? "text-[11px] leading-relaxed"
+    : "text-xs leading-relaxed";
 
   return (
     <div className={sectionGap}>
@@ -170,25 +167,25 @@ export default function StructuredText({
           <div key={sIdx}>
             {section.title && (
               <div
-                className={`${titleSize} ${titleColor} mb-1.5 flex items-center gap-1`}
+                className={`${titleSize} ${titleColor} mb-2 flex items-center gap-1.5`}
               >
-                <span className="opacity-40">&#9654;</span>
-                {section.title}
+                <span className="opacity-50">&#9654;</span>
+                <span>{section.title}</span>
               </div>
             )}
             {hasNumberedItems ? (
-              <div className="space-y-1.5 pl-2">
+              <div className="space-y-1.5 pl-3 border-l-2 border-border/30">
                 {items.map((item, iIdx) => (
                   <p
                     key={iIdx}
-                    className={`${bodySize} text-foreground/80`}
+                    className={`${bodySize} text-foreground/65`}
                   >
                     {item}
                   </p>
                 ))}
               </div>
             ) : (
-              <p className={`${bodySize} text-foreground/80`}>
+              <p className={`${bodySize} text-foreground/65 pl-3`}>
                 {section.body}
               </p>
             )}
@@ -214,8 +211,8 @@ export function StructuredCommStrategy({
 
   // If text is short enough, just render as-is
   if (text.length < 120) {
-    const size = variant === "compact" ? "text-[10px]" : "text-xs";
-    return <p className={`${size} leading-relaxed`}>{text}</p>;
+    const size = variant === "compact" ? "text-[11px]" : "text-xs";
+    return <p className={`${size} leading-relaxed text-foreground/65`}>{text}</p>;
   }
 
   // For longer text, try to split by sentence endings or major punctuation
@@ -224,16 +221,16 @@ export function StructuredCommStrategy({
     .filter((s) => s.trim());
 
   if (sentences.length <= 1) {
-    const size = variant === "compact" ? "text-[10px]" : "text-xs";
-    return <p className={`${size} leading-relaxed`}>{text}</p>;
+    const size = variant === "compact" ? "text-[11px]" : "text-xs";
+    return <p className={`${size} leading-relaxed text-foreground/65`}>{text}</p>;
   }
 
-  const size = variant === "compact" ? "text-[10px]" : "text-xs";
+  const size = variant === "compact" ? "text-[11px]" : "text-xs";
 
   return (
-    <div className="space-y-1">
+    <div className="space-y-1.5">
       {sentences.map((sentence, idx) => (
-        <p key={idx} className={`${size} leading-relaxed`}>
+        <p key={idx} className={`${size} leading-relaxed text-foreground/65`}>
           {sentence}
         </p>
       ))}
