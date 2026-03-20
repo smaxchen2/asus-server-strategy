@@ -41,7 +41,7 @@
       },
       "procurementDecisionMaker": {
         "name": "肖珂 (Ke Xiao)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購主管",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=字節跳動%20(ByteDance)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -86,7 +86,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）熊伟 (Wei Xiong)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=阿里雲%20(Alibaba%20Cloud)%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
@@ -131,7 +131,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）劉熾平 (Martin Lau)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=騰訊雲%20(Tencent%20Cloud)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -154,7 +154,7 @@
       "entryPoint": "【NeoCloud/AI 新創戰術】【短期（6-12個月）】1. 透過 紫光數碼 等通路合作夥伴建立間接合作關係，先以小規模專案證明 ASUS 的技術能力和服務品質。2. 針對 百度智能雲 (Baidu AI Cloud) 的非核心或新興業務需求提供標準化伺服器方案，降低切入門檻。 【中期（6-12個月）】3. 提供 ASUS ESC 系列 GPU 伺服器和 AI POD 解決方案的技術方案書，展示在 NVIDIA Blackwell/Rubin 平台的先發優勢。4. 針對 百度智能雲 (Baidu AI Cloud) 的液冷需求提供差異化的散熱解決方案，這是目前市場上的關鍵差異化因素。 【長期（1-2年）】5. 爭取成為 百度智能雲 (Baidu AI Cloud) 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 百度智能雲 (Baidu AI Cloud) 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 百度智能雲 (Baidu AI Cloud) 客戶，透過 紫光數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "沈抖 (Shen Dou)",
-        "title": "EVP & Head of Intelligent Cloud",
+        "title": "EVP & 智能雲部門主管",
         "linkedin": "https://www.linkedin.com/company/baidu-inc",
         "source": "LinkedIn"
       },
@@ -170,13 +170,13 @@
       "industry": "科技/AI",
       "techDecisionMaker": {
         "name": "沈抖 (Shen Dou)",
-        "title": "EVP & Head of Intelligent Cloud",
+        "title": "EVP 及 智能雲部門主管",
         "linkedin": "https://www.linkedin.com/company/baidu-inc",
         "commStrategy": "直接展示 GPU 伺服器（ESC N8-E11 / ESC N8-E12）的散熱效率與部署速度優勢，提供免費 POC 測試機"
       },
       "procurementDecisionMaker": {
         "name": "（推估）孟鑫洋 (Xinyang Meng)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=百度智能雲%20(Baidu%20AI%20Cloud)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
@@ -221,7 +221,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）王效松 (Xiaosong Wang)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=京東科技%20(JD%20Technology)%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
@@ -266,7 +266,7 @@
       },
       "procurementDecisionMaker": {
         "name": "楊寒 (Vivian Yang)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=美團%20(Meituan)%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
@@ -311,7 +311,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）趙佳臻 (Jiazhen Zhao)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=拼多多%20(PDD%20Holdings%20/%20Temu)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -356,7 +356,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Adam Smith",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=網易%20(NetEase)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -401,7 +401,7 @@
       },
       "procurementDecisionMaker": {
         "name": "熊伟 (Wei Xiong)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=快手%20(Kuaishou)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -446,7 +446,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）Seth Kwok",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=小紅書%20(Xiaohongshu%20/%20RED)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -491,7 +491,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）吳敏芝 (Minzhi Wu)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購主管",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=螞蟻集團%20(Ant%20Group)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -536,7 +536,7 @@
       },
       "procurementDecisionMaker": {
         "name": "飞鹰 (Fei Ying)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=嗶哩嗶哩%20(Bilibili)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -581,7 +581,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）付军华 (Junhua Fu)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=滴滴出行%20(DiDi)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -626,7 +626,7 @@
       },
       "procurementDecisionMaker": {
         "name": "李翊 (Yi Li)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=金山雲%20(Kingsoft%20Cloud)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -671,7 +671,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）王曉航 (Ray Wang)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購主管",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=平安科技%20(Ping%20An%20Technology)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -716,7 +716,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）茹立云 (Rú Lìyún)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=百川智能%20(Baichuan%20AI)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
@@ -761,7 +761,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）曹菲 (Fei Cao)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=微博%20(Weibo)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -806,7 +806,7 @@
       },
       "procurementDecisionMaker": {
         "name": "王韋 (Wang Wei)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=攜程集團%20(Trip.com%20Group)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -851,7 +851,7 @@
       },
       "procurementDecisionMaker": {
         "name": "張劍慧 (Jianhui Zhang)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=小米集團%20(Xiaomi)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -896,7 +896,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）張鵬 (Zhang Peng)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=智譜%20AI%20(Zhipu%20AI)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
@@ -941,7 +941,7 @@
       },
       "procurementDecisionMaker": {
         "name": "王昇 (Wang Sheng)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=順豐科技%20(SF%20Technology)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -986,7 +986,7 @@
       },
       "procurementDecisionMaker": {
         "name": "法安利 (Anli Fa)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=月之暗面%20(Moonshot%20AI%20/%20Kimi)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
@@ -1031,7 +1031,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）王贤祖 (Wang Xianzu)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=深度求索%20(DeepSeek)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
@@ -1076,7 +1076,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）陸政哲 (Simon Lu)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=幻方量化%20(High-Flyer%20Capital)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -1121,7 +1121,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）貟燁禕 (Yun Yeyi)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=MiniMax%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
@@ -1166,7 +1166,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）汪淑梅 (Shumei Wang)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=聯影醫療%20(United%20Imaging)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -1211,7 +1211,7 @@
       },
       "procurementDecisionMaker": {
         "name": "曾毓群 (Robin Zeng) / （推估）黃斌 (Huang Bin)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=寧德時代%20(CATL)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -1256,7 +1256,7 @@
       },
       "procurementDecisionMaker": {
         "name": "何志奇 (He Zhiqi)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=比亞迪%20(BYD)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -1301,7 +1301,7 @@
       },
       "procurementDecisionMaker": {
         "name": "劉偉 (Liu Wei)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=海爾卡奧斯%20(Haier%20COSMOPlat)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -1346,7 +1346,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）王貴林 (Guilin Wang)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=用友網絡%20(Yonyou)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -1391,7 +1391,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）鄭雪松 (Xuesong Zheng)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=貝殼找房%20(KE%20Holdings%20/%20Beike)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -1436,7 +1436,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）王成 (Wang Cheng)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=TCL%20科技%20(TCL%20Technology)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -1481,7 +1481,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）孟楷 (Kai Meng)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=藥明康德%20(WuXi%20AppTec)%20procurement%20VP",
         "commStrategy": "透過醫療業 SI（如 Epic Systems 合作夥伴、Cerner 生態系）切入，醫療業採購重視長期服務合約"
       },
@@ -1526,7 +1526,7 @@
       },
       "procurementDecisionMaker": {
         "name": "(推估) 李璟 (Li Jing)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=階躍星辰%20(StepFun)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
@@ -1571,7 +1571,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）沈鵬飛 (Pengfei Shen)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=零一萬物%20(01.AI)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
@@ -1616,7 +1616,7 @@
       },
       "procurementDecisionMaker": {
         "name": "馬東輝 (Ma Donghui)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=理想汽車%20(Li%20Auto)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -1661,7 +1661,7 @@
       },
       "procurementDecisionMaker": {
         "name": "沈峰 (Shen Feng)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=蔚來汽車%20(NIO)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -1706,7 +1706,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）劉永杰 (Liu Yongjie)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=小鵬汽車%20(XPeng)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -1751,7 +1751,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）劉作虎 (Pete Lau)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=OPPO%20/%20一加%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -1796,7 +1796,7 @@
       },
       "procurementDecisionMaker": {
         "name": "甄志强 (Zhen Zhiqiang)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=vivo%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -1841,7 +1841,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）林波 (Lin Bo)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=金蝶國際%20(Kingdee)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -1886,7 +1886,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）陶斐雯 (Annie Feiwen Tao)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=地平線%20(Horizon%20Robotics)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
@@ -1931,7 +1931,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Ana Pertot",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=極氪%20(Zeekr)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -1976,7 +1976,7 @@
       },
       "procurementDecisionMaker": {
         "name": "张建申 (Zhang Jianshen)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=小馬智行%20(Pony.ai)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -2021,7 +2021,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）周敬 (Jing Zhou)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=光年之外%20(Lightspeed)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
@@ -2066,7 +2066,7 @@
       },
       "procurementDecisionMaker": {
         "name": "周伟 (Zhou Wei)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=深信服%20(Sangfor%20Technologies)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -2111,7 +2111,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）沈彼得 (Peter Sim)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=匯豐軟件%20(HSBC%20Software%20Development%20China)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -2156,7 +2156,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）厲亮 (Li Liang)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=同程旅行%20(Tongcheng%20Travel)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -2201,7 +2201,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）李旎 (Carly Li)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=嗶哩嗶哩遊戲%20(Bilibili%20Game)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -2246,7 +2246,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）汪淑梅 (Wang Shumei)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=聯影智能%20(United%20Imaging%20Intelligence)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -2291,7 +2291,7 @@
       },
       "procurementDecisionMaker": {
         "name": "徐仁艳 (Xu Renyan)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購主管",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=度小滿金融%20(Du%20Xiaoman%20Financial)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -2336,7 +2336,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）趙容奭 (Yong-seok Cho)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=陸金所控股%20(Lufax%20Holding)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -2381,7 +2381,7 @@
       },
       "procurementDecisionMaker": {
         "name": "劉崢 (Liu Zheng)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=哈囉出行%20(Hello%20Inc.)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -2426,7 +2426,7 @@
       },
       "procurementDecisionMaker": {
         "name": "陳岩磊 (Chen Yanlei)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=達達集團%20(Dada%20Group%20/%20JD%20Logistics)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -2471,7 +2471,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）張祺 (Zhang Qi)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=傳音控股%20(Transsion%20Holdings)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -2516,7 +2516,7 @@
       },
       "procurementDecisionMaker": {
         "name": "沈燕云 (Shen Yanyun)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購主管",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=藥明生物%20(WuXi%20Biologics)%20procurement%20VP",
         "commStrategy": "透過醫療業 SI（如 Epic Systems 合作夥伴、Cerner 生態系）切入，醫療業採購重視長期服務合約"
       },
@@ -2561,7 +2561,7 @@
       },
       "procurementDecisionMaker": {
         "name": "向明輝",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=第四範式%20(4Paradigm)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -2606,7 +2606,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）俞韜 (Tao Yu)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=有贊%20(Youzan)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -2651,7 +2651,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）宋曉飛 (Xiaofei Song)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=匯量科技%20(Mobvista%20/%20Mintegral)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -2696,7 +2696,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）方桐舒 (Fang Tongshu)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=微盟集團%20(Weimob)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -2741,7 +2741,7 @@
       },
       "procurementDecisionMaker": {
         "name": "陳迪浩 (Chen Dihao)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=明源雲%20(MingYuan%20Cloud)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -2786,7 +2786,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）楊懿 (Yi 'Alex' Yang)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=塗鴉智能%20(Tuya%20Smart)%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
@@ -2831,7 +2831,7 @@
       },
       "procurementDecisionMaker": {
         "name": "方運舟 (Fang Yunzhou)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=哪吒汽車%20(Neta%20Auto%20/%20Hozon)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -2876,7 +2876,7 @@
       },
       "procurementDecisionMaker": {
         "name": "舒春成 (Shu Chunsheng)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=零跑汽車%20(Leapmotor)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -2921,7 +2921,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）張亞林 (Yalin Zhang)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=燧原科技%20(Enflame%20Technology)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
@@ -2966,7 +2966,7 @@
       },
       "procurementDecisionMaker": {
         "name": "林衛平 (Lin Weiping)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=創維集團%20(Skyworth)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3011,7 +3011,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）採購主管",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=文遠知行%20(WeRide)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3056,7 +3056,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）曾國洋 (Zeng Guoyang)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=面壁智能%20(ModelBest)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3101,7 +3101,7 @@
       },
       "procurementDecisionMaker": {
         "name": "淦家阅 (Gan Jiayue)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=吉利汽車%20(Geely%20Auto)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -3146,7 +3146,7 @@
       },
       "procurementDecisionMaker": {
         "name": "楊景岩 (Yang Jingyan)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=奇安信%20(QiAnXin)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3191,7 +3191,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）鄧韶娜 (Shaona Deng)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=九坤投資%20(Ubiquant)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3236,7 +3236,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）李軼多 (Yiduo Li)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=星環科技%20(Transwarp)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3281,7 +3281,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）任今濤 (Thomas Jintao Ren)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=獵豹移動%20(Cheetah%20Mobile)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -3326,7 +3326,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）高始兴 (Gao Shixing)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=思必馳%20(AISpeech)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -3371,7 +3371,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）陳光堯 (Chen Guangyao)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=趣丸科技%20(TT%20Voice%20/%20Quwanke)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3416,7 +3416,7 @@
       },
       "procurementDecisionMaker": {
         "name": "潘昱 (Kevin Pan)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=蔚來能源%20(NIO%20Power)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -3461,7 +3461,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）彭沂非 (Peng Yifei)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=泰格醫藥%20(Tigermed)%20procurement%20VP",
         "commStrategy": "透過醫療業 SI（如 Epic Systems 合作夥伴、Cerner 生態系）切入，醫療業採購重視長期服務合約"
       },
@@ -3506,7 +3506,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）胡樹杰 (Hu Shujie)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=長城汽車%20(Great%20Wall%20Motor)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -3557,7 +3557,7 @@
       },
       "procurementDecisionMaker": {
         "name": "袁春燕 (Yuan Chunyan)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=三一重工%20(SANY%20Heavy%20Industry)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3602,7 +3602,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）宋振華 (Zhenhua Song)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=眾安在線%20(ZhongAn%20Online)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3647,7 +3647,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）徐禮 (Xu Li)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=富途控股%20(Futu%20Holdings)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -3692,7 +3692,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）经雷 (Jing Lei)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=嘉實基金%20(Harvest%20Fund)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3737,7 +3737,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）姜平 (Jiang Ping)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=明略科技%20(MiningLamp)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -3782,7 +3782,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）張曉冬 (Zhang Xiaodong)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=數夢工場%20(DTDream)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3827,7 +3827,7 @@
       },
       "procurementDecisionMaker": {
         "name": "蔡松 (Cai Song)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=雲天勵飛%20(Intellifusion)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3878,7 +3878,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）溫燁 (Wen Ye)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=星環科技%20(Transwarp%20Technology)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3923,7 +3923,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）楊懿 (Yi (Alex) Yang)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=涂鴉智能海外%20(Tuya%20Global)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },

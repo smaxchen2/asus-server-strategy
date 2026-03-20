@@ -62,7 +62,7 @@
       },
       "actualSiPartners": "Holder Construction (Data Center Construction Partner), DPR Construction (Data Center Construction Partner)",
       "archetype": "hyperscaler",
-      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=8, D3(Technical Barrier)=9, D4(Channel Access)=8, D5(Competition)=8, D6(Geopolitical Risk)=2. 供應商鎖定(9), 決策複雜度(8), 技術門檻(9), 通路可及性(8), 市場競爭(8), 地緣風險(2)。"
+      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=8, D3(Technical Barrier)=9, D4(Channel Access)=8, D5(Competition)=8, D6(Geopolitical Risk)=2. Supplier Lock-in (9), Decision Complexity (8), Technical Barrier (9), Channel Access (8), Market Competition (8), Geopolitical Risk (2)."
     },
     {
       "rank": 2,
@@ -120,7 +120,7 @@
       },
       "actualSiPartners": "Avanade (Microsoft Gold Partner), Quisitive (Microsoft Gold Partner), 3Cloud (Microsoft Azure Expert MSP). All are top partners with deep expertise in Microsoft Azure, closely collaborating with Microsoft in infrastructure, data & analytics, and app innovation.",
       "archetype": "hyperscaler",
-      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=8, D3(Technical Barrier)=9, D4(Channel Access)=8, D5(Competition)=8, D6(Geopolitical Risk)=2. 供應商鎖定(9), 決策複雜度(8), 技術門檻(9), 通路可及性(8), 市場競爭(8), 地緣風險(2)。"
+      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=8, D3(Technical Barrier)=9, D4(Channel Access)=8, D5(Competition)=8, D6(Geopolitical Risk)=2. Supplier Lock-in (9), Decision Complexity (8), Technical Barrier (9), Channel Access (8), Market Competition (8), Geopolitical Risk (2)."
     },
     {
       "rank": 3,
@@ -178,7 +178,7 @@
       },
       "actualSiPartners": "SADA (Google Cloud Premier Partner), HCLTech (Google Cloud Premier Partner), Accenture (Google Cloud Premier Partner), Deloitte Consulting LLP (Google Cloud Premier Partner), DXC Technology (Google Cloud Premier Partner), Wipro Limited (Google Cloud Premier Partner)",
       "archetype": "hyperscaler",
-      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=8, D3(Technical Barrier)=9, D4(Channel Access)=8, D5(Competition)=8, D6(Geopolitical Risk)=2. 供應商鎖定(9), 決策複雜度(8), 技術門檻(9), 通路可及性(8), 市場競爭(8), 地緣風險(2)。"
+      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=8, D3(Technical Barrier)=9, D4(Channel Access)=8, D5(Competition)=8, D6(Geopolitical Risk)=2. Supplier Lock-in (9), Decision Complexity (8), Technical Barrier (9), Channel Access (8), Market Competition (8), Geopolitical Risk (2)."
     },
     {
       "rank": 4,
@@ -236,7 +236,7 @@
       },
       "actualSiPartners": "DPR Construction (Data Center Construction Partner, as per their website project page for the Meta Mesa Data Center). They have been involved in multiple data center constructions for Meta.",
       "archetype": "hyperscaler",
-      "difficultyReason": "D1(Supplier Lock-in)=10, D2(Decision Complexity)=8, D3(Technical Barrier)=6, D4(Channel Access)=8, D5(Competition)=8, D6(Geopolitical Risk)=2. 供應商鎖定(10), 決策複雜度(8), 技術門檻(6), 通路可及性(8), 市場競爭(8), 地緣風險(2)。"
+      "difficultyReason": "D1(Supplier Lock-in)=10, D2(Decision Complexity)=8, D3(Technical Barrier)=6, D4(Channel Access)=8, D5(Competition)=8, D6(Geopolitical Risk)=2. Supplier Lock-in (10), Decision Complexity (8), Technical Barrier (6), Channel Access (8), Market Competition (8), Geopolitical Risk (2)."
     },
     {
       "rank": 5,
@@ -282,7 +282,7 @@
       },
       "actualSiPartners": "Computacenter (Apple Premium Business Partner), Bechtle (Apple Authorized System Integrator)",
       "archetype": "hyperscaler",
-      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=8, D3(Technical Barrier)=8, D4(Channel Access)=8, D5(Competition)=8, D6(Geopolitical Risk)=2. 供應商鎖定(9), 決策複雜度(8), 技術門檻(8), 通路可及性(8), 市場競爭(8), 地緣風險(2)。"
+      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=8, D3(Technical Barrier)=8, D4(Channel Access)=8, D5(Competition)=8, D6(Geopolitical Risk)=2. Supplier Lock-in (9), Decision Complexity (8), Technical Barrier (8), Channel Access (8), Market Competition (8), Geopolitical Risk (2)."
     },
     {
       "rank": 6,
@@ -352,7 +352,7 @@
       },
       "actualSiPartners": "Accenture (Oracle CloudWorld 2023 Sustainability Partner); Jade Global (Top 10 Oracle Cloud Consulting Firm)",
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=10, D2(Decision Complexity)=5, D3(Technical Barrier)=7, D4(Channel Access)=5, D5(Competition)=7, D6(Geopolitical Risk)=2. 供應商鎖定(10), 決策複雜度(5), 技術門檻(7), 通路可及性(5), 市場競爭(7), 地緣風險(2)。"
+      "difficultyReason": "D1(Supplier Lock-in)=10, D2(Decision Complexity)=5, D3(Technical Barrier)=7, D4(Channel Access)=5, D5(Competition)=7, D6(Geopolitical Risk)=2. Supplier Lock-in (10), Decision Complexity (5), Technical Barrier (7), Channel Access (5), Market Competition (7), Geopolitical Risk (2)."
     },
     {
       "rank": 7,
@@ -398,7 +398,7 @@
       },
       "actualSiPartners": "Dell (reported $5 billion server deal), HPE (reported $1 billion AI server deal for X, also owned by Elon Musk)",
       "archetype": "neocloud",
-      "difficultyReason": "D1(Supplier Lock-in)=2, D2(Decision Complexity)=5, D3(Technical Barrier)=7, D4(Channel Access)=5, D5(Competition)=2, D6(Geopolitical Risk)=2. 供應商鎖定(2), 決策複雜度(5), 技術門檻(7), 通路可及性(5), 市場競爭(2), 地緣風險(2)。"
+      "difficultyReason": "D1(Supplier Lock-in)=2, D2(Decision Complexity)=5, D3(Technical Barrier)=7, D4(Channel Access)=5, D5(Competition)=2, D6(Geopolitical Risk)=2. Supplier Lock-in (2), Decision Complexity (5), Technical Barrier (7), Channel Access (5), Market Competition (2), Geopolitical Risk (2)."
     },
     {
       "rank": 8,
@@ -449,7 +449,7 @@
         "commStrategy": "Provide flexible payment terms (installments/leasing) and fast delivery commitments, as NeoCloud prioritizes time-to-deploy"
       },
       "archetype": "neocloud",
-      "difficultyReason": "D1(Supplier Lock-in)=2, D2(Decision Complexity)=5, D3(Technical Barrier)=7, D4(Channel Access)=5, D5(Competition)=2, D6(Geopolitical Risk)=2. 供應商鎖定(2), 決策複雜度(5), 技術門檻(7), 通路可及性(5), 市場競爭(2), 地緣風險(2)。"
+      "difficultyReason": "D1(Supplier Lock-in)=2, D2(Decision Complexity)=5, D3(Technical Barrier)=7, D4(Channel Access)=5, D5(Competition)=2, D6(Geopolitical Risk)=2. Supplier Lock-in (2), Decision Complexity (5), Technical Barrier (7), Channel Access (5), Market Competition (2), Geopolitical Risk (2)."
     },
     {
       "rank": 9,
@@ -495,22 +495,22 @@
       },
       "actualSiPartners": "NVIDIA (Strategic technology partner for AI infrastructure); Dell Technologies (Hardware partner to 'Empower Enterprises to Harness AI'); Vertiv (Data center infrastructure partner for AI innovation)",
       "archetype": "neocloud",
-      "difficultyReason": "D1(Supplier Lock-in)=2, D2(Decision Complexity)=5, D3(Technical Barrier)=7, D4(Channel Access)=5, D5(Competition)=2, D6(Geopolitical Risk)=2. 供應商鎖定(2), 決策複雜度(5), 技術門檻(7), 通路可及性(5), 市場競爭(2), 地緣風險(2)。"
+      "difficultyReason": "D1(Supplier Lock-in)=2, D2(Decision Complexity)=5, D3(Technical Barrier)=7, D4(Channel Access)=5, D5(Competition)=2, D6(Geopolitical Risk)=2. Supplier Lock-in (2), Decision Complexity (5), Technical Barrier (7), Channel Access (5), Market Competition (2), Geopolitical Risk (2)."
     },
     {
       "rank": 10,
       "company": "JPMorgan Chase",
       "region": "United States",
       "volume": "約 50,000 - 100,000 台/年 (估計)",
-      "platform": "Intel Xeon 2U/4U 通用伺服器、NVIDIA HGX H100 8-GPU AI 伺服器、高效能儲存伺服器",
-      "application": "核心銀行系統、交易平台、風險管理、數據分析、AI/ML 應用",
+      "platform": "Intel Xeon 2U/4U General-purpose Servers, NVIDIA HGX H100 8-GPU AI Servers, High-performance Storage Servers",
+      "application": "Core banking systems, trading platforms, risk management, data analytics, AI/ML applications",
       "currentSuppliers": "Dell、HPE、Lenovo、IBM",
       "odmOem": "N/A",
-      "asusModel": "通用2U: RS720-E12, AI 4U 8GPU: ESC8000-E12, 儲存伺服器: RS720-E12-RS24-C",
+      "asusModel": "General 2U: RS720-E12, AI 4U 8GPU: ESC8000-E12, Storage Server: RS720-E12-RS24-C",
       "channel": "直供 + SI/DIST: World Wide Technology (https://www.wwt.com), Insight Enterprises (https://www.insight.com), Presidio (https://www.presidio.com)",
       "difficulty": 6,
-      "challenges": "【金融業戰術】【技術門檻】JPMorgan Chase 對伺服器的穩定性、效能和安全性要求極高，需通過嚴格的產品認證和壓力測試流程。 【供應鏈壁壘】目前主要供應商為 Dell、HPE、Lenovo、IBM，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
-      "entryPoint": "【金融業戰術】【短期（6-12個月）】1. 透過 WWT、CDW、SHI International 等通路合作夥伴建立間接合作關係，先以小規模專案證明 ASUS 的技術能力和服務品質。2. 針對 JPMorgan Chase 的非核心或新興業務需求提供標準化伺服器方案，降低切入門檻。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 JPMorgan Chase 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 爭取成為 JPMorgan Chase 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 JPMorgan Chase 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 JPMorgan Chase 客戶，透過 WWT 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
+      "challenges": "【Financial Industry Tactics】【Technical Barriers】JPMorgan Chase has extremely high requirements for server stability, performance, and security, necessitating strict product certification and stress testing processes. 【Supply Chain Barriers】The main current suppliers are Dell, HPE, Lenovo, and IBM, with established stable partnerships and service systems. ASUS needs to demonstrate clear differentiated value to compete for replacement or new opportunities. 【Business Challenges】The procurement decision process is complex, involving multiple departments (IT, Procurement, Finance) and has a long decision cycle. It requires full process follow-up from technical verification, business negotiation to contract signing. 【Industry Characteristics】The financial industry has very high demands for system stability, cybersecurity compliance (such as PCI DSS), and disaster recovery. Server suppliers must provide complete security certifications and SLA guarantees.",
+      "entryPoint": "【Financial Industry Tactics】【Short-term (6-12 months)】1. Establish indirect partnerships through channel partners such as WWT, CDW, and SHI International, initially proving ASUS's technical capabilities and service quality with small-scale projects. 2. Provide standardized server solutions for JPMorgan Chase's non-core or emerging business needs to lower entry barriers. 【Mid-term (6-12 months)】3. Offer server solutions that comply with financial industry regulations, including security certifications, encryption features, and disaster recovery plans. 4. Recommend ASUS ESC series GPU servers for JPMorgan Chase's AI/ML application needs. 【Long-term (1-2 years)】5. Strive to become a qualified supplier on JPMorgan Chase's Approved Vendor List (AVL) and establish a long-term framework agreement. 6. Collaborate with JPMorgan Chase's technical team to develop customized server solutions tailored to their specific requirements, deepening the partnership. 【Key Actions】Assign a dedicated account manager responsible for JPMorgan Chase, establish initial contact through WWT, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
         "name": "Jason Kimbrell",
         "title": "Vice President, Data Center Operations Manager",
@@ -577,7 +577,7 @@
       },
       "actualSiPartners": "Tech Mahindra (Payments System Integrator Program Partner)",
       "archetype": "financial",
-      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=5, D3(Technical Barrier)=7, D4(Channel Access)=5, D5(Competition)=7, D6(Geopolitical Risk)=2. 供應商鎖定(7), 決策複雜度(5), 技術門檻(7), 通路可及性(5), 市場競爭(7), 地緣風險(2)。"
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=5, D3(Technical Barrier)=7, D4(Channel Access)=5, D5(Competition)=7, D6(Geopolitical Risk)=2. Supplier Lock-in (7), Decision Complexity (5), Technical Barrier (7), Channel Access (5), Market Competition (7), Geopolitical Risk (2)."
     },
     {
       "rank": 11,
@@ -694,7 +694,7 @@
         "commStrategy": "Introduce through regional SI/DIST channels, providing competitive TCO analysis and trial solutions"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=4, D6(Geopolitical Risk)=1. 綜合評估，主要考量為有 2-3 家以上供應商但無排他合約與大型企業需跨部門評估。"
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=4, D6(Geopolitical Risk)=1. Comprehensive evaluation mainly considers having more than 2-3 suppliers without exclusive contracts and the need for cross-departmental assessment in large enterprises."
     },
     {
       "rank": 12,
@@ -842,7 +842,7 @@
       },
       "actualSiPartners": "No specific SI or Distributor partners for server procurement were publicly identified. Evidence suggests Crusoe works directly with manufacturers like NVIDIA and manages its own infrastructure and supply chain through its in-house procurement team.",
       "archetype": "neocloud",
-      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=2, D3(Technical Barrier)=6, D4(Channel Access)=6, D5(Competition)=2, D6(Geopolitical Risk)=1. 綜合評估，主要考量為有主要供應商但非獨家，切換成本中等與NeoCloud 新創公司，決策快速。"
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=2, D3(Technical Barrier)=6, D4(Channel Access)=6, D5(Competition)=2, D6(Geopolitical Risk)=1. Comprehensive evaluation mainly considers having a primary supplier but not exclusive, medium switching costs, and NeoCloud startup company with fast decision-making."
     },
     {
       "rank": 15,
@@ -1002,7 +1002,7 @@
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial solutions"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=4, D6(Geopolitical Risk)=1. 綜合評估，主要考量為有 2-3 家以上供應商但無排他合約與大型企業需跨部門評估。"
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=4, D6(Geopolitical Risk)=1. Comprehensive assessment mainly considers having more than 2-3 suppliers without exclusive contracts and the need for cross-departmental evaluation in large enterprises."
     },
     {
       "rank": 18,
@@ -1060,7 +1060,7 @@
       },
       "actualSiPartners": "IBM (strategic partner for financial services public cloud). Older articles from 2015 mention Infosys, TCS, and Accenture as major IT vendors, but this information is likely outdated.",
       "archetype": "financial",
-      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=4, D6(Geopolitical Risk)=1. 主要挑戰來自 供應商深度綁定、採購決策極複雜。"
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=4, D6(Geopolitical Risk)=1. The main challenges come from deep supplier lock-in and extremely complex procurement decisions."
     },
     {
       "rank": 19,
@@ -1105,7 +1105,7 @@
         "commStrategy": "Through the automotive industry Tier 1 supplier ecosystem or direct contact with the IT department, the automotive industry is investing heavily in AI infrastructure"
       },
       "archetype": "automotive",
-      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=4, D6(Geopolitical Risk)=1. 主要挑戰來自 供應商深度綁定、採購決策極複雜。"
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=4, D6(Geopolitical Risk)=1. The main challenges come from deep supplier lock-in and extremely complex procurement decisions."
     },
     {
       "rank": 20,
@@ -1113,14 +1113,14 @@
       "region": "United States",
       "volume": "Approx. 40,000 units/year",
       "platform": "Intel Xeon 2U general-purpose servers, NVIDIA HGX H100 4U 8-GPU AI servers",
-      "application": "健康保險系統、數據分析、AI 醫療應用",
+      "application": "Health insurance systems, data analytics, AI medical applications",
       "currentSuppliers": "Dell, HPE, IBM",
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E12, AI 4U 8GPU: ESC8000-E12/ESC8000A-E13",
       "channel": "SI/DIST: CDW (https://www.cdw.com), SHI International (https://www.shi.com), Insight Enterprises (https://www.insight.com)",
       "difficulty": 5,
-      "challenges": "【醫療/製藥業戰術】【技術門檻】UnitedHealth Group 對伺服器的穩定性、效能和安全性要求極高，需通過嚴格的產品認證和壓力測試流程。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, IBM，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【產業特性】醫療產業對資料隱私（HIPAA）和系統可靠性有嚴格要求，需提供符合醫療法規的解決方案。",
-      "entryPoint": "【醫療/製藥業戰術】【短期（6-12個月）】1. 透過 WWT、CDW、TD SYNNEX 等通路合作夥伴建立間接合作關係，先以小規模專案證明 ASUS 的技術能力和服務品質。2. 針對 UnitedHealth Group 的非核心或新興業務需求提供標準化伺服器方案，降低切入門檻。 【中期（6-12個月）】3. 提供符合醫療產業法規的伺服器方案，強調資料安全和系統可靠性。4. 針對醫療 AI（影像辨識、藥物研發）需求推薦 ASUS GPU 伺服器。 【長期（1-2年）】5. 爭取成為 UnitedHealth Group 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 UnitedHealth Group 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 UnitedHealth Group 客戶，透過 WWT 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
+      "challenges": "【Healthcare/Pharmaceutical Industry Tactics】【Technical Barriers】UnitedHealth Group has extremely high requirements for server stability, performance, and security, necessitating strict product certification and stress testing processes. 【Supply Chain Barriers】The current main suppliers are Dell, HPE, and IBM, with established stable partnerships and service systems. ASUS needs to demonstrate clear differentiated value to compete for replacement or new opportunities. 【Business Challenges】The procurement decision-making process is complex, involving multiple departments (IT, Procurement, Finance), with a long decision cycle. Full process follow-up is required from technical validation, business negotiation to contract signing. 【Industry Characteristics】The healthcare industry has strict requirements for data privacy (HIPAA) and system reliability, requiring solutions that comply with healthcare regulations.",
+      "entryPoint": "【Healthcare/Pharmaceutical Industry Tactics】【Short-term (6-12 months)】1. Establish indirect partnerships through channel partners such as WWT, CDW, TD SYNNEX, starting with small-scale projects to demonstrate ASUS's technical capabilities and service quality. 2. Provide standardized server solutions for UnitedHealth Group's non-core or emerging business needs to lower entry barriers. 【Mid-term (6-12 months)】3. Offer server solutions compliant with healthcare industry regulations, emphasizing data security and system reliability. 4. Recommend ASUS GPU servers for healthcare AI needs (image recognition, drug development). 【Long-term (1-2 years)】5. Strive to become a qualified supplier on UnitedHealth Group's Approved Vendor List (AVL) and establish a long-term cooperation framework agreement. 6. Collaborate with UnitedHealth Group's technical team to develop customized server solutions tailored to their specific needs, deepening the partnership. 【Key Actions】Assign a dedicated sales manager responsible for the UnitedHealth Group account, establish initial contact through WWT, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
         "name": "Don St.Ores",
         "title": "Director Information Technology Operations",
@@ -1153,13 +1153,13 @@
         "name": "Don St.Ores",
         "title": "Director Information Technology Operations",
         "linkedin": "https://www.linkedin.com/in/don-st-ores-53031618",
-        "commStrategy": "強調 HIPAA 合規伺服器方案、AI 醫療影像分析的 GPU 運算能力、以及高可靠性設計"
+        "commStrategy": "Emphasize HIPAA-compliant server solutions, GPU computing power for AI medical image analysis, and high-reliability design."
       },
       "procurementDecisionMaker": {
         "name": "Susan Johnson",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=UnitedHealth%20Group%20procurement%20VP",
-        "commStrategy": "透過醫療業 SI（如 Epic Systems 合作夥伴、Cerner 生態系）切入，醫療業採購重視長期服務合約"
+        "commStrategy": "Entering through healthcare industry SI (such as Epic Systems partners, Cerner ecosystem), healthcare procurement values long-term service contracts."
       },
       "archetype": "healthcare",
       "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=4, D6(Geopolitical Risk)=1. 主要挑戰來自 採購決策極複雜。"
@@ -1207,7 +1207,7 @@
         "commStrategy": "Through telecom industry SIs (such as Nokia, Ericsson ecosystem partners) or by directly participating in the RFP process."
       },
       "archetype": "telecom",
-      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=6, D6(Geopolitical Risk)=5. 進入門檻中等，存在一定市場競爭，但可透過既有通路或建立新關係來爭取機會。"
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=6, D6(Geopolitical Risk)=5. Entry barriers are moderate, with some market competition, but opportunities can be pursued through existing channels or by establishing new relationships."
     },
     {
       "rank": 22,
@@ -1276,7 +1276,7 @@
         "commStrategy": "Introduce through regional SI/DIST channels, providing competitive TCO analysis and trial programs."
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=8, D6(Geopolitical Risk)=2. 進入門檻中等，存在一定市場競爭，但可透過既有通路或建立新關係來爭取機會。"
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=8, D6(Geopolitical Risk)=2. The entry barrier is moderate, with some market competition, but opportunities can be pursued through existing channels or by establishing new relationships."
     },
     {
       "rank": 23,
@@ -1322,7 +1322,7 @@
       },
       "actualSiPartners": "Siemens (Technical partner for Frankfurt Data Center); ENGIE Deutschland (Operator of Frankfurt Data Center); Arup (Partner for Frankfurt Data Center project); Wipro (Acquired a Citi data center facility); Google Cloud (Strategic partner for cloud and AI); IBM (Private cloud solution provider)",
       "archetype": "financial",
-      "difficultyReason": "D1(Supplier Lock-in)=8, D2(Decision Complexity)=7, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=5. 進入門檻中等，存在一定市場競爭，但可透過既有通路或建立新關係來爭取機會。"
+      "difficultyReason": "D1(Supplier Lock-in)=8, D2(Decision Complexity)=7, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=5. Entry barriers are moderate, with some market competition, but opportunities can be pursued through existing channels or by establishing new relationships."
     },
     {
       "rank": 24,
@@ -1367,7 +1367,7 @@
         "commStrategy": "Approach through the automotive Tier 1 supplier ecosystem or by directly contacting the IT department; the automotive industry is investing heavily in AI infrastructure."
       },
       "archetype": "automotive",
-      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=6, D6(Geopolitical Risk)=2. 進入門檻中等，存在一定市場競爭，但可透過既有通路或建立新關係來爭取機會。"
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=6, D6(Geopolitical Risk)=2. The entry barriers are moderate, with some market competition, but opportunities can be pursued through existing channels or by establishing new relationships."
     },
     {
       "rank": 25,
@@ -1412,7 +1412,7 @@
         "commStrategy": "Introduce through financial industry-specific SIs (such as Kyndryl, DXC Technology); the financial industry procurement process is rigorous and requires passing a vendor qualification program."
       },
       "archetype": "financial",
-      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=7, D3(Technical Barrier)=7, D4(Channel Access)=5, D5(Competition)=6, D6(Geopolitical Risk)=5. 進入門檻偏高，需克服現有供應商關係、應對跨部門採購評估及特定技術規格。"
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=7, D3(Technical Barrier)=7, D4(Channel Access)=5, D5(Competition)=6, D6(Geopolitical Risk)=5. The entry barriers are relatively high, requiring overcoming existing supplier relationships, addressing cross-departmental procurement evaluations, and meeting specific technical specifications."
     },
     {
       "rank": 26,
@@ -1456,7 +1456,7 @@
         "linkedin": "https://www.linkedin.com/in/riley-chen1228",
         "commStrategy": "Approach Riley Chen with a value-oriented proposition emphasizing total cost of ownership (TCO), supply chain reliability, and flexible procurement models. Offer a pilot program or proof-of-concept to demonstrate value and ease of integration."
       },
-      "difficultyReason": "D1(Supplier Lock-in)=8, D2(Decision Complexity)=2, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=9, D6(Geopolitical Risk)=2. 進入門檻中等，存在一定市場競爭，但可透過既有通路或建立新關係來爭取機會。"
+      "difficultyReason": "D1(Supplier Lock-in)=8, D2(Decision Complexity)=2, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=9, D6(Geopolitical Risk)=2. The entry barrier is moderate, there is some market competition, but opportunities can be pursued through existing channels or by establishing new relationships."
     },
     {
       "rank": 27,
@@ -1512,7 +1512,7 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Akamai%20Technologies%20procurement%20VP",
         "commStrategy": "Recommend through regional SI/DIST channels, providing competitive TCO analysis and trial programs."
       },
-      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=6, D3(Technical Barrier)=9, D4(Channel Access)=5, D5(Competition)=5, D6(Geopolitical Risk)=2. 進入門檻偏高，需克服現有供應商關係、應對跨部門採購評估及特定技術規格。"
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=6, D3(Technical Barrier)=9, D4(Channel Access)=5, D5(Competition)=5, D6(Geopolitical Risk)=2. The entry barrier is relatively high, requiring overcoming existing supplier relationships, addressing cross-departmental procurement evaluations, and meeting specific technical specifications."
     },
     {
       "rank": 28,
@@ -1568,7 +1568,7 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Akamai%20Technologies%20procurement%20VP",
         "commStrategy": "Recommend through regional SI/DIST channels, providing competitive TCO analysis and trial programs."
       },
-      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=6, D3(Technical Barrier)=6, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=2. 進入門檻中等，存在一定市場競爭，但可透過既有通路或建立新關係來爭取機會。"
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=6, D3(Technical Barrier)=6, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=2. The entry barriers are moderate, with some market competition, but opportunities can be pursued through existing channels or by establishing new relationships."
     },
     {
       "rank": 29,
@@ -1612,7 +1612,7 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Iris%20Energy%20procurement%20VP",
         "commStrategy": "Provide flexible payment terms (installments/leasing) and quick delivery commitments; NeoCloud values time-to-deploy highly."
       },
-      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=2, D3(Technical Barrier)=7, D4(Channel Access)=5, D5(Competition)=5, D6(Geopolitical Risk)=2. 進入門檻中等，存在一定市場競爭，但可透過既有通路或建立新關係來爭取機會。"
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=2, D3(Technical Barrier)=7, D4(Channel Access)=5, D5(Competition)=5, D6(Geopolitical Risk)=2. The entry barriers are moderate, with some market competition, but opportunities can be pursued through existing channels or by establishing new relationships."
     },
     {
       "rank": 30,
@@ -1668,7 +1668,7 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Comcast%20/%20NBCUniversal%20procurement%20VP",
         "commStrategy": "Recommend through telecom industry SI (e.g., Nokia, Ericsson ecosystems) or directly participate in RFP processes."
       },
-      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=7, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=5, D6(Geopolitical Risk)=5. 進入門檻中等，存在一定市場競爭，但可透過既有通路或建立新關係來爭取機會。"
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=7, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=5, D6(Geopolitical Risk)=5. The entry barriers are moderate, with some market competition, but opportunities can be pursued through existing channels or by establishing new relationships."
     },
     {
       "rank": 31,
@@ -1731,7 +1731,7 @@
         "commStrategy": "Through telecom industry SIs (such as Nokia, Ericsson ecosystem partners) or direct participation in the RFP process"
       },
       "archetype": "telecom",
-      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=7, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=4. 主要挑戰在於採購決策複雜(D2)，且需應對市場競爭激烈(D5)等挑戰。"
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=7, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=4. The main challenges lie in the complexity of procurement decisions (D2) and the need to cope with intense market competition (D5)."
     },
     {
       "rank": 32,
@@ -1827,10 +1827,10 @@
       "rank": 34,
       "company": "Tesla",
       "region": "United States",
-      "volume": "Approx. 15,000 - 25,000 units/year (此為根據其Dojo專案規模、自動駕駛訓練需求及近期擴大採購NVIDIA GPU的報導推估)",
-      "platform": "早期以NVIDIA GPU叢集為主 (A100)，後期投入自研Dojo超級電腦 (採用自家D1晶片)。近期因Dojo專案受挫，已轉向大規模採購NVIDIA HGX H100/Blackwell伺服器。",
+      "volume": "Approx. 15,000 - 25,000 units/year (This is an estimate based on the scale of its Dojo project, autonomous driving training needs, and recent reports of increased procurement of NVIDIA GPUs)",
+      "platform": "Initially focused on NVIDIA GPU clusters (A100), later invested in the self-developed Dojo supercomputer (using in-house D1 chips). Recently, due to setbacks in the Dojo project, they have shifted to large-scale procurement of NVIDIA HGX H100/Blackwell servers.",
       "application": "Autonomous driving (FSD) model training, AI research, fleet data analysis, high-performance computing (HPC).",
-      "currentSuppliers": "NVIDIA (H100/Blackwell伺服器)、Supermicro、Dell (為其xAI專案提供伺服器)。",
+      "currentSuppliers": "NVIDIA (H100/Blackwell servers), Supermicro, Dell (providing servers for its xAI project).",
       "odmOem": "OEM/ODM",
       "asusModel": "AI 4U 8GPU: ESC8000-E12/ESC8000A-E13, AI 7U HGX: ESC N8-E11/ESC N8A-E12, AI Blackwell: ESC NB8-E11, AI POD: ASUS AI POD GB200/GB300 NVL72",
       "channel": "Direct",
@@ -1867,14 +1867,14 @@
       },
       "actualSiPartners": "NTT Global Data Centers (data center provider)",
       "archetype": "automotive",
-      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=6, D3(Technical Barrier)=10, D4(Channel Access)=5, D5(Competition)=5, D6(Geopolitical Risk)=2. 主要挑戰在於技術門檻高(D3)，且需應對供應商鎖定(D1)等挑戰。"
+      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=6, D3(Technical Barrier)=10, D4(Channel Access)=5, D5(Competition)=5, D6(Geopolitical Risk)=2. The main challenges lie in the high technical barrier (D3) and the need to address supplier lock-in (D1) and other challenges."
     },
     {
       "rank": 35,
       "company": "Morgan Stanley",
       "region": "United States",
-      "volume": "Approx. 15,000 - 25,000 units/year。金融業對穩定性及低延遲交易有高度要求，雖然雲端採用率增加，但關鍵業務仍保留在本地數據中心。AI及數據分析需求將推動部分高效能伺服器採購。",
-      "platform": "主要為 Intel Xeon 2U General Purpose Server，用於一般運算及虛擬化。少量 NVIDIA DGX/HGX H100 伺服器用於 AI 模型訓練及風險分析。",
+      "volume": "Approx. 15,000 - 25,000 units/year. The financial industry has high demands for stability and low-latency trading. Although cloud adoption is increasing, critical operations remain in on-premises data centers. AI and data analytics needs will drive the procurement of some high-performance servers.",
+      "platform": "Mainly for Intel Xeon 2U General Purpose Servers, used for general computing and virtualization. A small number of NVIDIA DGX/HGX H100 servers are used for AI model training and risk analysis.",
       "application": "Trading systems, risk management, data analysis, customer relationship management, AI application development.",
       "currentSuppliers": "Dell Technologies, Hewlett Packard Enterprise (HPE)",
       "odmOem": "OEM",
@@ -2048,7 +2048,7 @@
         "commStrategy": "Offer flexible payment terms (installments/leasing) and rapid delivery commitments, as NeoCloud values time-to-deploy highly"
       },
       "archetype": "neocloud",
-      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=2, D3(Technical Barrier)=6, D4(Channel Access)=3, D5(Competition)=10, D6(Geopolitical Risk)=2. 主要挑戰在於市場競爭激烈(D5)，且需應對供應商鎖定(D1)等挑戰。"
+      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=2, D3(Technical Barrier)=6, D4(Channel Access)=3, D5(Competition)=10, D6(Geopolitical Risk)=2. The main challenges lie in intense market competition (D5) and the need to address supplier lock-in (D1) and other challenges."
     },
     {
       "rank": 39,
@@ -2139,7 +2139,7 @@
       },
       "actualSiPartners": "Dell (AI Factory partner), ABB (Infrastructure partner)",
       "archetype": "neocloud",
-      "difficultyReason": "D1(Supplier Lock-in)=8, D2(Decision Complexity)=2, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=9, D6(Geopolitical Risk)=2. 主要挑戰在於市場競爭激烈(D5)，且需應對供應商鎖定(D1)等挑戰。"
+      "difficultyReason": "D1(Supplier Lock-in)=8, D2(Decision Complexity)=2, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=9, D6(Geopolitical Risk)=2. The main challenges lie in intense market competition (D5) and the need to address supplier lock-in (D1) and other challenges."
     },
     {
       "rank": 41,
@@ -2190,7 +2190,7 @@
         "commStrategy": "Through telecom industry SI (such as Nokia, Ericsson ecosystem partners) or direct participation in the RFP process"
       },
       "archetype": "telecom",
-      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=6, D6(Geopolitical Risk)=2. 綜合難度來自各維度，其中主要受供應商鎖定(6)影響。"
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=6, D6(Geopolitical Risk)=2. The overall difficulty comes from various dimensions, mainly influenced by supplier lock-in (6)."
     },
     {
       "rank": 42,
@@ -2235,7 +2235,7 @@
         "commStrategy": "Introduce through regional SI/DIST channels, providing competitive TCO analysis and trial programs"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=2, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=2. 綜合難度來自各維度，其中主要受供應商鎖定(6)影響。"
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=2, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=2. The overall difficulty comes from various dimensions, mainly influenced by supplier lock-in (6)."
     },
     {
       "rank": 43,
@@ -2280,7 +2280,7 @@
         "commStrategy": "Introduce through financial industry-specific SIs (such as Kyndryl, DXC Technology). The procurement process in the financial industry is rigorous and requires passing a vendor qualification program"
       },
       "archetype": "financial",
-      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=2. 綜合難度來自各維度，其中主要受採購決策複雜(6)影響。"
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=2. The overall difficulty comes from various dimensions, mainly influenced by the complexity of procurement decisions (6)."
     },
     {
       "rank": 44,
@@ -2325,7 +2325,7 @@
         "commStrategy": "Introduce through regional SI/DIST channels, providing competitive TCO analysis and trial programs"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=8, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=3, D6(Geopolitical Risk)=2. 綜合難度來自各維度，其中主要受供應商鎖定(8)影響。"
+      "difficultyReason": "D1(Supplier Lock-in)=8, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=3, D6(Geopolitical Risk)=2. The overall difficulty comes from various dimensions, mainly influenced by supplier lock-in (8)."
     },
     {
       "rank": 45,
@@ -2370,7 +2370,7 @@
         "commStrategy": "Provide flexible payment terms (installments/leasing) and fast delivery commitments. NeoCloud values time-to-deploy the most"
       },
       "archetype": "neocloud",
-      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=2, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=2. 綜合難度來自各維度，其中主要受供應商鎖定(4)影響。"
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=2, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=2. The overall difficulty comes from various dimensions, mainly influenced by supplier lock-in (4)."
     },
     {
       "rank": 46,
@@ -2415,7 +2415,7 @@
         "commStrategy": "Enter with a TCO analysis and supply chain diversification value proposition, emphasizing the strategic value of a second supplier in reducing risk"
       },
       "archetype": "hyperscaler",
-      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=8, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=2. 綜合難度來自各維度，其中主要受採購決策複雜(8)影響。"
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=8, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=2. The overall difficulty comes from various dimensions, mainly influenced by the complexity of procurement decisions (8)."
     },
     {
       "rank": 47,
@@ -2460,7 +2460,7 @@
         "commStrategy": "Provide flexible payment terms (installments/leasing) and fast delivery commitments, as NeoCloud prioritizes time-to-deploy"
       },
       "archetype": "neocloud",
-      "difficultyReason": "D1(Supplier Lock-in)=2, D2(Decision Complexity)=2, D3(Technical Barrier)=6, D4(Channel Access)=4, D5(Competition)=6, D6(Geopolitical Risk)=2. 綜合難度來自各維度，其中主要受技術門檻(6)影響。"
+      "difficultyReason": "D1(Supplier Lock-in)=2, D2(Decision Complexity)=2, D3(Technical Barrier)=6, D4(Channel Access)=4, D5(Competition)=6, D6(Geopolitical Risk)=2. The overall difficulty comes from various dimensions, mainly influenced by the technical barrier (6)."
     },
     {
       "company": "Twitch (Amazon)",
@@ -2505,7 +2505,7 @@
         "commStrategy": "Showcase the performance advantages and power efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=6, D3(Technical Barrier)=5, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=2. 綜合難度來自各維度，其中主要受採購決策複雜(6)影響。"
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=6, D3(Technical Barrier)=5, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=2. The overall difficulty comes from various dimensions, mainly influenced by the complexity of procurement decisions (6)."
     },
     {
       "rank": 49,
@@ -2550,7 +2550,7 @@
         "commStrategy": "Through telecom SIs (such as Nokia, Ericsson ecosystem partners) or direct participation in the RFP process"
       },
       "archetype": "telecom",
-      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=2. 綜合難度來自各維度，其中主要受採購決策複雜(6)影響。"
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=2. The overall difficulty comes from various dimensions, mainly influenced by the complexity of procurement decisions (6)."
     },
     {
       "rank": 50,
@@ -2595,7 +2595,7 @@
         "commStrategy": "Introduce through regional SI/DIST channels, providing competitive TCO analysis and trial programs"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=5, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=2. 綜合難度來自各維度，其中主要受供應商鎖定(6)影響。"
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=5, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=2. The overall difficulty comes from various dimensions, mainly influenced by supplier lock-in (6)."
     },
     {
       "rank": 51,
@@ -2712,7 +2712,7 @@
         "commStrategy": "Introduction through financial industry-specific SIs (such as Kyndryl, DXC Technology). The financial industry's procurement process is rigorous and requires passing a vendor qualification program"
       },
       "archetype": "financial",
-      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=2. 綜合供應商鎖定(7), 決策複雜度(7), 技術門檻(2), 通路可及性(3), 市場競爭(5), 及地緣政治風險(2)的加權計算。"
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=2. Weighted calculation of supplier lock-in (7), decision complexity (7), technical barrier (2), channel accessibility (3), market competition (5), and geopolitical risk (2)."
     },
     {
       "rank": 52,
@@ -2757,7 +2757,7 @@
         "commStrategy": "Enter through healthcare industry SIs (such as Epic Systems partners, Cerner ecosystem). The healthcare industry procurement values long-term service contracts"
       },
       "archetype": "healthcare",
-      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=2. 綜合供應商鎖定(6), 決策複雜度(7), 技術門檻(4), 通路可及性(5), 市場競爭(3), 及地緣政治風險(2)的加權計算。"
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=2. Weighted calculation of supplier lock-in (6), decision complexity (7), technical barrier (4), channel access (5), market competition (3), and geopolitical risk (2)."
     },
     {
       "rank": 53,
@@ -2808,7 +2808,7 @@
         "commStrategy": "Must enter through authorized defense industry channels (such as Carahsoft, CDWG, Presidio Federal), and TAA compliance certification is required"
       },
       "archetype": "defense",
-      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=9, D3(Technical Barrier)=1, D4(Channel Access)=8, D5(Competition)=7, D6(Geopolitical Risk)=7. 綜合供應商鎖定(7), 決策複雜度(9), 技術門檻(1), 通路可及性(8), 市場競爭(7), 及地緣政治風險(7)的加權計算。"
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=9, D3(Technical Barrier)=1, D4(Channel Access)=8, D5(Competition)=7, D6(Geopolitical Risk)=7. Weighted calculation of supplier lock-in (7), decision complexity (9), technical barrier (1), channel accessibility (8), market competition (7), and geopolitical risk (7)."
     },
     {
       "rank": 54,
@@ -2853,7 +2853,7 @@
         "commStrategy": "Enter with a TCO analysis and supply chain diversification value proposition, emphasizing the strategic value of a second supplier to reduce risks"
       },
       "archetype": "hyperscaler",
-      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=2, D3(Technical Barrier)=4, D4(Channel Access)=7, D5(Competition)=5, D6(Geopolitical Risk)=2. 綜合供應商鎖定(7), 決策複雜度(2), 技術門檻(4), 通路可及性(7), 市場競爭(5), 及地緣政治風險(2)的加權計算。"
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=2, D3(Technical Barrier)=4, D4(Channel Access)=7, D5(Competition)=5, D6(Geopolitical Risk)=2. Weighted calculation of supplier lock-in (7), decision complexity (2), technical barrier (4), channel accessibility (7), market competition (5), and geopolitical risk (2)."
     },
     {
       "rank": 55,
@@ -2916,7 +2916,7 @@
         "commStrategy": "Introduce through regional SI/DIST channels, providing competitive TCO analysis and trial programs"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=4, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=1, D6(Geopolitical Risk)=2. 綜合供應商鎖定(5), 決策複雜度(4), 技術門檻(4), 通路可及性(3), 市場競爭(1), 及地緣政治風險(2)的加權計算。"
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=4, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=1, D6(Geopolitical Risk)=2. Weighted calculation of supplier lock-in (5), decision complexity (4), technical barrier (4), channel accessibility (3), market competition (1), and geopolitical risk (2)."
     },
     {
       "rank": 56,
@@ -2973,7 +2973,7 @@
         "commStrategy": "Introduce through regional SI/DIST channels, provide competitive TCO analysis and trial programs"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=4, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=1, D6(Geopolitical Risk)=2. 綜合供應商鎖定(6), 決策複雜度(4), 技術門檻(2), 通路可及性(3), 市場競爭(1), 及地緣政治風險(2)的加權計算。"
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=4, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=1, D6(Geopolitical Risk)=2. Weighted calculation of supplier lock-in (6), decision complexity (4), technical barrier (2), channel accessibility (3), market competition (1), and geopolitical risk (2)."
     },
     {
       "rank": 57,
@@ -3018,7 +3018,7 @@
         "commStrategy": "Introduce through regional SI/DIST channels, provide competitive TCO analysis and trial programs"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=5, D3(Technical Barrier)=6, D4(Channel Access)=7, D5(Competition)=1, D6(Geopolitical Risk)=2. 綜合供應商鎖定(9), 決策複雜度(5), 技術門檻(6), 通路可及性(7), 市場競爭(1), 及地緣政治風險(2)的加權計算。"
+      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=5, D3(Technical Barrier)=6, D4(Channel Access)=7, D5(Competition)=1, D6(Geopolitical Risk)=2. Weighted calculation of supplier lock-in (9), decision complexity (5), technical barrier (6), channel access (7), market competition (1), and geopolitical risk (2)."
     },
     {
       "rank": 58,
@@ -3063,7 +3063,7 @@
         "commStrategy": "Directly demonstrate cooling efficiency and deployment speed advantages of GPU servers (ESC N8-E11 / ESC N8-E12), provide free POC test units"
       },
       "archetype": "neocloud",
-      "difficultyReason": "D1(Supplier Lock-in)=2, D2(Decision Complexity)=2, D3(Technical Barrier)=10, D4(Channel Access)=7, D5(Competition)=2, D6(Geopolitical Risk)=2. 綜合供應商鎖定(2), 決策複雜度(2), 技術門檻(10), 通路可及性(7), 市場競爭(2), 及地緣政治風險(2)的加權計算。"
+      "difficultyReason": "D1(Supplier Lock-in)=2, D2(Decision Complexity)=2, D3(Technical Barrier)=10, D4(Channel Access)=7, D5(Competition)=2, D6(Geopolitical Risk)=2. Weighted calculation of supplier lock-in (2), decision complexity (2), technical barrier (10), channel access (7), market competition (2), and geopolitical risk (2)."
     },
     {
       "rank": 59,
@@ -3108,7 +3108,7 @@
         "commStrategy": "Offer flexible payment terms (installment/lease) and fast delivery commitments; NeoCloud prioritizes time-to-deploy"
       },
       "archetype": "neocloud",
-      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=2, D3(Technical Barrier)=4, D4(Channel Access)=7, D5(Competition)=2, D6(Geopolitical Risk)=2. 綜合供應商鎖定(7), 決策複雜度(2), 技術門檻(4), 通路可及性(7), 市場競爭(2), 及地緣政治風險(2)的加權計算。"
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=2, D3(Technical Barrier)=4, D4(Channel Access)=7, D5(Competition)=2, D6(Geopolitical Risk)=2. Weighted calculation of supplier lock-in (7), decision complexity (2), technical barrier (4), channel access (7), market competition (2), and geopolitical risk (2)."
     },
     {
       "company": "eBay",
@@ -3159,7 +3159,7 @@
         "commStrategy": "Engage through retail SI or direct contact with IT department; retail is extremely sensitive to TCO"
       },
       "archetype": "retail",
-      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=5, D3(Technical Barrier)=10, D4(Channel Access)=7, D5(Competition)=3, D6(Geopolitical Risk)=2. 綜合供應商鎖定(9), 決策複雜度(5), 技術門檻(10), 通路可及性(7), 市場競爭(3), 及地緣政治風險(2)的加權計算。"
+      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=5, D3(Technical Barrier)=10, D4(Channel Access)=7, D5(Competition)=3, D6(Geopolitical Risk)=2. Weighted calculation of supplier lock-in (9), decision complexity (5), technical barrier (10), channel access (7), market competition (3), and geopolitical risk (2)."
     },
     {
       "company": "ServiceNow",
@@ -3204,7 +3204,7 @@
         "commStrategy": "Introduce through regional SI/DIST channels, providing competitive TCO analysis and trial programs."
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=4, D6(Geopolitical Risk)=2. 主要難點在於 主要供應商為 Dell 和 HPE，切換成本中等 (D6)。"
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=4, D6(Geopolitical Risk)=2. The main difficulty lies in the fact that the primary suppliers are Dell and HPE, with medium switching costs (D6)."
     },
     {
       "rank": 62,
@@ -3249,7 +3249,7 @@
         "commStrategy": "Enter through healthcare industry SIs (such as Epic Systems partners, Cerner ecosystem). The healthcare industry procurement values long-term service contracts."
       },
       "archetype": "healthcare",
-      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=4, D6(Geopolitical Risk)=2. 主要難點在於 主要供應商為 Dell 和 HPE，切換成本中等 (D6)。"
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=4, D6(Geopolitical Risk)=2. The main difficulty lies in the primary suppliers being Dell and HPE, with medium switching costs (D6)."
     },
     {
       "rank": 63,
@@ -3408,7 +3408,7 @@
         "commStrategy": "Introduce through regional SI/DIST channels, providing competitive TCO analysis and trial programs."
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=4. 主要難點在於 企業採購流程複雜，需跨部門評估 (D6)。"
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=4. The main difficulty lies in the complex corporate procurement process, requiring cross-departmental evaluation (D6)."
     },
     {
       "rank": 66,
@@ -3459,7 +3459,7 @@
         "commStrategy": "Approach through retail SIs or directly contact the IT department; the retail industry is extremely sensitive to TCO"
       },
       "archetype": "retail",
-      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=2, D4(Channel Access)=6, D5(Competition)=5, D6(Geopolitical Risk)=2. 主要難點在於 主要供應商為 Dell 和 HPE，切換成本中等 (D6)。"
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=2, D4(Channel Access)=6, D5(Competition)=5, D6(Geopolitical Risk)=2. The main difficulty lies in the primary suppliers being Dell and HPE, with medium switching costs (D6)."
     },
     {
       "rank": 67,
@@ -3702,7 +3702,7 @@
         "commStrategy": "Approach with a TCO analysis and a value proposition of supply chain diversification, emphasizing the strategic value of a second source to mitigate risks."
       },
       "archetype": "hyperscaler",
-      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=7, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=7, D6(Geopolitical Risk)=1. 主要挑戰來自 供應商鎖定(D1) (得分 9)，而 地緣政治(D6) (得分 1) 是相對的機會點。"
+      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=7, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=7, D6(Geopolitical Risk)=1. The main challenge comes from Supplier Lock-in (D1) (score 9), while Geopolitical Risk (D6) (score 1) is a relative opportunity."
     },
     {
       "company": "Yahoo (Apollo Global)",
@@ -3747,7 +3747,7 @@
         "commStrategy": "Introduce through regional SI/DIST channels, providing a competitive TCO analysis and trial program."
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=5, D3(Technical Barrier)=2, D4(Channel Access)=5, D5(Competition)=6, D6(Geopolitical Risk)=1. 主要挑戰來自 供應商鎖定(D1) (得分 7)，而 地緣政治(D6) (得分 1) 是相對的機會點。"
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=5, D3(Technical Barrier)=2, D4(Channel Access)=5, D5(Competition)=6, D6(Geopolitical Risk)=1. The main challenge comes from Supplier Lock-in (D1) (score 7), while Geopolitical Risk (D6) (score 1) is a relative opportunity."
     },
     {
       "rank": 73,
@@ -3792,7 +3792,7 @@
         "commStrategy": "Approach through telecom industry SIs (like Nokia, Ericsson ecosystem partners) or by participating directly in the RFP process."
       },
       "archetype": "telecom",
-      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=7, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=6, D6(Geopolitical Risk)=2. 主要挑戰來自 決策複雜度(D2) (得分 7)，而 地緣政治(D6) (得分 2) 是相對的機會點。"
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=7, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=6, D6(Geopolitical Risk)=2. The main challenge comes from Decision Complexity (D2) (score 7), while Geopolitical Risk (D6) (score 2) is a relative opportunity."
     },
     {
       "rank": 74,
@@ -3843,7 +3843,7 @@
         "commStrategy": "Must enter through authorized defense industry channels (e.g., Carahsoft, CDWG, Presidio Federal); TAA compliance certification is required."
       },
       "archetype": "defense",
-      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=9, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=8, D6(Geopolitical Risk)=6. 主要挑戰來自 決策複雜度(D2) (得分 9)，而 技術門檻(D3) (得分 4) 是相對的機會點。"
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=9, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=8, D6(Geopolitical Risk)=6. The main challenge comes from Decision Complexity (D2) (score 9), while Technical Barrier (D3) (score 4) is a relative opportunity."
     },
     {
       "rank": 75,
@@ -3900,7 +3900,7 @@
         "commStrategy": "Approach through healthcare industry SIs (e.g., Epic Systems partners, Cerner ecosystem); the healthcare industry procurement values long-term service contracts."
       },
       "archetype": "healthcare",
-      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=6, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=6, D6(Geopolitical Risk)=2. 主要挑戰來自 決策複雜度(D2) (得分 6)，而 地緣政治(D6) (得分 2) 是相對的機會點。"
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=6, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=6, D6(Geopolitical Risk)=2. The main challenge comes from Decision Complexity (D2) (score 6), while Geopolitical Risk (D6) (score 2) is a relative opportunity."
     },
     {
       "rank": 76,
@@ -3914,7 +3914,7 @@
       "asusModel": "General 2U: RS720-E12, General 2U AMD: RS720A-E12",
       "channel": "SI/DIST (possibly through Elevance Systems)",
       "difficulty": 4,
-      "challenges": "【Healthcare/製藥業戰術】[Compliance Threshold]HIPAA、FDA 21 CFR Part 11 等Healthcare法規對伺服器供應商有嚴格要求。[Data Security]Patient data protection requirements are extremely high, and HITRUST CSF certification is required.[Long Procurement Cycle]Healthcare業 IT 採購週期通常 12-18 個月，決策鏈複雜。[Existing Ecosystem]Microsoft, AWS, SAP, Oracle, Cisco已深度整合至Healthcare IT 生態系（Epic、Cerner）。",
+      "challenges": "【Healthcare/Pharmaceutical Industry Tactics】[Compliance Threshold] Healthcare regulations such as HIPAA and FDA 21 CFR Part 11 impose strict requirements on server providers. [Data Security] Patient data protection requirements are extremely high, and HITRUST CSF certification is required. [Long Procurement Cycle] The IT procurement cycle in the healthcare industry typically lasts 12-18 months, with a complex decision-making chain. [Existing Ecosystem] Microsoft, AWS, SAP, Oracle, and Cisco are deeply integrated into the Healthcare IT ecosystem (Epic, Cerner).",
       "entryPoint": "【Healthcare/製藥業戰術】[Short-term (3-6 months)]1. Recommend ASUS server product lines to Elevance Health (Anthem) through existing channel partners, and arrange product demonstrations and technical exchanges.2. Provide competitive quotation solutions for its upcoming equipment update cycle. [Mid-term (6-12 months)]3. 提供符合Healthcare產業法規的伺服器方案，強調資料安全和系統可靠性。4. 針對Healthcare AI（影像辨識、藥物研發）需求推薦 ASUS GPU 伺服器。 [Long-term (1-2 years)]5. Strive to become a qualified supplier list (AVL) of Elevance Health (Anthem) and establish a long-term cooperation framework agreement.6. Cooperate with the technical team of Elevance Health (Anthem) to develop customized server solutions for their specific needs and deepen the cooperative relationship. [Key Actions]Appoint a dedicated account manager to be responsible for Elevance Health (Anthem) customers, establish initial contact through See Channel Column, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
         "name": "Shawn X. White",
@@ -3936,16 +3936,16 @@
         "name": "Shawn X. White",
         "title": "Transformational Senior Director of Multi-cloud Engineering & Operations",
         "linkedin": "https://www.linkedin.com/in/shawn-x-white-886a3910",
-        "commStrategy": "強調 HIPAA 合規伺服器方案、AI Healthcare影像分析的 GPU 運算能力、以及高可靠性設計"
+        "commStrategy": "Emphasize HIPAA-compliant server solutions, GPU computing capabilities for AI healthcare image analysis, and high reliability design."
       },
       "procurementDecisionMaker": {
         "name": "Brian Church",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Elevance%20Health%20(Anthem)%20procurement%20VP",
-        "commStrategy": "透過Healthcare業 SI（如 Epic Systems 合作夥伴、Cerner 生態系）切入，Healthcare業採購重視長期服務合Approx."
+        "commStrategy": "Entering through Healthcare industry SI (such as Epic Systems partners, Cerner ecosystem), Healthcare industry procurement values long-term service agreements Approx."
       },
       "archetype": "healthcare",
-      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=6, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=6, D6(Geopolitical Risk)=2. 主要挑戰來自 決策複雜度(D2) (得分 6)，而 技術門檻(D3) (得分 2) 是相對的機會點。"
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=6, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=6, D6(Geopolitical Risk)=2. The main challenge comes from Decision Complexity (D2) (score 6), while Technical Barrier (D3) (score 2) is a relative opportunity point."
     },
     {
       "rank": 77,
@@ -3953,13 +3953,13 @@
       "region": "NA/United States(波士頓)",
       "volume": "5,000-8,000 台 (估計)",
       "platform": "Hybrid architecture, including mainstream brands (HPE, Dell) and white-box servers, Intel Xeon / AMD EPYC",
-      "application": "Industrial物聯網 (Predix 平台)、數據分析、模擬運算、企業 IT",
+      "application": "Industrial Internet of Things (Predix platform), data analytics, simulation computing, enterprise IT",
       "currentSuppliers": "Multi-source supply, including Dell, HPE, and cloud cooperation with AWS, Microsoft Azure",
       "odmOem": "Partially adopt ODM Direct (such as Supermicro, Quanta)",
       "asusModel": "RS720-E12, RS720A-E12, ESC8000-E12, ESC8000A-E13",
       "channel": "Direct + SI/DIST: SHI (https://www.shi.com), WWT (https://www.wwt.com)",
       "difficulty": 4,
-      "challenges": "【Automotive/自駕業戰術】[Technical Threshold]General Electric (GE) purchases in an ODM model and has strict technical specification requirements for server design, heat dissipation, and power efficiency, which requires a long technical verification process. [Supply Chain Barriers]目前主要供應商為 Multi-source supply, including Dell, HPE, and cloud cooperation with AWS, Microsoft Azure，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 [Business Challenges]採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合Approx.簽訂全流程跟進。",
+      "challenges": "【Automotive/Autonomous Driving Industry Tactics】[Technical Threshold] General Electric (GE) purchases in an ODM model and has strict technical specification requirements for server design, heat dissipation, and power efficiency, which requires a long technical verification process. [Supply Chain Barriers] Currently, the main suppliers are multi-source supply, including Dell, HPE, and cloud cooperation with AWS, Microsoft Azure. A stable cooperative relationship and service system have been established. ASUS needs to demonstrate clear differentiated value to compete for replacement or additional opportunities. [Business Challenges] The procurement decision-making process is complex, involving multiple departments (IT, procurement, finance), with a long decision cycle. It requires full-process follow-up from technical verification, business negotiation to contract signing.",
       "entryPoint": "【Automotive/自駕業戰術】【短期（6-12個月）】1. Establish indirect cooperative relationships through channel partners such as E Tech Group, Northeast Integration, and NeoMatrix Industrial Automation, and first prove ASUS's technical capabilities and service quality with small-scale projects.2. Provide standardized server solutions for General Electric (GE)'s non-core or emerging business needs to lower the entry barrier. [Mid-term (6-12 months)]3. 深入了解 General Electric (GE) 的 IT Infrastructure規劃和技術路線圖，提供針對性的伺服器升級方案。4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. [Long-term (1-2 years)]5. Strive to become a qualified supplier list (AVL) of General Electric (GE) and establish a long-term cooperation framework agreement.6. Cooperate with the technical team of General Electric (GE) to develop customized server solutions for their specific needs and deepen the cooperative relationship. [Key Actions]Appoint a dedicated account manager to be responsible for General Electric (GE) customers, establish initial contact through E Tech Group, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
         "name": "Vince Campisi",
@@ -3999,24 +3999,24 @@
         "name": "Leslie Benners",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=General%20Electric%20(GE)%20procurement%20VP",
-        "commStrategy": "透過Automotive業 Tier 1 供應商生態系或直接接觸 IT 部門，Automotive業正大量投資 AI Infrastructure"
+        "commStrategy": "Through the Automotive industry's Tier 1 supplier ecosystem or direct contact with the IT department, the Automotive industry is heavily investing in AI Infrastructure."
       },
       "archetype": "automotive",
-      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=6, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=6, D6(Geopolitical Risk)=2. 主要挑戰來自 決策複雜度(D2) (得分 6)，而 地緣政治(D6) (得分 2) 是相對的機會點。"
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=6, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=6, D6(Geopolitical Risk)=2. The main challenge comes from Decision Complexity (D2) (score 6), while Geopolitical Risk (D6) (score 2) is a relative opportunity."
     },
     {
       "rank": 78,
       "company": "L3Harris Technologies",
-      "region": "NA/United States(佛羅里達州墨爾本)",
+      "region": "NA/United States (Melbourne, Florida)",
       "volume": "5,000-8,000 台 (估計)",
       "platform": "Customized, rugged servers for communication, command, control, computers, cyber, intelligence, surveillance and reconnaissance (C5ISR) systems",
-      "application": "C5ISR 系統、戰術通訊、數據處理、網路Infrastructure、地理空間數據分析",
-      "currentSuppliers": "專門的Defense供應商和整合商，如 Mercury Systems, Curtiss-Wright Defense Solutions",
-      "odmOem": "與特定 ODM/OEM 合作開發符合軍規和Aerospace標準的嵌入式和機架式系統",
+      "application": "C5ISR systems, tactical communications, data processing, network infrastructure, geospatial data analysis",
+      "currentSuppliers": "Specialized Defense suppliers and integrators, such as Mercury Systems, Curtiss-Wright Defense Solutions",
+      "odmOem": "Collaborate with specific ODM/OEM to develop embedded and rack-mounted systems that meet military and Aerospace standards",
       "asusModel": "RS720-E12, ESC4000-E11 (requires hardening and customization)",
       "channel": "主要透過具備政府合Approx.的 SI/整合商: Leidos (https://www.leidos.com), SAIC (https://www.saic.com), General Dynamics Mission Systems (https://gdmissionsystems.com)",
       "difficulty": 7,
-      "challenges": "【Defense/Aerospace業戰術】[Security Certification]需通過 TAA（Trade Agreements Act）、FedRAMP、ITAR 等Defense安全認證。[Supply Chain National Security Review]Defense採購對供應鏈來源國有嚴格限制，需證明非受限國家Manufacturing。【既有合Approx.】專門的Defense供應商和整合商，如 Mercury Systems, Curtiss-Wright Defense Solut已取得長期Defense合Approx.（IDIQ/BPA），替換需等合Approx.到期。[Confidentiality Level]Some requirements involve confidential computing and have special security requirements for servers.",
+      "challenges": "【Defense/Aerospace Industry Tactics】[Security Certification] Must pass Defense security certifications such as TAA (Trade Agreements Act), FedRAMP, ITAR, etc. [Supply Chain National Security Review] Defense procurement has strict restrictions on the country of origin of the supply chain and must prove manufacturing is from non-restricted countries. 【Existing Contracts Approx.】 Specialized Defense suppliers and integrators, such as Mercury Systems, Curtiss-Wright Defense Solutions, have obtained long-term Defense contracts Approx. (IDIQ/BPA), replacements require waiting for the contract Approx. to expire. [Confidentiality Level] Some requirements involve confidential computing and have special security requirements for servers.",
       "entryPoint": "【Defense/Aerospace業戰術】【短期（6-12個月）】1. Establish indirect cooperative relationships through channel partners such as Critical Path Integrators, SupplyCore, and TD SYNNEX, and first prove ASUS's technical capabilities and service quality with small-scale projects.2. Provide standardized server solutions for L3Harris Technologies' non-core or emerging business needs to lower the entry barrier. [Mid-term (6-12 months)]3. 深入了解 L3Harris Technologies 的 IT Infrastructure規劃和技術路線圖，提供針對性的伺服器升級方案。4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. [Long-term (1-2 years)]5. Strive to become a qualified supplier list (AVL) of L3Harris Technologies and establish a long-term cooperation framework agreement.6. Cooperate with the technical team of L3Harris Technologies to develop customized server solutions for their specific needs and deepen the cooperative relationship. [Key Actions]Appoint a dedicated account manager to be responsible for L3Harris Technologies customers, establish initial contact through Critical Path Integrators, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
         "name": "Ross Niebergall",
@@ -4062,17 +4062,17 @@
         "name": "Kate Gutmann",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=L3Harris%20Technologies%20procurement%20VP",
-        "commStrategy": "必須透過Defense業授權通路（如 Carahsoft、CDWG、Presidio Federal）進入，需取得 TAA 合規認證"
+        "commStrategy": "Must be accessed through Defense authorized channels (such as Carahsoft, CDWG, Presidio Federal) and require TAA compliance certification."
       },
       "archetype": "defense",
-      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=9, D3(Technical Barrier)=8, D4(Channel Access)=3, D5(Competition)=4, D6(Geopolitical Risk)=6. 主要挑戰來自 決策複雜度(D2) (得分 9)，而 通路可及性(D4) (得分 3) 是相對的機會點。"
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=9, D3(Technical Barrier)=8, D4(Channel Access)=3, D5(Competition)=4, D6(Geopolitical Risk)=6. The main challenge comes from Decision Complexity (D2) (score 9), while Channel Access (D4) (score 3) is a relative opportunity point."
     },
     {
       "rank": 79,
       "company": "Fastly",
       "region": "United States",
-      "volume": "Approx. 5,000 - 8,000 units/year (根據 2025 年資本支出估算)",
-      "platform": "主要採用 Intel Xeon 和 AMD EPYC 處理器的 1U/2U General Purpose Server，並客製化硬體以滿足其特定需求。",
+      "volume": "Approx. 5,000 - 8,000 units/year (Estimated based on 2025 capital expenditure)",
+      "platform": "Mainly using 1U/2U General Purpose Servers with Intel Xeon and AMD EPYC processors, and customizing hardware to meet their specific needs.",
       "application": "CDN, Edge Compute, WAF, DDoS protection, load balancing, etc.",
       "currentSuppliers": "Cooperate with multiple ODM/OEMs, including Supermicro.",
       "odmOem": "Hybrid mode, partly self-designed, partly purchasing standard products.",
@@ -4110,7 +4110,7 @@
         "commStrategy": "Introduce through regional SI/DIST channels, and provide competitive TCO analysis and trial solutions"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=5, D3(Technical Barrier)=6, D4(Channel Access)=5, D5(Competition)=5, D6(Geopolitical Risk)=1. 主要挑戰來自 技術門檻(D3) (得分 6)，而 地緣政治(D6) (得分 1) 是相對的機會點。"
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=5, D3(Technical Barrier)=6, D4(Channel Access)=5, D5(Competition)=5, D6(Geopolitical Risk)=1. The main challenge comes from the Technical Barrier (D3) (score 6), while Geopolitical Risk (D6) (score 1) is a relative opportunity."
     },
     {
       "rank": 80,
@@ -4118,13 +4118,13 @@
       "region": "California (San Francisco)",
       "volume": "Approx. 5,000-8,000 units/year",
       "platform": "Intel Xeon 1U/2U General Purpose Server、NVIDIA GPU 伺服器",
-      "application": "生鮮E-commerce平台、推薦系統、Logistics路線最佳化",
+      "application": "Fresh produce E-commerce platform, recommendation system, Logistics route optimization",
       "currentSuppliers": "AWS (hybrid cloud), Dell, Supermicro",
       "odmOem": "Mainly OEM",
       "asusModel": "RS700-E11 (General 1U), ESC4000-E11 (AI 2U 4GPU)",
       "channel": "SI/DIST: SHI International (https://www.shi.com), Zones (https://www.zones.com)",
       "difficulty": 4,
-      "challenges": "【Retail/E-commerce業戰術】[Cost-oriented]Retail業利潤率低，對伺服器 TCO 極度敏感。[Existing Relationships]AWS (hybrid cloud), Dell, Supermicro已建立穩定的供應關係。[Seasonal Demand]Retail業有明顯的季節性採購高峰（黑五、雙十一），需要供應商能快速擴容。[Decentralized Deployment]Store edge AI requires a large number of small servers to be deployed in a decentralized manner.",
+      "challenges": "【Retail/E-commerce Industry Tactics】[Cost-oriented] The retail industry has low profit margins and is extremely sensitive to server TCO. [Existing Relationships] Stable supply relationships have been established with AWS (hybrid cloud), Dell, and Supermicro. [Seasonal Demand] The retail industry has obvious seasonal procurement peaks (Black Friday, Singles' Day), requiring suppliers to quickly scale up. [Decentralized Deployment] Store edge AI requires a large number of small servers to be deployed in a decentralized manner.",
       "entryPoint": "【Retail/E-commerce業戰術】[Short-term (3-6 months)]1. Recommend ASUS server product lines to Instacart through existing channel partners, and arrange product demonstrations and technical exchanges.2. Provide competitive quotation solutions for its upcoming equipment update cycle. [Mid-term (6-12 months)]3. 深入了解 Instacart 的 IT Infrastructure規劃和技術路線圖，提供針對性的伺服器升級方案。4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. [Long-term (1-2 years)]5. Expand the scope of cooperation from a single product line to a complete server product portfolio.6. 建立長期的維護服務合Approx.，確保客戶滿意度和持續合作。 [Key Actions]Appoint a dedicated account manager to be responsible for Instacart customers, establish initial contact through SHI International, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
         "name": "Dustin Pearce",
@@ -4158,10 +4158,10 @@
         "name": "Bhav Rai",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Instacart%20procurement%20VP",
-        "commStrategy": "透過Retail業 SI 或直接接觸 IT 部門，Retail業對 TCO 極度敏感"
+        "commStrategy": "Through Retail industry SI or direct contact with the IT department, the Retail industry is extremely sensitive to TCO."
       },
       "archetype": "retail",
-      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=3. 主要挑戰來自 供應商鎖定(D1) (得分 5)，而 通路可及性(D4) (得分 3) 是相對的機會點。"
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=3. The main challenge comes from Supplier Lock-in (D1) (score 5), while Channel Access (D4) (score 3) is a relative opportunity."
     },
     {
       "rank": 81,
@@ -4212,7 +4212,7 @@
         "commStrategy": "Retailers are extremely sensitive to TCO (Total Cost of Ownership), whether through retail SI (System Integrators) or direct engagement with IT departments."
       },
       "archetype": "retail",
-      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=2, D6(Geopolitical Risk)=1. 主要在供應商關係、採購流程與技術規格上存在中等難度。"
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=2, D6(Geopolitical Risk)=1. There are moderate difficulties mainly in supplier relationships, procurement processes, and technical specifications."
     },
     {
       "rank": 82,
@@ -4263,7 +4263,7 @@
         "commStrategy": "Provide competitive TCO analysis and trial programs through referrals from regional SI/DIST channels."
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=4, D6(Geopolitical Risk)=1. 主要在供應商關係、採購流程與技術規格上存在中等難度。"
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=4, D6(Geopolitical Risk)=1. There are moderate difficulties mainly in supplier relationships, procurement processes, and technical specifications."
     },
     {
       "rank": 83,
@@ -4320,7 +4320,7 @@
         "commStrategy": "Provide competitive TCO analysis and trial programs through referrals from regional SI/DIST channels."
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=1. 主要在供應商關係、採購流程與技術規格上存在中等難度。"
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=1. There are moderate difficulties mainly in supplier relationships, procurement processes, and technical specifications."
     },
     {
       "rank": 84,
@@ -4377,7 +4377,7 @@
         "commStrategy": "Penetrate the healthcare industry through SI (System Integrator) partners (e.g., Epic Systems partners, Cerner ecosystem). Healthcare procurement emphasizes long-term service contracts."
       },
       "archetype": "healthcare",
-      "difficultyReason": "D1(Supplier Lock-in)=3, D2(Decision Complexity)=5, D3(Technical Barrier)=3, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=1. 主要在供應商關係、採購流程與技術規格上存在中等難度。"
+      "difficultyReason": "D1(Supplier Lock-in)=3, D2(Decision Complexity)=5, D3(Technical Barrier)=3, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=1. There are moderate difficulties mainly in supplier relationships, procurement processes, and technical specifications."
     },
     {
       "rank": 85,
@@ -4422,7 +4422,7 @@
         "commStrategy": "Retailers are extremely sensitive to TCO (Total Cost of Ownership), whether through retail SI (System Integrators) or direct engagement with IT departments."
       },
       "archetype": "retail",
-      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=2, D6(Geopolitical Risk)=1. 主要在供應商關係、採購流程與技術規格上存在中等難度。"
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=2, D6(Geopolitical Risk)=1. There are moderate difficulties mainly in supplier relationships, procurement processes, and technical specifications."
     },
     {
       "rank": 86,
@@ -4479,13 +4479,13 @@
         "commStrategy": "Enter through healthcare industry SIs (such as Epic Systems partners, Cerner ecosystem)，healthcare procurement values long-term service contracts"
       },
       "archetype": "healthcare",
-      "difficultyReason": "D1(Supplier Lock-in)=3, D2(Decision Complexity)=5, D3(Technical Barrier)=3, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=1. 主要在供應商關係、採購流程與技術規格上存在中等難度。"
+      "difficultyReason": "D1(Supplier Lock-in)=3, D2(Decision Complexity)=5, D3(Technical Barrier)=3, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=1. There are moderate difficulties mainly in supplier relationships, procurement processes, and technical specifications."
     },
     {
       "rank": 87,
       "company": "Adobe",
       "region": "United States",
-      "volume": "Approx. 3,000 - 6,000 units/年。Adobe 的主要服務，包括 Creative Cloud 和 Experience Cloud，都運行在 AWS 和 Microsoft Azure 等公有雲上。但為了其 AI 平units Adobe Sensei 的模型訓練，以及部分地區的資料中心需求，仍會採購一定數量的實體伺服器，特別是高效能的 GPU 伺服器。",
+      "volume": "Approx. 3,000 - 6,000 units/year. Adobe's main services, including Creative Cloud and Experience Cloud, run on public clouds such as AWS and Microsoft Azure. However, for the AI model training of Adobe Sensei and data center needs in certain regions, a certain number of physical servers are still procured, especially high-performance GPU servers.",
       "platform": "Hybrid cloud architecture。公有雲上使用標準的虛擬機實例。Private data centers focus on High-Performance Computing (HPC) and AI servers，extensively using NVIDIA GPU，如 A100、H100 等，paired with Intel Xeon 或 AMD EPYC processors，forming powerful AI training clusters。General-purpose servers are used to support internal development and testing environments。",
       "application": "AI model training and inference（Adobe Sensei）、image and video rendering、large-scale data analysis、and supporting its vast cloud services（such as storage、database、networking, etc.）。",
       "currentSuppliers": "Dell、HPE、Supermicro 等，and directly with ODM vendors like Wiwynn、Quanta to procure customized AI servers。",
@@ -4560,7 +4560,7 @@
       "rank": 88,
       "company": "SambaNova Systems",
       "region": "United States",
-      "volume": "Approx. 3,000 - 6,000 units/年 (estimated值，基於其融資規模與市場擴展計畫)",
+      "volume": "Approx. 3,000 - 6,000 units/year (estimated value, based on its financing scale and market expansion plans)",
       "platform": "SambaNova DataScale 系統 (containing its self-developed Cardinal SN 系列 AI chip)，paired with x86 伺服器進行system control and data processing。",
       "application": "enterprise-grade AI applications、Large Language Model (LLM) training and inference、financial services、life sciences",
       "currentSuppliers": "self-designs core AI systems，peripheral servers may be sourced from Intel in collaboration with，or from other OEM/ODM procured。",
@@ -4599,7 +4599,7 @@
         "commStrategy": "Introduce through regional SI/DIST channels，and provide competitive TCO analysis and trial programs"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=10, D2(Decision Complexity)=5, D3(Technical Barrier)=10, D4(Channel Access)=6, D5(Competition)=2, D6(Geopolitical Risk)=1. 主要挑戰來自：供應商高度鎖定、技術門檻極高。"
+      "difficultyReason": "D1(Supplier Lock-in)=10, D2(Decision Complexity)=5, D3(Technical Barrier)=10, D4(Channel Access)=6, D5(Competition)=2, D6(Geopolitical Risk)=1. The main challenges come from: high supplier lock-in and extremely high technical barriers."
     },
     {
       "rank": 89,
@@ -4650,12 +4650,12 @@
         "commStrategy": "Introduce through regional SI/DIST channels，and provide competitive TCO analysis and trial programs"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=1. 主要在供應商關係、採購流程與技術規格上存在中等難度。"
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=1. There are moderate difficulties mainly in supplier relationships, procurement processes, and technical specifications."
     },
     {
       "rank": 90,
       "company": "Procter & Gamble (P&G)",
-      "region": "NA/United States(俄亥俄州辛辛那提)",
+      "region": "NA/United States (Cincinnati, Ohio)",
       "volume": "3,000-5,000 units (estimated)",
       "platform": "Hybrid cloud architecture，with Microsoft Azure deep collaboration，on-premise data centers are expected to be Dell/HPE 為主",
       "application": "supply chain AI、data analysis、consumer behavior analysis、manufacturing process optimization、ERP",
@@ -4698,7 +4698,7 @@
         "name": "Zuzanna Dylęgowska",
         "title": "Senior Director IT, Cloud Engineering",
         "linkedin": "https://pl.linkedin.com/in/zuzadylegowska",
-        "commStrategy": "聚焦自動駕駛訓練的 GPU 運算需求、車聯網資料處理、以及工廠邊緣 AI 應用"
+        "commStrategy": "Focusing on GPU computing demands for autonomous driving training, vehicle networking data processing, and factory edge AI applications"
       },
       "procurementDecisionMaker": {
         "name": "（推估）Shradha Muktidoot",
@@ -4707,7 +4707,7 @@
         "commStrategy": "Enter through the automotive industry Tier 1 supplier ecosystem or by directly contacting the IT department，the automotive industry is investing heavily in AI infrastructure"
       },
       "archetype": "automotive",
-      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=6, D3(Technical Barrier)=3, D4(Channel Access)=3, D5(Competition)=4, D6(Geopolitical Risk)=1. 主要在供應商關係、採購流程與技術規格上存在中等難度。"
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=6, D3(Technical Barrier)=3, D4(Channel Access)=3, D5(Competition)=4, D6(Geopolitical Risk)=1. There are moderate difficulties mainly in supplier relationships, procurement processes, and technical specifications."
     },
     {
       "rank": 91,
@@ -4752,7 +4752,7 @@
         "commStrategy": "Through the Tier 1 supplier ecosystem in the automotive industry or by directly contacting the IT department, as the automotive industry is heavily investing in AI infrastructure"
       },
       "archetype": "automotive",
-      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=1, D4(Channel Access)=5, D5(Competition)=7, D6(Geopolitical Risk)=1. 綜合供應商鎖定(7), 決策複雜度(7), 技術門檻(1), 通路可及性(5), 市場競爭(7), 及地緣風險(1)的加權評估，最終難易度為 5 分。"
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=1, D4(Channel Access)=5, D5(Competition)=7, D6(Geopolitical Risk)=1. The weighted assessment of supplier lock-in (7), decision complexity (7), technical barrier (1), channel access (5), market competition (7), and geopolitical risk (1) results in a final difficulty score of 5."
     },
     {
       "rank": 92,
@@ -4803,7 +4803,7 @@
         "commStrategy": "Introduce through regional SI/DIST channels, providing competitive TCO analysis and trial programs."
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=1, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=1. 綜合供應商鎖定(7), 決策複雜度(7), 技術門檻(1), 通路可及性(3), 市場競爭(7), 及地緣風險(1)的加權評估，最終難易度為 5 分。"
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=1, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=1. The weighted assessment of supplier lock-in (7), decision complexity (7), technical barrier (1), channel access (3), market competition (7), and geopolitical risk (1) results in a final difficulty score of 5."
     },
     {
       "company": "Reddit",
@@ -4848,7 +4848,7 @@
         "commStrategy": "Introduce through regional SI/DIST channels, providing competitive TCO analysis and trial programs."
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=5, D3(Technical Barrier)=3, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=1. 綜合供應商鎖定(5), 決策複雜度(5), 技術門檻(3), 通路可及性(3), 市場競爭(5), 及地緣風險(1)的加權評估，最終難易度為 4 分。"
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=5, D3(Technical Barrier)=3, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=1. A weighted assessment of supplier lock-in (5), decision complexity (5), technical barrier (3), channel access (3), market competition (5), and geopolitical risk (1) results in a final difficulty score of 4."
     },
     {
       "rank": 94,
@@ -4917,7 +4917,7 @@
         "commStrategy": "Introduce through financial industry-specific SIs (such as Kyndryl, DXC Technology), as the financial industry's procurement process is rigorous and requires passing a vendor qualification program."
       },
       "archetype": "financial",
-      "difficultyReason": "D1(Supplier Lock-in)=1, D2(Decision Complexity)=7, D3(Technical Barrier)=1, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=1. 綜合供應商鎖定(1), 決策複雜度(7), 技術門檻(1), 通路可及性(5), 市場競爭(3), 及地緣風險(1)的加權評估，最終難易度為 3 分。"
+      "difficultyReason": "D1(Supplier Lock-in)=1, D2(Decision Complexity)=7, D3(Technical Barrier)=1, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=1. The weighted assessment of supplier lock-in (1), decision complexity (7), technical barrier (1), channel access (5), market competition (3), and geopolitical risk (1) results in a final difficulty score of 3."
     },
     {
       "rank": 95,
@@ -4962,13 +4962,13 @@
         "commStrategy": "Through the Tier 1 supplier ecosystem in the automotive industry or by directly contacting the IT department, as the automotive industry is heavily investing in AI infrastructure"
       },
       "archetype": "automotive",
-      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=1, D4(Channel Access)=5, D5(Competition)=7, D6(Geopolitical Risk)=1. 綜合供應商鎖定(7), 決策複雜度(7), 技術門檻(1), 通路可及性(5), 市場競爭(7), 及地緣風險(1)的加權評估，最終難易度為 5 分。"
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=1, D4(Channel Access)=5, D5(Competition)=7, D6(Geopolitical Risk)=1. The weighted assessment of supplier lock-in (7), decision complexity (7), technical barrier (1), channel access (5), market competition (7), and geopolitical risk (1) results in a final difficulty score of 5."
     },
     {
       "rank": 96,
       "company": "CrowdStrike",
       "region": "United States",
-      "volume": "Approx. 1,000 - 3,000 units/year (用於全球雲端基礎設施擴展)",
+      "volume": "Approx. 1,000 - 3,000 units/year (used for global cloud infrastructure expansion)",
       "platform": "Mainly高效能的 x86 架構general-purpose servers, used forbuilding its globally distributed Falcon cloud platform。To handle massive amounts of endpoint data and AI computations, it may use high-density, multi-core servers with high-speed networking and storage equipment.",
       "application": "100% used to build and operate its SaaS-based Falcon platform.These servers are located in multiple regional data centers around the world, responsible for collecting, processing, and analyzing telemetry data from client endpoints worldwide, and detecting threats through AI models.",
       "currentSuppliers": "As a cloud-native company, its services are mainly built on self-operated bare-metal servers and some public clouds (AWS).Its bare-metal server suppliers may include ODM manufacturers such as Dell, Supermicro, or Quanta.",
@@ -5019,7 +5019,7 @@
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial solutions"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=7, D3(Technical Barrier)=1, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=1. 綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(1), 通路可及性(3), 市場競爭(5), 及地緣風險(1)的加權評估，最終難易度為 4 分。"
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=7, D3(Technical Barrier)=1, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=1. The weighted assessment of supplier lock-in (5), decision complexity (7), technical barrier (1), channel access (3), market competition (5), and geopolitical risk (1) results in a final difficulty score of 4."
     },
     {
       "rank": 97,
@@ -5064,13 +5064,13 @@
         "commStrategy": "Through the Tier 1 supplier ecosystem of the automotive industry or direct contact with the IT department, the automotive industry is investing heavily in AI infrastructure"
       },
       "archetype": "automotive",
-      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=7, D3(Technical Barrier)=1, D4(Channel Access)=5, D5(Competition)=5, D6(Geopolitical Risk)=1. 綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(1), 通路可及性(5), 市場競爭(5), 及地緣風險(1)的加權評估，最終難易度為 4 分。"
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=7, D3(Technical Barrier)=1, D4(Channel Access)=5, D5(Competition)=5, D6(Geopolitical Risk)=1. A weighted assessment of supplier lock-in (5), decision complexity (7), technical barrier (1), channel access (5), market competition (5), and geopolitical risk (1) results in a final difficulty score of 4."
     },
     {
       "rank": 98,
       "company": "Block (Square)",
       "region": "United States",
-      "volume": "Approx. 1,000-2,000 units/year (估計)。Block 運行混合雲架構，同時使用自有數據中心和公有雲 (主要是 AWS)。他們持續投資自有基礎設施，特別是針對支付處理和 AI 應用。",
+      "volume": "Approx. 1,000-2,000 units/year (estimated). Block operates a hybrid cloud architecture, using both proprietary data centers and public cloud (mainly AWS). They continuously invest in their own infrastructure, especially for payment processing and AI applications.",
       "platform": "自有數據中心可能採用 Intel/AMD 的general-purpose servers。The recent announcement of the deployment of the NVIDIA GB200 system shows its strong demand for high-performance AI servers.",
       "application": "Payment processing, risk control, data analysis, machine learning (e.g., merchant classification, fraud detection), and various services of the Cash App.",
       "currentSuppliers": "The supplier of the self-owned data center is unknown, and it may be multiple OEM/ODMs.The public cloud is AWS.",
@@ -5109,14 +5109,14 @@
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial solutions"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=1, D2(Decision Complexity)=7, D3(Technical Barrier)=1, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=1. 綜合供應商鎖定(1), 決策複雜度(7), 技術門檻(1), 通路可及性(5), 市場競爭(3), 及地緣風險(1)的加權評估，最終難易度為 3 分。"
+      "difficultyReason": "D1(Supplier Lock-in)=1, D2(Decision Complexity)=7, D3(Technical Barrier)=1, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=1. The weighted assessment of supplier lock-in (1), decision complexity (7), technical barrier (1), channel access (5), market competition (3), and geopolitical risk (1) results in a final difficulty score of 3."
     },
     {
       "rank": 99,
       "company": "Palo Alto Networks",
       "region": "United States",
-      "volume": "Approx. 1,000 - 2,000 units/year (主要為內部研發及雲端服務後端支撐)",
-      "platform": "Mainly標準的 1U/2U x86 架構general-purpose servers, used for軟體開發、測試、建構與維運其 Prisma Cloud 安全平台。With the integration of AI functions, it may begin to introduce a small number of servers equipped with NVIDIA GPUs.",
+      "volume": "Approx. 1,000 - 2,000 units/year (mainly for internal R&D and backend support of cloud services)",
+      "platform": "Mainly standard 1U/2U x86 architecture general-purpose servers, used for software development, testing, building, and maintaining its Prisma Cloud security platform. With the integration of AI functions, it may begin to introduce a small number of servers equipped with NVIDIA GPUs.",
       "application": "Mainly used for internal software development, global threat intelligence analysis, and supporting the back-end infrastructure of its cloud security services (SaaS).The hardware firewalls it sells are self-designed dedicated devices, not general-purpose servers.",
       "currentSuppliers": "As a cloud-native company, most of its services run on public clouds such as AWS, GCP, and Azure.Internally used servers may be purchased from manufacturers such as Dell, HPE, or Supermicro.",
       "odmOem": "Mainly OEM procurement model, purchasing standardized server products.",
@@ -5196,18 +5196,18 @@
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial solutions"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=3, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=1. 綜合供應商鎖定(7), 決策複雜度(7), 技術門檻(3), 通路可及性(3), 市場競爭(7), 及地緣風險(1)的加權評估，最終難易度為 5 分。"
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=3, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=1. The weighted assessment of supplier lock-in (7), decision complexity (7), technical barrier (3), channel access (3), market competition (7), and geopolitical risk (1) results in a final difficulty score of 5."
     },
     {
       "rank": 100,
       "company": "Corebridge Financial",
       "region": "North America/United States",
-      "volume": "Approx. 500 - 1,500 units/year (作為大型金融服務公司，採購主要為週期性更新及業務擴展，非超大規模採購)",
-      "platform": "以 Intel Xeon 或 AMD EPYC 為主的 1U/2U 通用型機架式伺服器, used for企業級應用和資料庫。",
+      "volume": "Approx. 500 - 1,500 units/year (As a large financial services company, procurement is mainly for periodic updates and business expansion, not ultra-large scale procurement)",
+      "platform": "1U/2U general-purpose rack servers primarily based on Intel Xeon or AMD EPYC, used for enterprise-level applications and databases.",
       "application": "Core financial trading systems, customer relationship management (CRM), data analysis, network security, internal IT infrastructure.Adopts a hybrid cloud strategy, with some services deployed on Microsoft Azure.",
       "currentSuppliers": "It is speculated to be first-tier OEM brands such as Dell Technologies, HPE, and Lenovo.",
       "odmOem": "OEM。",
-      "asusModel": "通用 1U: RS700-E11, 通用 2U: RS720-E12, 通用 2U AMD: RS720A-E12。",
+      "asusModel": "General 1U: RS700-E11, General 2U: RS720-E12, General 2U AMD: RS720A-E12.",
       "channel": "Procurement may be made through large system integrators (SIs) or channel distributors (DISTs), such as CDW, SHI, Insight Enterprises.",
       "difficulty": 4,
       "challenges": "[Financial Industry Tactics][Technical Requirements]Corebridge Financial has clear requirements for server quality and technical support, and needs to provide complete technical documents and after-sales service commitments. [Supply Chain Barriers]The current main supplier is speculated to be a first-tier OEM brand such as Dell Technologies, HPE, or Lenovo. It has established a stable cooperative relationship and service system. ASUS needs to show clear differentiated value to win replacement or new opportunities. [Business Challenges]The procurement decision-making process is complex, involving multiple departments (IT, procurement, finance), and the decision-making cycle is long.Need to follow up the whole process from technical verification, business negotiation to contract signing. [Industry Characteristics]The financial industry has extremely high requirements for system stability, information security compliance (such as PCI DSS), and disaster recovery. Server suppliers need to provide complete security certification and SLA guarantees.",
@@ -5241,7 +5241,7 @@
         "commStrategy": "Introduced by financial industry-specific SIs (such as Kyndryl, DXC Technology), the financial industry's procurement process is rigorous and requires passing a vendor qualification program"
       },
       "archetype": "financial",
-      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=3, D3(Technical Barrier)=1, D4(Channel Access)=7, D5(Competition)=7, D6(Geopolitical Risk)=1. 綜合供應商鎖定(7), 決策複雜度(3), 技術門檻(1), 通路可及性(7), 市場競爭(7), 及地緣風險(1)的加權評估，最終難易度為 4 分。"
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=3, D3(Technical Barrier)=1, D4(Channel Access)=7, D5(Competition)=7, D6(Geopolitical Risk)=1. A weighted assessment of supplier lock-in (7), decision complexity (3), technical barrier (1), channel access (7), market competition (7), and geopolitical risk (1) results in a final difficulty score of 4."
     }
   ]
 }

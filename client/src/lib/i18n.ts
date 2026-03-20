@@ -130,6 +130,7 @@ export interface Translations {
   diffModalSubtitle: string;
   diffModalFormula: string;
   diffModalFormulaDesc: string;
+  diffModalFormulaNote: string;
   diffModalD1: string;
   diffModalD1Desc: string;
   diffModalD2: string;
@@ -357,6 +358,7 @@ const zh: Translations = {
   diffModalSubtitle: "六維度加權評分系統",
   diffModalFormula: "計算公式",
   diffModalFormulaDesc: "Final Score = D1×0.25 + D2×0.20 + D3×0.20 + D4×0.15 + D5×0.10 + D6×0.10",
+  diffModalFormulaNote: "各維度分數範圍 1-10，加權後四捨五入為最終難易度評分。分數越高代表進入難度越大。",
   diffModalD1: "D1 供應商鎖定程度",
   diffModalD1Desc: "現有供應商的綁定深度與排他性",
   diffModalD2: "D2 採購決策複雜度",
@@ -584,6 +586,7 @@ const en: Translations = {
   diffModalSubtitle: "Six-Dimension Weighted Scoring System",
   diffModalFormula: "Formula",
   diffModalFormulaDesc: "Final Score = D1×0.25 + D2×0.20 + D3×0.20 + D4×0.15 + D5×0.10 + D6×0.10",
+  diffModalFormulaNote: "Each dimension scores 1-10. Weighted sum is rounded to the final difficulty score. Higher score = harder to enter.",
   diffModalD1: "D1 Supplier Lock-in",
   diffModalD1Desc: "Depth and exclusivity of existing supplier binding",
   diffModalD2: "D2 Procurement Complexity",

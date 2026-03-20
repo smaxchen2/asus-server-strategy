@@ -21,7 +21,7 @@
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 NTT Group (NTT Data / NTT Communications) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 NTT Group (NTT Data / NTT Communications) 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 爭取成為 NTT Group (NTT Data / NTT Communications) 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 NTT Group (NTT Data / NTT Communications) 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 NTT Group (NTT Data / NTT Communications) 客戶，透過 NTT DATA (nttdata.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Katsuhiko Tokuda",
-        "title": "SVP, Global Data Center Services",
+        "title": "全球數據中心服務資深副總裁",
         "linkedin": "https://www.linkedin.com/in/katsuhiko-tokuda/",
         "source": "LinkedIn"
       },
@@ -43,13 +43,13 @@
       "industry": "電信",
       "techDecisionMaker": {
         "name": "Katsuhiko Tokuda",
-        "title": "SVP, Global Data Center Services",
+        "title": "全球數據中心服務資深副總裁",
         "linkedin": "https://www.linkedin.com/in/katsuhiko-tokuda/",
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
         "name": "Andrea Carli",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=NTT%20Group%20(NTT%20Data%20/%20NTT%20Communications)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -100,7 +100,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Cecilia Xu",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Reliance%20Jio%20(Jio%20Platforms)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -123,7 +123,7 @@
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 SoftBank Group / SoftBank Corp 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 SoftBank Group / SoftBank Corp 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 SoftBank Group / SoftBank Corp 客戶，透過 NTT DATA SBC 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Keiichi Makizono",
-        "title": "Executive Vice President & CIO, Head of Technology Unit",
+        "title": "執行副總裁兼首席資訊官，技術單位主管",
         "linkedin": "https://jp.linkedin.com/in/%E5%95%93%E5%B8%82-%E7%89%A7%E5%9C%92-a483a810a",
         "source": "LinkedIn"
       },
@@ -145,13 +145,13 @@
       "industry": "科技/電信",
       "techDecisionMaker": {
         "name": "Keiichi Makizono",
-        "title": "Executive Vice President & CIO, Head of Technology Unit",
+        "title": "執行副總裁兼首席資訊官，技術單位主管",
         "linkedin": "https://jp.linkedin.com/in/%E5%95%93%E5%B8%82-%E7%89%A7%E5%9C%92-a483a810a",
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
         "name": "Yan Hong",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=SoftBank%20Group%20/%20SoftBank%20Corp%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -174,7 +174,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（6-12個月）】1. 透過 T 等通路合作夥伴建立間接合作關係，先以小規模專案證明 ASUS 的技術能力和服務品質。2. 針對 Samsung SDS 的非核心或新興業務需求提供標準化伺服器方案，降低切入門檻。 【中期（6-12個月）】3. 深入了解 Samsung SDS 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 Samsung SDS 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Samsung SDS 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Samsung SDS 客戶，透過 T 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Eunyoung Kim",
-        "title": "Executive Vice President, Cloud Technology Office",
+        "title": "執行副總裁，雲端技術辦公室",
         "linkedin": "https://kr.linkedin.com/in/eunyoung-kim-170979199",
         "source": "LinkedIn"
       },
@@ -190,13 +190,13 @@
       "industry": "科技/半導體",
       "techDecisionMaker": {
         "name": "Eunyoung Kim",
-        "title": "Executive Vice President, Cloud Technology Office",
+        "title": "執行副總裁，雲端技術辦公室",
         "linkedin": "https://kr.linkedin.com/in/eunyoung-kim-170979199",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "（推估）Amy P. Jones",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Samsung%20SDS%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -231,7 +231,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Rick Gervasi",
-        "title": "Director, Global Supply Chain & Procurement",
+        "title": "全球供應鏈與採購總監",
         "linkedin": "https://www.linkedin.com/in/rick-gervasi",
         "commStrategy": "強調供應鏈多元化降低風險的價值，提供具競爭力的 TCO 分析。展示 ASUS 全球交付能力與彈性付款方案。"
       },
@@ -271,7 +271,7 @@
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 SK C&C / SK Telecom 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 SK C&C / SK Telecom 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 SK C&C / SK Telecom 客戶，透過 NTT DATA (nttdata.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Suyong Park",
-        "title": "Vice President, Head of Cloud Business",
+        "title": "副總裁，雲端業務主管",
         "linkedin": "https://kr.linkedin.com/in/suyong-park-22002a24",
         "source": "LinkedIn"
       },
@@ -293,13 +293,13 @@
       "industry": "科技/半導體",
       "techDecisionMaker": {
         "name": "Suyong Park",
-        "title": "Vice President, Head of Cloud Business",
+        "title": "副總裁，雲端業務主管",
         "linkedin": "https://kr.linkedin.com/in/suyong-park-22002a24",
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
         "name": "Gaurav Luhadiya",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=SK%20C&C%20/%20SK%20Telecom%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -322,7 +322,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Tata Consultancy Services (TCS) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Tata Consultancy Services (TCS) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Tata Consultancy Services (TCS) 客戶，透過 Dell (www.dell.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Akhilesh Kumar",
-        "title": "Director Infrastructure Services",
+        "title": "基礎設施服務總監",
         "linkedin": "https://in.linkedin.com/in/akhileshkumarsharma",
         "source": "LinkedIn"
       },
@@ -386,13 +386,13 @@
       "industry": "科技/IT服務",
       "techDecisionMaker": {
         "name": "Akhilesh Kumar",
-        "title": "Director Infrastructure Services",
+        "title": "基礎設施服務總監",
         "linkedin": "https://in.linkedin.com/in/akhileshkumarsharma",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "李修平 (Shuhei Lee)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tata%20Consultancy%20Services%20(TCS)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -415,7 +415,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Naver Corporation 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Naver Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Naver Corporation 客戶，透過 LG CNS (www.lgcns.com/business/cloud/service) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Kim Yu-won",
-        "title": "CEO and President of Naver Cloud",
+        "title": "Naver Cloud 的執行長兼總裁",
         "linkedin": "https://kr.linkedin.com/in/yuwon-kim-a6694210b",
         "source": "LinkedIn"
       },
@@ -455,13 +455,13 @@
       "industry": "科技/搜尋",
       "techDecisionMaker": {
         "name": "Kim Yu-won",
-        "title": "CEO and President of Naver Cloud",
+        "title": "Naver Cloud 的執行長兼總裁",
         "linkedin": "https://kr.linkedin.com/in/yuwon-kim-a6694210b",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Anant Rao",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Naver%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -484,7 +484,7 @@
       "entryPoint": "【NeoCloud/AI 新創戰術】【短期（立即）】1. 鞏固現有合作關係，確保 Shakti Cloud 的 ASUS ESC N8-E11 伺服器持續穩定運行，提供優質的技術支援和維護服務。2. 建立更嚴格的付款條件和信用管控機制，避免再次發生呆帳風險。【中期（3-6個月）】3. 積極爭取 Yotta 2026 年 $20 億 NVIDIA Blackwell Ultra 超級叢集計畫的伺服器訂單，提供 ASUS AI POD with GB300 NVL72 方案。4. 為 Yotta 在 Noida 的 60 MW D2 資料中心提供完整的 AI 伺服器解決方案。【長期（6-12個月）】5. 成為 Yotta 全球 AI 基礎設施擴張的首選伺服器供應商，涵蓋 H100、B200、Blackwell Ultra 等全系列平台。6. 與 Yotta 共同開發針對印度市場需求的客製化 AI 伺服器方案。【關鍵行動】由 ASUS 印度區域總經理直接對接 Yotta CEO Sunil Gupta，確保在 Blackwell Ultra 計畫中取得最大份額。同時建立專責的財務風控團隊監控付款狀況。",
       "keyPerson": {
         "name": "Sunil Gupta",
-        "title": "Co-Founder & CEO, Yotta Data Services",
+        "title": "聯合創辦人兼執行長，Yotta Data Services",
         "linkedin": "https://www.linkedin.com/in/sunilgupta-yotta/",
         "source": "LinkedIn"
       },
@@ -512,15 +512,15 @@
       "industry": "NeoCloud/AI",
       "techDecisionMaker": {
         "name": "Milind Kulkarni",
-        "title": "EVP, CTO & Head of IT Operations & Engineering",
+        "title": "執行副總裁、首席技術官暨資訊技術營運與工程主管",
         "linkedin": "https://www.linkedin.com/posts/yotta-infrastructure_executiveappointment-announcement-datacenter-activity-6876399466581168128-JfoE",
-        "commStrategy": "Engage Milind Kulkarni by highlighting server technologies that enhance the performance and efficiency of large-scale GPU deployments, complementing their NVIDIA infrastructure and supporting their AI-first strategy."
+        "commStrategy": "透過強調提升大型 GPU 部署效能與效率的伺服器技術，吸引 Milind Kulkarni，這些技術能補充他們的 NVIDIA 基礎設施並支持其 AI 優先策略。"
       },
       "procurementDecisionMaker": {
         "name": "Sitanshu Ranjan Kar",
-        "title": "AVP- Procurement & Asset Management",
+        "title": "AVP- 採購與資產管理",
         "linkedin": "https://in.linkedin.com/in/sitanshu-ranjan-kar-38042b12",
-        "commStrategy": "Approach Sitanshu Ranjan Kar with a focus on competitive TCO, scalable and reliable supply chain solutions for their multi-billion dollar infrastructure investments, and long-term partnership value for their data center operations."
+        "commStrategy": "接洽 Sitanshu Ranjan Kar，重點強調具競爭力的總擁有成本（TCO）、可擴展且可靠的供應鏈解決方案，以支持其數十億美元的基礎設施投資，以及為其數據中心運營帶來的長期合作價值。"
       },
       "actualSiPartners": "NVIDIA (Strategic partner for AI infrastructure, including a $2B Blackwell GPU deployment and a $1B DGX Cloud cluster); AWS (Collaboration for AWS Outposts deployment); Microsoft (Partnership for AI innovation); Happiest Minds Technologies (Partner for hyperscale colocation and managed services)",
       "archetype": "neocloud",
@@ -542,7 +542,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Infosys 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Infosys 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Infosys 客戶，透過 NTT 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Anant Adya",
-        "title": "Executive Vice President & Head Cloud, Infrastructure and Security Services (CIS) for Americas and APAC",
+        "title": "執行副總裁兼美洲及亞太區雲端、基礎設施與安全服務（CIS）主管",
         "linkedin": "https://www.linkedin.com/in/anantadya",
         "source": "LinkedIn"
       },
@@ -594,13 +594,13 @@
       "industry": "科技/IT服務",
       "techDecisionMaker": {
         "name": "Anant Adya",
-        "title": "Executive Vice President & Head Cloud, Infrastructure and Security Services (CIS) for Americas and APAC",
+        "title": "執行副總裁兼美洲及亞太區雲端、基礎設施與安全服務（CIS）主管",
         "linkedin": "https://www.linkedin.com/in/anantadya",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Kumaralingam MC",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Infosys%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -723,7 +723,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Naoyuki Akane",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=KDDI%20Corporation%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -746,7 +746,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 KT Corporation 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 KT Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 KT Corporation 客戶，透過 Kyndryl (kyndryl.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Jong-pil Lee (이종필)",
-        "title": "Vice President, Head of AI Infrastructure Technology R&D Group",
+        "title": "副總裁，人工智慧基礎設施技術研發組組長",
         "linkedin": "https://kr.linkedin.com/in/%EC%A2%85%ED%95%84-%EC%9D%B4-72213357",
         "source": "LinkedIn"
       },
@@ -762,13 +762,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Jong-pil Lee (이종필)",
-        "title": "Vice President, Head of AI Infrastructure Technology R&D Group",
+        "title": "副總裁，AI基礎設施技術研發組主管",
         "linkedin": "https://kr.linkedin.com/in/%EC%A2%85%ED%95%84-%EC%9D%B4-72213357",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Dr. Clive Rees",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=KT%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -791,7 +791,7 @@
       "entryPoint": "【零售/電商業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Sea Group (Shopee / Garena) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Sea Group (Shopee / Garena) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Sea Group (Shopee / Garena) 客戶，透過 NCS 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "XIANGFENG (Kevin) ZHU",
-        "title": "Senior Director, Group COO's Office",
+        "title": "高級總監，集團首席運營官辦公室",
         "linkedin": "https://sg.linkedin.com/in/xiangfeng-kevin-zhu-8b650725",
         "source": "LinkedIn"
       },
@@ -807,13 +807,13 @@
       "industry": "科技/電商",
       "techDecisionMaker": {
         "name": "XIANGFENG (Kevin) ZHU",
-        "title": "Senior Director, Group COO's Office",
+        "title": "高級總監，集團首席運營官辦公室",
         "linkedin": "https://sg.linkedin.com/in/xiangfeng-kevin-zhu-8b650725",
         "commStrategy": "聚焦 AI 推薦系統、供應鏈優化、以及門市邊緣 AI 的伺服器需求"
       },
       "procurementDecisionMaker": {
         "name": "Shinichiro Ide",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sea%20Group%20(Shopee%20/%20Garena)%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
@@ -836,7 +836,7 @@
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Bharti Airtel 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 Bharti Airtel 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Bharti Airtel 客戶，透過 Fortinet (fortinet.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Sandeep Gupta",
-        "title": "Head of Procurement for Network & IT",
+        "title": "網絡及資訊科技採購主管",
         "linkedin": "https://in.linkedin.com/in/sandeep-gupta-3492039",
         "source": "LinkedIn"
       },
@@ -906,7 +906,7 @@
       "industry": "電信",
       "procurementDecisionMaker": {
         "name": "Sandeep Gupta",
-        "title": "Head of Procurement for Network & IT",
+        "title": "網絡及資訊科技採購主管",
         "linkedin": "https://in.linkedin.com/in/sandeep-gupta-3492039",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -935,7 +935,7 @@
       "entryPoint": "【零售/電商業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Rakuten Group 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Rakuten Group 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Rakuten Group 客戶，透過 Rakuten Symphony 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Yuji Nagata",
-        "title": "General Manager, Technology Platform Division",
+        "title": "技術平台部 總經理",
         "linkedin": "https://jp.linkedin.com/in/yuji-nagata-a2b88872",
         "source": "LinkedIn"
       },
@@ -951,13 +951,13 @@
       "industry": "科技/電商",
       "techDecisionMaker": {
         "name": "Yuji Nagata",
-        "title": "General Manager, Technology Platform Division",
+        "title": "技術平台事業部 總經理",
         "linkedin": "https://jp.linkedin.com/in/yuji-nagata-a2b88872",
         "commStrategy": "聚焦 AI 推薦系統、供應鏈優化、以及門市邊緣 AI 的伺服器需求"
       },
       "procurementDecisionMaker": {
         "name": "（推估）김양섭 (Kim Yang-seop)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Rakuten%20Group%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
@@ -1002,7 +1002,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）Chang-Seok Seo",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sakura%20Internet%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
@@ -1025,7 +1025,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Telkom Indonesia (Telkomsel) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Telkom Indonesia (Telkomsel) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Telkom Indonesia (Telkomsel) 客戶，透過 NTT DATA (nttdata-solutions.com/id-en/) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Nuzli Hernawan",
-        "title": "VP Infrastructure & Cybersecurity",
+        "title": "基礎設施與網路安全副總裁",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Telkom%20Indonesia%20(Telkomsel)",
         "source": "https://id.linkedin.com/in/nuzlilatief"
       },
@@ -1053,7 +1053,7 @@
       },
       "procurementDecisionMaker": {
         "name": "조민관 (Cho Min-kwan)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Telkom%20Indonesia%20(Telkomsel)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -1076,7 +1076,7 @@
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Singtel (Singapore Telecommunications) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 Singtel (Singapore Telecommunications) 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Singtel (Singapore Telecommunications) 客戶，透過 Teligraph Technology Pte Ltd (www.teligraphtech.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Bill Chang",
-        "title": "Chief Executive Officer, Digital InfraCo",
+        "title": "數位基礎設施公司首席執行官",
         "linkedin": "https://www.linkedin.com/in/bill-chang-5783b913",
         "source": "LinkedIn"
       },
@@ -1158,13 +1158,13 @@
       "industry": "電信",
       "techDecisionMaker": {
         "name": "Bill Chang",
-        "title": "Chief Executive Officer, Digital InfraCo",
+        "title": "數位基礎設施公司執行長",
         "linkedin": "https://www.linkedin.com/in/bill-chang-5783b913",
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
         "name": "David Gee",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Singtel%20(Singapore%20Telecommunications)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -1187,7 +1187,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Wipro Limited 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Wipro Limited 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Wipro Limited 客戶，透過 Wipro (wipro.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Sandeep K Vasudevan",
-        "title": "Head of Information Technology Infrastructure",
+        "title": "資訊技術基礎設施主管",
         "linkedin": "https://in.linkedin.com/in/sandeep-k-vasudevan",
         "source": "LinkedIn"
       },
@@ -1203,13 +1203,13 @@
       "industry": "科技/IT服務",
       "techDecisionMaker": {
         "name": "Sandeep K Vasudevan",
-        "title": "Head of Information Technology Infrastructure",
+        "title": "資訊技術基礎設施主管",
         "linkedin": "https://in.linkedin.com/in/sandeep-k-vasudevan",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Marc Eng",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Wipro%20Limited%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -1254,7 +1254,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Takashi Miyajima",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Kakao%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -1277,7 +1277,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 HCL Technologies 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 HCL Technologies 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 HCL Technologies 客戶，透過 NTT DATA (nttdata.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Sunit Tyagi",
-        "title": "Senior Vice President - Information Technology",
+        "title": "資深副總裁 - 資訊科技",
         "linkedin": "https://in.linkedin.com/in/sunit-tyagi-3235135",
         "source": "LinkedIn"
       },
@@ -1311,13 +1311,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Sunit Tyagi",
-        "title": "Senior Vice President - Information Technology",
+        "title": "資深副總裁 - 資訊科技",
         "linkedin": "https://in.linkedin.com/in/sunit-tyagi-3235135",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Sandeep Gupta",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=HCL%20Technologies%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -1362,7 +1362,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Kaye Sumanga",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hitachi,%20Ltd.%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -1385,7 +1385,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Grab Holdings 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Grab Holdings 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Grab Holdings 客戶，透過 NCS 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Mohan Krishnan",
-        "title": "Head of Engineering, Technical Infrastructure",
+        "title": "工程技術基礎設施主管",
         "linkedin": "https://sg.linkedin.com/in/mohangk",
         "source": "LinkedIn"
       },
@@ -1407,13 +1407,13 @@
       "industry": "科技/交通",
       "techDecisionMaker": {
         "name": "Mohan Krishnan",
-        "title": "Head of Engineering, Technical Infrastructure",
+        "title": "工程技術基礎設施主管",
         "linkedin": "https://sg.linkedin.com/in/mohangk",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Shu Shian Lim",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Grab%20Holdings%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -1458,7 +1458,7 @@
       },
       "procurementDecisionMaker": {
         "name": "John Pham",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Coupang%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
@@ -1481,7 +1481,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 LINE Corporation (LY Corporation) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 LINE Corporation (LY Corporation) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 LINE Corporation (LY Corporation) 客戶，透過 電通総研 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Yang Seokho",
-        "title": "Senior Executive Officer, CTO Domain, Data & AI CBU Lead",
+        "title": "高級執行官，CTO領域，數據與人工智慧事業群負責人",
         "linkedin": "https://jp.linkedin.com/in/seok-ho-yang-3753a14",
         "source": "LinkedIn"
       },
@@ -1509,13 +1509,13 @@
       "industry": "科技/社群",
       "techDecisionMaker": {
         "name": "Yang Seokho",
-        "title": "Senior Executive Officer, CTO Domain, Data & AI CBU Lead",
+        "title": "高級執行官，CTO領域，數據與人工智慧事業群負責人",
         "linkedin": "https://jp.linkedin.com/in/seok-ho-yang-3753a14",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Donald Bee",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=LINE%20Corporation%20(LY%20Corporation)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -1538,7 +1538,7 @@
       "entryPoint": "【汽車/自駕業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Toyota Motor Corporation 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Toyota Motor Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 Toyota Motor Corporation 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Toyota Motor Corporation 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Toyota Motor Corporation 客戶，透過 NTT DATA (services.global.ntt) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Hiroki Nakajima",
-        "title": "Executive Vice President, Chief Technology Officer",
+        "title": "執行副總裁，首席技術官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hiroki%20Nakajima%20Toyota%20Motor%20Corporation",
         "source": "LinkedIn"
       },
@@ -1560,13 +1560,13 @@
       "industry": "汽車/製造",
       "techDecisionMaker": {
         "name": "Hiroki Nakajima",
-        "title": "Executive Vice President, Chief Technology Officer",
+        "title": "執行副總裁，首席技術官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hiroki%20Nakajima%20Toyota%20Motor%20Corporation",
         "commStrategy": "聚焦自動駕駛訓練的 GPU 運算需求、車聯網資料處理、以及工廠邊緣 AI 應用"
       },
       "procurementDecisionMaker": {
         "name": "Donald Bee",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Toyota%20Motor%20Corporation%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -1589,7 +1589,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Tech Mahindra 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Tech Mahindra 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Tech Mahindra 客戶，透過 NTT DATA 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Arun Singh",
-        "title": "Group Function Head - IT Infrastructure (Global)",
+        "title": "集團職能主管 - IT基礎設施（全球）",
         "linkedin": "https://in.linkedin.com/in/arun-singh-1bb88a26",
         "source": "LinkedIn"
       },
@@ -1689,13 +1689,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Arun Singh",
-        "title": "Group Function Head - IT Infrastructure (Global)",
+        "title": "集團職能主管 - IT基礎設施（全球）",
         "linkedin": "https://in.linkedin.com/in/arun-singh-1bb88a26",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Prabhu Balasrinivasan",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tech%20Mahindra%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -1740,13 +1740,13 @@
       "industry": "電信",
       "techDecisionMaker": {
         "name": "待查詢",
-        "title": "Director, Data Center Operations",
+        "title": "數據中心運營總監",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Viettel%20Group",
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
         "name": "（推估）坂上 亮介 (Ryosuke Sakaue)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Viettel%20Group%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -1769,7 +1769,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（6-12個月）】1. 透過 MIRAI Semiconductors、SAMT、SINSUNG Semiconductors 等通路合作夥伴建立間接合作關係，先以小規模專案證明 ASUS 的技術能力和服務品質。2. 針對 Samsung Electronics (半導體/研發) 的非核心或新興業務需求提供標準化伺服器方案，降低切入門檻。 【中期（6-12個月）】3. 深入了解 Samsung Electronics (半導體/研發) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 Samsung Electronics (半導體/研發) 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Samsung Electronics (半導體/研發) 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Samsung Electronics (半導體/研發) 客戶，透過 MIRAI Semiconductors 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Jai-Hyuk Song",
-        "title": "President and CTO of Device Solutions (DS) Division, Head of the Semiconductor R&D Center",
+        "title": "裝置解決方案（DS）事業部總裁兼首席技術官，半導體研發中心負責人",
         "linkedin": "https://kr.linkedin.com/in/%EC%9E%AC%ED%98%81-%EC%86%A1-b42054a9",
         "source": "LinkedIn"
       },
@@ -1797,13 +1797,13 @@
       "industry": "科技/半導體",
       "techDecisionMaker": {
         "name": "Jai-Hyuk Song",
-        "title": "President and CTO of Device Solutions (DS) Division, Head of the Semiconductor R&D Center",
+        "title": "裝置解決方案（DS）部門總裁兼首席技術官，半導體研發中心負責人",
         "linkedin": "https://kr.linkedin.com/in/%EC%9E%AC%ED%98%81-%EC%86%A1-b42054a9",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Woojin Kim",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Samsung%20Electronics%20(半導體/研發)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -1822,8 +1822,8 @@
       "asusModel": "범용 2U: RS720-E12, AI 4U 8GPU: ESC8000-E12, 고밀도: ESC N8-E11 (HGX H100 8-GPU), Blackwell: ESC NB8-E11",
       "channel": "直供/SI (待確認)",
       "difficulty": 4,
-      "challenges": "【기술 문턱】고밀도 및 액체 냉각 솔루션에 대한 검증된 전문성. 【공급망 장벽】기존 ODM 공급업체와의 강력한 관계. 【상업적 도전】경쟁력 있는 가격 및 대규모 배포 능력.",
-      "entryPoint": "【단기(6-12개월)】NVIDIA Blackwell 플랫폼 기반의 차세대 GPU 서버 기술 시연. 【중기(1-2년)】특정 AI 프로젝트를 위한 파일럿 프로그램 공동 개발. 【장기(2-3년)】전략적 파트너십을 통해 주요 ODM 공급업체 중 하나가 됨. 【핵심 조치】CTO 및 조달 책임자와의 기술 및 상업적 논의 시작.",
+      "challenges": "【技術門檻】對高密度及液冷解決方案的驗證專業知識。 【供應鏈障礙】與現有ODM供應商的強大關係。 【商業挑戰】具競爭力的價格及大規模部署能力。",
+      "entryPoint": "【短期（6-12個月）】基於NVIDIA Blackwell平台的次世代GPU伺服器技術展示。 【中期（1-2年）】共同開發特定AI專案的試點計畫。 【長期（2-3年）】透過策略夥伴關係成為主要ODM供應商之一。 【核心措施】與CTO及採購負責人展開技術及商業討論。",
       "keyPerson": {
         "name": "Ashish Ahuja",
         "title": "Chief Technology Officer",
@@ -1838,7 +1838,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Jwala Deep Akshintala",
-        "title": "Senior Vice President - Commercials",
+        "title": "高級副總裁 - 商務部門",
         "linkedin": "https://in.linkedin.com/in/jwala-deep-akshintala-17b863176",
         "commStrategy": "強調供應鏈多元化降低風險的價值，提供具競爭力的 TCO 分析。展示 ASUS 全球交付能力與彈性付款方案。"
       },
@@ -1918,7 +1918,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）Kk Kwan",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tokopedia%20(GoTo%20Group)%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
@@ -1941,7 +1941,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Sony Group Corporation 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Sony Group Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Sony Group Corporation 客戶，透過 NTT DATA (nttdata.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Tsuyoshi Kodera",
-        "title": "Executive, CDO (Digital & Technology Platform (Digital Transformation Strategy, Information Systems, Information Security, Advanced Technology Area), R&D, Technology Strategy, Quality Management)",
+        "title": "執行長，CDO（數位與技術平台（數位轉型策略、資訊系統、資訊安全、先進技術領域）、研發、技術策略、品質管理）",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tsuyoshi%20Kodera%20Sony%20Group%20Corporation",
         "source": "LinkedIn"
       },
@@ -1975,13 +1975,13 @@
       "industry": "科技/消費電子",
       "techDecisionMaker": {
         "name": "Tsuyoshi Kodera",
-        "title": "Executive, CDO (Digital & Technology Platform (Digital Transformation Strategy, Information Systems, Information Security, Advanced Technology Area), R&D, Technology Strategy, Quality Management)",
+        "title": "高階主管，CDO（數位與技術平台（數位轉型策略、資訊系統、資訊安全、先進技術領域）、研發、技術策略、品質管理）",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tsuyoshi%20Kodera%20Sony%20Group%20Corporation",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Rahul Mohta",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 首席採購官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sony%20Group%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -2026,7 +2026,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Anisha Khanna",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=True%20Corporation%20(CP%20Group)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -2049,7 +2049,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Axiata Group 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Axiata Group 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Axiata Group 客戶，透過 Infosys 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Jeffrey Perera",
-        "title": "Head of IT and Enterprise Security • IT Infrastructure Planning & Operations at Dialog Axiata PLC",
+        "title": "資訊科技及企業安全主管 • Dialog Axiata PLC 資訊科技基礎設施規劃與運營",
         "linkedin": "https://lk.linkedin.com/in/jeffreymarinoperera",
         "source": "LinkedIn"
       },
@@ -2065,13 +2065,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Jeffrey Perera",
-        "title": "Head of IT and Enterprise Security • IT Infrastructure Planning & Operations at Dialog Axiata PLC",
+        "title": "資訊科技及企業安全主管 • Dialog Axiata PLC 資訊科技基礎設施規劃與運營",
         "linkedin": "https://lk.linkedin.com/in/jeffreymarinoperera",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Kenichiro Fujimoto",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Axiata%20Group%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -2128,7 +2128,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）Mitsunori Maeda",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hyundai%20AutoEver%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -2151,7 +2151,7 @@
       "entryPoint": "【汽車/自駕業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 LG CNS 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 LG CNS 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 LG CNS 客戶，透過 Snowflake 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Jong Wan Kim",
-        "title": "Vice President of the LG CNS Infrastructure Unit",
+        "title": "LG CNS基礎設施單位副總裁",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jong%20Wan%20Kim%20LG%20CNS",
         "source": "LinkedIn"
       },
@@ -2173,13 +2173,13 @@
       "industry": "科技/製造",
       "techDecisionMaker": {
         "name": "Jong Wan Kim",
-        "title": "Vice President of the LG CNS Infrastructure Unit",
+        "title": "LG CNS基礎設施單位副總裁",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jong%20Wan%20Kim%20LG%20CNS",
         "commStrategy": "聚焦自動駕駛訓練的 GPU 運算需求、車聯網資料處理、以及工廠邊緣 AI 應用"
       },
       "procurementDecisionMaker": {
         "name": "Takami Kato",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=LG%20CNS%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -2202,7 +2202,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Tata Communications 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Tata Communications 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Tata Communications 客戶，透過 NTT DATA 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Ramkumar Muthaiyan",
-        "title": "Head of Technology - Cybersecurity & Cloud",
+        "title": "技術主管 - 網絡安全與雲端",
         "linkedin": "https://in.linkedin.com/in/ramkumarmuthaiyan",
         "source": "LinkedIn"
       },
@@ -2248,13 +2248,13 @@
       "industry": "科技/IT服務",
       "techDecisionMaker": {
         "name": "Ramkumar Muthaiyan",
-        "title": "Head of Technology - Cybersecurity & Cloud",
+        "title": "技術主管 - 網絡安全與雲端",
         "linkedin": "https://in.linkedin.com/in/ramkumarmuthaiyan",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Paul Dentinger",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tata%20Communications%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -2277,7 +2277,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 STT GDC (ST Telemedia Global Data Centres)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 STT GDC (ST Telemedia Global Data Centres) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 STT GDC (ST Telemedia Global Data Centres) 客戶，透過 Tata Communications 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Dan Pointon",
-        "title": "Group Chief Technology Officer",
+        "title": "集團首席技術官",
         "linkedin": "https://sg.linkedin.com/in/dan-pointon-2a41379",
         "source": "LinkedIn"
       },
@@ -2299,13 +2299,13 @@
       "industry": "媒體/娛樂",
       "techDecisionMaker": {
         "name": "Dan Pointon",
-        "title": "Group Chief Technology Officer",
+        "title": "集團首席技術官",
         "linkedin": "https://sg.linkedin.com/in/dan-pointon-2a41379",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Byonghun Lee",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=STT%20GDC%20(ST%20Telemedia%20Global%20Data%20Centres)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -2328,7 +2328,7 @@
       "entryPoint": "【電信業戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Globe Telecom，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 Globe Telecom 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Globe Telecom 客戶，透過 TCS 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Paolo Santos",
-        "title": "Assistant Vice President, Architecture and Quality Engineering",
+        "title": "助理副總裁，架構與品質工程",
         "linkedin": "https://ph.linkedin.com/in/paoloassantos",
         "source": "LinkedIn"
       },
@@ -2344,13 +2344,13 @@
       "industry": "電信",
       "techDecisionMaker": {
         "name": "Paolo Santos",
-        "title": "Assistant Vice President, Architecture and Quality Engineering",
+        "title": "助理副總裁，架構與品質工程",
         "linkedin": "https://ph.linkedin.com/in/paoloassantos",
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
         "name": "侯永清 (Cliff Hou)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Globe%20Telecom%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -2373,7 +2373,7 @@
       "entryPoint": "【電信業戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 PLDT / Smart Communications，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 PLDT / Smart Communications 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 PLDT / Smart Communications 客戶，透過 Camxian Technologies 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Gilbert Gaw",
-        "title": "First Vice President and Head of Information Technology and the Transformation Office",
+        "title": "第一副總裁兼資訊科技與轉型辦公室主管",
         "linkedin": "https://ph.linkedin.com/in/gilbertgaw",
         "source": "LinkedIn"
       },
@@ -2395,13 +2395,13 @@
       "industry": "電信",
       "techDecisionMaker": {
         "name": "Gilbert Gaw",
-        "title": "First Vice President and Head of Information Technology and the Transformation Office",
+        "title": "第一副總裁兼資訊技術與轉型辦公室主管",
         "linkedin": "https://ph.linkedin.com/in/gilbertgaw",
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
         "name": "（推估）Stephanie Teo",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=PLDT%20/%20Smart%20Communications%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -2476,7 +2476,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Vincent Lam",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=FPT%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -2527,7 +2527,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Shreedhar Bapat",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Toshiba%20Digital%20Solutions%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -2572,7 +2572,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）川田 正貴 (Masataka Kawada)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=AIS%20(Advanced%20Info%20Service)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -2595,7 +2595,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Indosat Ooredoo Hutchison 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Indosat Ooredoo Hutchison 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Indosat Ooredoo Hutchison 客戶，透過 Lintasarta 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Ony Sixta Darmawan",
-        "title": "Vice Head of IT, President Infrastructure & Cloud Operations",
+        "title": "資訊技術副主管，基礎設施與雲端運營總裁",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ony%20Sixta%20Darmawan%20Indosat%20Ooredoo%20Hutchison",
         "source": "LinkedIn"
       },
@@ -2611,13 +2611,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Ony Sixta Darmawan",
-        "title": "Vice Head of IT, President Infrastructure & Cloud Operations",
+        "title": "資訊技術副主管，基礎設施與雲端運營總裁",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ony%20Sixta%20Darmawan%20Indosat%20Ooredoo%20Hutchison",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Trinh Thi Thuy Linh",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Indosat%20Ooredoo%20Hutchison%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -2704,7 +2704,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）John Haarer",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mitsubishi%20Electric%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -2727,7 +2727,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Kyndryl (亞太業務) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Kyndryl (亞太業務) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Kyndryl (亞太業務) 客戶，透過 ServiceNow 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "(推估) Paul Savill",
-        "title": "Global Network and Edge Computing Practice Leader",
+        "title": "全球網路與邊緣運算實務領導者",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Kyndryl%20(亞太業務)",
         "source": "https://apacnewsnetwork.com/2024/12/kyndryl-and-nokia-collaborate-to-modernize-data-center-networking-services/"
       },
@@ -2803,13 +2803,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "待查詢",
-        "title": "VP, Infrastructure Services APAC",
+        "title": "基礎設施服務副總裁 亞太區",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Kyndryl%20(亞太業務)",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Rick Gervasi",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Kyndryl%20(亞太業務)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -2832,7 +2832,7 @@
       "entryPoint": "【零售/電商業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Flipkart (Walmart India) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Flipkart (Walmart India) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Flipkart (Walmart India) 客戶，透過 Persistent Systems 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Balaji Thiagarajan",
-        "title": "Chief Product and Technology Officer",
+        "title": "首席產品與技術官",
         "linkedin": "https://www.linkedin.com/in/balajith",
         "source": "LinkedIn"
       },
@@ -2848,13 +2848,13 @@
       "industry": "零售",
       "techDecisionMaker": {
         "name": "Balaji Thiagarajan",
-        "title": "Chief Product and Technology Officer",
+        "title": "首席產品與技術官",
         "linkedin": "https://www.linkedin.com/in/balajith",
         "commStrategy": "聚焦 AI 推薦系統、供應鏈優化、以及門市邊緣 AI 的伺服器需求"
       },
       "procurementDecisionMaker": {
         "name": "（推估）Tim Ding",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Flipkart%20(Walmart%20India)%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
@@ -2877,7 +2877,7 @@
       "entryPoint": "【汽車/自駕業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Hyundai Motor Company 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Hyundai Motor Company 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 Hyundai Motor Company 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Hyundai Motor Company 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Hyundai Motor Company 客戶，透過 Hyundai AutoEver 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Eunsook Jin",
-        "title": "President and Head of ICT Management Division",
+        "title": "資訊通信技術管理部門總裁兼主管",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Eunsook%20Jin%20Hyundai%20Motor%20Company",
         "source": "LinkedIn"
       },
@@ -2893,13 +2893,13 @@
       "industry": "汽車/製造",
       "techDecisionMaker": {
         "name": "Eunsook Jin",
-        "title": "President and Head of ICT Management Division",
+        "title": "資訊通信技術管理部門總裁兼主管",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Eunsook%20Jin%20Hyundai%20Motor%20Company",
         "commStrategy": "聚焦自動駕駛訓練的 GPU 運算需求、車聯網資料處理、以及工廠邊緣 AI 應用"
       },
       "procurementDecisionMaker": {
         "name": "Prasad Munakala",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hyundai%20Motor%20Company%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -2922,7 +2922,7 @@
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 NTT Docomo 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 NTT Docomo 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 爭取成為 NTT Docomo 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 NTT Docomo 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 NTT Docomo 客戶，透過 Fujitsu 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Shuusaku Ijiri",
-        "title": "Senior Vice President, General Manager of Information Systems Department",
+        "title": "資深副總裁，資訊系統部門總經理",
         "linkedin": "https://jp.linkedin.com/in/syusaku-ijiri-860305118",
         "source": "LinkedIn"
       },
@@ -2938,13 +2938,13 @@
       "industry": "電信",
       "techDecisionMaker": {
         "name": "Shuusaku Ijiri",
-        "title": "Senior Vice President, General Manager of Information Systems Department",
+        "title": "資深副總裁，資訊系統部總經理",
         "linkedin": "https://jp.linkedin.com/in/syusaku-ijiri-860305118",
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
         "name": "S Charan Kumar",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=NTT%20Docomo%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -2967,7 +2967,7 @@
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Telstra (澳洲電信) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 Telstra (澳洲電信) 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Telstra (澳洲電信) 客戶，透過 Cisco 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Kim Krogh Andersen",
-        "title": "Group Executive, Product & Technology",
+        "title": "集團執行長，產品與技術",
         "linkedin": "https://au.linkedin.com/in/kim-krogh-andersen-87105024",
         "source": "LinkedIn"
       },
@@ -3031,13 +3031,13 @@
       "industry": "電信",
       "techDecisionMaker": {
         "name": "Kim Krogh Andersen",
-        "title": "Group Executive, Product & Technology",
+        "title": "產品與技術集團執行長",
         "linkedin": "https://au.linkedin.com/in/kim-krogh-andersen-87105024",
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
         "name": "Sittipol Tongbaiyai",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Telstra%20(澳洲電信)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -3060,19 +3060,19 @@
       "entryPoint": "【archetype戰術】Engage as a technology partner, not just a vendor. Focus on ASUS's engineering prowess and flexibility. Build a relationship with OXMIQ Labs to position ASUS as the ideal hardware partner.\n【短期（6-12個月）】1. High-Level Engagement with Anil Chalamalasetty, Mahesh Kolli (AM Green), and Raja Koduri (OXMIQ). 2. Showcase advanced GPU server platforms (e.g., ESC NB8-E11, ESC8000-E12) and provide evaluation units. 3. Arrange technical deep-dive workshops with OXMIQ and AM Intelligence Labs.\n【中期（1-2年）】1. Propose a semi-custom or fully-custom server design. 2. Secure a pilot project for a PoC cluster or ancillary systems. 3. Provide a detailed supply chain plan demonstrating volume and pace capabilities.\n【長期（2-3年）】1. Become a primary server supplier for the 1GW data center. 2. Evolve into a long-term technology partner for future designs.\n【關鍵行動】1. Assign a senior executive sponsor. 2. Form a dedicated tiger team (engineering, sales, supply chain). 3. Leverage ASUS's local presence in India.",
       "keyPerson": {
         "name": "Raja Koduri",
-        "title": "Founder and CEO, OXMIQ Labs (Technology Partner)",
+        "title": "創辦人兼執行長，OXMIQ Labs（技術合作夥伴）",
         "linkedin": "https://www.linkedin.com/in/raja-koduri-3a51611",
         "source": "LinkedIn"
       },
       "techDecisionMaker": {
         "name": "Raja Koduri",
-        "title": "Founder and CEO, OXMIQ Labs (Technology Partner)",
+        "title": "創辦人兼執行長，OXMIQ Labs（技術合作夥伴）",
         "linkedin": "https://www.linkedin.com/in/raja-koduri-3a51611",
         "commStrategy": "以 AI 伺服器效能基準測試和 NVIDIA 認證為切入點，展示 ASUS 在 GPU 伺服器領域的技術實力。提供 POC 測試機會，讓技術團隊實際驗證 ASUS 伺服器的效能與穩定性。"
       },
       "procurementDecisionMaker": {
         "name": "Mahesh Kolli",
-        "title": "Founder & Group President, AM Green",
+        "title": "創辦人兼集團總裁，AM Green",
         "linkedin": "https://uk.linkedin.com/in/kolli-mahesh-25345b5",
         "commStrategy": "強調供應鏈多元化降低風險的價值，提供具競爭力的 TCO 分析。展示 ASUS 全球交付能力與彈性付款方案。"
       },
@@ -3118,7 +3118,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Maxis Berhad，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Maxis Berhad 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Maxis Berhad 客戶，透過 Kim Teck Cheong Consolidated Berhad 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Ravichandran Sithambaram",
-        "title": "Head of IT Infra and Cloud Planning & Ops",
+        "title": "資訊科技基礎設施及雲端規劃與運營主管",
         "linkedin": "https://my.linkedin.com/in/ravichandran-sv-sithambaram-pillai-85b85510",
         "source": "LinkedIn"
       },
@@ -3134,13 +3134,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Ravichandran Sithambaram",
-        "title": "Head of IT Infra and Cloud Planning & Ops",
+        "title": "資訊科技基礎設施及雲端規劃與運營主管",
         "linkedin": "https://my.linkedin.com/in/ravichandran-sv-sithambaram-pillai-85b85510",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Jerry Cabiles",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Maxis%20Berhad%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3163,7 +3163,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Raxio Group，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Raxio Group 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Raxio Group 客戶，透過 Raxio Group (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Rob Saunders",
-        "title": "Group Chief Technology Officer",
+        "title": "集團首席技術官",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Raxio%20Group",
         "source": "https://www.linkedin.com/posts/raxiodatacentres_techcapitalawards-digitalinfrastructure-activity-7308419472183185408-BgWS"
       },
@@ -3185,7 +3185,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Louella Calixtro",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Raxio%20Group%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3208,7 +3208,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Digital Edge，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Digital Edge 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Digital Edge 客戶，透過 NTT DATA 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Thiam Poh Goh",
-        "title": "Vice President, Infrastructure Operations",
+        "title": "基礎設施運營副總裁",
         "linkedin": "https://sg.linkedin.com/in/thiam-poh-goh-5535bb6",
         "source": "LinkedIn"
       },
@@ -3224,13 +3224,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Thiam Poh Goh",
-        "title": "Vice President, Infrastructure Operations",
+        "title": "基礎設施運營副總裁",
         "linkedin": "https://sg.linkedin.com/in/thiam-poh-goh-5535bb6",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Ashish Baldua",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Digital%20Edge%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3253,7 +3253,7 @@
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Lotte Data Communication 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 Lotte Data Communication 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Lotte Data Communication 客戶，透過 Dell Technologies 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "(推估) 박종표",
-        "title": "AX사업본부장",
+        "title": "AX事業本部長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Lotte%20Data%20Communication",
         "source": "https://www.lotteinnovate.com/ko/investment/relationinvestors/sustainability/managementinfo"
       },
@@ -3389,7 +3389,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Nurcholis Feri Ahmadi",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Lotte%20Data%20Communication%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -3446,7 +3446,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Danni Calkin",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Digi%20Telecommunications%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -3491,7 +3491,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Angela de Sousa",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=IIJ%20(Internet%20Initiative%20Japan)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3514,7 +3514,7 @@
       "entryPoint": "【汽車/自駕業戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 GMO Internet Group，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 GMO Internet Group 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 GMO Internet Group 客戶，透過 NTT DATA 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Tadashi Ito",
-        "title": "Executive Vice President, Head of Group Infrastructure Division",
+        "title": "執行副總裁，集團基礎設施部門主管",
         "linkedin": "https://jp.linkedin.com/in/tadashi-ito-86680227",
         "source": "LinkedIn"
       },
@@ -3530,13 +3530,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Tadashi Ito",
-        "title": "Executive Vice President, Head of Group Infrastructure Division",
+        "title": "執行副總裁，集團基礎設施部門主管",
         "linkedin": "https://jp.linkedin.com/in/tadashi-ito-86680227",
         "commStrategy": "聚焦自動駕駛訓練的 GPU 運算需求、車聯網資料處理、以及工廠邊緣 AI 應用"
       },
       "procurementDecisionMaker": {
         "name": "Melissa Anastasiou",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=GMO%20Internet%20Group%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -3559,7 +3559,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 SCSK Corporation 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 SCSK Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 SCSK Corporation 客戶，透過 IST-Software Co., Ltd. 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Katsumi Yamanaka",
-        "title": "General Manager, Technology Service Dept. Architecture Solution Div. IT Infrastructure Services Business Group",
+        "title": "技術服務部建築解決方案部門IT基礎設施服務事業群總經理",
         "linkedin": "https://jp.linkedin.com/in/katsumiyamanaka",
         "source": "LinkedIn"
       },
@@ -3605,13 +3605,13 @@
       "industry": "科技/半導體",
       "techDecisionMaker": {
         "name": "Katsumi Yamanaka",
-        "title": "General Manager, Technology Service Dept. Architecture Solution Div. IT Infrastructure Services Business Group",
+        "title": "技術服務部建築解決方案部門總經理 IT基礎設施服務事業群",
         "linkedin": "https://jp.linkedin.com/in/katsumiyamanaka",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Marigrace Chico",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=SCSK%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3634,7 +3634,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 POSCO ICT (現 POSCO DX) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 POSCO ICT (現 POSCO DX) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 POSCO ICT (現 POSCO DX) 客戶，透過 Exotec 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Dale Kim",
-        "title": "Chief Technology and Operation Officer",
+        "title": "首席技術與營運長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20POSCO%20ICT%20(現%20POSCO%20DX)",
         "source": "https://kr.linkedin.com/in/dale-kim-400a2428"
       },
@@ -3662,7 +3662,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Niramon Rearngwit",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=POSCO%20ICT%20(現%20POSCO%20DX)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3685,7 +3685,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Mahindra Group (Tech Mahindra 以外) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Mahindra Group (Tech Mahindra 以外) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Mahindra Group (Tech Mahindra 以外) 客戶，透過 NTT DATA 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Arun Singh",
-        "title": "Group Function Head - IT Infrastructure (Global)",
+        "title": "集團職能主管 - 資訊科技基礎設施（全球）",
         "linkedin": "https://in.linkedin.com/in/arun-singh-1bb88a26",
         "source": "LinkedIn"
       },
@@ -3785,13 +3785,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Arun Singh",
-        "title": "Group Function Head - IT Infrastructure (Global)",
+        "title": "集團職能主管 - IT基礎設施（全球）",
         "linkedin": "https://in.linkedin.com/in/arun-singh-1bb88a26",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Fong Wei Chan",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mahindra%20Group%20(Tech%20Mahindra%20以外)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3814,7 +3814,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Zoho Corporation，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Zoho Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Zoho Corporation 客戶，透過 Deloitte 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "P Prabhu",
-        "title": "Director - Networks and Infrastructure",
+        "title": "網絡與基礎設施總監",
         "linkedin": "https://in.linkedin.com/in/p-prabhu-7675807",
         "source": "LinkedIn"
       },
@@ -3848,13 +3848,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "P Prabhu",
-        "title": "Director - Networks and Infrastructure",
+        "title": "網路與基礎設施總監",
         "linkedin": "https://in.linkedin.com/in/p-prabhu-7675807",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Krishnamani Kasinathan",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Zoho%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3911,7 +3911,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）Nam Hai",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hanwha%20Group%20(韓華)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -3956,7 +3956,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）Nguyen Bang",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Vingroup%20(VinAI%20/%20VinBigData)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -3979,7 +3979,7 @@
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Optus (Singtel 子公司) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 Optus (Singtel 子公司) 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Optus (Singtel 子公司) 客戶，透過 Teligraph Technology Pte Ltd (www.teligraphtech.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Bill Chang",
-        "title": "Chief Executive Officer, Digital InfraCo",
+        "title": "數位基礎設施公司執行長",
         "linkedin": "https://www.linkedin.com/in/bill-chang-5783b913",
         "source": "LinkedIn"
       },
@@ -4061,13 +4061,13 @@
       "industry": "電信",
       "techDecisionMaker": {
         "name": "Bill Chang",
-        "title": "Chief Executive Officer, Digital InfraCo",
+        "title": "數位基礎設施公司執行長",
         "linkedin": "https://www.linkedin.com/in/bill-chang-5783b913",
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
         "name": "Susan Groff",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Optus%20(Singtel%20子公司)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -4148,7 +4148,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Nadushi De Silva",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=VNPT%20(Vietnam%20Posts%20and%20Telecommunications)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -4193,7 +4193,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Rajesh Gyawali",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Gojek%20(GoTo%20Group)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -4316,7 +4316,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Tep Phirum",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Larsen%20&%20Toubro%20(L&T)%20Infotech%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -4355,13 +4355,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "待查詢",
-        "title": "VP, Data Center Operations APAC",
+        "title": "亞太區數據中心運營副總裁",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Cyxtera%20Technologies%20(亞太業務)",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "（推估）Hafizur Rahman",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Cyxtera%20Technologies%20(亞太業務)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -4384,7 +4384,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Ola Electric / Ola Cabs，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Ola Electric / Ola Cabs 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Ola Electric / Ola Cabs 客戶，透過 印度本地 SI 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Suvonil Chatterjee",
-        "title": "Chief Technology and Product Officer",
+        "title": "首席技術與產品官",
         "linkedin": "https://in.linkedin.com/in/suvonil",
         "source": "LinkedIn"
       },
@@ -4400,13 +4400,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Suvonil Chatterjee",
-        "title": "Chief Technology and Product Officer",
+        "title": "首席技術與產品官",
         "linkedin": "https://in.linkedin.com/in/suvonil",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "（推估）McIps Lwin",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ola%20Electric%20/%20Ola%20Cabs%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -4429,7 +4429,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Preferred Networks 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Preferred Networks 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Preferred Networks 客戶，透過 Preferred Networks (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Yusuke Doi",
-        "title": "VP of Computing Infrastructure",
+        "title": "計算基礎設施副總裁",
         "linkedin": "https://jp.linkedin.com/in/yusukedoi",
         "source": "LinkedIn"
       },
@@ -4445,13 +4445,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Yusuke Doi",
-        "title": "VP of Computing Infrastructure",
+        "title": "計算基礎設施副總裁",
         "linkedin": "https://jp.linkedin.com/in/yusukedoi",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "（推估）徐慧瑩 (Audrey Wen-Hsin Hsu)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Preferred%20Networks%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -4556,7 +4556,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Vivian Lee",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Atlassian%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -4613,7 +4613,7 @@
       },
       "procurementDecisionMaker": {
         "name": "洪昌哲",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Subaru%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -4636,7 +4636,7 @@
       "entryPoint": "【金融業戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Bandai Namco Holdings，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 Bandai Namco Holdings 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Bandai Namco Holdings 客戶，透過 Fujitsu 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Junko Fujita",
-        "title": "Chief Information Officer (CIO) and Chief Information Security Officer (CISO)",
+        "title": "首席資訊官（CIO）及首席資訊安全官（CISO）",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Junko%20Fujita%20Bandai%20Namco%20Holdings",
         "source": "LinkedIn"
       },
@@ -4658,13 +4658,13 @@
       "industry": "金融",
       "techDecisionMaker": {
         "name": "Junko Fujita",
-        "title": "Chief Information Officer (CIO) and Chief Information Security Officer (CISO)",
+        "title": "首席資訊官（CIO）及首席資訊安全官（CISO）",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Junko%20Fujita%20Bandai%20Namco%20Holdings",
         "commStrategy": "強調伺服器的安全認證（FIPS 140-2/3、TPM 2.0）、高可用性設計、以及 AI/ML 交易系統的低延遲表現"
       },
       "procurementDecisionMaker": {
         "name": "Joyce Cruts",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Bandai%20Namco%20Holdings%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -4687,7 +4687,7 @@
       "entryPoint": "【金融業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Murata Manufacturing 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 Murata Manufacturing 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Murata Manufacturing 客戶，透過 SCSK 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Fumiyuki Suchi",
-        "title": "Senior Vice President of Corporate Management DX Unit for Corporate Management Group",
+        "title": "企業管理集團企業管理DX單位高級副總裁",
         "linkedin": "https://jp.linkedin.com/in/fumiyuki-suchi-66b0b89",
         "source": "LinkedIn"
       },
@@ -4739,13 +4739,13 @@
       "industry": "金融",
       "techDecisionMaker": {
         "name": "Fumiyuki Suchi",
-        "title": "Senior Vice President of Corporate Management DX Unit for Corporate Management Group",
+        "title": "企業管理集團企業管理DX單位資深副總裁",
         "linkedin": "https://jp.linkedin.com/in/fumiyuki-suchi-66b0b89",
         "commStrategy": "強調伺服器的安全認證（FIPS 140-2/3、TPM 2.0）、高可用性設計、以及 AI/ML 交易系統的低延遲表現"
       },
       "procurementDecisionMaker": {
         "name": "Jose Reyes",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Murata%20Manufacturing%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -4768,7 +4768,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Dentsu Group，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Dentsu Group 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Dentsu Group 客戶，透過 DENTSU SOKEN INC. 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Alex Bedier",
-        "title": "Global Chief Information Officer",
+        "title": "全球首席資訊官",
         "linkedin": "https://fr.linkedin.com/in/alexbedier",
         "source": "LinkedIn"
       },
@@ -4784,13 +4784,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Alex Bedier",
-        "title": "Global Chief Information Officer",
+        "title": "全球首席資訊官",
         "linkedin": "https://fr.linkedin.com/in/alexbedier",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "（推估）Michael Lu",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dentsu%20Group%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -4925,7 +4925,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Benny Hu",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Razorpay%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -4976,7 +4976,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Roger Yang",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Kakao%20Bank%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -5021,7 +5021,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Eric Chang",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Toss%20(Viva%20Republica)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -5044,7 +5044,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Bukalapak，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Bukalapak 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Bukalapak 客戶，透過 Microsoft 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Addhe Warman",
-        "title": "Associate Vice President of IT Infrastructure",
+        "title": "資訊基礎設施副總裁",
         "linkedin": "https://id.linkedin.com/in/addhewarman",
         "source": "LinkedIn"
       },
@@ -5066,13 +5066,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Addhe Warman",
-        "title": "Associate Vice President of IT Infrastructure",
+        "title": "資訊基礎設施副總裁",
         "linkedin": "https://id.linkedin.com/in/addhewarman",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Jimmy Yiin",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Bukalapak%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -5231,7 +5231,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）蔡淑妍 (Linda Tsai)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ricoh%20Company%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -5270,13 +5270,13 @@
       "industry": "電信",
       "techDecisionMaker": {
         "name": "待查詢",
-        "title": "VP, Engineering & Infrastructure",
+        "title": "工程與基礎設施副總裁",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Paytm%20(One97%20Communications)",
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
         "name": "Natarajan Sivasamban",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Paytm%20(One97%20Communications)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
@@ -5345,13 +5345,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "待查詢",
-        "title": "Director, Cloud Infrastructure",
+        "title": "雲端基礎設施總監",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20NHN%20Corporation",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "（推估）Harish Raghunathan",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=NHN%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -5396,7 +5396,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Jwala Deep Akshintala",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Vedanta%20Limited%20(IT%20部門)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -5419,7 +5419,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Astra International 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Astra International 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Astra International 客戶，透過 Astra Graphia Information Technology 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Andy Yulianto",
-        "title": "Head Of Information Technology Department",
+        "title": "資訊技術部門主管",
         "linkedin": "https://id.linkedin.com/in/andyyulianto",
         "source": "LinkedIn"
       },
@@ -5471,13 +5471,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Andy Yulianto",
-        "title": "Head Of Information Technology Department",
+        "title": "資訊技術部門主管",
         "linkedin": "https://id.linkedin.com/in/andyyulianto",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Sijie Tan",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Astra%20International%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -5500,7 +5500,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Tata Motors (JLR) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Tata Motors (JLR) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Tata Motors (JLR) 客戶，透過 PTC 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Ashwinkuumar Gaikwad",
-        "title": "Head of IT Infrastructure & Service Operations",
+        "title": "資訊基礎設施與服務運營主管",
         "linkedin": "https://in.linkedin.com/in/ashwinkuumar-gaikwad-4025b713",
         "source": "LinkedIn"
       },
@@ -5540,13 +5540,13 @@
       "industry": "科技/IT服務",
       "techDecisionMaker": {
         "name": "Ashwinkuumar Gaikwad",
-        "title": "Head of IT Infrastructure & Service Operations",
+        "title": "IT基礎設施及服務運營主管",
         "linkedin": "https://in.linkedin.com/in/ashwinkuumar-gaikwad-4025b713",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Qing Huang",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tata%20Motors%20(JLR)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -5569,7 +5569,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Canon Inc. 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Canon Inc. 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Canon Inc. 客戶，透過 iFORCOM Co., Ltd. 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Yoichi Iwabuchi",
-        "title": "Managing Executive Officer, Head of Information & Communication Systems Headquarters",
+        "title": "執行管理董事，資訊與通訊系統總部主管",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Yoichi%20Iwabuchi%20Canon%20Inc.",
         "source": "LinkedIn"
       },
@@ -5597,13 +5597,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Yoichi Iwabuchi",
-        "title": "Managing Executive Officer, Head of Information & Communication Systems Headquarters",
+        "title": "常務執行役員，資訊與通訊系統本部長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Yoichi%20Iwabuchi%20Canon%20Inc.",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Ben Werleman",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Canon%20Inc.%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -5626,7 +5626,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Zomato，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Zomato 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Zomato 客戶，透過 Amazon Web Services 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Prateek Tiwari",
-        "title": "Ex-AVP and Head - Security Engineering and IT Infrastructure",
+        "title": "前副總裁兼安全工程與資訊基礎設施主管",
         "linkedin": "https://in.linkedin.com/in/prateek-0490",
         "source": "LinkedIn"
       },
@@ -5642,13 +5642,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Prateek Tiwari",
-        "title": "Ex-AVP and Head - Security Engineering and IT Infrastructure",
+        "title": "前副總裁兼安全工程與資訊基礎設施主管",
         "linkedin": "https://in.linkedin.com/in/prateek-0490",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "YU ZHE",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Zomato%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -5671,7 +5671,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Canva，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Canva 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Canva 客戶，透過 Insight 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Fawaz Ahmed",
-        "title": "Senior Director of Engineering | Global Head of Infrastructure",
+        "title": "工程高級總監｜全球基礎設施主管",
         "linkedin": "https://au.linkedin.com/in/thefwz",
         "source": "LinkedIn"
       },
@@ -5705,13 +5705,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Fawaz Ahmed",
-        "title": "Senior Director of Engineering | Global Head of Infrastructure",
+        "title": "工程資深總監｜全球基礎設施主管",
         "linkedin": "https://au.linkedin.com/in/thefwz",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Run Xue",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Canva%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -5734,7 +5734,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 BHP Group (亞太業務) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 BHP Group (亞太業務) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 BHP Group (亞太業務) 客戶，透過 Accenture 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Thomas Leen",
-        "title": "Chief Information Security Officer",
+        "title": "首席資訊安全官",
         "linkedin": "https://www.linkedin.com/in/thomas-leen",
         "source": "LinkedIn"
       },
@@ -5762,13 +5762,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Thomas Leen",
-        "title": "Chief Information Security Officer",
+        "title": "首席資訊安全官",
         "linkedin": "https://www.linkedin.com/in/thomas-leen",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Swee Yong Tan",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=BHP%20Group%20(亞太業務)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -5871,7 +5871,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Sachin Akude",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Daewoo%20E&C%20(現%20DL%20E&C)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -5894,7 +5894,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Daikin Industries 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Daikin Industries 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Daikin Industries 客戶，透過 Universal Supply Group 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Tomohiro Mizuguchi",
-        "title": "Executive Officer, In charge of IT Development, General affairs, General Manager of General Affairs Department",
+        "title": "執行官，負責IT開發、總務，總務部總經理",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tomohiro%20Mizuguchi%20Daikin%20Industries",
         "source": "LinkedIn"
       },
@@ -5922,13 +5922,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Tomohiro Mizuguchi",
-        "title": "Executive Officer, In charge of IT Development, General affairs, General Manager of General Affairs Department",
+        "title": "執行官，負責IT開發、總務，總務部部長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tomohiro%20Mizuguchi%20Daikin%20Industries",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Vaibhav Bhardwaj",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Daikin%20Industries%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -5951,7 +5951,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Meesho，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Meesho 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Meesho 客戶，透過 Microsoft 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Sreejith Vijayendran",
-        "title": "Director of Engineering - Infrastructure",
+        "title": "基礎設施工程總監",
         "linkedin": "https://in.linkedin.com/in/sreejith-vijayendran-6111029",
         "source": "LinkedIn"
       },
@@ -5973,13 +5973,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Sreejith Vijayendran",
-        "title": "Director of Engineering - Infrastructure",
+        "title": "基礎設施工程總監",
         "linkedin": "https://in.linkedin.com/in/sreejith-vijayendran-6111029",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Kelly McHugh",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Meesho%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -6018,13 +6018,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "待查詢",
-        "title": "VP, Infrastructure Engineering",
+        "title": "基礎設施工程副總裁",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20DeNA%20Co.,%20Ltd.",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "（推估）池田 和生 (Kazuki Ikeda)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=DeNA%20Co.,%20Ltd.%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -6047,7 +6047,7 @@
       "entryPoint": "【汽車/自駕業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Suzuki Motor Corporation 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Suzuki Motor Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Suzuki Motor Corporation 客戶，透過 Tata Elxsi 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Akira Nonaka",
-        "title": "Managing Officer, Executive General Manager, Global IT",
+        "title": "常務董事、執行總經理、全球資訊技術部門",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Akira%20Nonaka%20Suzuki%20Motor%20Corporation",
         "source": "LinkedIn"
       },
@@ -6069,13 +6069,13 @@
       "industry": "汽車/製造",
       "techDecisionMaker": {
         "name": "Akira Nonaka",
-        "title": "Managing Officer, Executive General Manager, Global IT",
+        "title": "常務董事、執行總經理、全球資訊技術部門",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Akira%20Nonaka%20Suzuki%20Motor%20Corporation",
         "commStrategy": "聚焦自動駕駛訓練的 GPU 運算需求、車聯網資料處理、以及工廠邊緣 AI 應用"
       },
       "procurementDecisionMaker": {
         "name": "（推估）Fujita Hiroyuki",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Suzuki%20Motor%20Corporation%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -6098,7 +6098,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Woolworths Group 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Woolworths Group 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Woolworths Group 客戶，透過 Tata Consultancy Services 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Patrick Misciagna",
-        "title": "Technology Director - Service, Operations and Infrastructure",
+        "title": "技術總監 - 服務、運營與基礎設施",
         "linkedin": "https://au.linkedin.com/in/patrick-misciagna",
         "source": "LinkedIn"
       },
@@ -6114,13 +6114,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Patrick Misciagna",
-        "title": "Technology Director - Service, Operations and Infrastructure",
+        "title": "技術總監 - 服務、運營與基礎設施",
         "linkedin": "https://au.linkedin.com/in/patrick-misciagna",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Kohei Miyao (宮尾 晃平)",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Woolworths%20Group%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -6143,7 +6143,7 @@
       "entryPoint": "【NeoCloud/AI 新創戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Stability AI (亞太業務) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供 ASUS ESC 系列 GPU 伺服器和 AI POD 解決方案的技術方案書，展示在 NVIDIA Blackwell/Rubin 平台的先發優勢。4. 針對 Stability AI (亞太業務) 的液冷需求提供差異化的散熱解決方案，這是目前市場上的關鍵差異化因素。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Stability AI (亞太業務) 客戶，透過 Stability AI (亞太業務) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Takuto T.",
-        "title": "Head of APAC Sales & Partnerships",
+        "title": "亞太區銷售及合作夥伴關係主管",
         "linkedin": "https://jp.linkedin.com/in/takuto",
         "source": "LinkedIn"
       },
@@ -6159,13 +6159,13 @@
       "industry": "NeoCloud/AI",
       "techDecisionMaker": {
         "name": "Takuto T.",
-        "title": "Head of APAC Sales & Partnerships",
+        "title": "亞太區銷售與合作夥伴關係主管",
         "linkedin": "https://jp.linkedin.com/in/takuto",
         "commStrategy": "直接展示 GPU 伺服器（ESC N8-E11 / ESC N8-E12）的散熱效率與部署速度優勢，提供免費 POC 測試機"
       },
       "procurementDecisionMaker": {
         "name": "（推估）Giulio Malegori",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Stability%20AI%20(亞太業務)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
@@ -6210,7 +6210,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Deepak Kamadolli",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Celltrion%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -6261,7 +6261,7 @@
       },
       "procurementDecisionMaker": {
         "name": "（推估）Yongjei Sung",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sharp%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -6284,7 +6284,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Byju's (Think & Learn)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Byju's (Think & Learn) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Byju's (Think & Learn) 客戶，透過 印度本地 SI 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Kishor Raj",
-        "title": "Vice President - Supply Chain & IT Infrastructure",
+        "title": "供應鏈及資訊科技基礎設施副總裁",
         "linkedin": "https://in.linkedin.com/in/rajkishor",
         "source": "LinkedIn"
       },
@@ -6300,13 +6300,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Kishor Raj",
-        "title": "Vice President - Supply Chain & IT Infrastructure",
+        "title": "供應鏈及資訊科技基礎設施副總裁",
         "linkedin": "https://in.linkedin.com/in/rajkishor",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "（推估）Q-Ha Steve Kim",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Byju's%20(Think%20&%20Learn)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -6329,7 +6329,7 @@
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Bridgestone Corporation 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Bridgestone Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Bridgestone Corporation 客戶，透過 Bridgestone Software Co.,Ltd. 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Akira MASUNAGA",
-        "title": "Vice President and Officer Digital IT Infrastructure Concurrently Director, Digital IT Infrastructure Division, Digital Solution Planning Division",
+        "title": "副總裁兼數位資訊科技基礎設施主管，同時擔任數位資訊科技基礎設施部門及數位解決方案規劃部門主管",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Akira%20MASUNAGA%20Bridgestone%20Corporation",
         "source": "LinkedIn"
       },
@@ -6345,13 +6345,13 @@
       "industry": "科技",
       "techDecisionMaker": {
         "name": "Akira MASUNAGA",
-        "title": "Vice President and Officer Digital IT Infrastructure Concurrently Director, Digital IT Infrastructure Division, Digital Solution Planning Division",
+        "title": "副總裁兼數位資訊基礎設施主管，同時擔任數位資訊基礎設施部門及數位解決方案規劃部門主管",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Akira%20MASUNAGA%20Bridgestone%20Corporation",
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
         "name": "Teo Santoso",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Bridgestone%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
@@ -6373,7 +6373,7 @@
       "entryPoint": "【汽車/自駕業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Panasonic Holdings 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Panasonic Holdings 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Panasonic Holdings 客戶，透過 Denali Advanced Integration 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Anurag Verma",
-        "title": "Head - IT Infrastructure and Security",
+        "title": "負責人 - IT基礎設施與安全",
         "linkedin": "https://in.linkedin.com/in/anurag-verma-2450275a",
         "source": "LinkedIn"
       },
@@ -6402,13 +6402,13 @@
       "industry": "科技/製造",
       "techDecisionMaker": {
         "name": "Anurag Verma",
-        "title": "Head - IT Infrastructure and Security",
+        "title": "資訊基礎設施與安全部門主管",
         "linkedin": "https://in.linkedin.com/in/anurag-verma-2450275a",
         "commStrategy": "聚焦自動駕駛訓練的 GPU 運算需求、車聯網資料處理、以及工廠邊緣 AI 應用"
       },
       "procurementDecisionMaker": {
         "name": "Keiichiro Uesugi",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Panasonic%20Holdings%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
@@ -6430,7 +6430,7 @@
       "entryPoint": "【金融業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Kotak Mahindra Bank 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 Kotak Mahindra Bank 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Kotak Mahindra Bank 客戶，透過 Finastra 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "Himanshu Soni",
-        "title": "Senior Vice President - IT Infrastructure Engineering",
+        "title": "高級副總裁 - 資訊科技基礎設施工程",
         "linkedin": "https://in.linkedin.com/in/himanshusoni",
         "source": "LinkedIn"
       },
@@ -6453,13 +6453,13 @@
       "industry": "金融",
       "techDecisionMaker": {
         "name": "Himanshu Soni",
-        "title": "Senior Vice President - IT Infrastructure Engineering",
+        "title": "資深副總裁 - 資訊科技基礎設施工程",
         "linkedin": "https://in.linkedin.com/in/himanshusoni",
         "commStrategy": "強調伺服器的安全認證（FIPS 140-2/3、TPM 2.0）、高可用性設計、以及 AI/ML 交易系統的低延遲表現"
       },
       "procurementDecisionMaker": {
         "name": "（推估）Praveen Kumar",
-        "title": "VP of Procurement / Chief Procurement Officer",
+        "title": "採購副總裁 / 採購長",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Kotak%20Mahindra%20Bank%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
@@ -6494,7 +6494,7 @@
       },
       "procurementDecisionMaker": {
         "name": "Tim Ding",
-        "title": "General Manager at Runsun Inc, GPU Cloud, NCP",
+        "title": "潤陽股份有限公司總經理，GPU Cloud，NCP",
         "linkedin": "https://www.linkedin.com/in/timding",
         "commStrategy": "強調供應鏈多元化降低風險的價值，提供具競爭力的 TCO 分析。展示 ASUS 全球交付能力與彈性付款方案。"
       },

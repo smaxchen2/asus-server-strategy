@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react";
-import { X, BarChart3, Calculator, FileText } from "lucide-react";
+import { X, BarChart3, Calculator, FileText, Info } from "lucide-react";
 import type { Translations } from "@/lib/i18n";
 
 type DifficultyModalProps = {
@@ -22,47 +22,66 @@ function parseDimensionScores(reason: string): Record<string, number> {
   return scores;
 }
 
+/* Extract the narrative analysis text (after the D1-D6 scores line) */
+function extractAnalysisText(reason: string): string {
+  // Remove the D1...D6 score line
+  const cleaned = reason.replace(/D1\([^)]*\)=\d+.*?D6\([^)]*\)=\d+[.,;]?\s*/g, "").trim();
+  return cleaned;
+}
+
+/* Split analysis text into structured paragraphs */
+function splitIntoParagraphs(text: string): string[] {
+  if (!text) return [];
+  // Split by 【】 markers or by sentences ending with period
+  const sections = text.split(/(?=【)/g).filter(s => s.trim());
+  if (sections.length > 1) return sections;
+  // Fallback: split by period followed by space for long text
+  const sentences = text.split(/(?<=\.\s)|(?<=。)/g).filter(s => s.trim());
+  if (sentences.length > 3) {
+    // Group every 2-3 sentences into a paragraph
+    const paragraphs: string[] = [];
+    let current = "";
+    for (let i = 0; i < sentences.length; i++) {
+      current += sentences[i];
+      if ((i + 1) % 2 === 0 || i === sentences.length - 1) {
+        paragraphs.push(current.trim());
+        current = "";
+      }
+    }
+    return paragraphs.filter(p => p.length > 0);
+  }
+  return [text];
+}
+
 const WEIGHTS: Record<string, number> = {
-  D1: 0.25,
-  D2: 0.20,
-  D3: 0.20,
-  D4: 0.15,
-  D5: 0.10,
-  D6: 0.10,
+  D1: 0.25, D2: 0.20, D3: 0.20, D4: 0.15, D5: 0.10, D6: 0.10,
 };
 
-const DIMENSION_COLORS: Record<string, string> = {
-  D1: "bg-red-500",
-  D2: "bg-amber-500",
-  D3: "bg-blue-500",
-  D4: "bg-emerald-500",
-  D5: "bg-purple-500",
-  D6: "bg-slate-500",
+const DIMENSION_COLORS: Record<string, { bar: string; bg: string; border: string; text: string; dot: string }> = {
+  D1: { bar: "bg-red-500", bg: "bg-red-50", border: "border-red-200", text: "text-red-700", dot: "bg-red-500" },
+  D2: { bar: "bg-amber-500", bg: "bg-amber-50", border: "border-amber-200", text: "text-amber-700", dot: "bg-amber-500" },
+  D3: { bar: "bg-blue-500", bg: "bg-blue-50", border: "border-blue-200", text: "text-blue-700", dot: "bg-blue-500" },
+  D4: { bar: "bg-emerald-500", bg: "bg-emerald-50", border: "border-emerald-200", text: "text-emerald-700", dot: "bg-emerald-500" },
+  D5: { bar: "bg-purple-500", bg: "bg-purple-50", border: "border-purple-200", text: "text-purple-700", dot: "bg-purple-500" },
+  D6: { bar: "bg-slate-500", bg: "bg-slate-50", border: "border-slate-200", text: "text-slate-700", dot: "bg-slate-500" },
 };
 
-const DIMENSION_BG: Record<string, string> = {
-  D1: "bg-red-50 border-red-200",
-  D2: "bg-amber-50 border-amber-200",
-  D3: "bg-blue-50 border-blue-200",
-  D4: "bg-emerald-50 border-emerald-200",
-  D5: "bg-purple-50 border-purple-200",
-  D6: "bg-slate-50 border-slate-200",
-};
+function getScoreLabel(score: number): { label: string; color: string; bgColor: string } {
+  if (score <= 3) return { label: "LOW", color: "text-emerald-700", bgColor: "bg-emerald-100" };
+  if (score <= 5) return { label: "MED", color: "text-amber-700", bgColor: "bg-amber-100" };
+  if (score <= 7) return { label: "HIGH", color: "text-orange-700", bgColor: "bg-orange-100" };
+  return { label: "CRITICAL", color: "text-red-700", bgColor: "bg-red-100" };
+}
 
-const DIMENSION_TEXT: Record<string, string> = {
-  D1: "text-red-700",
-  D2: "text-amber-700",
-  D3: "text-blue-700",
-  D4: "text-emerald-700",
-  D5: "text-purple-700",
-  D6: "text-slate-700",
-};
-
-function getScoreLabel(score: number): { label: string; color: string } {
-  if (score <= 3) return { label: "LOW", color: "text-emerald-600 bg-emerald-50" };
-  if (score <= 5) return { label: "MED", color: "text-amber-600 bg-amber-50" };
-  if (score <= 7) return { label: "HIGH", color: "text-orange-600 bg-orange-50" };
-  return { label: "CRITICAL", color: "text-red-600 bg-red-50" };
+function getDifficultyLevel(score: number): { label: string; color: string } {
+  if (score <= 2) return { label: "極易", color: "text-emerald-600" };
+  if (score <= 3) return { label: "容易", color: "text-emerald-500" };
+  if (score <= 4) return { label: "偏易", color: "text-lime-600" };
+  if (score <= 5) return { label: "中等", color: "text-amber-600" };
+  if (score <= 6) return { label: "偏難", color: "text-orange-500" };
+  if (score <= 7) return { label: "困難", color: "text-orange-600" };
+  if (score <= 8) return { label: "極難", color: "text-red-500" };
+  return { label: "幾乎不可能", color: "text-red-700" };
 }
 
 export default function DifficultyModal({
@@ -96,6 +115,8 @@ export default function DifficultyModal({
 
   const scores = difficultyReason ? parseDimensionScores(difficultyReason) : {};
   const hasDimensionScores = Object.keys(scores).length >= 6;
+  const analysisText = difficultyReason ? extractAnalysisText(difficultyReason) : "";
+  const analysisParagraphs = splitIntoParagraphs(analysisText);
 
   const dimensions = [
     { key: "D1", name: t.diffModalD1, desc: t.diffModalD1Desc },
@@ -106,7 +127,6 @@ export default function DifficultyModal({
     { key: "D6", name: t.diffModalD6, desc: t.diffModalD6Desc },
   ];
 
-  /* Compute weighted total */
   let computedTotal = 0;
   if (hasDimensionScores) {
     for (const d of dimensions) {
@@ -114,12 +134,13 @@ export default function DifficultyModal({
     }
   }
 
-  /* Difficulty badge color */
   const badgeColor =
     difficulty <= 3 ? "bg-emerald-500" :
     difficulty <= 5 ? "bg-amber-500" :
     difficulty <= 7 ? "bg-orange-500" :
     "bg-red-500";
+
+  const level = getDifficultyLevel(difficulty);
 
   return (
     <div
@@ -132,10 +153,11 @@ export default function DifficultyModal({
 
       {/* Modal */}
       <div className="relative bg-white w-full max-w-2xl max-h-[90vh] overflow-y-auto shadow-2xl border border-border animate-in fade-in zoom-in-95 duration-200">
-        {/* Header */}
+
+        {/* ===== Header ===== */}
         <div className="sticky top-0 bg-white border-b border-border px-6 py-4 flex items-center justify-between z-10">
           <div>
-            <h2 className="text-lg font-bold" style={{ fontFamily: "'DM Sans', sans-serif" }}>
+            <h2 className="text-lg font-bold text-foreground" style={{ fontFamily: "'DM Sans', sans-serif" }}>
               {t.diffModalTitle}
             </h2>
             <p className="text-xs text-muted-foreground mt-0.5">{t.diffModalSubtitle}</p>
@@ -149,143 +171,175 @@ export default function DifficultyModal({
           </button>
         </div>
 
-        {/* Company + Score Banner */}
-        <div className="px-6 py-5 bg-gradient-to-r from-slate-50 to-white border-b border-border">
+        {/* ===== Company + Score Banner ===== */}
+        <div className="px-6 py-6 bg-gradient-to-r from-slate-50 to-white border-b border-border">
           <div className="flex items-center justify-between">
-            <div>
-              <p className="text-sm font-bold text-foreground/80 tracking-wide uppercase mb-1">{companyName}</p>
-              <p className="text-xs text-muted-foreground">{t.diffModalFinalScore}</p>
+            <div className="flex-1">
+              <p className="text-base font-bold text-foreground tracking-wide mb-1">{companyName}</p>
+              <p className="text-sm text-muted-foreground">{t.diffModalFinalScore}</p>
             </div>
             <div className="flex items-center gap-3">
-              <div className={`${badgeColor} text-white px-4 py-2 text-2xl font-black`}>
+              <div className="text-right mr-2">
+                <span className={`text-sm font-bold ${level.color}`}>{level.label}</span>
+              </div>
+              <div className={`${badgeColor} text-white px-5 py-3 text-3xl font-black shadow-lg`}>
                 {difficulty}
               </div>
-              <span className="text-sm text-muted-foreground">/10</span>
+              <span className="text-base text-muted-foreground font-medium">/10</span>
             </div>
           </div>
         </div>
 
-        {/* Formula Section */}
-        <div className="px-6 py-4 border-b border-border bg-slate-50/50">
-          <div className="flex items-center gap-2 mb-2">
-            <Calculator className="w-4 h-4 text-primary" />
-            <span className="text-xs font-bold tracking-[0.12em] uppercase text-foreground/80">{t.diffModalFormula}</span>
+        {/* ===== Formula Section ===== */}
+        <div className="px-6 py-5 border-b border-border">
+          <div className="flex items-center gap-2 mb-3">
+            <Calculator className="w-4 h-4 text-blue-600" />
+            <span className="text-sm font-bold text-foreground/90">{t.diffModalFormula}</span>
           </div>
-          <code className="block text-[11px] bg-white border border-border px-3 py-2 font-mono text-foreground/70 leading-relaxed">
-            {t.diffModalFormulaDesc}
-          </code>
+          <div className="bg-slate-50 border border-slate-200 px-4 py-3">
+            <code className="block text-xs font-mono text-foreground/70 leading-loose tracking-wide">
+              {t.diffModalFormulaDesc}
+            </code>
+          </div>
+          <div className="mt-3 flex items-start gap-2">
+            <Info className="w-3.5 h-3.5 text-muted-foreground mt-0.5 shrink-0" />
+            <p className="text-[11px] text-muted-foreground leading-relaxed">
+              {t.diffModalFormulaNote || "各維度分數範圍 1-10，加權後四捨五入為最終難易度評分。"}
+            </p>
+          </div>
         </div>
 
-        {/* Dimension Scores */}
+        {/* ===== Dimension Score Cards ===== */}
         {hasDimensionScores && (
-          <div className="px-6 py-5">
-            <div className="flex items-center gap-2 mb-4">
-              <BarChart3 className="w-4 h-4 text-primary" />
-              <span className="text-xs font-bold tracking-[0.12em] uppercase text-foreground/80">
+          <div className="px-6 py-6">
+            <div className="flex items-center gap-2 mb-5">
+              <BarChart3 className="w-4 h-4 text-blue-600" />
+              <span className="text-sm font-bold text-foreground/90">
                 {t.diffModalScore}
               </span>
             </div>
 
-            {/* Score Table */}
-            <div className="border border-border overflow-hidden">
-              {/* Table Header */}
-              <div className="grid grid-cols-12 bg-slate-100 text-[10px] font-bold tracking-wider uppercase text-foreground/60 border-b border-border">
-                <div className="col-span-5 px-3 py-2">{t.diffModalAnalysis}</div>
-                <div className="col-span-2 px-3 py-2 text-center">{t.diffModalWeight}</div>
-                <div className="col-span-3 px-3 py-2 text-center">{t.diffModalScore}</div>
-                <div className="col-span-2 px-3 py-2 text-center">{t.diffModalWeighted}</div>
-              </div>
-
-              {/* Dimension Rows */}
+            {/* Score Cards - each dimension as a card */}
+            <div className="space-y-3">
               {dimensions.map((d) => {
                 const score = scores[d.key] || 0;
                 const weight = WEIGHTS[d.key];
                 const weighted = score * weight;
-                const { label, color } = getScoreLabel(score);
+                const { label, color, bgColor } = getScoreLabel(score);
+                const dc = DIMENSION_COLORS[d.key];
 
                 return (
                   <div
                     key={d.key}
-                    className={`grid grid-cols-12 border-b border-border last:border-b-0 ${DIMENSION_BG[d.key]} items-center`}
+                    className={`${dc.bg} border ${dc.border} px-4 py-4`}
                   >
-                    {/* Dimension Name + Description */}
-                    <div className="col-span-5 px-3 py-3">
-                      <div className={`text-xs font-bold ${DIMENSION_TEXT[d.key]}`}>{d.name}</div>
-                      <div className="text-[10px] text-foreground/50 mt-0.5">{d.desc}</div>
-                    </div>
-
-                    {/* Weight */}
-                    <div className="col-span-2 px-3 py-3 text-center">
-                      <span className="text-xs font-mono text-foreground/60">{(weight * 100).toFixed(0)}%</span>
-                    </div>
-
-                    {/* Score Bar */}
-                    <div className="col-span-3 px-3 py-3">
-                      <div className="flex items-center gap-2">
-                        <div className="flex-1 h-2 bg-white/80 overflow-hidden">
-                          <div
-                            className={`h-full ${DIMENSION_COLORS[d.key]} transition-all duration-500`}
-                            style={{ width: `${score * 10}%` }}
-                          />
-                        </div>
-                        <span className="text-xs font-bold w-5 text-right">{score}</span>
+                    {/* Top row: dimension name + score badge */}
+                    <div className="flex items-center justify-between mb-3">
+                      <div className="flex items-center gap-2.5">
+                        <div className={`w-2.5 h-2.5 rounded-full ${dc.dot}`} />
+                        <span className={`text-sm font-bold ${dc.text}`}>{d.key}</span>
+                        <span className="text-sm font-semibold text-foreground/80">{d.name}</span>
                       </div>
-                      <div className="mt-1 flex justify-end">
-                        <span className={`text-[9px] px-1.5 py-0.5 font-bold ${color}`}>{label}</span>
+                      <div className="flex items-center gap-3">
+                        <span className={`text-[10px] font-bold px-2 py-0.5 ${color} ${bgColor}`}>
+                          {label}
+                        </span>
+                        <span className="text-lg font-black text-foreground">{score}</span>
+                        <span className="text-xs text-muted-foreground">/10</span>
                       </div>
                     </div>
 
-                    {/* Weighted Score */}
-                    <div className="col-span-2 px-3 py-3 text-center">
-                      <span className="text-sm font-bold">{weighted.toFixed(2)}</span>
+                    {/* Score bar */}
+                    <div className="mb-2.5">
+                      <div className="h-2.5 bg-white/80 overflow-hidden w-full">
+                        <div
+                          className={`h-full ${dc.bar} transition-all duration-700 ease-out`}
+                          style={{ width: `${score * 10}%` }}
+                        />
+                      </div>
+                    </div>
+
+                    {/* Bottom row: description + weight + weighted score */}
+                    <div className="flex items-center justify-between">
+                      <p className="text-[11px] text-foreground/50 flex-1 mr-4">{d.desc}</p>
+                      <div className="flex items-center gap-4 shrink-0">
+                        <span className="text-[11px] text-foreground/50">
+                          {t.diffModalWeight}: {(weight * 100).toFixed(0)}%
+                        </span>
+                        <span className="text-xs font-bold text-foreground/70">
+                          {t.diffModalWeighted}: {weighted.toFixed(2)}
+                        </span>
+                      </div>
                     </div>
                   </div>
                 );
               })}
+            </div>
 
-              {/* Total Row */}
-              <div className="grid grid-cols-12 bg-slate-800 text-white items-center">
-                <div className="col-span-5 px-3 py-3">
-                  <span className="text-xs font-bold tracking-wider uppercase">{t.diffModalFinalScore}</span>
-                </div>
-                <div className="col-span-2 px-3 py-3 text-center">
-                  <span className="text-xs font-mono">100%</span>
-                </div>
-                <div className="col-span-3 px-3 py-3">
-                  <div className="flex items-center gap-2">
-                    <div className="flex-1 h-2 bg-white/20 overflow-hidden">
+            {/* ===== Total Summary Bar ===== */}
+            <div className="mt-4 bg-slate-800 text-white px-5 py-4">
+              <div className="flex items-center justify-between">
+                <div>
+                  <span className="text-xs font-bold tracking-wider uppercase opacity-70">{t.diffModalFinalScore}</span>
+                  <div className="flex items-center gap-2 mt-1">
+                    <div className="w-32 h-2.5 bg-white/20 overflow-hidden">
                       <div
-                        className={`h-full ${badgeColor} transition-all duration-500`}
+                        className={`h-full ${badgeColor} transition-all duration-700`}
                         style={{ width: `${computedTotal * 10}%` }}
                       />
                     </div>
                   </div>
                 </div>
-                <div className="col-span-2 px-3 py-3 text-center">
-                  <span className="text-xl font-black">{computedTotal.toFixed(1)}</span>
-                  <span className="text-xs ml-1 opacity-70">→ {difficulty}</span>
+                <div className="text-right">
+                  <div className="flex items-baseline gap-1">
+                    <span className="text-3xl font-black">{computedTotal.toFixed(1)}</span>
+                    <span className="text-sm opacity-50">→</span>
+                    <span className={`text-2xl font-black ${badgeColor} px-2 py-0.5`}>{difficulty}</span>
+                  </div>
+                  <p className="text-[10px] opacity-50 mt-0.5">{t.diffModalWeight} 100%</p>
                 </div>
               </div>
             </div>
           </div>
         )}
 
-        {/* Analysis Text */}
-        {difficultyReason && (
-          <div className="px-6 py-5 border-t border-border bg-slate-50/30">
-            <div className="flex items-center gap-2 mb-3">
-              <FileText className="w-4 h-4 text-primary" />
-              <span className="text-xs font-bold tracking-[0.12em] uppercase text-foreground/80">{t.diffModalAnalysis}</span>
+        {/* ===== Analysis Text (Structured) ===== */}
+        {analysisText && (
+          <div className="px-6 py-6 border-t border-border">
+            <div className="flex items-center gap-2 mb-4">
+              <FileText className="w-4 h-4 text-blue-600" />
+              <span className="text-sm font-bold text-foreground/90">{t.diffModalAnalysis}</span>
             </div>
-            <p className="text-[13px] leading-relaxed text-foreground/65">{difficultyReason}</p>
+
+            <div className="space-y-3">
+              {analysisParagraphs.map((para, idx) => {
+                // Check if paragraph starts with 【】 marker
+                const bracketMatch = para.match(/^【([^】]+)】(.*)$/s);
+                if (bracketMatch) {
+                  const title = bracketMatch[1];
+                  const content = bracketMatch[2].trim();
+                  return (
+                    <div key={idx} className="border-l-3 border-slate-300 pl-4 py-1">
+                      <p className="text-xs font-bold text-foreground/80 mb-1.5">{title}</p>
+                      <p className="text-[13px] leading-[1.8] text-foreground/60">{content}</p>
+                    </div>
+                  );
+                }
+                return (
+                  <p key={idx} className="text-[13px] leading-[1.8] text-foreground/60">
+                    {para}
+                  </p>
+                );
+              })}
+            </div>
           </div>
         )}
 
-        {/* Footer */}
+        {/* ===== Footer ===== */}
         <div className="sticky bottom-0 bg-white border-t border-border px-6 py-3 flex justify-end">
           <button
             onClick={onClose}
-            className="px-5 py-2 bg-foreground text-background text-sm font-semibold hover:bg-foreground/90 transition-colors"
+            className="px-6 py-2.5 bg-foreground text-background text-sm font-semibold hover:bg-foreground/90 transition-colors"
           >
             {t.diffModalClose}
           </button>
