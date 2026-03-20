@@ -41,6 +41,7 @@ export type Company = {
   asusModel: string;
   channel: string;
   difficulty: number;
+  difficultyReason?: string;
   challenges: string;
   entryPoint: string;
   keyPerson?: KeyPerson;

@@ -112,6 +112,12 @@ export default function CompanyDetail() {
             <span className="w-1 h-1 rounded-full bg-border" />
             <span className="text-xs">{t.difficultyScale}</span>
           </div>
+          {company.difficultyReason && (
+            <div className="mt-3 p-3 bg-blue-50/50 border border-blue-100 text-xs leading-relaxed text-muted-foreground">
+              <span className="font-semibold text-blue-700">{lang === 'en' ? 'Scoring Basis: ' : '評分依據：'}</span>
+              {company.difficultyReason}
+            </div>
+          )}
         </div>
 
         {/* Info Grid */}

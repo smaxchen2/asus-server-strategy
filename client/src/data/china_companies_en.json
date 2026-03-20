@@ -11,7 +11,7 @@
       "odmOem": "ODM/OEM Hybrid",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, General-purpose 2U: RS720A-E12, AI POD: Liquid cooling cabinet solution",
       "channel": "Direct",
-      "difficulty": 7,
+      "difficulty": 4,
       "challenges": "【Enterprise IT Tactics】【Technical Requirements】ByteDance has clear requirements for server quality and technical support, requiring complete technical documentation and after-sales service commitments. 【Supply Chain Barriers】Current main suppliers are Inspur, H3C, Lenovo, Supermicro, Dell, who have established stable cooperative relationships and service systems. ASUS needs to demonstrate clear differentiated value to win replacement or new opportunities. 【Business Challenges】The procurement decision-making process is complex, involving multiple departments (IT, procurement, finance), and the decision cycle is long. It requires follow-up from technical verification, business negotiation to contract signing. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to break in with differentiated technical solutions and competitive prices.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (3-6 months)】1. Recommend ASUS server product lines to ByteDance through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide competitive quotation solutions for its upcoming equipment update cycle. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of ByteDance's IT infrastructure planning and technology roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in AI, HPC, and other fields. 【Long-term (1-2 years)】5. Strive to become an approved vendor list (AVL) supplier for ByteDance and establish a long-term cooperation framework agreement. 6. Jointly develop customized server solutions with ByteDance's technical team to deepen the cooperative relationship. 【Key Actions】Appoint a dedicated account manager for the ByteDance customer, establish initial contact through Digital China, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -42,7 +42,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=字節跳動%20(ByteDance)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial solutions."
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=3, D2(Decision Complexity)=5, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=5, D6(Geopolitical Risk)=7. 主要挑戰來自需跨部門評估，3-6 個月。"
     },
     {
       "rank": 2,
@@ -55,7 +56,7 @@
       "odmOem": "ODM (partially self-designed)",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, General-purpose 2U: RS720A-E12",
       "channel": "Direct",
-      "difficulty": 8,
+      "difficulty": 6,
       "challenges": "【Retail/E-commerce Tactics】【Technical Barriers】Alibaba Cloud procures in ODM mode and has strict technical specifications for server design, heat dissipation, and power efficiency, requiring a long technical verification process. 【Business Challenges】The procurement decision-making process is complex, involving multiple departments (IT, procurement, finance), and the decision cycle is long. It requires follow-up from technical verification, business negotiation to contract signing. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to break in with differentiated technical solutions and competitive prices.",
       "entryPoint": "【Retail/E-commerce Tactics】【Short-term (6-12 months)】1. Establish indirect cooperative relationships through channel partners such as Digital China, and first prove ASUS's technical capabilities and service quality with small-scale projects. 2. Provide standardized server solutions for Alibaba Cloud's non-core or emerging business needs to lower the entry barrier. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of Alibaba Cloud's IT infrastructure planning and technology roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in AI, HPC, and other fields. 【Long-term (1-2 years)】5. Strive to become an approved vendor list (AVL) supplier for Alibaba Cloud and establish a long-term cooperation framework agreement. 6. Jointly develop customized server solutions with Alibaba Cloud's technical team to deepen the cooperative relationship. 【Key Actions】Appoint a dedicated account manager for the Alibaba Cloud customer, establish initial contact through Digital China, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -86,7 +87,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=阿里雲%20(Alibaba%20Cloud)%20procurement%20VP",
         "commStrategy": "Through retail SI or direct contact with the IT department, the retail industry is extremely sensitive to TCO."
       },
-      "archetype": "retail"
+      "archetype": "retail",
+      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=5, D3(Technical Barrier)=7, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=7. 主要挑戰來自採用自研或獨家供應商的解決方案。"
     },
     {
       "rank": 3,
@@ -99,7 +101,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, General-purpose 2U: RS720A-E12",
       "channel": "Direct",
-      "difficulty": 8,
+      "difficulty": 4,
       "challenges": "【Enterprise IT Tactics】【Technical Barriers】Tencent Cloud procures in ODM mode and has strict technical specifications for server design, heat dissipation, and power efficiency, requiring a long technical verification process. 【Business Challenges】The procurement decision-making process is complex, involving multiple departments (IT, procurement, finance), and the decision cycle is long. It requires follow-up from technical verification, business negotiation to contract signing. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to break in with differentiated technical solutions and competitive prices.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (6-12 months)】1. Establish indirect cooperative relationships through channel partners such as Digital China, and first prove ASUS's technical capabilities and service quality with small-scale projects. 2. Provide standardized server solutions for Tencent Cloud's non-core or emerging business needs to lower the entry barrier. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of Tencent Cloud's IT infrastructure planning and technology roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in AI, HPC, and other fields. 【Long-term (1-2 years)】5. Strive to become an approved vendor list (AVL) supplier for Tencent Cloud and establish a long-term cooperation framework agreement. 6. Jointly develop customized server solutions with Tencent Cloud's technical team to deepen the cooperative relationship. 【Key Actions】Appoint a dedicated account manager for the Tencent Cloud customer, establish initial contact through Digital China, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -130,7 +132,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=騰訊雲%20(Tencent%20Cloud)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial solutions."
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=3, D2(Decision Complexity)=5, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=7. 主要挑戰來自需跨部門評估，3-6 個月。"
     },
     {
       "rank": 4,
@@ -143,7 +146,7 @@
       "odmOem": "ODM (partially self-designed)",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, General-purpose 2U: RS720A-E12",
       "channel": "Direct",
-      "difficulty": 8,
+      "difficulty": 6,
       "challenges": "【NeoCloud/AI Startup Tactics】【Technical Barriers】Baidu AI Cloud procures in ODM mode and has strict technical specifications for server design, heat dissipation, and power efficiency, requiring a long technical verification process. 【Business Challenges】The procurement decision-making process is complex, involving multiple departments (IT, procurement, finance), and the decision cycle is long. It requires follow-up from technical verification, business negotiation to contract signing. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to break in with differentiated technical solutions and competitive prices. 【Industry Characteristics】The NeoCloud/AI industry has extremely high requirements for the performance, heat dissipation (liquid cooling), and rapid deployment capabilities of GPU servers. The technology iterates quickly, and suppliers need to continuously follow up on the latest platforms.",
       "entryPoint": "【NeoCloud/AI Startup Tactics】【Short-term (6-12 months)】1. Establish indirect cooperative relationships through channel partners such as UNIS Digital, and first prove ASUS's technical capabilities and service quality with small-scale projects. 2. Provide standardized server solutions for Baidu AI Cloud's non-core or emerging business needs to lower the entry barrier. 【Mid-term (6-12 months)】3. Provide technical solution proposals for ASUS ESC series GPU servers and AI POD solutions, showcasing the first-mover advantage on the NVIDIA Blackwell/Rubin platforms. 4. Provide differentiated heat dissipation solutions for Baidu AI Cloud's liquid cooling needs, which is a key differentiating factor in the current market. 【Long-term (1-2 years)】5. Strive to become an approved vendor list (AVL) supplier for Baidu AI Cloud and establish a long-term cooperation framework agreement. 6. Jointly develop customized server solutions with Baidu AI Cloud's technical team to deepen the cooperative relationship. 【Key Actions】Appoint a dedicated account manager for the Baidu AI Cloud customer, establish initial contact through UNIS Digital, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -174,7 +177,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=百度智能雲%20(Baidu%20AI%20Cloud)%20procurement%20VP",
         "commStrategy": "Provide flexible payment terms (installments/leasing) and rapid delivery commitments, as NeoCloud prioritizes time-to-deploy."
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=1, D3(Technical Barrier)=7, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=7. 主要挑戰來自採用自研或獨家供應商的解決方案。"
     },
     {
       "rank": 5,
@@ -187,7 +191,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 4U: ESC4000A-E12, General-purpose 2U: RS720A-E12, Storage: RS520-E11",
       "channel": "Direct",
-      "difficulty": 7,
+      "difficulty": 4,
       "challenges": "【Retail/E-commerce Tactics】【Cost-oriented】The retail industry has low profit margins and is extremely sensitive to server TCO. 【Existing Relationships】Inspur, H3C, and Lenovo have established stable supply relationships. 【Seasonal Demand】The retail industry has obvious seasonal procurement peaks (Black Friday, Singles' Day), requiring suppliers to be able to expand capacity quickly. 【Decentralized Deployment】In-store edge AI requires a large number of small servers to be deployed decentrally.",
       "entryPoint": "【Retail/E-commerce Tactics】【Short-term (3-6 months)】1. Recommend ASUS server product lines to JD Technology through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide competitive quotation solutions for its upcoming equipment update cycle. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of JD Technology's IT infrastructure planning and technology roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in AI, HPC, and other fields. 【Long-term (1-2 years)】5. Strive to become an approved vendor list (AVL) supplier for JD Technology and establish a long-term cooperation framework agreement. 6. Jointly develop customized server solutions with JD Technology's technical team to deepen the cooperative relationship. 【Key Actions】Appoint a dedicated account manager for the JD Technology customer, establish initial contact through JD Technology (Direct), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -218,7 +222,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=京東科技%20(JD%20Technology)%20procurement%20VP",
         "commStrategy": "Through retail SI or direct contact with the IT department, the retail industry is extremely sensitive to TCO."
       },
-      "archetype": "retail"
+      "archetype": "retail",
+      "difficultyReason": "D1(Supplier Lock-in)=3, D2(Decision Complexity)=5, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=7. 主要挑戰來自需跨部門評估，3-6 個月。"
     },
     {
       "rank": 6,
@@ -231,7 +236,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 4U: ESC4000A-E12, General-purpose 2U: RS720A-E12, Edge: E700 series",
       "channel": "Direct",
-      "difficulty": 6,
+      "difficulty": 4,
       "challenges": "【Retail/E-commerce Tactics】【Cost-Oriented】The retail industry has low profit margins and is extremely sensitive to server TCO. 【Existing Relationships】Inspur, H3C, and Lenovo have established stable supply relationships. 【Seasonal Demand】The retail industry has significant seasonal procurement peaks (Black Friday, Double Eleven), requiring suppliers to be able to expand capacity quickly. 【Decentralized Deployment】In-store edge AI requires a large number of small servers to be deployed in a decentralized manner.",
       "entryPoint": "【Retail/E-commerce Tactics】【Short-term (3-6 months)】1. Recommend the ASUS server product line to Meituan through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide a competitive quotation plan for its upcoming equipment update cycle. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of Meituan's IT infrastructure planning and technology roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the Meituan customer, establish initial contact through Digital China, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -262,7 +267,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=美團%20(Meituan)%20procurement%20VP",
         "commStrategy": "Contact through retail SIs or directly with the IT department; the retail industry is extremely sensitive to TCO"
       },
-      "archetype": "retail"
+      "archetype": "retail",
+      "difficultyReason": "D1(Supplier Lock-in)=3, D2(Decision Complexity)=5, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=7. 主要挑戰來自需跨部門評估，3-6 個月。"
     },
     {
       "rank": 7,
@@ -275,7 +281,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 4U: ESC4000A-E12, General-purpose 2U: RS720A-E12",
       "channel": "Direct",
-      "difficulty": 6,
+      "difficulty": 5,
       "challenges": "【Financial Industry Tactics】【Technical Requirements】PDD Holdings / Temu has clear requirements for server quality and technical support, requiring complete technical documentation and after-sales service commitments. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to enter the market with differentiated technical solutions and competitive prices. 【Industry Characteristics】The financial industry has extremely high requirements for system stability, information security compliance (such as PCI DSS), and disaster recovery. Server suppliers need to provide complete security certifications and SLA guarantees.",
       "entryPoint": "【Financial Industry Tactics】【Short-term (3-6 months)】1. Recommend the ASUS server product line to PDD Holdings / Temu through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide a competitive quotation plan for its upcoming equipment update cycle. 【Mid-term (6-12 months)】3. Provide server solutions that comply with financial industry compliance requirements, including security certifications, encryption functions, and disaster recovery solutions. 4. Recommend ASUS ESC series GPU servers for PDD Holdings / Temu's AI/ML application needs. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the PDD Holdings / Temu customer, establish initial contact through PDD Holdings / Temu (direct supply), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -306,7 +312,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=拼多多%20(PDD%20Holdings%20/%20Temu)%20procurement%20VP",
         "commStrategy": "Introduced through financial industry-specific SIs (such as Kyndryl, DXC Technology); the financial industry has a rigorous procurement process and requires passing a vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=5, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=7. 主要挑戰來自有主要供應商但非獨家，切換成本中等。"
     },
     {
       "rank": 8,
@@ -319,7 +326,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 4U: ESC4000A-E12, General-purpose 2U: RS720A-E12, General-purpose 1U: RS700-E11",
       "channel": "Direct",
-      "difficulty": 6,
+      "difficulty": 4,
       "challenges": "【Enterprise IT Tactics】【Brand Awareness】ASUS has lower brand awareness in the server market than Dell, HPE, and Lenovo, and requires more market education. 【Existing Relationships】Inspur, H3C, and Lenovo have established stable cooperative relationships and service systems. 【Procurement Inertia】Enterprise IT procurement tends to choose existing suppliers to reduce risks. 【Technical Support】Need to demonstrate perfect after-sales service and technical support capabilities.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (3-6 months)】1. Recommend the ASUS server product line to NetEase through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide a competitive quotation plan for its upcoming equipment update cycle. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of NetEase's IT infrastructure planning and technology roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the NetEase customer, establish initial contact through Unigroup Digital, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -350,7 +357,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=網易%20(NetEase)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels, and provide competitive TCO analysis and trial programs"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=3, D2(Decision Complexity)=5, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=7. 主要挑戰來自需跨部門評估，3-6 個月。"
     },
     {
       "rank": 9,
@@ -363,7 +371,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 4U: ESC4000A-E12, General-purpose 2U: RS720A-E12, AI 8GPU: ESC N8-E11",
       "channel": "Direct",
-      "difficulty": 6,
+      "difficulty": 4,
       "challenges": "【Telecom Industry Tactics】【Carrier-grade Requirements】Strict specifications such as NEBS Level 3 certification, 99.999% availability, and -40°C~65°C operating temperature. 【Existing Ecosystem】Inspur, H3C, and Lenovo are deeply integrated into the telecom NFV/SDN platform. 【Long-term Contracts】Telecom equipment procurement is usually a 3-5 year framework contract, with limited replacement windows. 【Economies of Scale】The telecommunications industry is extremely price-sensitive and requires substantial discounts.",
       "entryPoint": "【Telecom Industry Tactics】【Short-term (3-6 months)】1. Recommend the ASUS server product line to Kuaishou through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide a competitive quotation plan for its upcoming equipment update cycle. 【Mid-term (6-12 months)】3. Provide ASUS 1U/2U high-density server solutions for 5G core network and edge computing needs. 4. Participate in Kuaishou's network equipment renewal bidding and provide competitive TCO analysis. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the Kuaishou customer, establish initial contact through Digital China, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -394,7 +402,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=快手%20(Kuaishou)%20procurement%20VP",
         "commStrategy": "Through telecom SIs (such as Nokia, Ericsson ecosystem partners) or direct participation in the RFP process"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(Supplier Lock-in)=3, D2(Decision Complexity)=5, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=7. 主要挑戰來自需跨部門評估，3-6 個月。"
     },
     {
       "rank": 10,
@@ -407,7 +416,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 4U: ESC4000A-E12, General-purpose 2U: RS720A-E12",
       "channel": "Direct",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【Enterprise IT Tactics】【Brand Awareness】ASUS has lower brand awareness in the server market than Dell, HPE, and Lenovo, and requires more market education. 【Existing Relationships】Inspur, H3C have established stable cooperative relationships and service systems. 【Procurement Inertia】Enterprise IT procurement tends to choose existing suppliers to reduce risks. 【Technical Support】Need to demonstrate perfect after-sales service and technical support capabilities.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (3-6 months)】1. Recommend the ASUS server product line to Xiaohongshu / RED through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide a competitive quotation plan for its upcoming equipment update cycle. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of Xiaohongshu / RED's IT infrastructure planning and technology roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the Xiaohongshu / RED customer, establish initial contact through Xiaohongshu / RED (direct supply), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -438,7 +447,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=小紅書%20(Xiaohongshu%20/%20RED)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels, and provide competitive TCO analysis and trial programs"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=8, D6(Geopolitical Risk)=8. 主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 11,
@@ -451,7 +461,7 @@
       "odmOem": "ODM",
       "asusModel": "General 2U: RS720A-E12, AI 4U: ESC4000A-E12",
       "channel": "Direct supply",
-      "difficulty": 7,
+      "difficulty": 6,
       "challenges": "【Financial Industry Tactics】【Technical Requirements】Ant Group has clear requirements for server quality and technical support, requiring complete technical documentation and after-sales service commitments. 【Business Challenges】The procurement decision process is complex, involving multiple departments (IT, procurement, finance), with a long decision cycle. Full process follow-up from technical validation, business negotiations to contract signing is needed. 【Market Characteristics】The Chinese mainland market is highly competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to differentiate through innovative technical solutions and competitive pricing. 【Industry Characteristics】Financial industry demands high system stability, security compliance (e.g., PCI DSS), and disaster recovery, requiring server vendors to provide comprehensive security certifications and SLA guarantees.",
       "entryPoint": "【Financial Industry Tactics】【Short-term (3-6 months)】1. Recommend ASUS server products to Ant Group through existing channel partners, arrange product demonstrations and technical exchanges. 2. Offer competitive pricing for upcoming equipment upgrade cycles. 【Medium-term (6-12 months)】3. Provide server solutions compliant with financial industry standards, including security certifications, encryption, and disaster recovery. 4. Recommend ASUS ESC series GPU servers for Ant Group's AI/ML applications. 【Long-term (1-2 years)】5. Strive to become a qualified supplier list (AVL) for Ant Group, establishing long-term cooperation frameworks. 6. Collaborate with Ant Group's technical team to develop customized server solutions tailored to their needs, deepening partnership. 【Key Actions】Assign dedicated sales managers to handle Ant Group, establish initial contact via Ant Group (direct supply), and arrange the first technical exchange within 30 days.",
       "keyPerson": {
@@ -482,7 +492,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=螞蟻集團%20(Ant%20Group)%20procurement%20VP",
         "commStrategy": "Recommend through finance-specific SI (e.g., Kyndryl, DXC Technology), as finance procurement processes are rigorous and require vendor qualification programs"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=8, D6(Geopolitical Risk)=8. 主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 12,
@@ -495,7 +506,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 4U: ESC4000A-E12, General 2U: RS720A-E12, General 1U: RS700-E11",
       "channel": "Direct supply",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【Enterprise IT Tactics】【Brand Awareness】ASUS has lower brand recognition in the server market compared to Dell, HPE, Lenovo, requiring more market education. 【Existing Relationships】Inspur, H3C have established stable cooperation and service systems. 【Procurement Inertia】Companies tend to choose existing suppliers to reduce risks. 【Technical Support】Need to demonstrate comprehensive after-sales and technical support capabilities.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (3-6 months)】1. Recommend ASUS server products to Bilibili through existing channel partners, arrange product demonstrations and technical exchanges. 2. Offer competitive pricing for upcoming equipment upgrade cycles. 【Medium-term (6-12 months)】3. Deepen understanding of Bilibili's IT infrastructure planning and technical roadmap, provide targeted server upgrade solutions. 4. Establish regular technical exchange mechanisms, showcase ASUS's latest products and solutions in AI, HPC, etc. 【Long-term (1-2 years)】5. Expand cooperation scope from a single product line to a complete server portfolio. 6. Establish long-term maintenance service contracts to ensure customer satisfaction and ongoing cooperation. 【Key Actions】Assign dedicated sales managers to handle Bilibili, establish initial contact via Bilibili (direct supply), and arrange the first technical exchange within 30 days.",
       "keyPerson": {
@@ -526,7 +537,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=嗶哩嗶哩%20(Bilibili)%20procurement%20VP",
         "commStrategy": "Recommend through regional SI/DIST channels, providing competitive TCO analysis and trial plans"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=8, D6(Geopolitical Risk)=8. 主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 13,
@@ -570,7 +582,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=滴滴出行%20(DiDi)%20procurement%20VP",
         "commStrategy": "Recommend through regional SI/DIST channels, providing competitive TCO analysis and trial plans"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=8, D6(Geopolitical Risk)=8. 主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 14,
@@ -614,7 +627,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=金山雲%20(Kingsoft%20Cloud)%20procurement%20VP",
         "commStrategy": "Recommend through finance-specific SI (e.g., Kyndryl, DXC Technology), as finance procurement processes are rigorous and require vendor qualification programs"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=8, D6(Geopolitical Risk)=8. 主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 15,
@@ -658,7 +672,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=平安科技%20(Ping%20An%20Technology)%20procurement%20VP",
         "commStrategy": "Recommend through finance-specific SI (e.g., Kyndryl, DXC Technology), as finance procurement processes are rigorous and require vendor qualification programs"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=7, D6(Geopolitical Risk)=8. 主要挑戰在於採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 16,
@@ -671,7 +686,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, AI POD: Liquid cooling cabinet solution",
       "channel": "Direct",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【NeoCloud/AI Startup Tactics】【Low Technical Barrier】Baichuan AI adopts relatively standardized server specifications, making the technical entry barrier relatively low, but product quality and delivery times must still be ensured. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to enter with differentiated technical solutions and competitive prices. 【Industry Characteristics】The NeoCloud/AI industry has extremely high requirements for the performance, cooling (liquid cooling), and rapid deployment capabilities of GPU servers. Technology iterates quickly, and suppliers must continuously keep up with the latest platforms.",
       "entryPoint": "【NeoCloud/AI Startup Tactics】【Short-term (1-3 months)】1. Directly contact Baichuan AI through channel partners or the ASUS sales team to provide product catalogs and quotations. 2. Utilize ASUS's brand awareness and cost-effectiveness advantages to quickly establish a cooperative relationship. 【Mid-term (6-12 months)】3. Provide technical proposals for ASUS ESC series GPU servers and AI POD solutions, showcasing the first-mover advantage on the NVIDIA Blackwell/Rubin platform. 4. Provide differentiated liquid cooling solutions for Baichuan AI's needs, which is a key market differentiator. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish long-term maintenance service contracts to ensure customer satisfaction and continued cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the Baichuan AI account, establish initial contact through Baichuan AI (Direct), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -702,7 +717,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=百川智能%20(Baichuan%20AI)%20procurement%20VP",
         "commStrategy": "Provide flexible payment terms (installments/leasing) and fast delivery commitments, as NeoCloud prioritizes time-to-deploy"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(Supplier Lock-in)=2, D2(Decision Complexity)=2, D3(Technical Barrier)=8, D4(Channel Access)=6, D5(Competition)=6, D6(Geopolitical Risk)=8. 主要挑戰在於高技術門檻、需新通路開發、地緣政治風險高。"
     },
     {
       "rank": 17,
@@ -715,7 +731,7 @@
       "odmOem": "ODM",
       "asusModel": "General 2U: RS720A-E12, AI 4U: ESC4000A-E12",
       "channel": "Direct",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【Enterprise IT Tactics】【Brand Awareness】ASUS's brand awareness in the server market is lower than Dell, HPE, and Lenovo, requiring more market education. 【Existing Relationships】Inspur and H3C have established stable cooperative relationships and service systems. 【Procurement Inertia】Enterprise IT procurement tends to choose existing suppliers to reduce risks. 【Technical Support】Need to demonstrate comprehensive after-sales service and technical support capabilities.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (3-6 months)】1. Recommend the ASUS server product line to Weibo through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide competitive quotation plans for its upcoming equipment renewal cycle. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of Weibo's IT infrastructure planning and technology roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish long-term maintenance service contracts to ensure customer satisfaction and continued cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the Weibo account, establish initial contact through Weibo (Direct), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -746,7 +762,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=微博%20(Weibo)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels, and provide competitive TCO analysis and trial programs"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=2, D4(Channel Access)=6, D5(Competition)=8, D6(Geopolitical Risk)=7. 主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 18,
@@ -759,7 +776,7 @@
       "odmOem": "ODM",
       "asusModel": "General 2U: RS720A-E12, AI 4U: ESC4000A-E12",
       "channel": "Direct",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【Enterprise IT Tactics】【Brand Awareness】ASUS's brand awareness in the server market is lower than Dell, HPE, and Lenovo, requiring more market education. 【Existing Relationships】Inspur and H3C have established stable cooperative relationships and service systems. 【Procurement Inertia】Enterprise IT procurement tends to choose existing suppliers to reduce risks. 【Technical Support】Need to demonstrate comprehensive after-sales service and technical support capabilities.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (3-6 months)】1. Recommend the ASUS server product line to Trip.com Group through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide competitive quotation plans for its upcoming equipment renewal cycle. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of Trip.com Group's IT infrastructure planning and technology roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish long-term maintenance service contracts to ensure customer satisfaction and continued cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the Trip.com Group account, establish initial contact through Trip.com Group (Direct), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -790,7 +807,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=攜程集團%20(Trip.com%20Group)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels, and provide competitive TCO analysis and trial programs"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=2, D4(Channel Access)=6, D5(Competition)=8, D6(Geopolitical Risk)=7. 主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 19,
@@ -834,7 +852,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=小米集團%20(Xiaomi)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels, and provide competitive TCO analysis and trial programs"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=8, D6(Geopolitical Risk)=8. 主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 20,
@@ -847,7 +866,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12",
       "channel": "Direct",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【NeoCloud/AI Startup Tactics】【Low Technical Barrier】Zhipu AI adopts relatively standardized server specifications, making the technical entry barrier relatively low, but product quality and delivery times must still be ensured. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to enter with differentiated technical solutions and competitive prices. 【Industry Characteristics】The NeoCloud/AI industry has extremely high requirements for the performance, cooling (liquid cooling), and rapid deployment capabilities of GPU servers. Technology iterates quickly, and suppliers must continuously keep up with the latest platforms.",
       "entryPoint": "【NeoCloud/AI Startup Tactics】【Short-term (1-3 months)】1. Directly contact Zhipu AI through channel partners or the ASUS sales team to provide product catalogs and quotations. 2. Utilize ASUS's brand awareness and cost-effectiveness advantages to quickly establish a cooperative relationship. 【Mid-term (6-12 months)】3. Provide technical proposals for ASUS ESC series GPU servers and AI POD solutions, showcasing the first-mover advantage on the NVIDIA Blackwell/Rubin platform. 4. Provide differentiated liquid cooling solutions for Zhipu AI's needs, which is a key market differentiator. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish long-term maintenance service contracts to ensure customer satisfaction and continued cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the Zhipu AI account, establish initial contact through Zhipu AI (Direct), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -878,7 +897,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=智譜%20AI%20(Zhipu%20AI)%20procurement%20VP",
         "commStrategy": "Provide flexible payment terms (installments/leasing) and fast delivery commitments, as NeoCloud prioritizes time-to-deploy"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=2, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=4, D6(Geopolitical Risk)=8. 主要挑戰來自 地緣政治風險(8)、供應商鎖定(6)。"
     },
     {
       "rank": 21,
@@ -922,7 +942,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=順豐科技%20(SF%20Technology)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels, and provide competitive TCO analysis and trial programs"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=4, D6(Geopolitical Risk)=6. 主要挑戰來自 供應商鎖定(6)、通路需開發(6)。"
     },
     {
       "rank": 22,
@@ -935,7 +956,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12",
       "channel": "Direct",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "[NeoCloud/AI Startup Tactics][Lower Technical Barrier]Moonshot AI (Kimi) adopts relatively standardized server specifications, so the technical entry barrier is relatively low, but product quality and delivery time still need to be ensured. [Market Characteristics]The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to enter with differentiated technical solutions and competitive prices. [Industry Characteristics]The NeoCloud/AI industry has extremely high requirements for the performance, cooling (liquid cooling), and rapid deployment capabilities of GPU servers. The technology iterates quickly, and suppliers need to keep up with the latest platforms.",
       "entryPoint": "[NeoCloud/AI Startup Tactics][Short-term (1-3 months)]1. Directly contact Moonshot AI (Kimi) through channel partners or the ASUS sales team to provide product catalogs and quotations.2. Quickly establish a cooperative relationship by leveraging ASUS's brand awareness and cost-effectiveness advantages. [Mid-term (6-12 months)]3. Provide a technical proposal for the ASUS ESC series GPU servers and AI POD solutions, showcasing the first-mover advantage on the NVIDIA Blackwell/Rubin platform.4. Provide differentiated cooling solutions for Moonshot AI (Kimi)'s liquid cooling needs, which is a key differentiating factor in the current market. [Long-term (1-2 years)]5. Expand the scope of cooperation from a single product line to a complete server product portfolio.6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. [Key Actions]Appoint a dedicated account manager to be responsible for the Moonshot AI (Kimi) account, establish initial contact through Moonshot AI (Kimi) (direct supply), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -966,7 +987,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=月之暗面%20(Moonshot%20AI%20/%20Kimi)%20procurement%20VP",
         "commStrategy": "Provide flexible payment terms (installments/leasing) and fast delivery commitments, as time-to-deploy is the most important factor for NeoCloud"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=2, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=4, D6(Geopolitical Risk)=8. 主要挑戰來自 地緣政治風險(8)、供應商鎖定(6)。"
     },
     {
       "rank": 23,
@@ -1010,7 +1032,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=深度求索%20(DeepSeek)%20procurement%20VP",
         "commStrategy": "Provide flexible payment terms (installments/leasing) and fast delivery commitments, as time-to-deploy is the most important factor for NeoCloud"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(Supplier Lock-in)=8, D2(Decision Complexity)=2, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=4, D6(Geopolitical Risk)=8. 主要挑戰來自 地緣政治風險(8)、供應商鎖定(8)。"
     },
     {
       "company": "幻方量化 (High-Flyer Capital)",
@@ -1022,7 +1045,7 @@
       "odmOem": "ODM",
       "asusModel": "ESC8000-E12, ESC4000A-E12",
       "channel": "ODM Direct",
-      "difficulty": 3,
+      "difficulty": 6,
       "challenges": "[Financial Industry Tactics][Lower Technical Barrier]High-Flyer Capital adopts relatively standardized server specifications, so the technical entry barrier is relatively low, but product quality and delivery time still need to be ensured. [Market Characteristics]The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to enter with differentiated technical solutions and competitive prices. [Industry Characteristics]The financial industry has extremely high requirements for system stability, security compliance (such as PCI DSS), and disaster recovery. Server suppliers need to provide complete security certifications and SLA guarantees.",
       "entryPoint": "[Financial Industry Tactics][Short-term (1-3 months)]1. Directly contact High-Flyer Capital through channel partners or the ASUS sales team to provide product catalogs and quotations.2. Quickly establish a cooperative relationship by leveraging ASUS's brand awareness and cost-effectiveness advantages. [Mid-term (6-12 months)]3. Provide server solutions that meet the compliance requirements of the financial industry, including security certifications, encryption functions, and disaster recovery solutions.4. Recommend the ASUS ESC series GPU servers for High-Flyer Capital's AI/ML application needs. [Long-term (1-2 years)]5. Expand the scope of cooperation from a single product line to a complete server product portfolio.6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. [Key Actions]Appoint a dedicated account manager to be responsible for the High-Flyer Capital account, establish initial contact through High-Flyer Capital (direct supply), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -1054,7 +1077,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=幻方量化%20(High-Flyer%20Capital)%20procurement%20VP",
         "commStrategy": "Introduce through financial industry-specific SIs (such as Kyndryl, DXC Technology), as the procurement process in the financial industry is rigorous and requires passing a vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(Supplier Lock-in)=8, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=4, D6(Geopolitical Risk)=8. 主要挑戰來自 地緣政治風險(8)、供應商鎖定(8)。"
     },
     {
       "rank": 25,
@@ -1067,7 +1091,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12",
       "channel": "Direct",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "[NeoCloud/AI Startup Tactics][Speed Requirement]NeoCloud companies expand extremely fast and require suppliers to be able to deliver large quantities of GPU servers within 4-6 weeks.[Financial Risk]Some NeoCloud companies are not yet financially stable, and payment risks need to be assessed.[Technical Requirements]Extremely high requirements for GPU density, liquid cooling support, and power efficiency.[Fierce Competition]Dell and Supermicro are already actively targeting the NeoCloud market.",
       "entryPoint": "[NeoCloud/AI Startup Tactics][Short-term (1-3 months)]1. Directly contact MiniMax through channel partners or the ASUS sales team to provide product catalogs and quotations.2. Quickly establish a cooperative relationship by leveraging ASUS's brand awareness and cost-effectiveness advantages. [Mid-term (6-12 months)]3. Provide a technical proposal for the ASUS ESC series GPU servers and AI POD solutions, showcasing the first-mover advantage on the NVIDIA Blackwell/Rubin platform.4. Provide differentiated cooling solutions for MiniMax's liquid cooling needs, which is a key differentiating factor in the current market. [Long-term (1-2 years)]5. Expand the scope of cooperation from a single product line to a complete server product portfolio.6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. [Key Actions]Appoint a dedicated account manager to be responsible for the MiniMax account, establish initial contact through MiniMax (direct supply), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -1098,7 +1122,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=MiniMax%20procurement%20VP",
         "commStrategy": "Provide flexible payment terms (installments/leasing) and fast delivery commitments, as time-to-deploy is the most important factor for NeoCloud"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=2, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=4, D6(Geopolitical Risk)=8. 主要挑戰來自 地緣政治風險(8)、供應商鎖定(6)。"
     },
     {
       "rank": 26,
@@ -1111,7 +1136,7 @@
       "odmOem": "OEM/ODM Hybrid",
       "asusModel": "AI 4U: ESC4000A-E12, General Purpose2U: RS720-E11, WS: WS880T",
       "channel": "Direct",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【Financial Industry Tactics】【Technical Requirements】United Imaging has clear requirements for server quality and technical support, requiring complete technical documentation and after-sales service commitments. 【Supply Chain Barriers】Currently, the main suppliers are Inspur and Dell, who have established stable cooperative relationships and service systems. ASUS needs to demonstrate clear differentiated value to win replacement or new opportunities. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to break in with differentiated technical solutions and competitive prices. 【Industry Characteristics】The financial industry has extremely high requirements for system stability, information security compliance (such as PCI DSS), and disaster recovery. Server suppliers need to provide complete security certifications and SLA guarantees.",
       "entryPoint": "【Financial Industry Tactics】【Short-term (3-6 months)】1. Recommend the ASUS server product line to United Imaging through existing channel partners, and arrange product demonstrations and technical exchanges.2. Provide competitive quotation solutions for its upcoming equipment update cycle. 【Mid-term (6-12 months)】3. Provide server solutions that meet the compliance requirements of the financial industry, including security certification, encryption functions, and disaster recovery solutions.4. Recommend ASUS ESC series GPU servers for United Imaging's AI/ML application needs. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio.6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. 【Key Actions】Appoint a dedicated account manager to be responsible for United Imaging customers, establish initial contact through UNIS, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -1142,7 +1167,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=聯影醫療%20(United%20Imaging)%20procurement%20VP",
         "commStrategy": "Introduced through financial industry-specific SIs (such as Kyndryl, DXC Technology), the financial industry procurement process is rigorous and requires passing a vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=4, D6(Geopolitical Risk)=6. 主要挑戰來自 決策複雜(7)、供應商鎖定(6)。"
     },
     {
       "rank": 27,
@@ -1155,7 +1181,7 @@
       "odmOem": "OEM",
       "asusModel": "AI 4U: ESC4000A-E12, General Purpose2U: RS720-E11, HPC: RS720Q-E11, WS: WS880T",
       "channel": "Direct + SI: Local SI Partners",
-      "difficulty": 6,
+      "difficulty": 5,
       "challenges": "【Automotive/Autonomous Driving Tactics】【Industry in Transition】The automotive industry is shifting from traditional IT to large-scale AI infrastructure investment, and procurement processes are still being adjusted.【Existing Relationships】Inspur, Dell, and HPE have established cooperative relationships.【Special Needs】Autonomous driving training requires a large amount of GPU computing, and has extremely high requirements for heat dissipation and power efficiency.【Factory Environment】Edge deployments need to consider factory environment factors such as temperature, vibration, and dust.",
       "entryPoint": "【Automotive/Autonomous Driving Tactics】【Short-term (3-6 months)】1. Recommend the ASUS server product line to CATL through existing channel partners, and arrange product demonstrations and technical exchanges.2. Provide competitive quotation solutions for its upcoming equipment update cycle. 【Mid-term (6-12 months)】3. In-depth understanding of CATL's IT infrastructure planning and technical roadmap, and provide targeted server upgrade solutions.4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in AI, HPC and other fields. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio.6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. 【Key Actions】Appoint a dedicated account manager to be responsible for CATL customers, establish initial contact through Digital China, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -1186,7 +1212,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=寧德時代%20(CATL)%20procurement%20VP",
         "commStrategy": "Through the automotive Tier 1 supplier ecosystem or direct contact with the IT department, the automotive industry is investing heavily in AI infrastructure"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=7, D6(Geopolitical Risk)=6. 主要挑戰來自 決策複雜(7)、競爭激烈(7)。"
     },
     {
       "rank": 28,
@@ -1199,7 +1226,7 @@
       "odmOem": "OEM",
       "asusModel": "AI 4U: ESC4000A-E12, General Purpose2U: RS720-E11, WS: WS880T",
       "channel": "Direct + SI: Local SI Partners",
-      "difficulty": 6,
+      "difficulty": 5,
       "challenges": "【Automotive/Autonomous Driving Tactics】【Industry in Transition】The automotive industry is shifting from traditional IT to large-scale AI infrastructure investment, and procurement processes are still being adjusted.【Existing Relationships】Inspur, Dell, and HPE have established cooperative relationships.【Special Needs】Autonomous driving training requires a large amount of GPU computing, and has extremely high requirements for heat dissipation and power efficiency.【Factory Environment】Edge deployments need to consider factory environment factors such as temperature, vibration, and dust.",
       "entryPoint": "【Automotive/Autonomous Driving Tactics】【Short-term (3-6 months)】1. Recommend the ASUS server product line to BYD through existing channel partners, and arrange product demonstrations and technical exchanges.2. Provide competitive quotation solutions for its upcoming equipment update cycle. 【Mid-term (6-12 months)】3. In-depth understanding of BYD's IT infrastructure planning and technical roadmap, and provide targeted server upgrade solutions.4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in AI, HPC and other fields. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio.6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. 【Key Actions】Appoint a dedicated account manager to be responsible for BYD customers, establish initial contact through Digital China, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -1230,7 +1257,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=比亞迪%20(BYD)%20procurement%20VP",
         "commStrategy": "Through the automotive Tier 1 supplier ecosystem or direct contact with the IT department, the automotive industry is investing heavily in AI infrastructure"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=7, D6(Geopolitical Risk)=6. 主要挑戰來自 決策複雜(7)、競爭激烈(7)。"
     },
     {
       "rank": 29,
@@ -1274,7 +1302,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=海爾卡奧斯%20(Haier%20COSMOPlat)%20procurement%20VP",
         "commStrategy": "Through the automotive Tier 1 supplier ecosystem or direct contact with the IT department, the automotive industry is investing heavily in AI infrastructure"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=7, D3(Technical Barrier)=2, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=6. 主要挑戰來自 決策複雜(7)、供應商鎖定(6)。"
     },
     {
       "rank": 30,
@@ -1318,7 +1347,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=用友網絡%20(Yonyou)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial solutions"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=4, D6(Geopolitical Risk)=7. 主要挑戰來自：供應商高度鎖定、地緣政治風險高。"
     },
     {
       "rank": 31,
@@ -1362,7 +1392,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=貝殼找房%20(KE%20Holdings%20/%20Beike)%20procurement%20VP",
         "commStrategy": "Introduced through financial industry-specific SIs (such as Kyndryl, DXC Technology), the financial industry procurement process is rigorous and requires passing a vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=7. 主要挑戰來自：採購流程漫長、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 32,
@@ -1406,7 +1437,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=TCL%20科技%20(TCL%20Technology)%20procurement%20VP",
         "commStrategy": "Through the automotive industry Tier 1 supplier ecosystem or direct contact with the IT department, the automotive industry is investing heavily in AI infrastructure"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=7. 主要挑戰來自：採購流程漫長、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 33,
@@ -1450,7 +1482,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=藥明康德%20(WuXi%20AppTec)%20procurement%20VP",
         "commStrategy": "Enter through medical industry SIs (such as Epic Systems partners, Cerner ecosystem), medical industry procurement emphasizes long-term service contracts"
       },
-      "archetype": "healthcare"
+      "archetype": "healthcare",
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=7. 主要挑戰來自：採購流程漫長、市場競爭激烈、地緣政治風險高。"
     },
     {
       "company": "階躍星辰 (StepFun)",
@@ -1462,7 +1495,7 @@
       "odmOem": "ODM",
       "asusModel": "ESC8000-E12, ESC4000A-E12",
       "channel": "ODM Direct",
-      "difficulty": 3,
+      "difficulty": 4,
       "challenges": "【NeoCloud/AI Startup Tactics】【Lower Technical Threshold】StepFun adopts relatively standardized server specifications, and the technical entry barrier is relatively low, but it is still necessary to ensure product quality and delivery. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to break in with differentiated technical solutions and competitive prices. 【Industry Characteristics】The NeoCloud/AI industry has extremely high requirements for the performance, heat dissipation (liquid cooling), and rapid deployment capabilities of GPU servers. The technology iterates quickly, and suppliers need to continuously follow up on the latest platforms.",
       "entryPoint": "【NeoCloud/AI Startup Tactics】【Short-term (1-3 months)】1. Directly contact StepFun through channel partners or the ASUS business team to provide product catalogs and quotations.2. Quickly establish a cooperative relationship by leveraging ASUS's brand awareness and cost-effectiveness advantages. 【Mid-term (6-12 months)】3. Provide a technical proposal for ASUS ESC series GPU servers and AI POD solutions, demonstrating the first-mover advantage on the NVIDIA Blackwell/Rubin platform.4. Provide differentiated heat dissipation solutions for StepFun's liquid cooling needs, which is a key differentiating factor in the current market. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio.6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. 【Key Actions】Appoint a dedicated account manager to be responsible for StepFun customers, establish initial contact through StepFun (direct supply), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -1494,7 +1527,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=階躍星辰%20(StepFun)%20procurement%20VP",
         "commStrategy": "Provide flexible payment terms (installments/leasing) and fast delivery commitments, NeoCloud attaches the most importance to time-to-deploy"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(Supplier Lock-in)=2, D2(Decision Complexity)=2, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=7. 主要挑戰來自：需拓展新通路、地緣政治風險高。"
     },
     {
       "rank": 35,
@@ -1507,7 +1541,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12",
       "channel": "Direct",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【NeoCloud/AI Startup Tactics】【Lower Technical Threshold】01.AI adopts relatively standardized server specifications, and the technical entry barrier is relatively low, but it is still necessary to ensure product quality and delivery. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to break in with differentiated technical solutions and competitive prices. 【Industry Characteristics】The NeoCloud/AI industry has extremely high requirements for the performance, heat dissipation (liquid cooling), and rapid deployment capabilities of GPU servers. The technology iterates quickly, and suppliers need to continuously follow up on the latest platforms.",
       "entryPoint": "【NeoCloud/AI Startup Tactics】【Short-term (1-3 months)】1. Directly contact 01.AI through channel partners or the ASUS business team to provide product catalogs and quotations.2. Quickly establish a cooperative relationship by leveraging ASUS's brand awareness and cost-effectiveness advantages. 【Mid-term (6-12 months)】3. Provide a technical proposal for ASUS ESC series GPU servers and AI POD solutions, demonstrating the first-mover advantage on the NVIDIA Blackwell/Rubin platform.4. Provide differentiated heat dissipation solutions for 01.AI's liquid cooling needs, which is a key differentiating factor in the current market. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio.6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. 【Key Actions】Appoint a dedicated account manager to be responsible for 01.AI customers, establish initial contact through 01.AI (direct supply), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -1538,7 +1572,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=零一萬物%20(01.AI)%20procurement%20VP",
         "commStrategy": "Provide flexible payment terms (installments/leasing) and fast delivery commitments, NeoCloud attaches the most importance to time-to-deploy"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=2, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=4, D6(Geopolitical Risk)=7. 主要挑戰來自：需拓展新通路、地緣政治風險高。"
     },
     {
       "rank": 36,
@@ -1551,7 +1586,7 @@
       "odmOem": "OEM/ODM Hybrid",
       "asusModel": "AI 4U: ESC4000A-E12, AI 8GPU: ESC N8-E11",
       "channel": "Direct",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【Automotive/Autonomous Driving Tactics】【Industry Transformation】The automotive industry is shifting from traditional IT to large-scale AI infrastructure investment, and procurement processes are still being adjusted. 【Existing Relationships】Inspur, Dell have established partnerships. 【Special Requirements】Autonomous driving training requires a large amount of GPU computing, with extremely high requirements for heat dissipation and power efficiency. 【Factory Environment】Edge deployment needs to consider factors such as temperature, vibration, and dust in the factory environment.",
       "entryPoint": "【Automotive/Autonomous Driving Tactics】【Short-term (3-6 months)】1. Recommend ASUS server product line to Li Auto through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide competitive quotation solutions for its upcoming equipment update cycle. 【Mid-term (6-12 months)】3. Deeply understand Li Auto's IT infrastructure planning and technology roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in AI, HPC and other fields. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continued cooperation. 【Key Actions】Appoint a dedicated account manager to be responsible for Li Auto customers, establish initial contact through Li Auto (Direct), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -1582,7 +1617,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=理想汽車%20(Li%20Auto)%20procurement%20VP",
         "commStrategy": "Through the automotive Tier 1 supplier ecosystem or direct contact with the IT department, the automotive industry is investing heavily in AI infrastructure"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=4, D6(Geopolitical Risk)=7. 主要挑戰來自：供應商高度鎖定、採購流程漫長、需拓展新通路、地緣政治風險高。"
     },
     {
       "rank": 37,
@@ -1595,7 +1631,7 @@
       "odmOem": "OEM/ODM Hybrid",
       "asusModel": "AI 4U: ESC4000A-E12, AI 8GPU: ESC N8-E11",
       "channel": "Direct",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【Automotive/Autonomous Driving Tactics】【Industry Transformation】The automotive industry is shifting from traditional IT to large-scale AI infrastructure investment, and procurement processes are still being adjusted. 【Existing Relationships】Inspur, Dell have established partnerships. 【Special Requirements】Autonomous driving training requires a large amount of GPU computing, with extremely high requirements for heat dissipation and power efficiency. 【Factory Environment】Edge deployment needs to consider factors such as temperature, vibration, and dust in the factory environment.",
       "entryPoint": "【Automotive/Autonomous Driving Tactics】【Short-term (3-6 months)】1. Recommend ASUS server product line to NIO through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide competitive quotation solutions for its upcoming equipment update cycle. 【Mid-term (6-12 months)】3. Deeply understand NIO's IT infrastructure planning and technology roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in AI, HPC and other fields. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continued cooperation. 【Key Actions】Appoint a dedicated account manager to be responsible for NIO customers, establish initial contact through NIO (Direct), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -1626,7 +1662,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=蔚來汽車%20(NIO)%20procurement%20VP",
         "commStrategy": "Through the automotive Tier 1 supplier ecosystem or direct contact with the IT department, the automotive industry is investing heavily in AI infrastructure"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=4, D6(Geopolitical Risk)=7. 主要挑戰來自：供應商高度鎖定、採購流程漫長、需拓展新通路、地緣政治風險高。"
     },
     {
       "rank": 38,
@@ -1639,7 +1676,7 @@
       "odmOem": "OEM/ODM Hybrid",
       "asusModel": "AI 4U: ESC4000A-E12, AI 8GPU: ESC N8-E11",
       "channel": "Direct",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【Automotive/Autonomous Driving Tactics】【Industry Transformation】The automotive industry is shifting from traditional IT to large-scale AI infrastructure investment, and procurement processes are still being adjusted. 【Existing Relationships】Inspur, Dell have established partnerships. 【Special Requirements】Autonomous driving training requires a large amount of GPU computing, with extremely high requirements for heat dissipation and power efficiency. 【Factory Environment】Edge deployment needs to consider factors such as temperature, vibration, and dust in the factory environment.",
       "entryPoint": "【Automotive/Autonomous Driving Tactics】【Short-term (3-6 months)】1. Recommend ASUS server product line to XPeng through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide competitive quotation solutions for its upcoming equipment update cycle. 【Mid-term (6-12 months)】3. Deeply understand XPeng's IT infrastructure planning and technology roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in AI, HPC and other fields. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continued cooperation. 【Key Actions】Appoint a dedicated account manager to be responsible for XPeng customers, establish initial contact through XPeng (Direct), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -1670,7 +1707,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=小鵬汽車%20(XPeng)%20procurement%20VP",
         "commStrategy": "Through the automotive Tier 1 supplier ecosystem or direct contact with the IT department, the automotive industry is investing heavily in AI infrastructure"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=4, D6(Geopolitical Risk)=7. 主要挑戰來自：供應商高度鎖定、採購流程漫長、需拓展新通路、地緣政治風險高。"
     },
     {
       "rank": 39,
@@ -1714,7 +1752,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=OPPO%20/%20一加%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels, providing competitive TCO analysis and trial programs"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=4, D6(Geopolitical Risk)=7. 主要挑戰來自：供應商高度鎖定、需拓展新通路、地緣政治風險高。"
     },
     {
       "rank": 40,
@@ -1758,7 +1797,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=vivo%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels, providing competitive TCO analysis and trial programs"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=8. 主要挑戰在於地緣政治風險高。"
     },
     {
       "rank": 41,
@@ -1771,7 +1811,7 @@
       "odmOem": "ODM",
       "asusModel": "General 2U: RS720A-E12, AI 4U: ESC4000A-E12",
       "channel": "Direct",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【Financial Industry Tactics】【Compliance Requirements】Financial regulations (SOX, PCI-DSS, GDPR) have strict security certification and audit requirements for suppliers. 【Procurement Process】The Vendor Qualification Program usually takes 6-12 months, including security audits, stress testing, and compliance verification. 【Existing Relationships】Inspur, H3C have already passed compliance certification, and replacement costs include re-certification fees. 【Stability First】The financial industry places extreme importance on system stability and is conservative towards new suppliers.",
       "entryPoint": "【Financial Industry Tactics】【Short-term (3-6 months)】1. Recommend ASUS server product lines to Kingdee through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide competitive quotation plans for its upcoming equipment renewal cycle. 【Mid-term (6-12 months)】3. Provide server solutions that meet the compliance requirements of the financial industry, including security certification, encryption functions, and disaster recovery solutions. 4. Recommend ASUS ESC series GPU servers for Kingdee's AI/ML application needs. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. 【Key Actions】Assign a dedicated account manager to be responsible for the Kingdee account, establish initial contact through Kingdee (Direct), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -1802,7 +1842,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=金蝶國際%20(Kingdee)%20procurement%20VP",
         "commStrategy": "Introduce through financial industry-specific SIs (such as Kyndryl, DXC Technology); the financial industry's procurement process is rigorous and requires passing a vendor qualification program."
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=7, D3(Technical Barrier)=1, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=5. 主要挑戰在於採購決策複雜。"
     },
     {
       "rank": 42,
@@ -1846,7 +1887,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=地平線%20(Horizon%20Robotics)%20procurement%20VP",
         "commStrategy": "Provide flexible payment terms (installments/leasing) and rapid delivery commitments; NeoCloud values time-to-deploy the most."
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=2, D3(Technical Barrier)=8, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=8. 主要挑戰在於技術門檻高、地緣政治風險高。"
     },
     {
       "rank": 43,
@@ -1890,7 +1932,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=極氪%20(Zeekr)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels, and provide competitive TCO analysis and trial programs."
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=3, D6(Geopolitical Risk)=8. 主要挑戰在於地緣政治風險高。"
     },
     {
       "rank": 44,
@@ -1934,7 +1977,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=小馬智行%20(Pony.ai)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels, and provide competitive TCO analysis and trial programs."
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=8. 主要挑戰在於地緣政治風險高。"
     },
     {
       "company": "光年之外 (Lightspeed)",
@@ -1946,7 +1990,7 @@
       "odmOem": "ODM",
       "asusModel": "ESC8000-E12",
       "channel": "ODM Direct",
-      "difficulty": 4,
+      "difficulty": 3,
       "challenges": "【NeoCloud/AI Startup Tactics】【Lower Technical Barrier】Lightspeed adopts relatively standardized server specifications, so the technical entry barrier is relatively low, but product quality and delivery time still need to be ensured. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to break in with differentiated technical solutions and competitive prices. 【Industry Characteristics】The NeoCloud/AI industry has extremely high requirements for the performance, cooling (liquid cooling), and rapid deployment capabilities of GPU servers. The technology iterates quickly, and suppliers need to continuously follow up on the latest platforms.",
       "entryPoint": "【NeoCloud/AI Startup Tactics】【Short-term (1-3 months)】1. Directly contact Lightspeed through channel partners or the ASUS sales team to provide product catalogs and quotations. 2. Quickly establish a cooperative relationship by leveraging ASUS's brand awareness and cost-effectiveness advantages. 【Mid-term (6-12 months)】3. Provide technical solution proposals for ASUS ESC series GPU servers and AI POD solutions, demonstrating the first-mover advantage on the NVIDIA Blackwell/Rubin platform. 4. Provide differentiated cooling solutions for Lightspeed's liquid cooling needs, which is a key differentiating factor in the current market. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. 【Key Actions】Assign a dedicated account manager to be responsible for the Lightspeed account, establish initial contact through Lightspeed (Direct), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -1978,7 +2022,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=光年之外%20(Lightspeed)%20procurement%20VP",
         "commStrategy": "Provide flexible payment terms (installments/leasing) and rapid delivery commitments; NeoCloud values time-to-deploy the most."
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(Supplier Lock-in)=2, D2(Decision Complexity)=2, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=1, D6(Geopolitical Risk)=8. 主要挑戰在於地緣政治風險高。"
     },
     {
       "company": "深信服 (Sangfor Technologies)",
@@ -2022,7 +2067,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=深信服%20(Sangfor%20Technologies)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST Channel引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=1, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=5. 存在一定挑戰，但仍有切入機會。"
     },
     {
       "company": "匯豐軟件 (HSBC Software Development China)",
@@ -2034,7 +2080,7 @@
       "odmOem": "OEM",
       "asusModel": "RS720-E11, RS720A-E12",
       "channel": "SI",
-      "difficulty": 7,
+      "difficulty": 5,
       "challenges": "[Financial Industry Tactics][Technical Requirements]匯豐軟件 (HSBC Software Development China) has clear requirements for server quality and technical support, and needs to provide complete technical documents and after-sales service commitments. [Supply Chain Barriers]The current main suppliers are Dell, HPE (via global procurement), who have established stable cooperative relationships and service systems. ASUS needs to demonstrate clear differentiated value to win replacement or new opportunities. [Business Challenges]The procurement decision-making process is complex, involving multiple departments (IT, procurement, finance), and the decision-making cycle is long. It requires follow-up from technical verification, business negotiation to contract signing. [Market Characteristics]The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) occupying a dominant position. ASUS needs to enter with differentiated technical solutions and competitive prices. [Industry Characteristics]The financial industry has extremely high requirements for system stability, information security compliance (such as PCI DSS), and disaster recovery. Server suppliers need to provide complete security certifications and SLA guarantees.",
       "entryPoint": "[Financial Industry Tactics][Short-term (3-6 months)]1. Recommend ASUS server product lines to 匯豐軟件 (HSBC Software Development China) through existing channel partners, and arrange product demonstrations and technical exchanges.2. Provide competitive quotation solutions for its upcoming equipment update cycle. [Mid-term (6-12 months)]3. Provide server solutions that comply with financial industry compliance requirements, including security certification, encryption functions, and disaster recovery solutions.4. For 匯豐軟件 (HSBC Software Development China)'s AI/ML application needs, recommend ASUS ESC series GPU servers. [Long-term (1-2 years)]5. Strive to become an 匯豐軟件 (HSBC Software Development China) approved vendor list (AVL) and establish a long-term cooperation framework agreement.6. Jointly develop customized server solutions with 匯豐軟件 (HSBC Software Development China)'s technical team to meet their specific needs and deepen the cooperative relationship. [Key Actions]Appoint a dedicated account manager to be responsible for the 匯豐軟件 (HSBC Software Development China) account, establish initial contact through Kyndryl, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -2066,7 +2112,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=匯豐軟件%20(HSBC%20Software%20Development%20China)%20procurement%20VP",
         "commStrategy": "Introduced by financial industry-specific SIs (such as Kyndryl, DXC Technology), the financial industry procurement process is rigorous and requires passing a vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=1, D4(Channel Access)=3, D5(Competition)=3, D6(Geopolitical Risk)=5. 主要挑戰在於供應商高度鎖定、採購決策複雜。"
     },
     {
       "rank": 48,
@@ -2079,7 +2126,7 @@
       "odmOem": "ODM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "[Enterprise IT Tactics][Brand Awareness]ASUS's brand awareness in the server market is lower than Dell, HPE, and Lenovo, requiring more market education.[Existing Relationships]浪潮, Dell, H3Chas established stable cooperative relationships and service systems.[Procurement Inertia]Enterprise IT procurement tends to choose existing suppliers to reduce risks.[Technical Support]Need to demonstrate comprehensive after-sales service and technical support capabilities.",
       "entryPoint": "[Enterprise IT Tactics][Short-term (3-6 months)]1. Recommend ASUS server product lines to 同程旅行 (Tongcheng Travel) through existing channel partners, and arrange product demonstrations and technical exchanges.2. Provide competitive quotation solutions for its upcoming equipment update cycle. [Mid-term (6-12 months)]3. Deepen the understanding of 同程旅行 (Tongcheng Travel)'s IT infrastructure planning and technology roadmap, and provide targeted server upgrade solutions.4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. [Long-term (1-2 years)]5. Expand the scope of cooperation from a single product line to a complete server product portfolio.6. Establish long-term maintenance service contracts to ensure customer satisfaction and continuous cooperation. [Key Actions]Appoint a dedicated account manager to be responsible for the 同程旅行 (Tongcheng Travel) account, establish initial contact through SI/DIST, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -2110,7 +2157,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=同程旅行%20(Tongcheng%20Travel)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST Channel引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=1, D4(Channel Access)=3, D5(Competition)=3, D6(Geopolitical Risk)=5. 存在一定挑戰，但仍有切入機會。"
     },
     {
       "rank": 49,
@@ -2154,7 +2202,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=嗶哩嗶哩遊戲%20(Bilibili%20Game)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST Channel引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=3, D6(Geopolitical Risk)=8. 主要挑戰在於地緣政治風險高。"
     },
     {
       "rank": 50,
@@ -2198,7 +2247,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=聯影智能%20(United%20Imaging%20Intelligence)%20procurement%20VP",
         "commStrategy": "Introduced by financial industry-specific SIs (such as Kyndryl, DXC Technology), the financial industry procurement process is rigorous and requires passing a vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=6, D6(Geopolitical Risk)=8. 難點在於 地緣政治 (8分)，但整體難度中等。"
     },
     {
       "rank": 51,
@@ -2242,7 +2292,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=度小滿金融%20(Du%20Xiaoman%20Financial)%20procurement%20VP",
         "commStrategy": "Introduced through financial industry-specific SIs (such as Kyndryl, DXC Technology), the financial industry procurement process is rigorous and requires passing a vendor qualification program."
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=7, D3(Technical Barrier)=2, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=8. 難點在於 地緣政治 (8分)，但整體難度中等。"
     },
     {
       "rank": 52,
@@ -2286,7 +2337,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=陸金所控股%20(Lufax%20Holding)%20procurement%20VP",
         "commStrategy": "Introduced through financial industry-specific SIs (such as Kyndryl, DXC Technology), the financial industry procurement process is rigorous and requires passing a vendor qualification program."
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=7, D3(Technical Barrier)=2, D4(Channel Access)=4, D5(Competition)=6, D6(Geopolitical Risk)=8. 難點在於 地緣政治 (8分)，但整體難度中等。"
     },
     {
       "rank": 53,
@@ -2330,7 +2382,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=哈囉出行%20(Hello%20Inc.)%20procurement%20VP",
         "commStrategy": "Introduced through regional SI/DIST channels, providing competitive TCO analysis and trial programs."
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=4, D3(Technical Barrier)=2, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=8. 切入機會較大，各維度阻力均不高，尤其 技術門檻 (2分) 為主要優勢。"
     },
     {
       "rank": 54,
@@ -2343,7 +2396,7 @@
       "odmOem": "ODM",
       "asusModel": "General 2U: RS720-E11, General 1U: RS700-E11",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【Enterprise IT Tactics】【Technical Requirements】Dada Group / JD Logistics has clear requirements for server quality and technical support, requiring complete technical documentation and after-sales service commitments. 【Supply Chain Barriers】The current main suppliers are Inspur, Dell, which have established stable cooperative relationships and service systems. ASUS needs to demonstrate clear differentiated value to win replacement or new opportunities. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to break in with differentiated technical solutions and competitive prices.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (3-6 months)】1. Recommend ASUS server product lines to Dada Group / JD Logistics through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide competitive quotation solutions for its upcoming equipment update cycle. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of Dada Group / JD Logistics' IT infrastructure planning and technology roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. 【Key Actions】Assign a dedicated account manager to be responsible for the Dada Group / JD Logistics customer, establish initial contact through SI/DIST, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -2374,7 +2427,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=達達集團%20(Dada%20Group%20/%20JD%20Logistics)%20procurement%20VP",
         "commStrategy": "Introduced through regional SI/DIST channels, providing competitive TCO analysis and trial programs."
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=4, D3(Technical Barrier)=2, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=8. 切入機會較大，各維度阻力均不高，尤其 技術門檻 (2分) 為主要優勢。"
     },
     {
       "rank": 55,
@@ -2387,7 +2441,7 @@
       "odmOem": "ODM",
       "asusModel": "General 2U: RS720-E11, GPU: ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【Financial Industry Tactics】【Lower Technical Threshold】Transsion Holdings adopts relatively standardized server specifications, and the technical entry threshold is relatively low, but product quality and delivery time still need to be ensured. 【Supply Chain Barriers】The current main suppliers are Inspur, Dell, which have established stable cooperative relationships and service systems. ASUS needs to demonstrate clear differentiated value to win replacement or new opportunities. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to break in with differentiated technical solutions and competitive prices. 【Industry Characteristics】The financial industry has extremely high requirements for system stability, information security compliance (such as PCI DSS), and disaster recovery. Server suppliers need to provide complete security certifications and SLA guarantees.",
       "entryPoint": "【Financial Industry Tactics】【Short-term (1-3 months)】1. Directly contact Transsion Holdings through channel partners or the ASUS business team to provide product catalogs and quotations. 2. Quickly establish a cooperative relationship by leveraging ASUS's brand awareness and cost-effectiveness advantages. 【Mid-term (6-12 months)】3. Provide server solutions that meet the compliance requirements of the financial industry, including security certifications, encryption functions, and disaster recovery solutions. 4. Recommend ASUS ESC series GPU servers for Transsion Holdings' AI/ML application needs. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. 【Key Actions】Assign a dedicated account manager to be responsible for the Transsion Holdings customer, establish initial contact through SI/DIST, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -2418,7 +2472,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=傳音控股%20(Transsion%20Holdings)%20procurement%20VP",
         "commStrategy": "Introduced through financial industry-specific SIs (such as Kyndryl, DXC Technology), the financial industry procurement process is rigorous and requires passing a vendor qualification program."
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=7, D3(Technical Barrier)=2, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=8. 難點在於 地緣政治 (8分)，但整體難度中等。"
     },
     {
       "rank": 56,
@@ -2462,7 +2517,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=藥明生物%20(WuXi%20Biologics)%20procurement%20VP",
         "commStrategy": "Enter through healthcare industry SIs (such as Epic Systems partners, Cerner ecosystem); the healthcare industry procurement values long-term service contracts."
       },
-      "archetype": "healthcare"
+      "archetype": "healthcare",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=6, D6(Geopolitical Risk)=8. 難點在於 地緣政治 (8分)，但整體難度中等。"
     },
     {
       "rank": 57,
@@ -2506,7 +2562,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=第四範式%20(4Paradigm)%20procurement%20VP",
         "commStrategy": "Enter through the automotive Tier 1 supplier ecosystem or by directly contacting the IT department; the automotive industry is investing heavily in AI infrastructure."
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=4, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=4, D6(Geopolitical Risk)=8. 難點在於 地緣政治 (8分)，但整體難度中等。"
     },
     {
       "rank": 58,
@@ -2550,7 +2607,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=有贊%20(Youzan)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs."
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=4, D3(Technical Barrier)=2, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=8. 切入機會較大，各維度阻力均不高，尤其 技術門檻 (2分) 為主要優勢。"
     },
     {
       "rank": 59,
@@ -2563,7 +2621,7 @@
       "odmOem": "ODM",
       "asusModel": "General Purpose 2U: RS720-E11, GPU: ESC4000A-E12",
       "channel": "Direct",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【Enterprise IT Tactics】【Brand Awareness】ASUS has lower brand awareness in the server market than Dell, HPE, and Lenovo, requiring more market education. 【Existing Relationships】Dell and Supermicro have established stable cooperative relationships and service systems. 【Procurement Inertia】Enterprise IT procurement tends to choose existing suppliers to reduce risks. 【Technical Support】Need to demonstrate a complete after-sales service and technical support capabilities.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (1-3 months)】1. Directly contact Mobvista / Mintegral through channel partners or the ASUS sales team to provide product catalogs and quotations. 2. Quickly establish a cooperative relationship by leveraging ASUS's brand awareness and cost-effectiveness advantages. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of Mobvista / Mintegral's IT infrastructure planning and technology roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. 【Key Actions】Assign a dedicated account manager to be responsible for the Mobvista / Mintegral account, establish initial contact through Mobvista / Mintegral (Direct), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -2594,7 +2652,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=匯量科技%20(Mobvista%20/%20Mintegral)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs."
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=4, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=4, D6(Geopolitical Risk)=8. 難點在於 地緣政治 (8分)，但整體難度中等。"
     },
     {
       "rank": 60,
@@ -2638,7 +2697,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=微盟集團%20(Weimob)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs."
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=7, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=5. 綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(2), 通路(3), 競爭(5), 風險(5)的加權評估。"
     },
     {
       "rank": 61,
@@ -2682,7 +2742,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=明源雲%20(MingYuan%20Cloud)%20procurement%20VP",
         "commStrategy": "Introduction through financial industry-specific SIs (such as Kyndryl, DXC Technology), the financial industry procurement process is rigorous and requires passing a vendor qualification program."
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=7, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=5. 綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(2), 通路(3), 競爭(5), 風險(5)的加權評估。"
     },
     {
       "rank": 62,
@@ -2726,7 +2787,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=塗鴉智能%20(Tuya%20Smart)%20procurement%20VP",
         "commStrategy": "Contact through retail SIs or directly with the IT department; the retail industry is extremely sensitive to TCO."
       },
-      "archetype": "retail"
+      "archetype": "retail",
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=5, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=5. 綜合供應商鎖定(5), 決策複雜度(5), 技術門檻(2), 通路(3), 競爭(5), 風險(5)的加權評估。"
     },
     {
       "rank": 63,
@@ -2739,7 +2801,7 @@
       "odmOem": "ODM",
       "asusModel": "General 2U: RS720-E11, GPU: ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【Automotive/Autonomous Driving Tactics】【Low Technical Barrier】Neta Auto / Hozon adopts relatively standardized server specifications, resulting in a lower technical entry barrier, but product quality and delivery times must still be ensured. 【Supply Chain Barriers】The current main suppliers are Inspur, Dell, who have established stable cooperative relationships and service systems. ASUS needs to demonstrate clear differentiated value to win replacement or new opportunities. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to enter with differentiated technical solutions and competitive prices.",
       "entryPoint": "【Automotive/Autonomous Driving Tactics】【Short-term (1-3 months)】1. Directly contact Neta Auto / Hozon through channel partners or the ASUS sales team to provide product catalogs and quotations. 2. Quickly establish a cooperative relationship by leveraging the ASUS brand awareness and cost-effectiveness advantages. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of Neta Auto / Hozon's IT infrastructure planning and technology roadmap to provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continued cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the Neta Auto / Hozon customer, establish initial contact through SI/DIST, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -2770,7 +2832,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=哪吒汽車%20(Neta%20Auto%20/%20Hozon)%20procurement%20VP",
         "commStrategy": "Contact through the automotive Tier 1 supplier ecosystem or directly with the IT department; the automotive industry is investing heavily in AI infrastructure."
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=7. 綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(5), 風險(7)的加權評估。"
     },
     {
       "rank": 64,
@@ -2783,7 +2846,7 @@
       "odmOem": "ODM",
       "asusModel": "General 2U: RS720-E11, GPU: ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【Automotive/Autonomous Driving Tactics】【Low Technical Barrier】Leapmotor adopts relatively standardized server specifications, resulting in a lower technical entry barrier, but product quality and delivery times must still be ensured. 【Supply Chain Barriers】The current main suppliers are Inspur, Dell, who have established stable cooperative relationships and service systems. ASUS needs to demonstrate clear differentiated value to win replacement or new opportunities. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to enter with differentiated technical solutions and competitive prices.",
       "entryPoint": "【Automotive/Autonomous Driving Tactics】【Short-term (1-3 months)】1. Directly contact Leapmotor through channel partners or the ASUS sales team to provide product catalogs and quotations. 2. Quickly establish a cooperative relationship by leveraging the ASUS brand awareness and cost-effectiveness advantages. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of Leapmotor's IT infrastructure planning and technology roadmap to provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continued cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the Leapmotor customer, establish initial contact through SI/DIST, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -2814,7 +2877,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=零跑汽車%20(Leapmotor)%20procurement%20VP",
         "commStrategy": "Contact through the automotive Tier 1 supplier ecosystem or directly with the IT department; the automotive industry is investing heavily in AI infrastructure."
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=7. 綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(5), 風險(7)的加權評估。"
     },
     {
       "rank": 65,
@@ -2827,7 +2891,7 @@
       "odmOem": "ODM/Self-built",
       "asusModel": "General 2U: RS720-E11 (with Enflame AI accelerator card)",
       "channel": "Direct",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【NeoCloud/AI Startup Tactics】【Technical Requirements】Enflame Technology has clear requirements for server quality and technical support, requiring complete technical documentation and after-sales service commitments. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to enter with differentiated technical solutions and competitive prices. 【Industry Characteristics】The NeoCloud/AI industry has extremely high requirements for the performance, cooling (liquid cooling), and rapid deployment capabilities of GPU servers. The technology iterates rapidly, and suppliers need to keep up with the latest platforms.",
       "entryPoint": "【NeoCloud/AI Startup Tactics】【Short-term (3-6 months)】1. Recommend the ASUS server product line to Enflame Technology through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide a competitive quotation plan for their upcoming equipment update cycle. 【Mid-term (6-12 months)】3. Provide a technical proposal for the ASUS ESC series GPU servers and AI POD solutions, showcasing the first-mover advantage on the NVIDIA Blackwell/Rubin platforms. 4. Provide differentiated cooling solutions for Enflame Technology's liquid cooling needs, which is a key differentiating factor in the current market. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continued cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the Enflame Technology customer, establish initial contact through Enflame Technology (Direct), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -2858,7 +2922,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=燧原科技%20(Enflame%20Technology)%20procurement%20VP",
         "commStrategy": "Provide flexible payment terms (installments/leasing) and fast delivery commitments; NeoCloud values time-to-deploy the most."
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=1, D3(Technical Barrier)=8, D4(Channel Access)=5, D5(Competition)=5, D6(Geopolitical Risk)=5. 綜合供應商鎖定(9), 決策複雜度(1), 技術門檻(8), 通路(5), 競爭(5), 風險(5)的加權評估。"
     },
     {
       "rank": 66,
@@ -2901,7 +2966,8 @@
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=創維集團%20(Skyworth)%20procurement%20VP",
         "commStrategy": "Recommend through regional SI/DIST channels, providing competitive TCO analysis and trial plans"
-      }
+      },
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=7, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=5. 綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(2), 通路(3), 競爭(5), 風險(5)的加權評估。"
     },
     {
       "rank": 67,
@@ -2944,7 +3010,8 @@
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=文遠知行%20(WeRide)%20procurement%20VP",
         "commStrategy": "Recommend through regional SI/DIST channels, providing competitive TCO analysis and trial plans"
-      }
+      },
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=5, D6(Geopolitical Risk)=7. 綜合供應商鎖定(5), 決策複雜度(5), 技術門檻(4), 通路(5), 競爭(5), 風險(7)的加權評估。"
     },
     {
       "company": "面壁智能 (ModelBest)",
@@ -2956,7 +3023,7 @@
       "odmOem": "ODM",
       "asusModel": "ESC4000A-E12, RS720A-E12",
       "channel": "ODM Direct",
-      "difficulty": 3,
+      "difficulty": 4,
       "challenges": "【Enterprise IT Tactics】【Brand Awareness】 ASUS's server brand recognition is lower than Dell, HPE, Lenovo, requiring more market education. 【Existing Relationships】Stable cooperation and service systems are established with ODM direct procurement. 【Procurement Inertia】Companies tend to choose existing suppliers to reduce risk. 【Technical Support】Need to demonstrate comprehensive after-sales and technical support capabilities.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (1-3 months)】1. Recommend ASUS server products to ModelBest through existing channel partners, arrange product demonstrations and technical exchanges. 2. Offer competitive pricing for upcoming equipment upgrade cycles. 【Mid-term (6-12 months)】3. Deeply understand ModelBest's IT infrastructure planning and technical roadmap, providing targeted server upgrade solutions. 4. Establish regular technical exchange mechanisms, showcasing ASUS's latest products and solutions in AI, HPC, etc. 【Long-term (1-2 years)】5. Expand cooperation from a single product line to the full server product portfolio. 6. Establish long-term maintenance service contracts to ensure customer satisfaction and ongoing collaboration. 【Key Actions】Assign dedicated business managers to ModelBest, establish initial contact via ODM, and arrange the first technical exchange within 30 days.",
       "keyPerson": {
@@ -2987,7 +3054,8 @@
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=面壁智能%20(ModelBest)%20procurement%20VP",
         "commStrategy": "Recommend through regional SI/DIST channels, providing competitive TCO analysis and trial plans"
-      }
+      },
+      "difficultyReason": "D1(Supplier Lock-in)=3, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=1, D6(Geopolitical Risk)=7. 綜合供應商鎖定(3), 決策複雜度(5), 技術門檻(4), 通路(5), 競爭(1), 風險(7)的加權評估。"
     },
     {
       "company": "吉利汽車 (Geely Auto)",
@@ -3030,7 +3098,8 @@
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=吉利汽車%20(Geely%20Auto)%20procurement%20VP",
         "commStrategy": "Engage through Tier 1 suppliers in the automotive industry or directly contact the IT department, as the automotive sector is heavily investing in AI infrastructure"
-      }
+      },
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=7. 綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(5), 風險(7)的加權評估。"
     },
     {
       "company": "奇安信 (QiAnXin)",
@@ -3073,7 +3142,8 @@
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=奇安信%20(QiAnXin)%20procurement%20VP",
         "commStrategy": "Recommend through regional SI/DIST channels, providing competitive TCO analysis and trial plans"
-      }
+      },
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=6. 綜合供應商鎖定(6), 決策複雜度(6), 技術門檻(2), 通路(3), 競爭(7), 風險(6)的加權計算結果。"
     },
     {
       "company": "九坤投資 (Ubiquant)",
@@ -3085,7 +3155,7 @@
       "odmOem": "OEM/ODM",
       "asusModel": "RS720A-E12, ESC4000A-E12, ESC8000-E12",
       "channel": "ODM Direct",
-      "difficulty": 4,
+      "difficulty": 6,
       "challenges": "【Enterprise IT Tactics】【Low Technical Barrier】Ubiquant uses relatively standardized server specifications, resulting in a lower technical barrier to entry, but product quality and delivery times must still be ensured. 【Supply Chain Barriers】The current main suppliers are Dell and Supermicro, who have established stable cooperative relationships and service systems. ASUS needs to demonstrate clear differentiated value to win replacement or new opportunities. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to enter the market with differentiated technical solutions and competitive prices.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (1-3 months)】1. Directly contact Ubiquant through channel partners or the ASUS sales team to provide product catalogs and quotations. 2. Leverage the ASUS brand awareness and cost-effectiveness advantages to quickly establish a cooperative relationship. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of Ubiquant's IT infrastructure planning and technology roadmap to provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continued cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the Ubiquant customer, establish initial contact through Ubiquant (Direct), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -3117,7 +3187,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=九坤投資%20(Ubiquant)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs."
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=7, D6(Geopolitical Risk)=8. 綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(4), 通路(5), 競爭(7), 風險(8)的加權計算結果。"
     },
     {
       "company": "星環科技 (Transwarp)",
@@ -3129,7 +3200,7 @@
       "odmOem": "OEM/ODM",
       "asusModel": "RS720-E11, RS720A-E12, ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 6,
       "challenges": "【Enterprise IT Tactics】【Low Technical Barrier】Transwarp uses relatively standardized server specifications, resulting in a lower technical barrier to entry, but product quality and delivery times must still be ensured. 【Supply Chain Barriers】The current main suppliers are Dell and some ODMs, who have established stable cooperative relationships and service systems. ASUS needs to demonstrate clear differentiated value to win replacement or new opportunities. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to enter the market with differentiated technical solutions and competitive prices.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (1-3 months)】1. Directly contact Transwarp through channel partners or the ASUS sales team to provide product catalogs and quotations. 2. Leverage the ASUS brand awareness and cost-effectiveness advantages to quickly establish a cooperative relationship. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of Transwarp's IT infrastructure planning and technology roadmap to provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continued cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the Transwarp customer, establish initial contact through Digital China, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -3161,7 +3232,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=星環科技%20(Transwarp)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs."
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=8. 綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
     },
     {
       "rank": 73,
@@ -3174,7 +3246,7 @@
       "odmOem": "ODM",
       "asusModel": "General 2U: RS720-E11, GPU: ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 6,
       "challenges": "【Telecom Industry Tactics】【Low Technical Barrier】Cheetah Mobile uses relatively standardized server specifications, resulting in a lower technical barrier to entry, but product quality and delivery times must still be ensured. 【Supply Chain Barriers】The current main suppliers are Inspur and Dell, who have established stable cooperative relationships and service systems. ASUS needs to demonstrate clear differentiated value to win replacement or new opportunities. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to enter the market with differentiated technical solutions and competitive prices. 【Industry Characteristics】The telecom industry has strict requirements for the stability and long-term maintenance support of network equipment and servers, with long procurement cycles but stable order volumes.",
       "entryPoint": "【Telecom Industry Tactics】【Short-term (1-3 months)】1. Directly contact Cheetah Mobile through channel partners or the ASUS sales team to provide product catalogs and quotations. 2. Leverage the ASUS brand awareness and cost-effectiveness advantages to quickly establish a cooperative relationship. 【Mid-term (6-12 months)】3. Provide ASUS 1U/2U high-density server solutions for 5G core network and edge computing needs. 4. Participate in Cheetah Mobile's network equipment renewal tenders and provide competitive TCO analysis. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continued cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the Cheetah Mobile customer, establish initial contact through SI/DIST, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -3205,7 +3277,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=獵豹移動%20(Cheetah%20Mobile)%20procurement%20VP",
         "commStrategy": "Through telecom industry SIs (such as Nokia, Ericsson ecosystem partners) or directly participate in the RFP process."
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=8. 綜合供應商鎖定(7), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
     },
     {
       "rank": 74,
@@ -3218,7 +3291,7 @@
       "odmOem": "ODM",
       "asusModel": "General 2U: RS720-E11, GPU: ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 6,
       "challenges": "【Telecom Industry Tactics】【Carrier-grade Requirements】Strict specifications such as NEBS Level 3 certification, 99.999% availability, and -40°C~65°C operating temperature. 【Existing Ecosystem】Inspur and Dell are deeply integrated into the telecom NFV/SDN platform. 【Long-term Contracts】Telecom equipment procurement is usually a 3-5 year framework contract, with limited replacement windows. 【Economies of Scale】The telecom industry is extremely price-sensitive and requires substantial discounts.",
       "entryPoint": "【Telecom Industry Tactics】【Short-term (1-3 months)】1. Directly contact AISpeech through channel partners or the ASUS sales team to provide product catalogs and quotations. 2. Leverage the ASUS brand awareness and cost-effectiveness advantages to quickly establish a cooperative relationship. 【Mid-term (6-12 months)】3. Provide ASUS 1U/2U high-density server solutions for 5G core network and edge computing needs. 4. Participate in AISpeech's network equipment renewal tenders and provide competitive TCO analysis. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continued cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the AISpeech customer, establish initial contact through SI/DIST, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -3249,7 +3322,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=思必馳%20(AISpeech)%20procurement%20VP",
         "commStrategy": "Through telecom industry SIs (such as Nokia, Ericsson ecosystem partners) or directly participate in the RFP process."
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=8. 綜合供應商鎖定(7), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
     },
     {
       "rank": 75,
@@ -3262,7 +3336,7 @@
       "odmOem": "ODM",
       "asusModel": "General 2U: RS720-E11, General 1U: RS700-E11",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【Enterprise IT Tactics】【Brand Awareness】ASUS has lower brand awareness in the server market than Dell, HPE, and Lenovo, requiring more market education. 【Existing Relationships】Inspur and Dell have established stable cooperative relationships and service systems. 【Procurement Inertia】Enterprise IT procurement tends to choose existing suppliers to reduce risks. 【Technical Support】Need to demonstrate perfect after-sales service and technical support capabilities.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (1-3 months)】1. Directly contact TT Voice / Quwanke through channel partners or the ASUS sales team to provide product catalogs and quotations. 2. Leverage the ASUS brand awareness and cost-effectiveness advantages to quickly establish a cooperative relationship. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of TT Voice / Quwanke's IT infrastructure planning and technology roadmap to provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continued cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the TT Voice / Quwanke customer, establish initial contact through SI/DIST, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -3293,7 +3367,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=趣丸科技%20(TT%20Voice%20/%20Quwanke)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs."
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=8. 綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(2), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
     },
     {
       "rank": 76,
@@ -3306,7 +3381,7 @@
       "odmOem": "ODM",
       "asusModel": "Universal 2U: RS720-E11, Edge: E800-E12",
       "channel": "SI/DIST Channel",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "[Automotive/Autonomous Driving Tactics] [Low Technical Threshold] NIO Power adopts relatively standardized server specifications, and the technical entry threshold is relatively low, but it is still necessary to ensure product quality and delivery time. [Supply Chain Barriers] The current main suppliers are Inspur and Dell, which have established stable cooperative relations and service systems. ASUS needs to demonstrate clear differentiated value to win replacement or new opportunities. [Market Characteristics] The competition in the mainland China market is fierce, and local brands (Inspur, H3C, Sugon, etc.) occupy a dominant position. ASUS needs to enter with differentiated technical solutions and competitive prices.",
       "entryPoint": "[Automotive/Autonomous Driving Tactics] [Short-term (1-3 months)] 1. Directly contact NIO Power through channel partners or the ASUS business team to provide product catalogs and quotations. 2. Use ASUS's brand awareness and cost-effectiveness advantages to quickly establish a cooperative relationship. [Mid-term (6-12 months)] 3. Gain an in-depth understanding of NIO Power's IT infrastructure planning and technical roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in AI, HPC and other fields. [Long-term (1-2 years)] 5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. [Key Actions] Assign a dedicated business manager to be responsible for NIO Power customers, establish initial contact through SI/DIST, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -3337,7 +3412,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=蔚來能源%20(NIO%20Power)%20procurement%20VP",
         "commStrategy": "Through the Tier 1 supplier ecosystem of the automotive industry or direct contact with the IT department, the automotive industry is investing heavily in AI infrastructure"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=8. 綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(2), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
     },
     {
       "rank": 77,
@@ -3350,7 +3426,7 @@
       "odmOem": "ODM",
       "asusModel": "Universal 2U: RS720-E11, Universal 1U: RS700-E11",
       "channel": "SI/DIST Channel",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "[Medical/Pharmaceutical Industry Tactics] [Low Technical Threshold] Tigermed adopts relatively standardized server specifications, and the technical entry threshold is relatively low, but it is still necessary to ensure product quality and delivery time. [Supply Chain Barriers] The current main suppliers are Inspur and Dell, which have established stable cooperative relations and service systems. ASUS needs to demonstrate clear differentiated value to win replacement or new opportunities. [Market Characteristics] The competition in the mainland China market is fierce, and local brands (Inspur, H3C, Sugon, etc.) occupy a dominant position. ASUS needs to enter with differentiated technical solutions and competitive prices. [Industry Characteristics] The medical industry has strict requirements for data privacy (HIPAA) and system reliability, and it is necessary to provide solutions that comply with medical regulations.",
       "entryPoint": "[Medical/Pharmaceutical Industry Tactics] [Short-term (1-3 months)] 1. Directly contact Tigermed through channel partners or the ASUS business team to provide product catalogs and quotations. 2. Use ASUS's brand awareness and cost-effectiveness advantages to quickly establish a cooperative relationship. [Mid-term (6-12 months)] 3. Provide server solutions that comply with medical industry regulations, emphasizing data security and system reliability. 4. Recommend ASUS GPU servers for medical AI (image recognition, drug research and development) needs. [Long-term (1-2 years)] 5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. [Key Actions] Assign a dedicated business manager to be responsible for Tigermed customers, establish initial contact through SI/DIST, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -3381,7 +3457,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=泰格醫藥%20(Tigermed)%20procurement%20VP",
         "commStrategy": "Enter through medical industry SIs (such as Epic Systems partners, Cerner ecosystem), medical industry procurement attaches importance to long-term service contracts"
       },
-      "archetype": "healthcare"
+      "archetype": "healthcare",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=8. 綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(2), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
     },
     {
       "company": "長城汽車 (Great Wall Motor)",
@@ -3393,7 +3470,7 @@
       "odmOem": "OEM",
       "asusModel": "RS720-E11, ESC4000A-E12",
       "channel": "SI/DIST Channel",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "[Automotive/Autonomous Driving Tactics] [Industry Transformation] The automotive industry is shifting from traditional IT to large-scale AI infrastructure investment, and the procurement process is still being adjusted. [Existing Relationships] Dell and HPE have established cooperative relationships. [Special Needs] Autonomous driving training requires a large amount of GPU computing, and has extremely high requirements for heat dissipation and power efficiency. [Factory Environment] Edge deployment needs to consider the temperature, vibration, dust and other factors of the factory environment.",
       "entryPoint": "[Automotive/Autonomous Driving Tactics] [Short-term (3-6 months)] 1. Recommend the ASUS server product line to Great Wall Motor through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide competitive quotation solutions for its upcoming equipment update cycle. [Mid-term (6-12 months)] 3. Gain an in-depth understanding of Great Wall Motor's IT infrastructure planning and technical roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in AI, HPC and other fields. [Long-term (1-2 years)] 5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. [Key Actions] Assign a dedicated business manager to be responsible for Great Wall Motor customers, establish initial contact through UNIS, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -3425,7 +3502,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=長城汽車%20(Great%20Wall%20Motor)%20procurement%20VP",
         "commStrategy": "Through the Tier 1 supplier ecosystem of the automotive industry or direct contact with the IT department, the automotive industry is investing heavily in AI infrastructure"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=8. 綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
     },
     {
       "company": "三一重工 (SANY Heavy Industry)",
@@ -3437,7 +3515,7 @@
       "odmOem": "OEM",
       "asusModel": "RS720-E11, RS520-E11, ESC4000A-E12",
       "channel": "SI/DIST Channel",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "[Enterprise IT Tactics] [Brand Awareness] ASUS's brand awareness in the server market is lower than that of Dell, HPE, and Lenovo, and more market education is needed. [Existing Relationships] Dell and HPE have established stable cooperative relationships and service systems. [Procurement Inertia] Enterprise IT procurement tends to choose existing suppliers to reduce risks. [Technical Support] It is necessary to demonstrate perfect after-sales service and technical support capabilities.",
       "entryPoint": "[Enterprise IT Tactics] [Short-term (3-6 months)] 1. Recommend the ASUS server product line to SANY Heavy Industry through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide competitive quotation solutions for its upcoming equipment update cycle. [Mid-term (6-12 months)] 3. Gain an in-depth understanding of SANY Heavy Industry's IT infrastructure planning and technical roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in AI, HPC and other fields. [Long-term (1-2 years)] 5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. [Key Actions] Assign a dedicated business manager to be responsible for SANY Heavy Industry customers, establish initial contact through Digital China, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -3475,7 +3553,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=三一重工%20(SANY%20Heavy%20Industry)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels, and provide competitive TCO analysis and trial solutions"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=8. 綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
     },
     {
       "company": "眾安在線 (ZhongAn Online)",
@@ -3487,7 +3566,7 @@
       "odmOem": "OEM",
       "asusModel": "RS720-E11, ESC4000A-E12",
       "channel": "DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】阿里雲為主, 部分自建已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "[Enterprise IT Tactics] [Short-term (1-3 months)] 1. Directly contact ZhongAn Online through channel partners or the ASUS business team to provide product catalogs and quotations. 2. Use ASUS's brand awareness and cost-effectiveness advantages to quickly establish a cooperative relationship. [Mid-term (6-12 months)] 3. Gain an in-depth understanding of ZhongAn Online's IT infrastructure planning and technical roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in AI, HPC and other fields. [Long-term (1-2 years)] 5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. [Key Actions] Assign a dedicated business manager to be responsible for ZhongAn Online customers, establish initial contact through Digital China, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -3519,7 +3598,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=眾安在線%20(ZhongAn%20Online)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels, and provide competitive TCO analysis and trial solutions"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=2, D6(Geopolitical Risk)=8. 主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。"
     },
     {
       "company": "富途控股 (Futu Holdings)",
@@ -3563,7 +3643,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=富途控股%20(Futu%20Holdings)%20procurement%20VP",
         "commStrategy": "Introduction through financial industry-specific SIs (such as Kyndryl, DXC Technology). The financial industry's procurement process is rigorous and requires passing a vendor qualification program."
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=7, D3(Technical Barrier)=2, D4(Channel Access)=4, D5(Competition)=2, D6(Geopolitical Risk)=8. 主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。"
     },
     {
       "company": "嘉實基金 (Harvest Fund)",
@@ -3607,7 +3688,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=嘉實基金%20(Harvest%20Fund)%20procurement%20VP",
         "commStrategy": "Introduction through regional SI/DIST channels, providing competitive TCO analysis and trial programs."
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=8. 主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。"
     },
     {
       "company": "明略科技 (MiningLamp)",
@@ -3651,7 +3733,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=明略科技%20(MiningLamp)%20procurement%20VP",
         "commStrategy": "Introduction through financial industry-specific SIs (such as Kyndryl, DXC Technology). The financial industry's procurement process is rigorous and requires passing a vendor qualification program."
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=2, D6(Geopolitical Risk)=8. 主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。"
     },
     {
       "company": "數夢工場 (DTDream)",
@@ -3663,7 +3746,7 @@
       "odmOem": "OEM",
       "asusModel": "RS720-E11, RS520-E11",
       "channel": "DIST",
-      "difficulty": 6,
+      "difficulty": 5,
       "challenges": "【Enterprise IT Tactics】【Technical Requirements】DTDream has clear requirements for server quality and technical support, requiring complete technical documentation and after-sales service commitments. 【Supply Chain Barriers】The main current suppliers are the Alibaba Cloud ecosystem and Dell, with stable cooperative relationships and service systems already established. ASUS needs to demonstrate clear differentiated value to win replacement or new opportunities. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to enter with differentiated technical solutions and competitive prices.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (3-6 months)】1. Recommend the ASUS server product line to DTDream through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide a competitive quotation plan for its upcoming equipment renewal cycle. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of DTDream's IT infrastructure planning and technology roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continued cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the DTDream account, establish initial contact through Digital China, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -3695,7 +3778,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=數夢工場%20(DTDream)%20procurement%20VP",
         "commStrategy": "Introduction through regional SI/DIST channels, providing competitive TCO analysis and trial programs."
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=2, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=7. 主要因供應商鎖定程度高 (7)，導致整體難易度偏高。"
     },
     {
       "company": "雲天勵飛 (Intellifusion)",
@@ -3707,7 +3791,7 @@
       "odmOem": "ODM",
       "asusModel": "ESC4000A-E12, RS520-E11",
       "channel": "ODM Direct",
-      "difficulty": 5,
+      "difficulty": 7,
       "challenges": "【Enterprise IT Tactics】【Brand Awareness】ASUS has lower brand awareness in the server market than Dell, HPE, and Lenovo, requiring more market education. 【Existing Relationships】ODM Direct has established stable cooperative relationships and service systems. 【Procurement Inertia】Enterprise IT procurement tends to choose existing suppliers to reduce risks. 【Technical Support】Need to demonstrate comprehensive after-sales service and technical support capabilities.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (3-6 months)】1. Recommend the ASUS server product line to Intellifusion through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide a competitive quotation plan for its upcoming equipment renewal cycle. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of Intellifusion's IT infrastructure planning and technology roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continued cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the Intellifusion account, establish initial contact through Intellifusion (Direct), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -3739,7 +3823,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=雲天勵飛%20(Intellifusion)%20procurement%20VP",
         "commStrategy": "Introduction through regional SI/DIST channels, providing competitive TCO analysis and trial programs."
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=8, D4(Channel Access)=8, D5(Competition)=2, D6(Geopolitical Risk)=8. 主要因技術門檻與客製化需求高 (8)，導致整體難易度偏高。"
     },
     {
       "rank": 86,
@@ -3789,7 +3874,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=星環科技%20(Transwarp%20Technology)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial solutions."
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=8. 主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。"
     },
     {
       "company": "涂鴉智能海外 (Tuya Global)",
@@ -3801,7 +3887,7 @@
       "odmOem": "OEM",
       "asusModel": "RS520-E11, E-series edge",
       "channel": "DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【Enterprise IT Tactics】【Brand Awareness】ASUS has lower brand awareness in the server market than Dell, HPE, and Lenovo, and requires more market education. 【Existing Relationships】Mainly AWS/Azure, with some self-built infrastructure, have established stable cooperative relationships and service systems. 【Procurement Inertia】Enterprises tend to choose existing suppliers for IT procurement to reduce risks. 【Technical Support】Need to demonstrate comprehensive after-sales service and technical support capabilities.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (1-3 months)】1. Directly contact Tuya Global through channel partners or the ASUS sales team to provide product catalogs and quotations. 2. Quickly establish a cooperative relationship by leveraging ASUS's brand awareness and cost-effectiveness advantages. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of Tuya Global's IT infrastructure planning and technical roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish long-term maintenance service contracts to ensure customer satisfaction and continuous cooperation. 【Key Actions】Assign a dedicated account manager to be responsible for the Tuya Global customer, establish initial contact through Digital China, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -3833,7 +3919,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=涂鴉智能海外%20(Tuya%20Global)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial solutions."
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=2, D4(Channel Access)=4, D5(Competition)=4, D6(Geopolitical Risk)=6. 主要因供應商鎖定程度高 (7)，導致整體難易度偏高。"
     },
     {
       "company": "雲知聲 (Unisound)",
@@ -3845,14 +3932,14 @@
       "odmOem": "ODM",
       "asusModel": "ESC4000A-E12, RS520-E11",
       "channel": "ODM Direct",
-      "difficulty": 4,
+      "difficulty": 6,
       "challenges": "【Enterprise IT Tactics】【Brand Awareness】ASUS has lower brand awareness in the server market than Dell, HPE, and Lenovo, and requires more market education. 【Existing Relationships】ODM Direct has established stable cooperative relationships and service systems. 【Procurement Inertia】Enterprises tend to choose existing suppliers for IT procurement to reduce risks. 【Technical Support】Need to demonstrate comprehensive after-sales service and technical support capabilities.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (1-3 months)】1. Directly contact Unisound through channel partners or the ASUS sales team to provide product catalogs and quotations. 2. Quickly establish a cooperative relationship by leveraging ASUS's brand awareness and cost-effectiveness advantages. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of Unisound's IT infrastructure planning and technical roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish long-term maintenance service contracts to ensure customer satisfaction and continuous cooperation. 【Key Actions】Assign a dedicated account manager to be responsible for the Unisound customer, establish initial contact through Unisound (Direct), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
         "name": "黃偉 (Huang Wei)",
         "title": "Founder & CEO",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=黃偉%20(Huang%20Wei)%20雲知聲%20(Unisound)",
-        "source": ""
+        "source": "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E6%98%9F-%E4%B8%AD%E5%9B%BDai%E6%8A%80%E6%9C%AF%E4%BA%A7%E4%B8%9A%E5%8C%96%E5%85%88%E8%A1%8C%E8%80%85%E4%BA%91%E7%9F%A5%E5%A3%B0%E6%88%90%E5%8A%9F%E7%99%BB%E9%99%86%E6%B8%AF%E4%BA%A4%E6%89%80"
       },
       "siDist": [
         {
@@ -3877,7 +3964,8 @@
         "linkedin": "",
         "commStrategy": "強調AI語音晶片的高效能運算需求，提供客製化伺服器方案與彈性付款條件。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=8, D5(Competition)=2, D6(Geopolitical Risk)=8. 主要因通路需重新建立 (8)，導致整體難易度偏高。"
     },
     {
       "company": "思謀科技 (SmartMore)",
@@ -3889,7 +3977,7 @@
       "odmOem": "ODM",
       "asusModel": "ESC4000A-E12",
       "channel": "ODM Direct",
-      "difficulty": 4,
+      "difficulty": 6,
       "challenges": "【Retail/E-commerce Tactics】【Cost-oriented】The retail industry has low profit margins and is extremely sensitive to server TCO. 【Existing Relationships】ODM Direct has established stable supply relationships. 【Seasonal Demand】The retail industry has obvious seasonal procurement peaks (Black Friday, Singles' Day), requiring suppliers to be able to quickly expand capacity. 【Decentralized Deployment】Store edge AI requires a large number of small servers to be deployed in a decentralized manner.",
       "entryPoint": "【Retail/E-commerce Tactics】【Short-term (1-3 months)】1. Directly contact SmartMore through channel partners or the ASUS sales team to provide product catalogs and quotations. 2. Quickly establish a cooperative relationship by leveraging ASUS's brand awareness and cost-effectiveness advantages. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of SmartMore's IT infrastructure planning and technical roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish long-term maintenance service contracts to ensure customer satisfaction and continuous cooperation. 【Key Actions】Assign a dedicated account manager to be responsible for the SmartMore customer, establish initial contact through SmartMore (Direct), and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -3921,7 +4009,8 @@
         "linkedin": "",
         "commStrategy": "聚焦工業視覺AI推論需求，提供高GPU密度伺服器方案與POC測試機會。"
       },
-      "archetype": "retail"
+      "archetype": "retail",
+      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=8, D5(Competition)=2, D6(Geopolitical Risk)=8. 主要因通路需重新建立 (8)，導致整體難易度偏高。"
     },
     {
       "company": "衛星化學 (Satellite Chemical)",
@@ -3940,7 +4029,7 @@
         "name": "楊衛東 (Yang Weidong)",
         "title": "VP IT",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=楊衛東%20(Yang%20Weidong)%20衛星化學%20(Satellite%20Chemical)",
-        "source": ""
+        "source": "https://baike.baidu.com/item/%E6%9D%A8%E5%8D%AB%E4%B8%9C/22267923"
       },
       "siDist": [
         {
@@ -3965,7 +4054,8 @@
         "linkedin": "",
         "commStrategy": "強調化工產業數位轉型的IT基礎設施需求，提供高性價比伺服器方案。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=7. 採購需跨部門評估、面臨主要 OEM 競爭、地緣政治風險高，導致整體難易度較高。"
     },
     {
       "company": "Wondershare",
@@ -3977,14 +4067,14 @@
       "odmOem": "OEM",
       "asusModel": "ESC4000A-E12, RS520-E11",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【Enterprise IT Tactics】【Brand Awareness】ASUS's brand recognition in the server market is lower than Dell, HPE, Lenovo, requiring more market education.【Existing Relationships】Cloud-based mainly, some self-built, have established stable cooperation and service systems.【Procurement Inertia】Enterprise IT procurement tends to choose existing suppliers to reduce risks.【Technical Support】Need to demonstrate comprehensive after-sales service and technical support capabilities.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (1-3 months)】1. Contact Wondershare directly through channel partners or ASUS sales team, provide product catalogs and quotations. 2. Leverage ASUS brand reputation and cost-performance advantages to quickly establish cooperation. 【Mid-term (6-12 months)】3. Understand Wondershare's IT infrastructure planning and technical roadmap, offer targeted server upgrade solutions. 4. Establish regular technical exchange mechanisms, showcase ASUS's latest products and solutions in AI, HPC, etc. 【Long-term (1-2 years)】5. Expand cooperation scope from a single product line to a complete server product portfolio. 6. Establish long-term maintenance service contracts to ensure customer satisfaction and ongoing cooperation. 【Key Action】Assign dedicated sales managers to handle Wondershare, establish initial contact through Unis Digital, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
         "name": "Wu Taibing",
         "title": "Founder & CEO",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=吳太兵%20(Wu%20Taibing)%20萬興科技%20(Wondershare)",
-        "source": ""
+        "source": "https://craft.co/wondershare-technology-group/executives"
       },
       "siDist": [
         {
@@ -4009,7 +4099,8 @@
         "linkedin": "",
         "commStrategy": "聚焦AI影片編輯與創意工具的GPU運算需求，提供具競爭力的TCO方案。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=7. 採購需跨部門評估、面臨主要 OEM 競爭、地緣政治風險高，導致整體難易度較高。"
     },
     {
       "company": "Sunmi Technology",
@@ -4028,7 +4119,7 @@
         "name": "Lin Zhe",
         "title": "Founder & CEO",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=林喆%20(Lin%20Zhe)%20商米科技%20(Sunmi%20Technology)",
-        "source": ""
+        "source": "https://www.linkedin.com/in/de-wang"
       },
       "siDist": [
         {
@@ -4053,7 +4144,8 @@
         "linkedin": "",
         "commStrategy": "強調智慧零售終端的邊緣運算需求，提供小型化高效能伺服器方案。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=6. 採購需跨部門評估、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。"
     },
     {
       "company": "Tiger Brokers / UP Fintech",
@@ -4065,7 +4157,7 @@
       "odmOem": "OEM",
       "asusModel": "RS720-E11, RS520-E11",
       "channel": "DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【Financial Industry Tactics】【Lower Technical Barriers】Tiger Brokers / UP Fintech adopts standardized server specifications, with relatively low technical entry barriers, but still needs to ensure product quality and delivery time. 【Market Characteristics】The Chinese mainland market is highly competitive, dominated by local brands (Inspur, New H3C, Sugon, etc.). ASUS needs to differentiate through technical solutions and competitive pricing. 【Industry Characteristics】Financial industry demands high system stability, security compliance (such as PCI DSS), and disaster recovery; server vendors must provide complete security certifications and SLA guarantees.",
       "entryPoint": "【Financial Industry Tactics】【Short-term (1-3 months)】1. Contact Tiger Brokers / UP Fintech directly through channel partners or ASUS sales team, provide product catalogs and quotations. 2. Leverage ASUS brand reputation and cost-performance advantages to quickly establish cooperation. 【Mid-term (6-12 months)】3. Offer server solutions compliant with financial industry regulations, including security certifications, encryption features, and disaster recovery plans. 4. Recommend ASUS ESC series GPU servers for AI/ML applications of Tiger Brokers / UP Fintech. 【Long-term (1-2 years)】5. Expand cooperation scope from a single product line to a complete server product portfolio. 6. Establish long-term maintenance service contracts to ensure customer satisfaction and ongoing cooperation. 【Key Action】Assign dedicated sales managers to handle Tiger Brokers / UP Fintech, establish initial contact through Unis, and arrange the first technical exchange within 30 days.",
       "keyPerson": {
@@ -4097,7 +4189,8 @@
         "linkedin": "",
         "commStrategy": "聚焦金融交易系統的低延遲需求，提供高頻交易級伺服器方案與穩定供貨承諾。"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=7, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=6. 採購決策極其複雜、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。"
     },
     {
       "company": "Datagrand",
@@ -4109,14 +4202,14 @@
       "odmOem": "ODM",
       "asusModel": "ESC4000A-E12, RS520-E11",
       "channel": "ODM Direct",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【Enterprise IT Tactics】【Brand Awareness】ASUS's brand recognition in the server market is lower than Dell, HPE, Lenovo, requiring more market education.【Existing Relationships】ODM direct procurement has established stable cooperation and service systems.【Procurement Inertia】Enterprise IT procurement tends to choose existing suppliers to reduce risks.【Technical Support】Need to demonstrate comprehensive after-sales service and technical support capabilities.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (1-3 months)】1. Contact ODM partners or ASUS sales team directly to approach Datagrand, provide product catalogs and quotations. 2. Leverage ASUS brand reputation and cost-performance advantages to quickly establish cooperation. 【Mid-term (6-12 months)】3. Understand Datagrand's IT infrastructure planning and technical roadmap, offer targeted server upgrade solutions. 4. Establish regular technical exchange mechanisms, showcase ASUS's latest products and solutions in AI, HPC, etc. 【Long-term (1-2 years)】5. Expand cooperation scope from a single product line to a complete server product portfolio. 6. Establish long-term maintenance service contracts to ensure customer satisfaction and ongoing cooperation. 【Key Action】Assign dedicated sales managers to handle Datagrand, establish initial contact through Datagrand (Direct supply), and arrange the first technical exchange within 30 days.",
       "keyPerson": {
         "name": "Chen Yunwen",
         "title": "Founder & CEO",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=陳運文%20(Chen%20Yunwen)%20達觀數據%20(Datagrand)",
-        "source": ""
+        "source": "https://baike.baidu.com/item/%E8%BE%BE%E8%A7%82%E6%95%B0%E6%8D%AE/20809548"
       },
       "siDist": [
         {
@@ -4141,7 +4234,8 @@
         "linkedin": "",
         "commStrategy": "強調NLP大模型訓練的GPU運算需求，提供AI訓練專用伺服器方案。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=7. 採購需跨部門評估、需建立新通路、地緣政治風險高，導致整體難易度較高。"
     },
     {
       "company": "Linklogis",
@@ -4160,7 +4254,7 @@
         "name": "Song Qun",
         "title": "Founder & CEO",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=宋群%20(Song%20Qun)%20聯易融%20(Linklogis)",
-        "source": ""
+        "source": "https://www.linklogis.com/cn/about/"
       },
       "siDist": [
         {
@@ -4185,7 +4279,8 @@
         "linkedin": "",
         "commStrategy": "聚焦供應鏈金融科技的數據處理需求，提供高可靠性伺服器方案。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=6. 採購需跨部門評估、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。"
     },
     {
       "company": "華勤技術 (Huaqin Technology)",
@@ -4204,7 +4299,7 @@
         "name": "邱文生 (Qiu Wensheng)",
         "title": "Founder & CEO",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=邱文生%20(Qiu%20Wensheng)%20華勤技術%20(Huaqin%20Technology)",
-        "source": ""
+        "source": "https://cn.linkedin.com/in/stephen-lizhi-cheng-52027620"
       },
       "siDist": [
         {
@@ -4229,7 +4324,8 @@
         "linkedin": "",
         "commStrategy": "強調ODM代工經驗的協同效應，提供伺服器零組件與整機的靈活採購方案。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=5, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=6. 採購需跨部門評估、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。"
     },
     {
       "company": "陽光電源 (Sungrow Power)",
@@ -4248,7 +4344,7 @@
         "name": "曹仁賢 (Cao Renxian)",
         "title": "Founder & Chairman",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=曹仁賢%20(Cao%20Renxian)%20陽光電源%20(Sungrow%20Power)",
-        "source": ""
+        "source": "https://www.globaldata.com/company-profile/sungrow-power-supply-co-ltd/executives/"
       },
       "siDist": [
         {
@@ -4273,7 +4369,8 @@
         "linkedin": "",
         "commStrategy": "聚焦新能源數據中心的高效能運算需求，提供綠色節能伺服器方案。"
       },
-      "archetype": "energy"
+      "archetype": "energy",
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=7. 採購需跨部門評估、面臨主要 OEM 競爭、地緣政治風險高，導致整體難易度較高。"
     },
     {
       "company": "安克創新 (Anker Innovations)",
@@ -4285,7 +4382,7 @@
       "odmOem": "OEM",
       "asusModel": "RS520-E11, ESC4000A-E12",
       "channel": "DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【Enterprise IT Tactics】【Brand Awareness】ASUS has lower brand awareness in the server market than Dell, HPE, and Lenovo, and requires more market education. 【Existing Relationships】Mainly AWS, partially self-built has established a stable cooperative relationship and service system. 【Procurement Inertia】Enterprise IT procurement tends to choose existing suppliers to reduce risks. 【Technical Support】Need to demonstrate perfect after-sales service and technical support capabilities.",
       "entryPoint": "【Enterprise IT Tactics】【Short-term (1-3 months)】1. Directly contact Anker Innovations through channel partners or the ASUS business team to provide product catalogs and quotations. 2. Use ASUS brand awareness and cost-effectiveness advantages to quickly establish a cooperative relationship. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of Anker Innovations' IT infrastructure planning and technology roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continuous cooperation. 【Key Actions】Appoint a dedicated account manager to be responsible for the Anker Innovations customer, establish initial contact through Digital China, and arrange the first technical exchange meeting within 30 days.",
       "keyPerson": {
@@ -4317,7 +4414,8 @@
         "linkedin": "",
         "commStrategy": "強調跨境電商的全球IT基礎設施需求，提供多區域部署的伺服器方案。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=5, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=7. 採購需跨部門評估、面臨主要 OEM 競爭、地緣政治風險高，導致整體難易度較高。"
     },
     {
       "company": "聯想之星 (Legend Star) / 聯泓新科",
@@ -4336,7 +4434,7 @@
         "name": "王明耀 (Wang Mingyao)",
         "title": "President",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=王明耀%20(Wang%20Mingyao)%20聯想之星%20(Legend%20Star)%20/%20聯泓新科",
-        "source": ""
+        "source": "https://www.legendstar.cn/home/team"
       },
       "siDist": [
         {
@@ -4361,7 +4459,8 @@
         "linkedin": "",
         "commStrategy": "聚焦投資組合公司的IT基礎設施整合需求，提供集團採購優惠方案。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=5, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=6. 採購需跨部門評估、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。"
     },
     {
       "company": "火花思維 (Spark Education)",
@@ -4380,7 +4479,7 @@
         "name": "羅劍 (Luo Jian)",
         "title": "Founder & CEO",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=羅劍%20(Luo%20Jian)%20火花思維%20(Spark%20Education)",
-        "source": ""
+        "source": "https://theorg.com/org/spark-education/org-chart/junchen-feng"
       },
       "siDist": [
         {
@@ -4405,7 +4504,8 @@
         "linkedin": "",
         "commStrategy": "強調線上教育平台的AI互動運算需求，提供高性價比GPU伺服器方案。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=5, D3(Technical Barrier)=3, D4(Channel Access)=3, D5(Competition)=5, D6(Geopolitical Risk)=7. 綜合供應商鎖定(5), 決策複雜度(5), 技術門檻(3), 通路(3), 競爭(5), 及地緣政治(7)的加權計算結果。"
     }
   ]
 }

@@ -182,23 +182,27 @@ function getDifficultyColor(score: number, t: Translations) {
   return { bg: "bg-red-500", text: "text-red-700", label: t.difficultyHard };
 }
 
-function DifficultyBar({ score }: { score: number }) {
-  const { lang } = useLanguage();
+function DifficultyBar({ score, reason }: { score: number; reason?: string }) {
   const { t } = useLanguage();
   const { bg } = getDifficultyColor(score, t);
   return (
-    <div className="flex items-center gap-2">
+    <div className="flex items-center gap-2 group relative">
       <div className="w-16 h-1.5 bg-muted overflow-hidden">
         <div className={`h-full ${bg}`} style={{ width: `${score * 10}%` }} />
       </div>
       <span className="text-xs font-semibold tabular-nums w-5 text-right">{score}</span>
+      {reason && (
+        <div className="absolute bottom-full left-0 mb-2 hidden group-hover:block z-50 w-72 p-3 bg-black text-white text-[11px] leading-relaxed shadow-lg border border-border/20">
+          {reason}
+        </div>
+      )}
     </div>
   );
 }
 
 /* ─── Expanded Row with all fields ─── */
 function ExpandedRow({ company, regionKey }: { company: Company; regionKey: string }) {
-  const { t } = useLanguage();
+  const { t, lang } = useLanguage();
   const basePath = regionKey === "na" ? "" : `/region/${regionKey}`;
   const kp = company.keyPerson;
   const techDM = company.techDecisionMaker;
@@ -231,7 +235,19 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
 
             {/* Column 2: Strategy */}
             <div className="bg-white p-5 space-y-4">
-              <div>
+              {company.difficultyReason && (
+                <div>
+                  <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-blue-600 mb-2">{lang === 'en' ? 'DIFFICULTY ANALYSIS' : '難易度分析'}</div>
+                  <div className="text-xs leading-relaxed text-muted-foreground bg-blue-50/50 p-2.5 border border-blue-100">
+                    <div className="flex items-center gap-2 mb-1.5">
+                      <span className="text-sm font-bold">{company.difficulty}/10</span>
+                      <DifficultyBar score={company.difficulty} />
+                    </div>
+                    <p className="text-[11px] leading-relaxed">{company.difficultyReason}</p>
+                  </div>
+                </div>
+              )}
+              <div className={company.difficultyReason ? 'border-t border-border/50 pt-4' : ''}>
                 <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-red-600 mb-2">{t.challengesTitle}</div>
                 <StructuredText text={company.challenges} variant="compact" titleColor="text-red-700" />
               </div>
@@ -801,7 +817,7 @@ export default function Home() {
                     </td>
                     <td className="px-3 py-3 text-xs text-muted-foreground">{truncate(company.volume, 40)}</td>
                     <td className="px-3 py-3 text-xs text-muted-foreground">{truncate(company.channel, 20)}</td>
-                    <td className="px-3 py-3"><DifficultyBar score={company.difficulty} /></td>
+                    <td className="px-3 py-3"><DifficultyBar score={company.difficulty} reason={company.difficultyReason} /></td>
                     <td className="px-3 py-3">
                       {expandedRow === company.rank ? (
                         <ChevronUp className="w-4 h-4 text-muted-foreground" />

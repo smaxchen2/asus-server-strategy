@@ -16,7 +16,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000A-E12, AI 8GPU: ESC N8-E11",
       "channel": "SI/DIST: Macnica (https://www.macnica.co.jp), Itochu Techno-Solutions (https://www.ctc-g.co.jp)",
-      "difficulty": 7,
+      "difficulty": 6,
       "challenges": "【電信業戰術】【技術要求】NTT Group (NTT Data / NTT Communications) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, Fujitsu, NEC，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【市場特性】日本市場偏好本地品牌和長期合作關係，新供應商需要投入時間建立信任，並提供日語技術支援。 【產業特性】電信業對網路設備和伺服器的穩定性、長期維護支援有嚴格要求，採購週期長但訂單量穩定。 【散熱挑戰】NTT Group (NTT Data / NTT Communications) 正在導入或評估液冷技術，需要供應商提供完整的液冷解決方案。",
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 NTT Group (NTT Data / NTT Communications) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 NTT Group (NTT Data / NTT Communications) 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 爭取成為 NTT Group (NTT Data / NTT Communications) 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 NTT Group (NTT Data / NTT Communications) 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 NTT Group (NTT Data / NTT Communications) 客戶，透過 NTT DATA (nttdata.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -53,7 +53,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=NTT%20Group%20(NTT%20Data%20/%20NTT%20Communications)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=9, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=6, D6(地緣政治)=1。進入門檻偏高，需克服供應商、技術或通路等多重挑戰。"
     },
     {
       "rank": 2,
@@ -66,7 +67,7 @@
       "odmOem": "ODM/OEM 混合",
       "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12, AI 8GPU: ESC N8-E11, 通用1U: RS500A-E12",
       "channel": "直供 + SI: Wipro (https://www.wipro.com), HCLTech (https://www.hcltech.com)",
-      "difficulty": 6,
+      "difficulty": 4,
       "challenges": "【電信業戰術】【技術要求】Reliance Jio (Jio Platforms) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, Quanta (ODM), Supermicro，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】印度市場價格敏感度高，且偏好有本地服務能力的供應商。需要建立當地的技術支援和維修服務體系。 【產業特性】電信業對網路設備和伺服器的穩定性、長期維護支援有嚴格要求，採購週期長但訂單量穩定。",
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Reliance Jio (Jio Platforms) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 Reliance Jio (Jio Platforms) 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Reliance Jio (Jio Platforms) 客戶，透過 Wipro 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -103,7 +104,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Reliance%20Jio%20(Jio%20Platforms)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=6, D6(地緣政治)=4。進入門檻中等，存在一定機會與挑戰，可策略性投入。"
     },
     {
       "rank": 3,
@@ -116,7 +118,7 @@
       "odmOem": "ODM/OEM 混合",
       "asusModel": "AI 8GPU: ESC N8-E11, AI POD GB200 NVL72, 通用2U: RS720A-E12",
       "channel": "直供 + SI: SB Technology (https://www.softbanktech.co.jp)",
-      "difficulty": 6,
+      "difficulty": 4,
       "challenges": "【電信業戰術】【技術要求】SoftBank Group / SoftBank Corp 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell Technologies, HPE, Supermicro, Fujitsu，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】日本市場偏好本地品牌和長期合作關係，新供應商需要投入時間建立信任，並提供日語技術支援。 【產業特性】電信業對網路設備和伺服器的穩定性、長期維護支援有嚴格要求，採購週期長但訂單量穩定。 【散熱挑戰】SoftBank Group / SoftBank Corp 正在導入或評估液冷技術，需要供應商提供完整的液冷解決方案。",
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 SoftBank Group / SoftBank Corp 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 SoftBank Group / SoftBank Corp 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 SoftBank Group / SoftBank Corp 客戶，透過 NTT DATA SBC 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -153,7 +155,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=SoftBank%20Group%20/%20SoftBank%20Corp%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=6, D6(地緣政治)=1。進入門檻中等，存在一定機會與挑戰，可策略性投入。"
     },
     {
       "rank": 4,
@@ -166,7 +169,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000A-E12, 通用1U: RS700-E11",
       "channel": "直供 + SI: Samsung C&T (https://www.samsungcnt.com)",
-      "difficulty": 8,
+      "difficulty": 5,
       "challenges": "【企業 IT 戰術】【技術門檻】Samsung SDS 對伺服器的穩定性、效能和安全性要求極高，需通過嚴格的產品認證和壓力測試流程。 【供應鏈壁壘】目前主要供應商為 Samsung Electronics (自供), Dell, HPE，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【市場特性】韓國企業傾向與本地或已建立關係的供應商合作，需要透過當地合作夥伴或 SI 建立市場信任。",
       "entryPoint": "【企業 IT 戰術】【短期（6-12個月）】1. 透過 T 等通路合作夥伴建立間接合作關係，先以小規模專案證明 ASUS 的技術能力和服務品質。2. 針對 Samsung SDS 的非核心或新興業務需求提供標準化伺服器方案，降低切入門檻。 【中期（6-12個月）】3. 深入了解 Samsung SDS 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 Samsung SDS 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Samsung SDS 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Samsung SDS 客戶，透過 T 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -197,7 +200,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Samsung%20SDS%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=9, D2(採購決策複雜度)=7, D3(技術門檻)=3, D4(通路可及性)=3, D5(市場競爭)=4, D6(地緣政治)=3。進入門檻中等，存在一定機會與挑戰，可策略性投入。"
     },
     {
       "rank": 5,
@@ -210,7 +214,7 @@
       "odmOem": "OEM",
       "asusModel": "AI 4U 8GPU: ESC8000-E12, ESC NB8-E11; 通用2U: RS720-E12, RS720A-E12; 通用1U: RS700-E11",
       "channel": "直供/SI (待確認)",
-      "difficulty": 8,
+      "difficulty": 3,
       "challenges": "【技術門檻】Nscale's infrastructure is built on a tightly integrated Dell and NVIDIA stack. ASUS must not only match the performance of the latest Dell hardware but also demonstrate seamless integration with Nscale's existing management and orchestration software. The switching cost from a software and operations perspective is significant.\n【供應鏈壁壘】Dell's global supply chain and ability to deliver at scale is a major advantage. With Nscale procuring tens of thousands of servers, ASUS must provide strong assurances and a proven track record of its ability to meet high-volume demands for cutting-edge components, especially supply-constrained GPUs.\n【商務挑戰】The Dell-Nscale relationship is a strategic alliance, likely involving favorable pricing, dedicated support, and joint marketing. ASUS needs to create a compelling counter-offer that goes beyond unit price, potentially including co-engineering resources, flexible financing, and a clear long-term partnership roadmap.",
       "entryPoint": "【archetype戰術】Position ASUS as the agile and high-performance partner for a rapidly growing \"neocloud\" leader. Emphasize customization, engineering collaboration, and superior performance-per-watt as key differentiators against the more standardized offerings of a larger incumbent like Dell.\n【短期（6-12個月）】Focus on a \"beachhead\" strategy. Instead of a full replacement, target a new, specific workload or a smaller-scale deployment. Propose a proof-of-concept (POC) with a differentiated solution, such as an AMD-based GPU server (ESC4000A-E12), to showcase performance and introduce supplier diversity. Engage the office of the CTO (David Power) with compelling performance benchmarks.\n【中期（1-2年）】Cultivate a supply chain relationship. As Nscale scales, they will inevitably seek to mitigate risk by qualifying a second major server supplier. Position ASUS as the primary alternative. Engage with the procurement team (Rick Gervasi) to understand their long-term needs and demonstrate ASUS's supply chain capabilities. Aim to win a portion of a future large-scale build-out.\n【長期（2-3年）】Evolve from a supplier to a strategic partner. This requires executive-level alignment to explore co-development of next-generation data center technologies (e.g., liquid cooling, custom server form factors) that align with Nscale's long-term infrastructure roadmap.\n【關鍵行動】1. Initiate technical deep-dive sessions with Nscale's engineering team, led by the CTO. 2. Formally request to be included in all future RFIs and RFQs for server infrastructure. 3. Develop a high-level executive summary outlining a multi-year strategic partnership proposal for Nscale's leadership. 4. Identify and establish contact with the new VP of Sourcing and Procurement once they are hired.",
       "keyPerson": {
@@ -248,7 +252,8 @@
       "actualSiPartners": "",
       "volumeSource": "https://www.theinformation.com/newsletters/the-information-finance/nscale-crashes-big-leagues-data-center-developers",
       "industry": "NeoCloud/AI",
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(供應商鎖定)=2, D2(採購決策複雜度)=3, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=2, D6(地緣政治)=1。進入門檻低，具備多項有利條件，應積極爭取。"
     },
     {
       "rank": 6,
@@ -261,7 +266,7 @@
       "odmOem": "OEM",
       "asusModel": "AI 8GPU: ESC N8-E11, 通用2U: RS720A-E12, AI 4U: ESC4000-E11",
       "channel": "SI/DIST: SK Shieldus (https://www.skshieldus.com), Megazone Cloud (https://www.megazone.com)",
-      "difficulty": 6,
+      "difficulty": 4,
       "challenges": "【電信業戰術】【技術要求】SK C&C / SK Telecom 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, Lenovo, Supermicro，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】韓國企業傾向與本地或已建立關係的供應商合作，需要透過當地合作夥伴或 SI 建立市場信任。",
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 SK C&C / SK Telecom 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 SK C&C / SK Telecom 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 SK C&C / SK Telecom 客戶，透過 NTT DATA (nttdata.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -298,7 +303,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=SK%20C&C%20/%20SK%20Telecom%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=6, D6(地緣政治)=3。進入門檻中等，存在一定機會與挑戰，可策略性投入。"
     },
     {
       "rank": 7,
@@ -311,7 +317,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11, AI 4U: ESC4000A-E12",
       "channel": "直供 + SI/DIST: Redington (https://www.redingtongroup.com)",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【技術要求】Tata Consultancy Services (TCS) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, Lenovo, Cisco，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】印度市場價格敏感度高，且偏好有本地服務能力的供應商。需要建立當地的技術支援和維修服務體系。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Tata Consultancy Services (TCS) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Tata Consultancy Services (TCS) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Tata Consultancy Services (TCS) 客戶，透過 Dell (www.dell.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -390,7 +396,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tata%20Consultancy%20Services%20(TCS)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=3, D4(通路可及性)=3, D5(市場競爭)=6, D6(地緣政治)=4。進入門檻中等，存在一定機會與挑戰，可策略性投入。"
     },
     {
       "rank": 8,
@@ -403,7 +410,7 @@
       "odmOem": "ODM/OEM 混合",
       "asusModel": "AI 8GPU: ESC N8-E11, 通用2U: RS720A-E12, AI POD GB200",
       "channel": "直供 + SI: Megazone Cloud (https://www.megazone.com)",
-      "difficulty": 6,
+      "difficulty": 5,
       "challenges": "【企業 IT 戰術】【技術要求】Naver Corporation 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Supermicro, Dell, Quanta (ODM)，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】韓國企業傾向與本地或已建立關係的供應商合作，需要透過當地合作夥伴或 SI 建立市場信任。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Naver Corporation 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Naver Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Naver Corporation 客戶，透過 LG CNS (www.lgcns.com/business/cloud/service) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -458,7 +465,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Naver%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=9, D2(採購決策複雜度)=6, D3(技術門檻)=3, D4(通路可及性)=3, D5(市場競爭)=4, D6(地緣政治)=3。進入門檻中等，存在一定機會與挑戰，可策略性投入。"
     },
     {
       "rank": 9,
@@ -515,7 +523,8 @@
         "commStrategy": "Approach Sitanshu Ranjan Kar with a focus on competitive TCO, scalable and reliable supply chain solutions for their multi-billion dollar infrastructure investments, and long-term partnership value for their data center operations."
       },
       "actualSiPartners": "NVIDIA (Strategic partner for AI infrastructure, including a $2B Blackwell GPU deployment and a $1B DGX Cloud cluster); AWS (Collaboration for AWS Outposts deployment); Microsoft (Partnership for AI innovation); Happiest Minds Technologies (Partner for hyperscale colocation and managed services)",
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=3, D3(技術門檻)=4, D4(通路可及性)=1, D5(市場競爭)=2, D6(地緣政治)=4。進入門檻低，具備多項有利條件，應積極爭取。"
     },
     {
       "rank": 10,
@@ -528,7 +537,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST: Redington (https://www.redingtongroup.com), Ingram Micro India",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Lenovo已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Infosys 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Infosys 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Infosys 客戶，透過 NTT 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -595,7 +604,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Infosys%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=4, D6(地緣政治)=4。進入門檻中等，存在一定機會與挑戰，可策略性投入。"
     },
     {
       "rank": 11,
@@ -608,7 +618,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000A-E12, 通用1U: RS700-E11",
       "channel": "SI: KDDI Digital Security (https://www.kddi.com), SCSK (https://www.scsk.jp)",
-      "difficulty": 7,
+      "difficulty": 5,
       "challenges": "【電信業戰術】【技術要求】KDDI Corporation 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Fujitsu, NEC, Dell, HPE，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【市場特性】日本市場偏好本地品牌和長期合作關係，新供應商需要投入時間建立信任，並提供日語技術支援。 【產業特性】電信業對網路設備和伺服器的穩定性、長期維護支援有嚴格要求，採購週期長但訂單量穩定。",
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 KDDI Corporation 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 KDDI Corporation 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 爭取成為 KDDI Corporation 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 KDDI Corporation 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 KDDI Corporation 客戶，透過 NTT DATA (nttdata.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -717,7 +727,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=KDDI%20Corporation%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=8, D3(技術門檻)=6, D4(通路可及性)=5, D5(市場競爭)=7, D6(地緣政治)=2。大型電信商，決策複雜且競爭激烈，但無特殊地緣風險。"
     },
     {
       "rank": 12,
@@ -730,7 +741,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000A-E12, 通用1U: RS700-E11",
       "channel": "SI: KT ds (https://www.ktds.co.kr), Bespin Global (https://www.bespinglobal.com)",
-      "difficulty": 6,
+      "difficulty": 5,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Lenovo, Samsung已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 KT Corporation 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 KT Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 KT Corporation 客戶，透過 Kyndryl (kyndryl.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -761,7 +772,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=KT%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=6, D3(技術門檻)=6, D4(通路可及性)=5, D5(市場競爭)=6, D6(地緣政治)=2。韓國大型電信商，多供應商競爭，決策期長。"
     },
     {
       "rank": 13,
@@ -805,7 +817,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sea%20Group%20(Shopee%20/%20Garena)%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
-      "archetype": "retail"
+      "archetype": "retail",
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=4, D5(市場競爭)=6, D6(地緣政治)=2。混合ODM/OEM，具備AI需求，需建立新通路。"
     },
     {
       "rank": 14,
@@ -903,7 +916,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Bharti%20Airtel%20CTO%20infrastructure",
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=8, D3(技術門檻)=6, D4(通路可及性)=5, D5(市場競爭)=7, D6(地緣政治)=4。印度大型電信商，決策複雜，有輕微地緣/合規考量。"
     },
     {
       "rank": 15,
@@ -916,7 +930,7 @@
       "odmOem": "ODM/OEM 混合",
       "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12, 通用1U: RS500A-E12",
       "channel": "直供 + SI: Rakuten Symphony (https://symphony.rakuten.com)",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【零售/電商業戰術】【成本導向】零售業利潤率低，對伺服器 TCO 極度敏感。【既有關係】Dell, Supermicro, Quanta (ODM)已建立穩定的供應關係。【季節性需求】零售業有明顯的季節性採購高峰（黑五、雙十一），需要供應商能快速擴容。【分散部署】門市邊緣 AI 需要大量小型伺服器分散部署。",
       "entryPoint": "【零售/電商業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Rakuten Group 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Rakuten Group 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Rakuten Group 客戶，透過 Rakuten Symphony 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -947,7 +961,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Rakuten%20Group%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
-      "archetype": "retail"
+      "archetype": "retail",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=5, D3(技術門檻)=7, D4(通路可及性)=4, D5(市場競爭)=6, D6(地緣政治)=2。採用Open RAN架構技術門檻較高，且有ODM競爭。"
     },
     {
       "rank": 16,
@@ -960,7 +975,7 @@
       "odmOem": "OEM",
       "asusModel": "AI 8GPU: ESC N8-E11, 通用2U: RS720A-E12, AI POD GB200",
       "channel": "直供 + SI: NRI (https://www.nri.com/jp)",
-      "difficulty": 5,
+      "difficulty": 3,
       "challenges": "【NeoCloud/AI 新創戰術】【速度需求】NeoCloud 企業擴張速度極快，需要供應商能在 4-6 週內交付大批量 GPU 伺服器。【資金風險】部分 NeoCloud 企業財務狀況尚不穩定，需評估付款風險。【技術要求】對 GPU 密度、液冷支援、電力效率要求極高。【競爭激烈】Dell、Supermicro 已積極搶攻 NeoCloud 市場。",
       "entryPoint": "【NeoCloud/AI 新創戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Sakura Internet 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供 ASUS ESC 系列 GPU 伺服器和 AI POD 解決方案的技術方案書，展示在 NVIDIA Blackwell/Rubin 平台的先發優勢。4. 針對 Sakura Internet 的液冷需求提供差異化的散熱解決方案，這是目前市場上的關鍵差異化因素。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Sakura Internet 客戶，透過 Supermicro (supermicro.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -991,7 +1006,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sakura%20Internet%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(供應商鎖定)=2, D2(採購決策複雜度)=3, D3(技術門檻)=3, D4(通路可及性)=2, D5(市場競爭)=4, D6(地緣政治)=2。ASUS既有客戶，具備AI伺服器需求，地緣風險低。"
     },
     {
       "rank": 17,
@@ -1008,10 +1024,10 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Huawei, ZTE已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Telkom Indonesia (Telkomsel) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Telkom Indonesia (Telkomsel) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Telkom Indonesia (Telkomsel) 客戶，透過 NTT DATA (nttdata-solutions.com/id-en/) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP, IT Infrastructure",
+        "name": "Nuzli Hernawan",
+        "title": "VP Infrastructure & Cybersecurity",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Telkom%20Indonesia%20(Telkomsel)",
-        "source": ""
+        "source": "https://id.linkedin.com/in/nuzlilatief"
       },
       "siDist": [
         {
@@ -1041,7 +1057,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Telkom%20Indonesia%20(Telkomsel)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=6, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=6, D6(地緣政治)=4。印尼最大電信商，決策複雜，需透過當地SI。"
     },
     {
       "rank": 18,
@@ -1054,7 +1071,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000A-E12, 通用1U: RS700-E11",
       "channel": "SI: NCS (https://www.ncs.co), Singtel Innov8",
-      "difficulty": 6,
+      "difficulty": 5,
       "challenges": "【電信業戰術】【技術要求】Singtel (Singapore Telecommunications) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, Cisco, Nokia，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【產業特性】電信業對網路設備和伺服器的穩定性、長期維護支援有嚴格要求，採購週期長但訂單量穩定。",
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Singtel (Singapore Telecommunications) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 Singtel (Singapore Telecommunications) 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Singtel (Singapore Telecommunications) 客戶，透過 Teligraph Technology Pte Ltd (www.teligraphtech.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1151,7 +1168,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Singtel%20(Singapore%20Telecommunications)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=8, D3(技術門檻)=6, D4(通路可及性)=5, D5(市場競爭)=7, D6(地緣政治)=2。東南亞最大電信集團，決策層級高，競爭激烈。"
     },
     {
       "rank": 19,
@@ -1195,7 +1213,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Wipro%20Limited%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=6, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=6, D6(地緣政治)=4。全球IT服務商，通用伺服器為主，競爭者眾多。"
     },
     {
       "rank": 20,
@@ -1208,7 +1227,7 @@
       "odmOem": "ODM/OEM 混合",
       "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12, 通用1U: RS500A-E12",
       "channel": "直供 + SI: Kakao Enterprise (https://www.kakaoenterprise.com)",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, Supermicro, Quanta已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Kakao Corporation 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Kakao Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Kakao Corporation 客戶，透過 NTT DATA 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1239,7 +1258,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Kakao%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=6, D4(通路可及性)=4, D5(市場競爭)=6, D6(地緣政治)=2。韓國大型網路平台，混合ODM/OEM，需建立通路關係。"
     },
     {
       "rank": 21,
@@ -1252,7 +1272,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST: Redington (https://www.redingtongroup.com), Ingram Micro India",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Lenovo, Cisco已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 HCL Technologies 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 HCL Technologies 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 HCL Technologies 客戶，透過 NTT DATA (nttdata.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1301,7 +1321,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=HCL%20Technologies%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=6, D6(地緣政治)=3。難度中等，需重點克服 供應商鎖定程度資訊不足。"
     },
     {
       "rank": 22,
@@ -1314,14 +1335,14 @@
       "odmOem": "OEM/自製",
       "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720-E11",
       "channel": "SI: Hitachi Solutions (https://www.hitachi-solutions.co.jp)",
-      "difficulty": 7,
+      "difficulty": 6,
       "challenges": "【企業 IT 戰術】【技術要求】Hitachi, Ltd. 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 自製 + Dell, HPE，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【市場特性】日本市場偏好本地品牌和長期合作關係，新供應商需要投入時間建立信任，並提供日語技術支援。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Hitachi, Ltd. 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Hitachi, Ltd. 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 Hitachi, Ltd. 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Hitachi, Ltd. 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Hitachi, Ltd. 客戶，透過 Hitachi Solutions 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP, Digital Infrastructure",
+        "name": "Joe Morris",
+        "title": "Chief Information Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Hitachi,%20Ltd.",
-        "source": ""
+        "source": "https://www.linkedin.com/in/jmorris1660"
       },
       "siDist": [
         {
@@ -1345,7 +1366,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hitachi,%20Ltd.%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=10, D2(採購決策複雜度)=5, D3(技術門檻)=5, D4(通路可及性)=3, D5(市場競爭)=4, D6(地緣政治)=3。進入難度偏高，因 完全自研或獨家綁定 且綜合挑戰多。"
     },
     {
       "rank": 23,
@@ -1358,7 +1380,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12, 通用1U: RS500A-E12",
       "channel": "SI/DIST: NCS (https://www.ncs.co), Kyndryl (https://www.kyndryl.com)",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, AWS (雲端為主), Supermicro已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Grab Holdings 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Grab Holdings 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Grab Holdings 客戶，透過 NCS 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1395,7 +1417,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Grab%20Holdings%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=4, D6(地緣政治)=3。難度中等，需重點克服 有 2-3 家供應商，無排他合約。"
     },
     {
       "rank": 24,
@@ -1408,7 +1431,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12, 通用1U: RS700-E11",
       "channel": "直供 + SI: Megazone Cloud (https://www.megazone.com)",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【零售/電商業戰術】【成本導向】零售業利潤率低，對伺服器 TCO 極度敏感。【既有關係】Dell, AWS (雲端為主), Supermicro已建立穩定的供應關係。【季節性需求】零售業有明顯的季節性採購高峰（黑五、雙十一），需要供應商能快速擴容。【分散部署】門市邊緣 AI 需要大量小型伺服器分散部署。",
       "entryPoint": "【零售/電商業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Coupang 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Coupang 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Coupang 客戶，透過 Megazone Cloud 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1439,7 +1462,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Coupang%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
-      "archetype": "retail"
+      "archetype": "retail",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=4, D6(地緣政治)=3。難度中等，需重點克服 有 2-3 家供應商，無排他合約。"
     },
     {
       "rank": 25,
@@ -1452,7 +1476,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12, 通用1U: RS700-E11",
       "channel": "SI: LY Corporation 自身通路",
-      "difficulty": 6,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【技術要求】LINE Corporation (LY Corporation) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, Supermicro, Naver (母公司)，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】日本市場偏好本地品牌和長期合作關係，新供應商需要投入時間建立信任，並提供日語技術支援。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 LINE Corporation (LY Corporation) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 LINE Corporation (LY Corporation) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 LINE Corporation (LY Corporation) 客戶，透過 電通総研 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1495,7 +1519,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=LINE%20Corporation%20(LY%20Corporation)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=4, D6(地緣政治)=3。難度中等，需重點克服 有 2-3 家供應商，無排他合約。"
     },
     {
       "rank": 26,
@@ -1508,7 +1533,7 @@
       "odmOem": "OEM",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, 通用2U: RS720-E11",
       "channel": "SI: Toyota Systems (https://www.toyotasystems.com)",
-      "difficulty": 7,
+      "difficulty": 4,
       "challenges": "【汽車/自駕業戰術】【技術要求】Toyota Motor Corporation 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, Fujitsu, NEC，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【市場特性】日本市場偏好本地品牌和長期合作關係，新供應商需要投入時間建立信任，並提供日語技術支援。",
       "entryPoint": "【汽車/自駕業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Toyota Motor Corporation 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Toyota Motor Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 Toyota Motor Corporation 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Toyota Motor Corporation 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Toyota Motor Corporation 客戶，透過 NTT DATA (services.global.ntt) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1545,7 +1570,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Toyota%20Motor%20Corporation%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=6, D6(地緣政治)=3。難度中等，需重點克服 供應商鎖定程度資訊不足。"
     },
     {
       "rank": 27,
@@ -1558,7 +1584,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST: Redington (https://www.redingtongroup.com)",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Lenovo已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Tech Mahindra 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Tech Mahindra 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Tech Mahindra 客戶，透過 NTT DATA 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1673,7 +1699,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tech%20Mahindra%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=4, D6(地緣政治)=3。難度中等，需重點克服 有 2-3 家供應商，無排他合約。"
     },
     {
       "rank": 28,
@@ -1686,14 +1713,14 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000-E11, 通用1U: RS700-E11",
       "channel": "SI: Viettel Solutions (https://viettelsolutions.com.vn)",
-      "difficulty": 6,
+      "difficulty": 5,
       "challenges": "【電信業戰術】【電信級要求】NEBS Level 3 認證、99.999% 可用性、-40°C~65°C 工作溫度等嚴苛規格。【既有生態系】Dell, HPE, Huawei, ZTE已深度整合至電信 NFV/SDN 平台。【長期合約】電信業設備採購通常為 3-5 年框架合約，替換窗口有限。【規模經濟】電信業對價格極度敏感，需提供大量折扣。",
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Viettel Group 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 Viettel Group 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Viettel Group 客戶，透過 SVTECH 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "Director, Data Center Operations",
+        "name": "（推估）Tao Duc Thang",
+        "title": "Chairman; General Director",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Viettel%20Group",
-        "source": ""
+        "source": "https://www.globaldata.com/company-profile/viettel-military-industry-and-telecoms-group/executives/"
       },
       "siDist": [
         {
@@ -1723,7 +1750,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Viettel%20Group%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=10, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=6, D6(地緣政治)=7。難度中等，需重點克服 需政府、軍方或董事會批准。"
     },
     {
       "rank": 29,
@@ -1736,7 +1764,7 @@
       "odmOem": "OEM/自有品牌",
       "asusModel": "GPU: ESC8000A-E12, AI 8GPU: ESC N8-E11",
       "channel": "直供",
-      "difficulty": 9,
+      "difficulty": 7,
       "challenges": "【企業 IT 戰術】【技術門檻】Samsung Electronics (半導體/研發) 對伺服器的穩定性、效能和安全性要求極高，需通過嚴格的產品認證和壓力測試流程。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, Samsung (自有品牌), Supermicro，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【市場特性】韓國企業傾向與本地或已建立關係的供應商合作，需要透過當地合作夥伴或 SI 建立市場信任。",
       "entryPoint": "【企業 IT 戰術】【短期（6-12個月）】1. 透過 MIRAI Semiconductors、SAMT、SINSUNG Semiconductors 等通路合作夥伴建立間接合作關係，先以小規模專案證明 ASUS 的技術能力和服務品質。2. 針對 Samsung Electronics (半導體/研發) 的非核心或新興業務需求提供標準化伺服器方案，降低切入門檻。 【中期（6-12個月）】3. 深入了解 Samsung Electronics (半導體/研發) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 Samsung Electronics (半導體/研發) 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Samsung Electronics (半導體/研發) 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Samsung Electronics (半導體/研發) 客戶，透過 MIRAI Semiconductors 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1779,7 +1807,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Samsung%20Electronics%20(半導體/研發)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=10, D2(採購決策複雜度)=5, D3(技術門檻)=8, D4(通路可及性)=5, D5(市場競爭)=6, D6(地緣政治)=3。進入難度偏高，因 完全自研或獨家綁定 且綜合挑戰多。"
     },
     {
       "rank": 30,
@@ -1792,7 +1821,7 @@
       "odmOem": "혼합",
       "asusModel": "범용 2U: RS720-E12, AI 4U 8GPU: ESC8000-E12, 고밀도: ESC N8-E11 (HGX H100 8-GPU), Blackwell: ESC NB8-E11",
       "channel": "直供/SI (待確認)",
-      "difficulty": 8,
+      "difficulty": 4,
       "challenges": "【기술 문턱】고밀도 및 액체 냉각 솔루션에 대한 검증된 전문성. 【공급망 장벽】기존 ODM 공급업체와의 강력한 관계. 【상업적 도전】경쟁력 있는 가격 및 대규모 배포 능력.",
       "entryPoint": "【단기(6-12개월)】NVIDIA Blackwell 플랫폼 기반의 차세대 GPU 서버 기술 시연. 【중기(1-2년)】특정 AI 프로젝트를 위한 파일럿 프로그램 공동 개발. 【장기(2-3년)】전략적 파트너십을 통해 주요 ODM 공급업체 중 하나가 됨. 【핵심 조치】CTO 및 조달 책임자와의 기술 및 상업적 논의 시작.",
       "keyPerson": {
@@ -1830,7 +1859,8 @@
       "actualSiPartners": "",
       "volumeSource": "https://telecom.economictimes.indiatimes.com/news/industry/ctrls-president-calls-for-more-data-center-cities-in-india-to-meet-ai-demand/123054963",
       "industry": "NeoCloud/AI",
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(供應商鎖定)=1, D2(採購決策複雜度)=5, D3(技術門檻)=6, D4(通路可及性)=5, D5(市場競爭)=2, D6(地緣政治)=3。難度中等，需重點克服 需客製化韌體/散熱/OCP規格。"
     },
     {
       "rank": 31,
@@ -1892,7 +1922,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tokopedia%20(GoTo%20Group)%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
-      "archetype": "retail"
+      "archetype": "retail",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=3。主要挑戰來自：採購決策漫長。"
     },
     {
       "rank": 32,
@@ -1905,7 +1936,7 @@
       "odmOem": "OEM",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, 通用2U: RS720-E11",
       "channel": "SI: Sony Global Solutions (https://www.sonygs.co.jp)",
-      "difficulty": 6,
+      "difficulty": 5,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, AWS (雲端)已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Sony Group Corporation 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Sony Group Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Sony Group Corporation 客戶，透過 NTT DATA (nttdata.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1954,7 +1985,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sony%20Group%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=3。主要挑戰來自：供應商高度鎖定、採購決策漫長。"
     },
     {
       "rank": 33,
@@ -1998,7 +2030,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=True%20Corporation%20(CP%20Group)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=3。主要挑戰來自：供應商高度鎖定、採購決策漫長、市場競爭激烈。"
     },
     {
       "rank": 34,
@@ -2042,7 +2075,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Axiata%20Group%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=3, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=3。主要挑戰來自：供應商高度鎖定、採購決策漫長。"
     },
     {
       "rank": 35,
@@ -2055,7 +2089,7 @@
       "odmOem": "OEM",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, 通用2U: RS720-E11",
       "channel": "SI: Hyundai AutoEver 自身通路",
-      "difficulty": 6,
+      "difficulty": 5,
       "challenges": "【汽車/自駕業戰術】【產業轉型中】汽車業正從傳統 IT 轉向大規模 AI 基礎設施投資，採購流程仍在調整中。【既有關係】Dell, HPE, Samsung已建立合作關係。【特殊需求】自駕訓練需要大量 GPU 運算，對散熱和電力效率要求極高。【工廠環境】邊緣部署需考慮工廠環境的溫度、震動、灰塵等因素。",
       "entryPoint": "【汽車/自駕業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Hyundai AutoEver 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Hyundai AutoEver 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Hyundai AutoEver 客戶，透過 Wiver Systems 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2098,7 +2132,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hyundai%20AutoEver%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=3。主要挑戰來自：供應商高度鎖定、採購決策漫長。"
     },
     {
       "rank": 36,
@@ -2111,7 +2146,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000A-E12, 通用1U: RS700-E11",
       "channel": "SI: LG CNS 自身通路",
-      "difficulty": 6,
+      "difficulty": 5,
       "challenges": "【汽車/自駕業戰術】【產業轉型中】汽車業正從傳統 IT 轉向大規模 AI 基礎設施投資，採購流程仍在調整中。【既有關係】Dell, HPE, Lenovo已建立合作關係。【特殊需求】自駕訓練需要大量 GPU 運算，對散熱和電力效率要求極高。【工廠環境】邊緣部署需考慮工廠環境的溫度、震動、灰塵等因素。",
       "entryPoint": "【汽車/自駕業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 LG CNS 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 LG CNS 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 LG CNS 客戶，透過 Snowflake 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2148,7 +2183,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=LG%20CNS%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=3。主要挑戰來自：供應商高度鎖定、採購決策漫長。"
     },
     {
       "rank": 37,
@@ -2161,7 +2197,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11, AI 4U: ESC4000-E11",
       "channel": "直供 + SI: Tata Communications 自身通路",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Cisco已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Tata Communications 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Tata Communications 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Tata Communications 客戶，透過 NTT DATA 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2222,7 +2258,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tata%20Communications%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=3。主要挑戰來自：供應商高度鎖定。"
     },
     {
       "rank": 38,
@@ -2272,7 +2309,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=STT%20GDC%20(ST%20Telemedia%20Global%20Data%20Centres)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=3。主要挑戰來自：供應商高度鎖定。"
     },
     {
       "rank": 39,
@@ -2285,7 +2323,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST: PLDT Enterprise (https://pldtenterprise.com)",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【電信業戰術】【電信級要求】NEBS Level 3 認證、99.999% 可用性、-40°C~65°C 工作溫度等嚴苛規格。【既有生態系】Dell, HPE, Huawei已深度整合至電信 NFV/SDN 平台。【長期合約】電信業設備採購通常為 3-5 年框架合約，替換窗口有限。【規模經濟】電信業對價格極度敏感，需提供大量折扣。",
       "entryPoint": "【電信業戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Globe Telecom，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 Globe Telecom 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Globe Telecom 客戶，透過 TCS 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2316,7 +2354,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Globe%20Telecom%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=3, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=3。主要挑戰來自：供應商高度鎖定、採購決策漫長。"
     },
     {
       "rank": 40,
@@ -2329,7 +2368,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI: ePLDT (https://www.epldt.com)",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【電信業戰術】【技術門檻較低】PLDT / Smart Communications 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, Huawei，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【產業特性】電信業對網路設備和伺服器的穩定性、長期維護支援有嚴格要求，採購週期長但訂單量穩定。",
       "entryPoint": "【電信業戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 PLDT / Smart Communications，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 PLDT / Smart Communications 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 PLDT / Smart Communications 客戶，透過 Camxian Technologies 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2366,7 +2405,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=PLDT%20/%20Smart%20Communications%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=3, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=3。主要挑戰來自：供應商高度鎖定、採購決策漫長。"
     },
     {
       "rank": 41,
@@ -2383,10 +2423,10 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Supermicro已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 FPT Corporation，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 FPT Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 FPT Corporation 客戶，透過 NTT DATA 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP, Cloud & Infrastructure",
+        "name": "Nguyen Xuan Phong",
+        "title": "Chief Technology Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20FPT%20Corporation",
-        "source": ""
+        "source": "https://fpt.com/en/news/fpt-news/tap-doan-fpt-bo-nhiem-giam-doc-cong-nghe-moi"
       },
       "siDist": [
         {
@@ -2440,7 +2480,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=FPT%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=2, D5(市場競爭)=4, D6(地緣政治)=3。綜合供應商鎖定(4), 決策複雜度(6), 技術門檻(2), 通路(2), 競爭(4), 及地緣政治(3)的加權計算結果。"
     },
     {
       "rank": 42,
@@ -2453,14 +2494,14 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000-E11, WS880T",
       "channel": "SI: Toshiba IT Services (https://www.toshiba-sol.co.jp)",
-      "difficulty": 6,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Fujitsu已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Toshiba Digital Solutions 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Toshiba Digital Solutions 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Toshiba Digital Solutions 客戶，透過 DENTSU SOKEN INC. 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "Director, IT Infrastructure",
+        "name": "Andrea Schulze Dias",
+        "title": "VP & Group CIO",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Toshiba%20Digital%20Solutions",
-        "source": ""
+        "source": "https://www.linkedin.com/in/andrea-schulze-dias-b169a93/"
       },
       "siDist": [
         {
@@ -2490,7 +2531,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Toshiba%20Digital%20Solutions%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=1。綜合供應商鎖定(4), 決策複雜度(6), 技術門檻(2), 通路(4), 競爭(4), 及地緣政治(1)的加權計算結果。"
     },
     {
       "rank": 43,
@@ -2534,7 +2576,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=AIS%20(Advanced%20Info%20Service)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=3。綜合供應商鎖定(4), 決策複雜度(7), 技術門檻(2), 通路(4), 競爭(4), 及地緣政治(3)的加權計算結果。"
     },
     {
       "rank": 44,
@@ -2547,7 +2590,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST: Lintasarta (https://www.lintasarta.net)",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Huawei, Ericsson已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Indosat Ooredoo Hutchison 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Indosat Ooredoo Hutchison 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Indosat Ooredoo Hutchison 客戶，透過 Lintasarta 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2578,7 +2621,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Indosat%20Ooredoo%20Hutchison%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=6, D6(地緣政治)=3。綜合供應商鎖定(4), 決策複雜度(6), 技術門檻(2), 通路(4), 競爭(6), 及地緣政治(3)的加權計算結果。"
     },
     {
       "rank": 45,
@@ -2591,7 +2635,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000-E11, WS880T",
       "channel": "SI: Mitsubishi Electric IT Solutions (https://www.mitsubishielectric.co.jp)",
-      "difficulty": 6,
+      "difficulty": 3,
       "challenges": "【金融業戰術】【技術要求】Mitsubishi Electric 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, Fujitsu, NEC，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】日本市場偏好本地品牌和長期合作關係，新供應商需要投入時間建立信任，並提供日語技術支援。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Mitsubishi Electric 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 Mitsubishi Electric 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Mitsubishi Electric 客戶，透過 株式会社アイテクシステム 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2664,7 +2708,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mitsubishi%20Electric%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=3, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=1。綜合供應商鎖定(4), 決策複雜度(3), 技術門檻(2), 通路(4), 競爭(4), 及地緣政治(1)的加權計算結果。"
     },
     {
       "rank": 46,
@@ -2677,14 +2722,14 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720A-E12, 通用1U: RS700A-E12",
       "channel": "直供 (Kyndryl 自身為大型 SI)",
-      "difficulty": 6,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Lenovo, IBM已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Kyndryl (亞太業務) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Kyndryl (亞太業務) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Kyndryl (亞太業務) 客戶，透過 ServiceNow 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP, Infrastructure Services APAC",
+        "name": "(推估) Paul Savill",
+        "title": "Global Network and Edge Computing Practice Leader",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Kyndryl%20(亞太業務)",
-        "source": ""
+        "source": "https://apacnewsnetwork.com/2024/12/kyndryl-and-nokia-collaborate-to-modernize-data-center-networking-services/"
       },
       "siDist": [
         {
@@ -2768,7 +2813,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Kyndryl%20(亞太業務)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=5, D5(市場競爭)=6, D6(地緣政治)=3。綜合供應商鎖定(4), 決策複雜度(6), 技術門檻(2), 通路(5), 競爭(6), 及地緣政治(3)的加權計算結果。"
     },
     {
       "rank": 47,
@@ -2781,7 +2827,7 @@
       "odmOem": "OEM/ODM 混合",
       "asusModel": "通用2U: RS720A-E12, AI 推論: ESC4000A-E12",
       "channel": "直供 + SI/DIST",
-      "difficulty": 5,
+      "difficulty": 3,
       "challenges": "【零售/電商業戰術】【技術要求】Flipkart (Walmart India) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, Supermicro，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】印度市場價格敏感度高，且偏好有本地服務能力的供應商。需要建立當地的技術支援和維修服務體系。",
       "entryPoint": "【零售/電商業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Flipkart (Walmart India) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Flipkart (Walmart India) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Flipkart (Walmart India) 客戶，透過 Persistent Systems 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2812,7 +2858,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Flipkart%20(Walmart%20India)%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
-      "archetype": "retail"
+      "archetype": "retail",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=3, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=3。綜合供應商鎖定(4), 決策複雜度(3), 技術門檻(2), 通路(4), 競爭(4), 及地緣政治(3)的加權計算結果。"
     },
     {
       "rank": 48,
@@ -2825,7 +2872,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720A-E12, GPU: ESC8000A-E12, AI 推論: ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 7,
+      "difficulty": 4,
       "challenges": "【汽車/自駕業戰術】【技術要求】Hyundai Motor Company 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, Samsung, Lenovo，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【市場特性】韓國企業傾向與本地或已建立關係的供應商合作，需要透過當地合作夥伴或 SI 建立市場信任。",
       "entryPoint": "【汽車/自駕業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Hyundai Motor Company 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Hyundai Motor Company 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 Hyundai Motor Company 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Hyundai Motor Company 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Hyundai Motor Company 客戶，透過 Hyundai AutoEver 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2856,7 +2903,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hyundai%20Motor%20Company%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=3, D3(技術門檻)=3, D4(通路可及性)=4, D5(市場競爭)=6, D6(地緣政治)=3。綜合供應商鎖定(4), 決策複雜度(3), 技術門檻(3), 通路(4), 競爭(6), 及地緣政治(3)的加權計算結果。"
     },
     {
       "rank": 49,
@@ -2869,7 +2917,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720A-E12, 邊緣: E800-E12, GPU: ESC4000A-E12",
       "channel": "SI/DIST: NTT Group 內部採購",
-      "difficulty": 7,
+      "difficulty": 4,
       "challenges": "【電信業戰術】【技術要求】NTT Docomo 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, Fujitsu, NEC, Ericsson，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【市場特性】日本市場偏好本地品牌和長期合作關係，新供應商需要投入時間建立信任，並提供日語技術支援。 【產業特性】電信業對網路設備和伺服器的穩定性、長期維護支援有嚴格要求，採購週期長但訂單量穩定。",
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 NTT Docomo 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 NTT Docomo 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 爭取成為 NTT Docomo 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 NTT Docomo 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 NTT Docomo 客戶，透過 Fujitsu 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2900,7 +2948,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=NTT%20Docomo%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=3, D4(通路可及性)=4, D5(市場競爭)=6, D6(地緣政治)=1。綜合供應商鎖定(4), 決策複雜度(7), 技術門檻(3), 通路(4), 競爭(6), 及地緣政治(1)的加權計算結果。"
     },
     {
       "rank": 50,
@@ -2913,7 +2962,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720A-E12, 邊緣: E800-E12",
       "channel": "SI/DIST: Telstra Enterprise",
-      "difficulty": 6,
+      "difficulty": 4,
       "challenges": "【電信業戰術】【電信級要求】NEBS Level 3 認證、99.999% 可用性、-40°C~65°C 工作溫度等嚴苛規格。【既有生態系】Dell, HPE, Ericsson, Nokia已深度整合至電信 NFV/SDN 平台。【長期合約】電信業設備採購通常為 3-5 年框架合約，替換窗口有限。【規模經濟】電信業對價格極度敏感，需提供大量折扣。",
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Telstra (澳洲電信) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 Telstra (澳洲電信) 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Telstra (澳洲電信) 客戶，透過 Cisco 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2992,7 +3041,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Telstra%20(澳洲電信)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=6, D6(地緣政治)=3。綜合供應商鎖定(4), 決策複雜度(7), 技術門檻(2), 通路(4), 競爭(6), 及地緣政治(3)的加權計算結果。"
     },
     {
       "rank": 51,
@@ -3005,7 +3055,7 @@
       "odmOem": "Mixed",
       "asusModel": "AI 8GPU: ESC N8-E11 (HGX H100), ESC NB8-E11 (Blackwell), ESC8000-E12; 通用2U: RS720-E12, RS720A-E12",
       "channel": "SI: Datacipher (www.datacipher.com); SI: Microland (www.microland.com); SI: Inspira Enterprise (www.inspiraenterprise.com)",
-      "difficulty": 8,
+      "difficulty": 4,
       "challenges": "【archetype戰術】AM Green is a 'neocloud' building a massive, specialized AI cloud. ASUS must compete with top-tier ODMs on co-development and customized, high-performance hardware at scale.\n【技術門檻】The involvement of Raja Koduri's OXMIQ Labs implies a very high technical barrier. They are likely architecting the entire stack from the silicon up. ASUS must demonstrate superior server design, thermal engineering, and power efficiency, and be prepared for deep co-design.\n【供應鏈壁壘】Securing ~500,000 latest-generation GPUs over 2-3 years is a huge challenge. ASUS will compete with giant ODMs (Quanta, Wiwynn, Supermicro) who have stronger relationships with NVIDIA and operate at a larger scale.\n【商務挑戰】This multi-billion dollar deal will be hyper-competitive on price. ASUS has no existing relationship and will need an extremely aggressive commercial strategy to break in against established ODMs.",
       "entryPoint": "【archetype戰術】Engage as a technology partner, not just a vendor. Focus on ASUS's engineering prowess and flexibility. Build a relationship with OXMIQ Labs to position ASUS as the ideal hardware partner.\n【短期（6-12個月）】1. High-Level Engagement with Anil Chalamalasetty, Mahesh Kolli (AM Green), and Raja Koduri (OXMIQ). 2. Showcase advanced GPU server platforms (e.g., ESC NB8-E11, ESC8000-E12) and provide evaluation units. 3. Arrange technical deep-dive workshops with OXMIQ and AM Intelligence Labs.\n【中期（1-2年）】1. Propose a semi-custom or fully-custom server design. 2. Secure a pilot project for a PoC cluster or ancillary systems. 3. Provide a detailed supply chain plan demonstrating volume and pace capabilities.\n【長期（2-3年）】1. Become a primary server supplier for the 1GW data center. 2. Evolve into a long-term technology partner for future designs.\n【關鍵行動】1. Assign a senior executive sponsor. 2. Form a dedicated tiger team (engineering, sales, supply chain). 3. Leverage ASUS's local presence in India.",
       "keyPerson": {
@@ -3049,7 +3099,8 @@
       "actualSiPartners": "",
       "volumeSource": "https://m.economictimes.com/tech/artificial-intelligence/am-group-to-build-usd-25-billion-gw-scale-ai-compute-hub-in-uttar-pradesh/articleshow/126816764.cms",
       "industry": "NeoCloud/AI",
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(供應商鎖定)=2, D2(採購決策複雜度)=2, D3(技術門檻)=6, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=3。總分 4，主要挑戰來自：面臨 5 家以上主要 OEM/ODM 競爭。"
     },
     {
       "rank": 52,
@@ -3062,7 +3113,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST: Maxis Business (https://www.maxis.com.my/business)",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Ericsson已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Maxis Berhad，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Maxis Berhad 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Maxis Berhad 客戶，透過 Kim Teck Cheong Consolidated Berhad 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -3093,7 +3144,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Maxis%20Berhad%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=1, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=3。總分 5，主要挑戰來自：深度綁定 Dell 和 HPE，切換成本高。"
     },
     {
       "rank": 53,
@@ -3106,14 +3158,14 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720A-E12, 通用1U: RS500A-E12",
       "channel": "直供",
-      "difficulty": 3,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, Supermicro已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Raxio Group，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Raxio Group 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Raxio Group 客戶，透過 Raxio Group (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "CTO",
+        "name": "Rob Saunders",
+        "title": "Group Chief Technology Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Raxio%20Group",
-        "source": ""
+        "source": "https://www.linkedin.com/posts/raxiodatacentres_techcapitalawards-digitalinfrastructure-activity-7308419472183185408-BgWS"
       },
       "siDist": [
         {
@@ -3137,7 +3189,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Raxio%20Group%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=4, D3(技術門檻)=1, D4(通路可及性)=5, D5(市場競爭)=5, D6(地緣政治)=1。總分 4，主要挑戰來自：擁有主要供應商但非獨家。"
     },
     {
       "rank": 54,
@@ -3150,7 +3203,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720A-E12, 通用1U: RS500A-E12",
       "channel": "直供",
-      "difficulty": 3,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, Supermicro已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Digital Edge，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Digital Edge 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Digital Edge 客戶，透過 NTT DATA 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -3181,7 +3234,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Digital%20Edge%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=1, D4(通路可及性)=5, D5(市場競爭)=5, D6(地緣政治)=1。總分 4，主要挑戰來自：大型電信商決策流程長，可能需總部批准。"
     },
     {
       "rank": 55,
@@ -3194,14 +3248,14 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, AI 4U: ESC4000-E11, 通用1U: RS700-E11",
       "channel": "SI: Lotte Data Communication 自身通路",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【電信業戰術】【技術要求】Lotte Data Communication 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, Samsung，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】韓國企業傾向與本地或已建立關係的供應商合作，需要透過當地合作夥伴或 SI 建立市場信任。 【產業特性】電信業對網路設備和伺服器的穩定性、長期維護支援有嚴格要求，採購週期長但訂單量穩定。",
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Lotte Data Communication 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 Lotte Data Communication 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Lotte Data Communication 客戶，透過 Dell Technologies 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "Director, Cloud Services",
+        "name": "(推估) 박종표",
+        "title": "AX사업본부장",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Lotte%20Data%20Communication",
-        "source": ""
+        "source": "https://www.lotteinnovate.com/ko/investment/relationinvestors/sustainability/managementinfo"
       },
       "siDist": [
         {
@@ -3339,7 +3393,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Lotte%20Data%20Communication%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=1, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=3。總分 4，主要挑戰來自：深度綁定 Dell 和 HPE，切換成本高。"
     },
     {
       "rank": 56,
@@ -3395,7 +3450,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Digi%20Telecommunications%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=1, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=3。總分 4，主要挑戰來自：深度綁定 Dell 和 HPE，切換成本高。"
     },
     {
       "rank": 57,
@@ -3408,14 +3464,14 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720A-E12, AI 4GPU: ESC4000A-E12, 通用1U: RS700-E11",
       "channel": "直供 + SI/DIST",
-      "difficulty": 4,
+      "difficulty": 3,
       "challenges": "【企業 IT 戰術】【技術門檻較低】IIJ (Internet Initiative Japan) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, Supermicro，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】日本市場偏好本地品牌和長期合作關係，新供應商需要投入時間建立信任，並提供日語技術支援。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 IIJ (Internet Initiative Japan)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 IIJ (Internet Initiative Japan) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 IIJ (Internet Initiative Japan) 客戶，透過 NTT DATA 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP, Network Infrastructure",
+        "name": "久保 力 (Tsutomu Kubo)",
+        "title": "基盤エンジニアリング本部 基盤サービス部長 (Manager, Infrastructure Services Department, Infrastructure Engineering Division)",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20IIJ%20(Internet%20Initiative%20Japan)",
-        "source": ""
+        "source": "https://www.iij.ad.jp/news/iijnews/vol_173/detail_04.html"
       },
       "siDist": [
         {
@@ -3439,7 +3495,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=IIJ%20(Internet%20Initiative%20Japan)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=3, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=1。總分 3，主要挑戰來自：面臨 3 家主要競爭對手。"
     },
     {
       "rank": 58,
@@ -3483,7 +3540,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=GMO%20Internet%20Group%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=5, D6(地緣政治)=1。總分 4，主要挑戰來自：需建立新的直供關係。"
     },
     {
       "rank": 59,
@@ -3496,7 +3554,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST: SCSK 自身即為大型 SI",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Fujitsu, NEC已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 SCSK Corporation 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 SCSK Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 SCSK Corporation 客戶，透過 IST-Software Co., Ltd. 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -3557,7 +3615,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=SCSK%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=4, D3(技術門檻)=1, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=1。總分 4，主要挑戰來自：深度綁定 Dell 和 HPE，切換成本高。"
     },
     {
       "rank": 60,
@@ -3570,14 +3629,14 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, AI 4GPU: ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Lenovo已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 POSCO ICT (現 POSCO DX) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 POSCO ICT (現 POSCO DX) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 POSCO ICT (現 POSCO DX) 客戶，透過 Exotec 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "Director, IT Infrastructure",
+        "name": "Dale Kim",
+        "title": "Chief Technology and Operation Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20POSCO%20ICT%20(現%20POSCO%20DX)",
-        "source": ""
+        "source": "https://kr.linkedin.com/in/dale-kim-400a2428"
       },
       "siDist": [
         {
@@ -3607,7 +3666,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=POSCO%20ICT%20(現%20POSCO%20DX)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=1, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=3。總分 4，主要挑戰來自：深度綁定 Dell 和 HPE，切換成本高。"
     },
     {
       "rank": 61,
@@ -3620,7 +3680,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST: 印度本地 SI",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【技術要求】Mahindra Group (Tech Mahindra 以外) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, Lenovo，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】印度市場價格敏感度高，且偏好有本地服務能力的供應商。需要建立當地的技術支援和維修服務體系。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Mahindra Group (Tech Mahindra 以外) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Mahindra Group (Tech Mahindra 以外) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Mahindra Group (Tech Mahindra 以外) 客戶，透過 NTT DATA 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -3735,7 +3795,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mahindra%20Group%20(Tech%20Mahindra%20以外)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=5。綜合供應商(4), 決策(7), 技術(2), 通路(3), 競爭(7), 風險(5)的加權評估。"
     },
     {
       "rank": 62,
@@ -3797,7 +3858,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Zoho%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=5, D5(市場競爭)=5, D6(地緣政治)=5。綜合供應商(4), 決策(5), 技術(2), 通路(5), 競爭(5), 風險(5)的加權評估。"
     },
     {
       "rank": 63,
@@ -3810,14 +3872,14 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 6,
+      "difficulty": 5,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Lenovo已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Hanwha Group (韓華) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Hanwha Group (韓華) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Hanwha Group (韓華) 客戶，透過 Acoem 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP, Digital Transformation",
+        "name": "（推估）Management Team",
+        "title": "VP, IT Infrastructure",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Hanwha%20Group%20(韓華)",
-        "source": ""
+        "source": "https://www.linkedin.com/company/hanwhadatacenters"
       },
       "siDist": [
         {
@@ -3853,7 +3915,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hanwha%20Group%20(韓華)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=5。綜合供應商(4), 決策(7), 技術(4), 通路(3), 競爭(7), 風險(5)的加權評估。"
     },
     {
       "rank": 64,
@@ -3897,7 +3960,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Vingroup%20(VinAI%20/%20VinBigData)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=5。綜合供應商(4), 決策(7), 技術(4), 通路(3), 競爭(7), 風險(5)的加權評估。"
     },
     {
       "rank": 65,
@@ -3910,7 +3974,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 邊緣: E800-E12",
       "channel": "SI/DIST: 透過 Singtel 集團採購",
-      "difficulty": 6,
+      "difficulty": 4,
       "challenges": "【電信業戰術】【電信級要求】NEBS Level 3 認證、99.999% 可用性、-40°C~65°C 工作溫度等嚴苛規格。【既有生態系】Dell, HPE, Ericsson已深度整合至電信 NFV/SDN 平台。【長期合約】電信業設備採購通常為 3-5 年框架合約，替換窗口有限。【規模經濟】電信業對價格極度敏感，需提供大量折扣。",
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Optus (Singtel 子公司) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 Optus (Singtel 子公司) 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Optus (Singtel 子公司) 客戶，透過 Teligraph Technology Pte Ltd (www.teligraphtech.com) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -4007,7 +4071,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Optus%20(Singtel%20子公司)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=2。綜合供應商(4), 決策(7), 技術(2), 通路(3), 競爭(7), 風險(2)的加權評估。"
     },
     {
       "rank": 66,
@@ -4020,7 +4085,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST: 越南本地 SI",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【電信業戰術】【技術要求】VNPT (Vietnam Posts and Telecommunications) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, Huawei，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【產業特性】電信業對網路設備和伺服器的穩定性、長期維護支援有嚴格要求，採購週期長但訂單量穩定。",
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 VNPT (Vietnam Posts and Telecommunications) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 VNPT (Vietnam Posts and Telecommunications) 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 VNPT (Vietnam Posts and Telecommunications) 客戶，透過 Qualcomm 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -4087,7 +4152,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=VNPT%20(Vietnam%20Posts%20and%20Telecommunications)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=5。綜合供應商(4), 決策(7), 技術(2), 通路(3), 競爭(7), 風險(5)的加權評估。"
     },
     {
       "rank": 67,
@@ -4131,7 +4197,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Gojek%20(GoTo%20Group)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=5。綜合供應商(4), 決策(7), 技術(2), 通路(3), 競爭(7), 風險(5)的加權評估。"
     },
     {
       "rank": 68,
@@ -4144,7 +4211,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST: L&T 自身為大型 SI",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【技術要求】Larsen & Toubro (L&T) Infotech 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, Lenovo，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】印度市場價格敏感度高，且偏好有本地服務能力的供應商。需要建立當地的技術支援和維修服務體系。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Larsen & Toubro (L&T) Infotech 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Larsen & Toubro (L&T) Infotech 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Larsen & Toubro (L&T) Infotech 客戶，透過 SAP 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -4253,7 +4320,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Larsen%20&%20Toubro%20(L&T)%20Infotech%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=5。綜合供應商(4), 決策(5), 技術(2), 通路(3), 競爭(7), 風險(5)的加權評估。"
     },
     {
       "rank": 69,
@@ -4270,10 +4338,10 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, Supermicro已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Cyxtera Technologies (亞太業務)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Cyxtera Technologies (亞太業務) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Cyxtera Technologies (亞太業務) 客戶，透過 Cyxtera Technologies (亞太業務) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP, Data Center Operations APAC",
+        "name": "(推估) Holland Barry",
+        "title": "SVP and Field CTO",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Cyxtera%20Technologies%20(亞太業務)",
-        "source": ""
+        "source": "https://www.linkedin.com/in/hollandbarry"
       },
       "siDist": [
         {
@@ -4297,7 +4365,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Cyxtera%20Technologies%20(亞太業務)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=5, D5(市場競爭)=5, D6(地緣政治)=3。綜合供應商(4), 決策(7), 技術(2), 通路(5), 競爭(5), 風險(3)的加權評估。"
     },
     {
       "rank": 70,
@@ -4341,7 +4410,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ola%20Electric%20/%20Ola%20Cabs%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=5。綜合供應商(4), 決策(5), 技術(4), 通路(3), 競爭(5), 風險(5)的加權評估。"
     },
     {
       "rank": 71,
@@ -4354,7 +4424,7 @@
       "odmOem": "ODM/自行組裝",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4GPU: ESC4000A-E12, AI POD: 液冷機櫃方案",
       "channel": "直供",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Supermicro, 自行組裝已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Preferred Networks 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Preferred Networks 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Preferred Networks 客戶，透過 Preferred Networks (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -4385,7 +4455,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Preferred%20Networks%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=8, D2(採購決策複雜度)=5, D3(技術門檻)=9, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=1。進入門檻較高，需克服現有供應商關係、內部評估流程及特定技術規格。"
     },
     {
       "rank": 72,
@@ -4398,7 +4469,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720A-E12, GPU: ESC4000A-E12",
       "channel": "直供",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, AWS (主要雲端), Supermicro已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Atlassian 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Atlassian 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Atlassian 客戶，透過 GLiNTECH 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -4489,7 +4560,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Atlassian%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=1。進入門檻中等，存在一定市場競爭和通路拓展需求，但仍有切入機會。"
     },
     {
       "rank": 73,
@@ -4502,7 +4574,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, GPU 工作站: ESC8000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 3,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Fujitsu已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Subaru Corporation 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Subaru Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Subaru Corporation 客戶，透過 FPT Software 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -4545,7 +4617,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Subaru%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=1。進入門檻相對較低，客戶需求標準化，採購流程直接，是潛在的藍海市場。"
     },
     {
       "rank": 74,
@@ -4558,7 +4631,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720A-E12, GPU: ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【金融業戰術】【技術門檻較低】Bandai Namco Holdings 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, AWS (部分雲端)，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】日本市場偏好本地品牌和長期合作關係，新供應商需要投入時間建立信任，並提供日語技術支援。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Bandai Namco Holdings，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 Bandai Namco Holdings 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Bandai Namco Holdings 客戶，透過 Fujitsu 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -4595,7 +4668,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Bandai%20Namco%20Holdings%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=1。進入門檻中等，存在一定市場競爭和通路拓展需求，但仍有切入機會。"
     },
     {
       "rank": 75,
@@ -4608,7 +4682,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, AI 推論: ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【金融業戰術】【技術要求】Murata Manufacturing 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, Fujitsu，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】日本市場偏好本地品牌和長期合作關係，新供應商需要投入時間建立信任，並提供日語技術支援。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Murata Manufacturing 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 Murata Manufacturing 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Murata Manufacturing 客戶，透過 SCSK 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -4675,7 +4749,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Murata%20Manufacturing%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=1。進入門檻中等，存在一定市場競爭和通路拓展需求，但仍有切入機會。"
     },
     {
       "rank": 76,
@@ -4719,7 +4794,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dentsu%20Group%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=1。進入門檻中等，存在一定市場競爭和通路拓展需求，但仍有切入機會。"
     },
     {
       "rank": 77,
@@ -4853,7 +4929,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Razorpay%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=1。進入門檻中等，存在一定市場競爭和通路拓展需求，但仍有切入機會。"
     },
     {
       "rank": 78,
@@ -4866,7 +4943,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Samsung已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Kakao Bank 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Kakao Bank 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Kakao Bank 客戶，透過 LG CNS 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -4903,7 +4980,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Kakao%20Bank%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=1。進入門檻中等，存在一定市場競爭和通路拓展需求，但仍有切入機會。"
     },
     {
       "rank": 79,
@@ -4947,7 +5025,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Toss%20(Viva%20Republica)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=1。進入門檻中等，存在一定市場競爭和通路拓展需求，但仍有切入機會。"
     },
     {
       "rank": 80,
@@ -4997,7 +5076,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Bukalapak%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=1。進入門檻中等，存在一定市場競爭和通路拓展需求，但仍有切入機會。"
     },
     {
       "rank": 81,
@@ -5010,7 +5090,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 3,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Fujitsu已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Ricoh Company 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Ricoh Company 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Ricoh Company 客戶，透過 株式会社イグアス 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -5155,7 +5235,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ricoh%20Company%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=2。綜合供應商(4), 決策(4), 技術(2), 通路(4), 競爭(4), 風險(2)的加權評分。"
     },
     {
       "rank": 82,
@@ -5172,10 +5253,10 @@
       "challenges": "【電信業戰術】【技術門檻較低】Paytm (One97 Communications) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【供應鏈壁壘】目前主要供應商為 Dell, HPE，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】印度市場價格敏感度高，且偏好有本地服務能力的供應商。需要建立當地的技術支援和維修服務體系。 【產業特性】電信業對網路設備和伺服器的穩定性、長期維護支援有嚴格要求，採購週期長但訂單量穩定。",
       "entryPoint": "【電信業戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Paytm (One97 Communications)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 Paytm (One97 Communications) 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Paytm (One97 Communications) 客戶，透過 印度本地 SI 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP, Engineering & Infrastructure",
+        "name": "Deependra Rathore",
+        "title": "Chief Technology Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Paytm%20(One97%20Communications)",
-        "source": ""
+        "source": "https://www.linkedin.com/posts/observenow_paytm-elevates-deependra-singh-rathore-as-activity-7248973966902525952-OCSu"
       },
       "siDist": [
         {
@@ -5199,7 +5280,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Paytm%20(One97%20Communications)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=4。綜合供應商(4), 決策(6), 技術(2), 通路(4), 競爭(4), 風險(4)的加權評分。"
     },
     {
       "rank": 83,
@@ -5216,10 +5298,10 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Supermicro已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 NHN Corporation，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 NHN Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 NHN Corporation 客戶，透過 Saeol Information Technology 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "Director, Cloud Infrastructure",
+        "name": "(推估) Jae Woo Lee",
+        "title": "Head of Platform Business",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20NHN%20Corporation",
-        "source": ""
+        "source": "https://kr.linkedin.com/in/jwlee78/en"
       },
       "siDist": [
         {
@@ -5273,7 +5355,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=NHN%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=2, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=4。綜合供應商(4), 決策(4), 技術(2), 通路(6), 競爭(4), 風險(4)的加權評分。"
     },
     {
       "rank": 84,
@@ -5317,7 +5400,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Vedanta%20Limited%20(IT%20部門)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=4。綜合供應商(4), 決策(4), 技術(2), 通路(4), 競爭(4), 風險(4)的加權評分。"
     },
     {
       "rank": 85,
@@ -5330,7 +5414,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST: 印尼本地 SI",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Lenovo已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Astra International 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Astra International 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Astra International 客戶，透過 Astra Graphia Information Technology 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -5397,7 +5481,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Astra%20International%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=4。綜合供應商(4), 決策(4), 技術(2), 通路(4), 競爭(4), 風險(4)的加權評分。"
     },
     {
       "rank": 86,
@@ -5410,7 +5495,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, GPU: ESC8000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Lenovo已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Tata Motors (JLR) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Tata Motors (JLR) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Tata Motors (JLR) 客戶，透過 PTC 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -5465,7 +5550,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tata%20Motors%20(JLR)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=4。綜合供應商(4), 決策(4), 技術(4), 通路(4), 競爭(4), 風險(4)的加權評分。"
     },
     {
       "rank": 87,
@@ -5478,7 +5564,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 3,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Fujitsu已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Canon Inc. 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Canon Inc. 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Canon Inc. 客戶，透過 iFORCOM Co., Ltd. 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -5521,7 +5607,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Canon%20Inc.%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=2。綜合供應商(4), 決策(4), 技術(2), 通路(4), 競爭(4), 風險(2)的加權評分。"
     },
     {
       "rank": 88,
@@ -5565,7 +5652,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Zomato%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=4。綜合供應商(4), 決策(4), 技術(2), 通路(4), 競爭(4), 風險(4)的加權評分。"
     },
     {
       "rank": 89,
@@ -5578,7 +5666,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
       "channel": "直供",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, AWS (主要雲端)已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Canva，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Canva 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Canva 客戶，透過 Insight 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -5627,7 +5715,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Canva%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=8, D2(採購決策複雜度)=4, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=2, D6(地緣政治)=2。綜合供應商(8), 決策(4), 技術(4), 通路(6), 競爭(2), 風險(2)的加權評分。"
     },
     {
       "rank": 90,
@@ -5640,7 +5729,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 6,
+      "difficulty": 3,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 BHP Group (亞太業務) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 BHP Group (亞太業務) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 BHP Group (亞太業務) 客戶，透過 Accenture 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -5683,7 +5772,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=BHP%20Group%20(亞太業務)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=2。綜合供應商(4), 決策(4), 技術(2), 通路(4), 競爭(4), 風險(2)的加權評分。"
     },
     {
       "rank": 91,
@@ -5696,7 +5786,7 @@
       "odmOem": "Mixed",
       "asusModel": "雲端遊戲 GPU: ESC4000A-E12 (AMD GPU), ESC8000-E12 (4U 8-GPU)；通用伺服器: RS720-E12 (2U), RS700-E11 (1U)",
       "channel": "SI/DIST: Telehouse Thailand (資料中心夥伴); Com7 (零售通路)",
-      "difficulty": 6,
+      "difficulty": 3,
       "challenges": "【NeoCloud/AI 新創戰術】【技術門檻】Brother Pictures 使用 NVIDIA GeForce RTX 遊戲級 GPU（非企業級 HGX），伺服器規格與傳統 AI 伺服器不同，需要針對雲端遊戲串流優化的方案。【供應鏈壁壘】作為 NVIDIA GeForce NOW Alliance Partner，可能受 NVIDIA 推薦供應商影響，但非強制綁定。投資規模 1.6 億泰銖（約 450 萬美元）相對較小。【商務挑戰】公司規模較小，採購決策集中於 CEO，需要建立直接高層關係。預算有限，對 TCO 敏感度高。【產業特性】雲端遊戲市場快速成長，泰國定位為東南亞雲端遊戲樞紐（覆蓋 CLMV 國家），未來擴展潛力大。",
       "entryPoint": "【NeoCloud/AI 新創戰術】【短期（6-12個月）】1. 透過 Telehouse Thailand 的 KDDI 母公司關係建立接觸，ASUS 與 KDDI 在日本已有合作基礎。2. 提供 ASUS 遊戲 GPU 伺服器的 POC 測試，展示在 GeForce NOW 串流場景下的效能與穩定性優勢。3. 針對 RTX 5080 升級需求，提供預配置的 GPU 伺服器方案。【中期（1-2年）】4. 支援 Brother Pictures 擴展至 CLMV 市場（柬埔寨、寮國、緬甸、越南），提供區域部署方案。5. 提供 CG 渲染與 AI 推論的多用途伺服器方案，協助其拓展非遊戲業務。【長期（2-3年）】6. 隨著用戶規模從 30 萬成長至百萬級，成為其核心伺服器供應商。7. 共同開發針對東南亞雲端遊戲市場的客製化伺服器方案。【關鍵行動】透過 KDDI/Telehouse 關係安排與 CEO Alan Archapiraj 的技術交流會議。",
       "keyPerson": {
@@ -5740,7 +5830,8 @@
       "actualSiPartners": "Telehouse Thailand, Com7",
       "volumeSource": "https://brickinfotv.com/en/278757",
       "industry": "NeoCloud/AI",
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=2, D3(技術門檻)=3, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=1。各項指標均在可控範圍，整體難度中等。"
     },
     {
       "rank": 92,
@@ -5753,14 +5844,14 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, GPU 工作站: ESC8000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 3,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Lenovo已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Daewoo E&C (現 DL E&C) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Daewoo E&C (現 DL E&C) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Daewoo E&C (現 DL E&C) 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "Director, IT Systems",
+        "name": "김일환 (Ilhwan Kim)",
+        "title": "IT Manager",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20Daewoo%20E&C%20(現%20DL%20E&C)",
-        "source": ""
+        "source": "https://kr.linkedin.com/in/kim-ilhwan-%EA%B9%80%EC%9D%BC%ED%99%98-7698126b"
       },
       "siDist": [
         {
@@ -5784,7 +5875,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Daewoo%20E&C%20(現%20DL%20E&C)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=1, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=1。主要挑戰來自採購流程複雜，導致整體難度增加。"
     },
     {
       "rank": 93,
@@ -5797,7 +5889,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 3,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Fujitsu已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Daikin Industries 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Daikin Industries 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Daikin Industries 客戶，透過 Universal Supply Group 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -5840,7 +5932,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Daikin%20Industries%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=1, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=1。主要挑戰來自採購流程複雜，導致整體難度增加。"
     },
     {
       "rank": 94,
@@ -5853,7 +5946,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST: 印度本地 SI",
-      "difficulty": 3,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, AWS (部分雲端)已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Meesho，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Meesho 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Meesho 客戶，透過 Microsoft 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -5890,7 +5983,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Meesho%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=5, D3(技術門檻)=1, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=3。主要挑戰來自採購流程複雜，導致整體難度增加。"
     },
     {
       "rank": 95,
@@ -5903,14 +5997,14 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 3,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, AWS (部分雲端)已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 DeNA Co., Ltd.，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 DeNA Co., Ltd. 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 DeNA Co., Ltd. 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
-        "name": "待查詢",
-        "title": "VP, Infrastructure Engineering",
+        "name": "Noboru Torigoe",
+        "title": "IT基盤部",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=待查詢%20DeNA%20Co.,%20Ltd.",
-        "source": ""
+        "source": "https://techcon2024.dena.dev/session/session6/"
       },
       "siDist": [
         {
@@ -5934,7 +6028,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=DeNA%20Co.,%20Ltd.%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=5, D3(技術門檻)=1, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=1。主要挑戰來自採購流程複雜，導致整體難度增加。"
     },
     {
       "rank": 96,
@@ -5947,7 +6042,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 3,
       "challenges": "【汽車/自駕業戰術】【產業轉型中】汽車業正從傳統 IT 轉向大規模 AI 基礎設施投資，採購流程仍在調整中。【既有關係】Dell, HPE, Fujitsu已建立合作關係。【特殊需求】自駕訓練需要大量 GPU 運算，對散熱和電力效率要求極高。【工廠環境】邊緣部署需考慮工廠環境的溫度、震動、灰塵等因素。",
       "entryPoint": "【汽車/自駕業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Suzuki Motor Corporation 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Suzuki Motor Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Suzuki Motor Corporation 客戶，透過 Tata Elxsi 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -5984,7 +6079,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Suzuki%20Motor%20Corporation%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=1, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=1。主要挑戰來自採購流程複雜，導致整體難度增加。"
     },
     {
       "rank": 97,
@@ -5997,7 +6093,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 3,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Woolworths Group 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Woolworths Group 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Woolworths Group 客戶，透過 Tata Consultancy Services 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -6028,7 +6124,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Woolworths%20Group%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=1, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=1。主要挑戰來自採購流程複雜，導致整體難度增加。"
     },
     {
       "rank": 98,
@@ -6041,7 +6138,7 @@
       "odmOem": "OEM/ODM 混合",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4GPU: ESC4000A-E12",
       "channel": "直供",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【NeoCloud/AI 新創戰術】【速度需求】NeoCloud 企業擴張速度極快，需要供應商能在 4-6 週內交付大批量 GPU 伺服器。【資金風險】部分 NeoCloud 企業財務狀況尚不穩定，需評估付款風險。【技術要求】對 GPU 密度、液冷支援、電力效率要求極高。【競爭激烈】Dell、Supermicro 已積極搶攻 NeoCloud 市場。",
       "entryPoint": "【NeoCloud/AI 新創戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Stability AI (亞太業務) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供 ASUS ESC 系列 GPU 伺服器和 AI POD 解決方案的技術方案書，展示在 NVIDIA Blackwell/Rubin 平台的先發優勢。4. 針對 Stability AI (亞太業務) 的液冷需求提供差異化的散熱解決方案，這是目前市場上的關鍵差異化因素。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Stability AI (亞太業務) 客戶，透過 Stability AI (亞太業務) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -6072,7 +6169,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Stability%20AI%20(亞太業務)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=2, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=1。主要挑戰來自供應商高度鎖定、通路需拓展，導致整體難度增加。"
     },
     {
       "rank": 99,
@@ -6085,7 +6183,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 3,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Celltrion 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Celltrion 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Celltrion 客戶，透過 Emerson Process Management 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -6116,7 +6214,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Celltrion%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=1, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=1。主要挑戰來自採購流程複雜，導致整體難度增加。"
     },
     {
       "rank": 100,
@@ -6129,7 +6228,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST",
-      "difficulty": 6,
+      "difficulty": 3,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Foxconn (母公司)已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Sharp Corporation 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Sharp Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Sharp Corporation 客戶，透過 Sharp Marketing Japan 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -6166,7 +6265,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sharp%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=1, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=1。主要挑戰來自採購流程複雜，導致整體難度增加。"
     },
     {
       "rank": 101,
@@ -6179,7 +6279,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST: 印度本地 SI",
-      "difficulty": 3,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【技術門檻較低】Byju's (Think & Learn) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, AWS (部分雲端)，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】印度市場價格敏感度高，且偏好有本地服務能力的供應商。需要建立當地的技術支援和維修服務體系。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Byju's (Think & Learn)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Byju's (Think & Learn) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Byju's (Think & Learn) 客戶，透過 印度本地 SI 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -6210,7 +6310,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Byju's%20(Think%20&%20Learn)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=4, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=2。主要挑戰來自：市場競爭激烈。"
     },
     {
       "rank": 102,
@@ -6223,7 +6324,7 @@
       "odmOem": "OEM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 3,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Fujitsu已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Bridgestone Corporation 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Bridgestone Corporation 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Bridgestone Corporation 客戶，透過 Bridgestone Software Co.,Ltd. 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -6254,7 +6355,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Bridgestone%20Corporation%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=4, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=1。主要挑戰來自：市場競爭激烈。"
     },
     {
       "company": "Panasonic Holdings",
@@ -6266,7 +6368,7 @@
       "odmOem": "OEM",
       "asusModel": "RS700-E11, RS720-E11, ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 6,
+      "difficulty": 4,
       "challenges": "【汽車/自駕業戰術】【產業轉型中】汽車業正從傳統 IT 轉向大規模 AI 基礎設施投資，採購流程仍在調整中。【既有關係】Dell, HPE, Hitachi已建立合作關係。【特殊需求】自駕訓練需要大量 GPU 運算，對散熱和電力效率要求極高。【工廠環境】邊緣部署需考慮工廠環境的溫度、震動、灰塵等因素。",
       "entryPoint": "【汽車/自駕業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Panasonic Holdings 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Panasonic Holdings 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Panasonic Holdings 客戶，透過 Denali Advanced Integration 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -6310,7 +6412,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Panasonic%20Holdings%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=4, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=1。主要挑戰來自：市場競爭激烈。"
     },
     {
       "company": "Kotak Mahindra Bank",
@@ -6322,7 +6425,7 @@
       "odmOem": "OEM",
       "asusModel": "RS520-E11, RS720-E11",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【金融業戰術】【技術要求】Kotak Mahindra Bank 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】印度市場價格敏感度高，且偏好有本地服務能力的供應商。需要建立當地的技術支援和維修服務體系。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Kotak Mahindra Bank 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 Kotak Mahindra Bank 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Kotak Mahindra Bank 客戶，透過 Finastra 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -6360,7 +6463,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Kotak%20Mahindra%20Bank%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=2。主要挑戰來自：採購決策複雜。"
     },
     {
       "rank": 105,
@@ -6373,7 +6477,7 @@
       "odmOem": "Mixed",
       "asusModel": "AI 伺服器 (Blackwell): ESC NB8-E11, AI 伺服器 (Hopper): ESC N8-E11, ESC8000-E12, 通用伺服器: RS720-E12, RS720A-E12",
       "channel": "SI/DIST: NetClass Technology (https://www.netclass.us)",
-      "difficulty": 7,
+      "difficulty": 2,
       "challenges": "【技術門檻】RunSun Cloud 專注於最新的 NVIDIA Blackwell 和 Grace Hopper 平台，特別是液冷方案的 GB200 NVL72。華碩需要展示其擁有同等競爭力且能即時供貨的解決方案，任何產品上市時間的延遲都將是重大劣勢。\n【供應鏈壁壘】一線ODM大廠（如廣達、緯創/緯穎、美超微）與 NVIDIA 關係緊密，掌握了新 GPU 平台的大部分產能。華碩需要證明其擁有更優越的供應鏈能力，以確保能為 RunSun 穩定提供這些高需求的關鍵零組件。\n【商務挑戰】作為一家新創公司，RunSun 可能對價格非常敏感，且可能已從其初始供應商那裡獲得了優惠價格。華碩需要在定價上採取積極策略，並提供靈活的商業條款。此外，他們與系統整合商 NetClass 的合作關係也為銷售流程增加了複雜性。",
       "entryPoint": "【archetype戰術】針對 Neocloud 客戶，提供高度客製化、快速導入以及彈性付款的方案，強調 TCO (總體擁有成本) 優勢。\n【短期（6-12個月）】針對其 H100/H200 需求，提供 ESC N8-E11 或 ESC8000-E12 的樣機進行 PoC (概念驗證) 測試，展示華碩伺服器的效能與穩定性。同時，與其通路夥伴 NetClass Technology 建立合作關係。\n【中期（1-2年）】積極推廣華碩的 Blackwell 平台解決方案 (ESC NB8-E11)，強調華碩在散熱設計、電源效率和管理軟體上的優勢。爭取成為其下一代基礎設施的第二或第三供應商。\n【長期（2-3年）】深化技術合作，共同針對東南亞市場的 AI 應用進行伺服器效能優化，甚至探討聯合開發的可能性，成為其長期的戰略硬體夥伴。\n【關鍵行動】立即聯繫 RunSun Cloud 的 CTO Jason Yan，安排一場技術簡報會議，介紹華碩的 AI 伺服器產品組合與藍圖。",
       "keyPerson": {
@@ -6405,7 +6509,8 @@
       "actualSiPartners": "",
       "volumeSource": "https://www.ainvest.com/news/netclass-tech-partners-runsun-cloud-ai-computing-infrastructure-2510/",
       "industry": "NeoCloud/AI",
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(供應商鎖定)=1, D2(採購決策複雜度)=2, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=2, D6(地緣政治)=2。各項指標均在可控範圍，拓展難度較低。"
     }
   ],
   "totalCompanies": 100

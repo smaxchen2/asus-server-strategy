@@ -14,7 +14,7 @@
       "odmOem": "ODM/OEM 混合",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, 通用2U: RS720A-E12, AI POD: 液冷機櫃方案",
       "channel": "直供",
-      "difficulty": 7,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【技術要求】字節跳動 (ByteDance) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 浪潮, 新華三 (H3C), 聯想, Supermicro, Dell，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 字節跳動 (ByteDance) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 字節跳動 (ByteDance) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 字節跳動 (ByteDance) 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 字節跳動 (ByteDance) 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 字節跳動 (ByteDance) 客戶，透過 神州數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -45,7 +45,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=字節跳動%20(ByteDance)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=5, D6(地緣政治)=7。主要挑戰來自需跨部門評估，3-6 個月。"
     },
     {
       "rank": 2,
@@ -58,7 +59,7 @@
       "odmOem": "ODM (部分自行設計)",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
       "channel": "直供",
-      "difficulty": 8,
+      "difficulty": 6,
       "challenges": "【零售/電商業戰術】【技術門檻】阿里雲 (Alibaba Cloud) 以 ODM 模式採購，對伺服器的設計、散熱、電源效率有嚴格的技術規格要求，需通過長時間的技術驗證流程。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。",
       "entryPoint": "【零售/電商業戰術】【短期（6-12個月）】1. 透過 神州數碼 等通路合作夥伴建立間接合作關係，先以小規模專案證明 ASUS 的技術能力和服務品質。2. 針對 阿里雲 (Alibaba Cloud) 的非核心或新興業務需求提供標準化伺服器方案，降低切入門檻。 【中期（6-12個月）】3. 深入了解 阿里雲 (Alibaba Cloud) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 阿里雲 (Alibaba Cloud) 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 阿里雲 (Alibaba Cloud) 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 阿里雲 (Alibaba Cloud) 客戶，透過 神州數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -89,7 +90,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=阿里雲%20(Alibaba%20Cloud)%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
-      "archetype": "retail"
+      "archetype": "retail",
+      "difficultyReason": "D1(供應商鎖定)=9, D2(採購決策複雜度)=5, D3(技術門檻)=7, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自採用自研或獨家供應商的解決方案。"
     },
     {
       "rank": 3,
@@ -102,7 +104,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
       "channel": "直供",
-      "difficulty": 8,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【技術門檻】騰訊雲 (Tencent Cloud) 以 ODM 模式採購，對伺服器的設計、散熱、電源效率有嚴格的技術規格要求，需通過長時間的技術驗證流程。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。",
       "entryPoint": "【企業 IT 戰術】【短期（6-12個月）】1. 透過 神州數碼 等通路合作夥伴建立間接合作關係，先以小規模專案證明 ASUS 的技術能力和服務品質。2. 針對 騰訊雲 (Tencent Cloud) 的非核心或新興業務需求提供標準化伺服器方案，降低切入門檻。 【中期（6-12個月）】3. 深入了解 騰訊雲 (Tencent Cloud) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 騰訊雲 (Tencent Cloud) 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 騰訊雲 (Tencent Cloud) 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 騰訊雲 (Tencent Cloud) 客戶，透過 神州數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -133,7 +135,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=騰訊雲%20(Tencent%20Cloud)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自需跨部門評估，3-6 個月。"
     },
     {
       "rank": 4,
@@ -146,7 +149,7 @@
       "odmOem": "ODM (部分自行設計)",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
       "channel": "直供",
-      "difficulty": 8,
+      "difficulty": 6,
       "challenges": "【NeoCloud/AI 新創戰術】【技術門檻】百度智能雲 (Baidu AI Cloud) 以 ODM 模式採購，對伺服器的設計、散熱、電源效率有嚴格的技術規格要求，需通過長時間的技術驗證流程。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。 【產業特性】NeoCloud/AI 產業對 GPU 伺服器的效能、散熱（液冷）和快速部署能力有極高要求，技術迭代速度快，供應商需持續跟進最新平台。",
       "entryPoint": "【NeoCloud/AI 新創戰術】【短期（6-12個月）】1. 透過 紫光數碼 等通路合作夥伴建立間接合作關係，先以小規模專案證明 ASUS 的技術能力和服務品質。2. 針對 百度智能雲 (Baidu AI Cloud) 的非核心或新興業務需求提供標準化伺服器方案，降低切入門檻。 【中期（6-12個月）】3. 提供 ASUS ESC 系列 GPU 伺服器和 AI POD 解決方案的技術方案書，展示在 NVIDIA Blackwell/Rubin 平台的先發優勢。4. 針對 百度智能雲 (Baidu AI Cloud) 的液冷需求提供差異化的散熱解決方案，這是目前市場上的關鍵差異化因素。 【長期（1-2年）】5. 爭取成為 百度智能雲 (Baidu AI Cloud) 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 百度智能雲 (Baidu AI Cloud) 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 百度智能雲 (Baidu AI Cloud) 客戶，透過 紫光數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -177,7 +180,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=百度智能雲%20(Baidu%20AI%20Cloud)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(供應商鎖定)=9, D2(採購決策複雜度)=1, D3(技術門檻)=7, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自採用自研或獨家供應商的解決方案。"
     },
     {
       "rank": 5,
@@ -190,7 +194,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12, 儲存: RS520-E11",
       "channel": "直供",
-      "difficulty": 7,
+      "difficulty": 4,
       "challenges": "【零售/電商業戰術】【成本導向】零售業利潤率低，對伺服器 TCO 極度敏感。【既有關係】浪潮, 新華三 (H3C), 聯想已建立穩定的供應關係。【季節性需求】零售業有明顯的季節性採購高峰（黑五、雙十一），需要供應商能快速擴容。【分散部署】門市邊緣 AI 需要大量小型伺服器分散部署。",
       "entryPoint": "【零售/電商業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 京東科技 (JD Technology) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 京東科技 (JD Technology) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 京東科技 (JD Technology) 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 京東科技 (JD Technology) 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 京東科技 (JD Technology) 客戶，透過 京東科技 (JD Technology) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -221,7 +225,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=京東科技%20(JD%20Technology)%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
-      "archetype": "retail"
+      "archetype": "retail",
+      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自需跨部門評估，3-6 個月。"
     },
     {
       "rank": 6,
@@ -234,7 +239,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12, 邊緣: E700 系列",
       "channel": "直供",
-      "difficulty": 6,
+      "difficulty": 4,
       "challenges": "【零售/電商業戰術】【成本導向】零售業利潤率低，對伺服器 TCO 極度敏感。【既有關係】浪潮, 新華三 (H3C), 聯想已建立穩定的供應關係。【季節性需求】零售業有明顯的季節性採購高峰（黑五、雙十一），需要供應商能快速擴容。【分散部署】門市邊緣 AI 需要大量小型伺服器分散部署。",
       "entryPoint": "【零售/電商業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 美團 (Meituan) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 美團 (Meituan) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 美團 (Meituan) 客戶，透過 神州數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -265,7 +270,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=美團%20(Meituan)%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
-      "archetype": "retail"
+      "archetype": "retail",
+      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自需跨部門評估，3-6 個月。"
     },
     {
       "rank": 7,
@@ -278,7 +284,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
       "channel": "直供",
-      "difficulty": 6,
+      "difficulty": 5,
       "challenges": "【金融業戰術】【技術要求】拼多多 (PDD Holdings / Temu) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 拼多多 (PDD Holdings / Temu) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 拼多多 (PDD Holdings / Temu) 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 拼多多 (PDD Holdings / Temu) 客戶，透過 拼多多 (PDD Holdings / Temu) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -309,7 +315,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=拼多多%20(PDD%20Holdings%20/%20Temu)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自有主要供應商但非獨家，切換成本中等。"
     },
     {
       "rank": 8,
@@ -322,7 +329,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12, 通用1U: RS700-E11",
       "channel": "直供",
-      "difficulty": 6,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】浪潮, 新華三 (H3C), 聯想已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 網易 (NetEase) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 網易 (NetEase) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 網易 (NetEase) 客戶，透過 紫光數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -353,7 +360,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=網易%20(NetEase)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自需跨部門評估，3-6 個月。"
     },
     {
       "rank": 9,
@@ -366,7 +374,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12, AI 8GPU: ESC N8-E11",
       "channel": "直供",
-      "difficulty": 6,
+      "difficulty": 4,
       "challenges": "【電信業戰術】【電信級要求】NEBS Level 3 認證、99.999% 可用性、-40°C~65°C 工作溫度等嚴苛規格。【既有生態系】浪潮, 新華三 (H3C), 聯想已深度整合至電信 NFV/SDN 平台。【長期合約】電信業設備採購通常為 3-5 年框架合約，替換窗口有限。【規模經濟】電信業對價格極度敏感，需提供大量折扣。",
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 快手 (Kuaishou) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 快手 (Kuaishou) 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 快手 (Kuaishou) 客戶，透過 神州數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -397,7 +405,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=快手%20(Kuaishou)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自需跨部門評估，3-6 個月。"
     },
     {
       "rank": 10,
@@ -410,7 +419,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
       "channel": "直供",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】浪潮, 新華三 (H3C)已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 小紅書 (Xiaohongshu / RED) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 小紅書 (Xiaohongshu / RED) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 小紅書 (Xiaohongshu / RED) 客戶，透過 小紅書 (Xiaohongshu / RED) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -441,7 +450,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=小紅書%20(Xiaohongshu%20/%20RED)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 11,
@@ -454,7 +464,7 @@
       "odmOem": "ODM",
       "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12",
       "channel": "直供",
-      "difficulty": 7,
+      "difficulty": 6,
       "challenges": "【金融業戰術】【技術要求】螞蟻集團 (Ant Group) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 螞蟻集團 (Ant Group) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 螞蟻集團 (Ant Group) 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 爭取成為 螞蟻集團 (Ant Group) 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 螞蟻集團 (Ant Group) 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 螞蟻集團 (Ant Group) 客戶，透過 螞蟻集團 (Ant Group) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -485,7 +495,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=螞蟻集團%20(Ant%20Group)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 12,
@@ -498,7 +509,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12, 通用1U: RS700-E11",
       "channel": "直供",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】浪潮, 新華三 (H3C)已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 嗶哩嗶哩 (Bilibili) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 嗶哩嗶哩 (Bilibili) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 嗶哩嗶哩 (Bilibili) 客戶，透過 嗶哩嗶哩 (Bilibili) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -529,7 +540,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=嗶哩嗶哩%20(Bilibili)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 13,
@@ -573,7 +585,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=滴滴出行%20(DiDi)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 14,
@@ -617,7 +630,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=金山雲%20(Kingsoft%20Cloud)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 15,
@@ -661,7 +675,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=平安科技%20(Ping%20An%20Technology)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=7, D6(地緣政治)=8。主要挑戰在於採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 16,
@@ -674,7 +689,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12, AI POD: 液冷機櫃方案",
       "channel": "直供",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【NeoCloud/AI 新創戰術】【技術門檻較低】百川智能 (Baichuan AI) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。 【產業特性】NeoCloud/AI 產業對 GPU 伺服器的效能、散熱（液冷）和快速部署能力有極高要求，技術迭代速度快，供應商需持續跟進最新平台。",
       "entryPoint": "【NeoCloud/AI 新創戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 百川智能 (Baichuan AI)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 提供 ASUS ESC 系列 GPU 伺服器和 AI POD 解決方案的技術方案書，展示在 NVIDIA Blackwell/Rubin 平台的先發優勢。4. 針對 百川智能 (Baichuan AI) 的液冷需求提供差異化的散熱解決方案，這是目前市場上的關鍵差異化因素。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 百川智能 (Baichuan AI) 客戶，透過 百川智能 (Baichuan AI) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -705,7 +720,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=百川智能%20(Baichuan%20AI)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(供應商鎖定)=2, D2(採購決策複雜度)=2, D3(技術門檻)=8, D4(通路可及性)=6, D5(市場競爭)=6, D6(地緣政治)=8。主要挑戰在於高技術門檻、需新通路開發、地緣政治風險高。"
     },
     {
       "rank": 17,
@@ -718,7 +734,7 @@
       "odmOem": "ODM",
       "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12",
       "channel": "直供",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】浪潮, 新華三 (H3C)已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 微博 (Weibo) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 微博 (Weibo) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 微博 (Weibo) 客戶，透過 微博 (Weibo) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -749,7 +765,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=微博%20(Weibo)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=7。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 18,
@@ -762,7 +779,7 @@
       "odmOem": "ODM",
       "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12",
       "channel": "直供",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】浪潮, 新華三 (H3C)已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 攜程集團 (Trip.com Group) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 攜程集團 (Trip.com Group) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 攜程集團 (Trip.com Group) 客戶，透過 攜程集團 (Trip.com Group) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -793,7 +810,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=攜程集團%20(Trip.com%20Group)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=7。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 19,
@@ -837,7 +855,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=小米集團%20(Xiaomi)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 20,
@@ -850,7 +869,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12",
       "channel": "直供",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【NeoCloud/AI 新創戰術】【技術門檻較低】智譜 AI (Zhipu AI) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。 【產業特性】NeoCloud/AI 產業對 GPU 伺服器的效能、散熱（液冷）和快速部署能力有極高要求，技術迭代速度快，供應商需持續跟進最新平台。",
       "entryPoint": "【NeoCloud/AI 新創戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 智譜 AI (Zhipu AI)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 提供 ASUS ESC 系列 GPU 伺服器和 AI POD 解決方案的技術方案書，展示在 NVIDIA Blackwell/Rubin 平台的先發優勢。4. 針對 智譜 AI (Zhipu AI) 的液冷需求提供差異化的散熱解決方案，這是目前市場上的關鍵差異化因素。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 智譜 AI (Zhipu AI) 客戶，透過 智譜 AI (Zhipu AI) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -881,7 +900,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=智譜%20AI%20(Zhipu%20AI)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=2, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=8。主要挑戰來自 地緣政治風險(8)、供應商鎖定(6)。"
     },
     {
       "rank": 21,
@@ -925,7 +945,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=順豐科技%20(SF%20Technology)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=6。主要挑戰來自 供應商鎖定(6)、通路需開發(6)。"
     },
     {
       "rank": 22,
@@ -938,7 +959,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12",
       "channel": "直供",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【NeoCloud/AI 新創戰術】【技術門檻較低】月之暗面 (Moonshot AI / Kimi) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。 【產業特性】NeoCloud/AI 產業對 GPU 伺服器的效能、散熱（液冷）和快速部署能力有極高要求，技術迭代速度快，供應商需持續跟進最新平台。",
       "entryPoint": "【NeoCloud/AI 新創戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 月之暗面 (Moonshot AI / Kimi)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 提供 ASUS ESC 系列 GPU 伺服器和 AI POD 解決方案的技術方案書，展示在 NVIDIA Blackwell/Rubin 平台的先發優勢。4. 針對 月之暗面 (Moonshot AI / Kimi) 的液冷需求提供差異化的散熱解決方案，這是目前市場上的關鍵差異化因素。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 月之暗面 (Moonshot AI / Kimi) 客戶，透過 月之暗面 (Moonshot AI / Kimi) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -969,7 +990,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=月之暗面%20(Moonshot%20AI%20/%20Kimi)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=2, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=8。主要挑戰來自 地緣政治風險(8)、供應商鎖定(6)。"
     },
     {
       "rank": 23,
@@ -1013,7 +1035,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=深度求索%20(DeepSeek)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(供應商鎖定)=8, D2(採購決策複雜度)=2, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=8。主要挑戰來自 地緣政治風險(8)、供應商鎖定(8)。"
     },
     {
       "company": "幻方量化 (High-Flyer Capital)",
@@ -1025,7 +1048,7 @@
       "odmOem": "ODM",
       "asusModel": "ESC8000-E12, ESC4000A-E12",
       "channel": "ODM Direct",
-      "difficulty": 3,
+      "difficulty": 6,
       "challenges": "【金融業戰術】【技術門檻較低】幻方量化 (High-Flyer Capital) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 幻方量化 (High-Flyer Capital)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 幻方量化 (High-Flyer Capital) 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 幻方量化 (High-Flyer Capital) 客戶，透過 幻方量化 (High-Flyer Capital) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1057,7 +1080,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=幻方量化%20(High-Flyer%20Capital)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=8, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=8。主要挑戰來自 地緣政治風險(8)、供應商鎖定(8)。"
     },
     {
       "rank": 25,
@@ -1070,7 +1094,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12",
       "channel": "直供",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【NeoCloud/AI 新創戰術】【速度需求】NeoCloud 企業擴張速度極快，需要供應商能在 4-6 週內交付大批量 GPU 伺服器。【資金風險】部分 NeoCloud 企業財務狀況尚不穩定，需評估付款風險。【技術要求】對 GPU 密度、液冷支援、電力效率要求極高。【競爭激烈】Dell、Supermicro 已積極搶攻 NeoCloud 市場。",
       "entryPoint": "【NeoCloud/AI 新創戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 MiniMax，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 提供 ASUS ESC 系列 GPU 伺服器和 AI POD 解決方案的技術方案書，展示在 NVIDIA Blackwell/Rubin 平台的先發優勢。4. 針對 MiniMax 的液冷需求提供差異化的散熱解決方案，這是目前市場上的關鍵差異化因素。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 MiniMax 客戶，透過 MiniMax (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1101,7 +1125,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=MiniMax%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=2, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=8。主要挑戰來自 地緣政治風險(8)、供應商鎖定(6)。"
     },
     {
       "rank": 26,
@@ -1114,7 +1139,7 @@
       "odmOem": "OEM/ODM 混合",
       "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720-E11, WS: WS880T",
       "channel": "直供",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【金融業戰術】【技術要求】聯影醫療 (United Imaging) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 浪潮, Dell，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 聯影醫療 (United Imaging) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 聯影醫療 (United Imaging) 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 聯影醫療 (United Imaging) 客戶，透過 紫光數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1145,7 +1170,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=聯影醫療%20(United%20Imaging)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=6。主要挑戰來自 決策複雜(7)、供應商鎖定(6)。"
     },
     {
       "rank": 27,
@@ -1158,7 +1184,7 @@
       "odmOem": "OEM",
       "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720-E11, HPC: RS720Q-E11, WS: WS880T",
       "channel": "直供 + SI: 本地 SI 夥伴",
-      "difficulty": 6,
+      "difficulty": 5,
       "challenges": "【汽車/自駕業戰術】【產業轉型中】汽車業正從傳統 IT 轉向大規模 AI 基礎設施投資，採購流程仍在調整中。【既有關係】浪潮, Dell, HPE已建立合作關係。【特殊需求】自駕訓練需要大量 GPU 運算，對散熱和電力效率要求極高。【工廠環境】邊緣部署需考慮工廠環境的溫度、震動、灰塵等因素。",
       "entryPoint": "【汽車/自駕業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 寧德時代 (CATL) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 寧德時代 (CATL) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 寧德時代 (CATL) 客戶，透過 神州數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1189,7 +1215,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=寧德時代%20(CATL)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=7, D6(地緣政治)=6。主要挑戰來自 決策複雜(7)、競爭激烈(7)。"
     },
     {
       "rank": 28,
@@ -1202,7 +1229,7 @@
       "odmOem": "OEM",
       "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720-E11, WS: WS880T",
       "channel": "直供 + SI: 本地 SI 夥伴",
-      "difficulty": 6,
+      "difficulty": 5,
       "challenges": "【汽車/自駕業戰術】【產業轉型中】汽車業正從傳統 IT 轉向大規模 AI 基礎設施投資，採購流程仍在調整中。【既有關係】浪潮, Dell, HPE已建立合作關係。【特殊需求】自駕訓練需要大量 GPU 運算，對散熱和電力效率要求極高。【工廠環境】邊緣部署需考慮工廠環境的溫度、震動、灰塵等因素。",
       "entryPoint": "【汽車/自駕業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 比亞迪 (BYD) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 比亞迪 (BYD) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 比亞迪 (BYD) 客戶，透過 神州數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1233,7 +1260,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=比亞迪%20(BYD)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=7, D6(地緣政治)=6。主要挑戰來自 決策複雜(7)、競爭激烈(7)。"
     },
     {
       "rank": 29,
@@ -1277,7 +1305,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=海爾卡奧斯%20(Haier%20COSMOPlat)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=6。主要挑戰來自 決策複雜(7)、供應商鎖定(6)。"
     },
     {
       "rank": 30,
@@ -1321,7 +1350,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=用友網絡%20(Yonyou)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=4, D6(地緣政治)=7。主要挑戰來自：供應商高度鎖定、地緣政治風險高。"
     },
     {
       "rank": 31,
@@ -1365,7 +1395,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=貝殼找房%20(KE%20Holdings%20/%20Beike)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。主要挑戰來自：採購流程漫長、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 32,
@@ -1409,7 +1440,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=TCL%20科技%20(TCL%20Technology)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。主要挑戰來自：採購流程漫長、市場競爭激烈、地緣政治風險高。"
     },
     {
       "rank": 33,
@@ -1453,7 +1485,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=藥明康德%20(WuXi%20AppTec)%20procurement%20VP",
         "commStrategy": "透過醫療業 SI（如 Epic Systems 合作夥伴、Cerner 生態系）切入，醫療業採購重視長期服務合約"
       },
-      "archetype": "healthcare"
+      "archetype": "healthcare",
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。主要挑戰來自：採購流程漫長、市場競爭激烈、地緣政治風險高。"
     },
     {
       "company": "階躍星辰 (StepFun)",
@@ -1465,7 +1498,7 @@
       "odmOem": "ODM",
       "asusModel": "ESC8000-E12, ESC4000A-E12",
       "channel": "ODM Direct",
-      "difficulty": 3,
+      "difficulty": 4,
       "challenges": "【NeoCloud/AI 新創戰術】【技術門檻較低】階躍星辰 (StepFun) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。 【產業特性】NeoCloud/AI 產業對 GPU 伺服器的效能、散熱（液冷）和快速部署能力有極高要求，技術迭代速度快，供應商需持續跟進最新平台。",
       "entryPoint": "【NeoCloud/AI 新創戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 階躍星辰 (StepFun)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 提供 ASUS ESC 系列 GPU 伺服器和 AI POD 解決方案的技術方案書，展示在 NVIDIA Blackwell/Rubin 平台的先發優勢。4. 針對 階躍星辰 (StepFun) 的液冷需求提供差異化的散熱解決方案，這是目前市場上的關鍵差異化因素。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 階躍星辰 (StepFun) 客戶，透過 階躍星辰 (StepFun) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1497,7 +1530,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=階躍星辰%20(StepFun)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(供應商鎖定)=2, D2(採購決策複雜度)=2, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自：需拓展新通路、地緣政治風險高。"
     },
     {
       "rank": 35,
@@ -1510,7 +1544,7 @@
       "odmOem": "ODM",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12",
       "channel": "直供",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【NeoCloud/AI 新創戰術】【技術門檻較低】零一萬物 (01.AI) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。 【產業特性】NeoCloud/AI 產業對 GPU 伺服器的效能、散熱（液冷）和快速部署能力有極高要求，技術迭代速度快，供應商需持續跟進最新平台。",
       "entryPoint": "【NeoCloud/AI 新創戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 零一萬物 (01.AI)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 提供 ASUS ESC 系列 GPU 伺服器和 AI POD 解決方案的技術方案書，展示在 NVIDIA Blackwell/Rubin 平台的先發優勢。4. 針對 零一萬物 (01.AI) 的液冷需求提供差異化的散熱解決方案，這是目前市場上的關鍵差異化因素。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 零一萬物 (01.AI) 客戶，透過 零一萬物 (01.AI) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1541,7 +1575,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=零一萬物%20(01.AI)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=2, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=4, D6(地緣政治)=7。主要挑戰來自：需拓展新通路、地緣政治風險高。"
     },
     {
       "rank": 36,
@@ -1554,7 +1589,7 @@
       "odmOem": "OEM/ODM 混合",
       "asusModel": "AI 4U: ESC4000A-E12, AI 8GPU: ESC N8-E11",
       "channel": "直供",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【汽車/自駕業戰術】【產業轉型中】汽車業正從傳統 IT 轉向大規模 AI 基礎設施投資，採購流程仍在調整中。【既有關係】浪潮, Dell已建立合作關係。【特殊需求】自駕訓練需要大量 GPU 運算，對散熱和電力效率要求極高。【工廠環境】邊緣部署需考慮工廠環境的溫度、震動、灰塵等因素。",
       "entryPoint": "【汽車/自駕業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 理想汽車 (Li Auto) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 理想汽車 (Li Auto) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 理想汽車 (Li Auto) 客戶，透過 理想汽車 (Li Auto) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1585,7 +1620,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=理想汽車%20(Li%20Auto)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=4, D6(地緣政治)=7。主要挑戰來自：供應商高度鎖定、採購流程漫長、需拓展新通路、地緣政治風險高。"
     },
     {
       "rank": 37,
@@ -1598,7 +1634,7 @@
       "odmOem": "OEM/ODM 混合",
       "asusModel": "AI 4U: ESC4000A-E12, AI 8GPU: ESC N8-E11",
       "channel": "直供",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【汽車/自駕業戰術】【產業轉型中】汽車業正從傳統 IT 轉向大規模 AI 基礎設施投資，採購流程仍在調整中。【既有關係】浪潮, Dell已建立合作關係。【特殊需求】自駕訓練需要大量 GPU 運算，對散熱和電力效率要求極高。【工廠環境】邊緣部署需考慮工廠環境的溫度、震動、灰塵等因素。",
       "entryPoint": "【汽車/自駕業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 蔚來汽車 (NIO) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 蔚來汽車 (NIO) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 蔚來汽車 (NIO) 客戶，透過 蔚來汽車 (NIO) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1629,7 +1665,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=蔚來汽車%20(NIO)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=4, D6(地緣政治)=7。主要挑戰來自：供應商高度鎖定、採購流程漫長、需拓展新通路、地緣政治風險高。"
     },
     {
       "rank": 38,
@@ -1642,7 +1679,7 @@
       "odmOem": "OEM/ODM 混合",
       "asusModel": "AI 4U: ESC4000A-E12, AI 8GPU: ESC N8-E11",
       "channel": "直供",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【汽車/自駕業戰術】【產業轉型中】汽車業正從傳統 IT 轉向大規模 AI 基礎設施投資，採購流程仍在調整中。【既有關係】浪潮, Dell已建立合作關係。【特殊需求】自駕訓練需要大量 GPU 運算，對散熱和電力效率要求極高。【工廠環境】邊緣部署需考慮工廠環境的溫度、震動、灰塵等因素。",
       "entryPoint": "【汽車/自駕業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 小鵬汽車 (XPeng) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 小鵬汽車 (XPeng) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 小鵬汽車 (XPeng) 客戶，透過 小鵬汽車 (XPeng) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1673,7 +1710,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=小鵬汽車%20(XPeng)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=4, D6(地緣政治)=7。主要挑戰來自：供應商高度鎖定、採購流程漫長、需拓展新通路、地緣政治風險高。"
     },
     {
       "rank": 39,
@@ -1717,7 +1755,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=OPPO%20/%20一加%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=4, D6(地緣政治)=7。主要挑戰來自：供應商高度鎖定、需拓展新通路、地緣政治風險高。"
     },
     {
       "rank": 40,
@@ -1761,7 +1800,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=vivo%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=8。主要挑戰在於地緣政治風險高。"
     },
     {
       "rank": 41,
@@ -1774,7 +1814,7 @@
       "odmOem": "ODM",
       "asusModel": "通用2U: RS720A-E12, AI 4U: ESC4000A-E12",
       "channel": "直供",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【金融業戰術】【合規要求】金融監管（SOX、PCI-DSS、GDPR）對供應商有嚴格的安全認證與審計要求。【採購流程】Vendor Qualification Program 通常需 6-12 個月，包含安全審計、壓力測試、合規驗證。【既有關係】浪潮, 新華三 (H3C)已通過合規認證，替換成本包含重新認證費用。【穩定性優先】金融業極度重視系統穩定性，對新供應商持保守態度。",
       "entryPoint": "【金融業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 金蝶國際 (Kingdee) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 金蝶國際 (Kingdee) 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 金蝶國際 (Kingdee) 客戶，透過 金蝶國際 (Kingdee) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1805,7 +1845,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=金蝶國際%20(Kingdee)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=1, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=5。主要挑戰在於採購決策複雜。"
     },
     {
       "rank": 42,
@@ -1849,7 +1890,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=地平線%20(Horizon%20Robotics)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=2, D3(技術門檻)=8, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=8。主要挑戰在於技術門檻高、地緣政治風險高。"
     },
     {
       "rank": 43,
@@ -1893,7 +1935,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=極氪%20(Zeekr)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=8。主要挑戰在於地緣政治風險高。"
     },
     {
       "rank": 44,
@@ -1937,7 +1980,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=小馬智行%20(Pony.ai)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=8。主要挑戰在於地緣政治風險高。"
     },
     {
       "company": "光年之外 (Lightspeed)",
@@ -1949,7 +1993,7 @@
       "odmOem": "ODM",
       "asusModel": "ESC8000-E12",
       "channel": "ODM Direct",
-      "difficulty": 4,
+      "difficulty": 3,
       "challenges": "【NeoCloud/AI 新創戰術】【技術門檻較低】光年之外 (Lightspeed) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。 【產業特性】NeoCloud/AI 產業對 GPU 伺服器的效能、散熱（液冷）和快速部署能力有極高要求，技術迭代速度快，供應商需持續跟進最新平台。",
       "entryPoint": "【NeoCloud/AI 新創戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 光年之外 (Lightspeed)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 提供 ASUS ESC 系列 GPU 伺服器和 AI POD 解決方案的技術方案書，展示在 NVIDIA Blackwell/Rubin 平台的先發優勢。4. 針對 光年之外 (Lightspeed) 的液冷需求提供差異化的散熱解決方案，這是目前市場上的關鍵差異化因素。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 光年之外 (Lightspeed) 客戶，透過 光年之外 (Lightspeed) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -1981,7 +2025,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=光年之外%20(Lightspeed)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(供應商鎖定)=2, D2(採購決策複雜度)=2, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=1, D6(地緣政治)=8。主要挑戰在於地緣政治風險高。"
     },
     {
       "company": "深信服 (Sangfor Technologies)",
@@ -2025,7 +2070,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=深信服%20(Sangfor%20Technologies)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=1, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=5。存在一定挑戰，但仍有切入機會。"
     },
     {
       "company": "匯豐軟件 (HSBC Software Development China)",
@@ -2037,7 +2083,7 @@
       "odmOem": "OEM",
       "asusModel": "RS720-E11, RS720A-E12",
       "channel": "SI",
-      "difficulty": 7,
+      "difficulty": 5,
       "challenges": "【金融業戰術】【技術要求】匯豐軟件 (HSBC Software Development China) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE (via global procurement)，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 匯豐軟件 (HSBC Software Development China) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 匯豐軟件 (HSBC Software Development China) 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 爭取成為 匯豐軟件 (HSBC Software Development China) 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 匯豐軟件 (HSBC Software Development China) 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 匯豐軟件 (HSBC Software Development China) 客戶，透過 Kyndryl 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2069,7 +2115,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=匯豐軟件%20(HSBC%20Software%20Development%20China)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=1, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=5。主要挑戰在於供應商高度鎖定、採購決策複雜。"
     },
     {
       "rank": 48,
@@ -2082,7 +2129,7 @@
       "odmOem": "ODM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】浪潮, Dell, H3C已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 同程旅行 (Tongcheng Travel) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 同程旅行 (Tongcheng Travel) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 同程旅行 (Tongcheng Travel) 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2113,7 +2160,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=同程旅行%20(Tongcheng%20Travel)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=1, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=5。存在一定挑戰，但仍有切入機會。"
     },
     {
       "rank": 49,
@@ -2157,7 +2205,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=嗶哩嗶哩遊戲%20(Bilibili%20Game)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=8。主要挑戰在於地緣政治風險高。"
     },
     {
       "rank": 50,
@@ -2201,7 +2250,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=聯影智能%20(United%20Imaging%20Intelligence)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=6, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。"
     },
     {
       "rank": 51,
@@ -2245,7 +2295,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=度小滿金融%20(Du%20Xiaoman%20Financial)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。"
     },
     {
       "rank": 52,
@@ -2289,7 +2340,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=陸金所控股%20(Lufax%20Holding)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=6, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。"
     },
     {
       "rank": 53,
@@ -2333,7 +2385,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=哈囉出行%20(Hello%20Inc.)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。切入機會較大，各維度阻力均不高，尤其 技術門檻 (2分) 為主要優勢。"
     },
     {
       "rank": 54,
@@ -2346,7 +2399,7 @@
       "odmOem": "ODM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【技術要求】達達集團 (Dada Group / JD Logistics) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 浪潮, Dell，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 達達集團 (Dada Group / JD Logistics) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 達達集團 (Dada Group / JD Logistics) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 達達集團 (Dada Group / JD Logistics) 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2377,7 +2430,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=達達集團%20(Dada%20Group%20/%20JD%20Logistics)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。切入機會較大，各維度阻力均不高，尤其 技術門檻 (2分) 為主要優勢。"
     },
     {
       "rank": 55,
@@ -2390,7 +2444,7 @@
       "odmOem": "ODM",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【金融業戰術】【技術門檻較低】傳音控股 (Transsion Holdings) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【供應鏈壁壘】目前主要供應商為 浪潮, Dell，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 傳音控股 (Transsion Holdings)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 傳音控股 (Transsion Holdings) 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 傳音控股 (Transsion Holdings) 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2421,7 +2475,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=傳音控股%20(Transsion%20Holdings)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。"
     },
     {
       "rank": 56,
@@ -2465,7 +2520,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=藥明生物%20(WuXi%20Biologics)%20procurement%20VP",
         "commStrategy": "透過醫療業 SI（如 Epic Systems 合作夥伴、Cerner 生態系）切入，醫療業採購重視長期服務合約"
       },
-      "archetype": "healthcare"
+      "archetype": "healthcare",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=6, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。"
     },
     {
       "rank": 57,
@@ -2509,7 +2565,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=第四範式%20(4Paradigm)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。"
     },
     {
       "rank": 58,
@@ -2553,7 +2610,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=有贊%20(Youzan)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。切入機會較大，各維度阻力均不高，尤其 技術門檻 (2分) 為主要優勢。"
     },
     {
       "rank": 59,
@@ -2566,7 +2624,7 @@
       "odmOem": "ODM",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
       "channel": "直供",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, Supermicro已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 匯量科技 (Mobvista / Mintegral)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 匯量科技 (Mobvista / Mintegral) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 匯量科技 (Mobvista / Mintegral) 客戶，透過 匯量科技 (Mobvista / Mintegral) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2597,7 +2655,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=匯量科技%20(Mobvista%20/%20Mintegral)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。"
     },
     {
       "rank": 60,
@@ -2641,7 +2700,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=微盟集團%20(Weimob)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=5。綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(2), 通路(3), 競爭(5), 風險(5)的加權評估。"
     },
     {
       "rank": 61,
@@ -2685,7 +2745,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=明源雲%20(MingYuan%20Cloud)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=5。綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(2), 通路(3), 競爭(5), 風險(5)的加權評估。"
     },
     {
       "rank": 62,
@@ -2729,7 +2790,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=塗鴉智能%20(Tuya%20Smart)%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
-      "archetype": "retail"
+      "archetype": "retail",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=5。綜合供應商鎖定(5), 決策複雜度(5), 技術門檻(2), 通路(3), 競爭(5), 風險(5)的加權評估。"
     },
     {
       "rank": 63,
@@ -2742,7 +2804,7 @@
       "odmOem": "ODM",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【汽車/自駕業戰術】【技術門檻較低】哪吒汽車 (Neta Auto / Hozon) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【供應鏈壁壘】目前主要供應商為 浪潮, Dell，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。",
       "entryPoint": "【汽車/自駕業戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 哪吒汽車 (Neta Auto / Hozon)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 哪吒汽車 (Neta Auto / Hozon) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 哪吒汽車 (Neta Auto / Hozon) 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2773,7 +2835,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=哪吒汽車%20(Neta%20Auto%20/%20Hozon)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=7。綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(5), 風險(7)的加權評估。"
     },
     {
       "rank": 64,
@@ -2786,7 +2849,7 @@
       "odmOem": "ODM",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【汽車/自駕業戰術】【技術門檻較低】零跑汽車 (Leapmotor) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【供應鏈壁壘】目前主要供應商為 浪潮, Dell，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。",
       "entryPoint": "【汽車/自駕業戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 零跑汽車 (Leapmotor)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 零跑汽車 (Leapmotor) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 零跑汽車 (Leapmotor) 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2817,7 +2880,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=零跑汽車%20(Leapmotor)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=7。綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(5), 風險(7)的加權評估。"
     },
     {
       "rank": 65,
@@ -2830,7 +2894,7 @@
       "odmOem": "ODM/自行組裝",
       "asusModel": "通用2U: RS720-E11（搭配燧原 AI 加速卡）",
       "channel": "直供",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【NeoCloud/AI 新創戰術】【技術要求】燧原科技 (Enflame Technology) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。 【產業特性】NeoCloud/AI 產業對 GPU 伺服器的效能、散熱（液冷）和快速部署能力有極高要求，技術迭代速度快，供應商需持續跟進最新平台。",
       "entryPoint": "【NeoCloud/AI 新創戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 燧原科技 (Enflame Technology) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供 ASUS ESC 系列 GPU 伺服器和 AI POD 解決方案的技術方案書，展示在 NVIDIA Blackwell/Rubin 平台的先發優勢。4. 針對 燧原科技 (Enflame Technology) 的液冷需求提供差異化的散熱解決方案，這是目前市場上的關鍵差異化因素。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 燧原科技 (Enflame Technology) 客戶，透過 燧原科技 (Enflame Technology) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2861,7 +2925,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=燧原科技%20(Enflame%20Technology)%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "difficultyReason": "D1(供應商鎖定)=9, D2(採購決策複雜度)=1, D3(技術門檻)=8, D4(通路可及性)=5, D5(市場競爭)=5, D6(地緣政治)=5。綜合供應商鎖定(9), 決策複雜度(1), 技術門檻(8), 通路(5), 競爭(5), 風險(5)的加權評估。"
     },
     {
       "rank": 66,
@@ -2905,7 +2970,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=創維集團%20(Skyworth)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=5。綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(2), 通路(3), 競爭(5), 風險(5)的加權評估。"
     },
     {
       "rank": 67,
@@ -2949,7 +3015,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=文遠知行%20(WeRide)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=5, D6(地緣政治)=7。綜合供應商鎖定(5), 決策複雜度(5), 技術門檻(4), 通路(5), 競爭(5), 風險(7)的加權評估。"
     },
     {
       "company": "面壁智能 (ModelBest)",
@@ -2961,7 +3028,7 @@
       "odmOem": "ODM",
       "asusModel": "ESC4000A-E12, RS720A-E12",
       "channel": "ODM Direct",
-      "difficulty": 3,
+      "difficulty": 4,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】ODM 直採已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 面壁智能 (ModelBest)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 面壁智能 (ModelBest) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 面壁智能 (ModelBest) 客戶，透過 面壁智能 (ModelBest) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -2993,7 +3060,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=面壁智能%20(ModelBest)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=1, D6(地緣政治)=7。綜合供應商鎖定(3), 決策複雜度(5), 技術門檻(4), 通路(5), 競爭(1), 風險(7)的加權評估。"
     },
     {
       "company": "吉利汽車 (Geely Auto)",
@@ -3037,7 +3105,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=吉利汽車%20(Geely%20Auto)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=7。綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(5), 風險(7)的加權評估。"
     },
     {
       "company": "奇安信 (QiAnXin)",
@@ -3081,7 +3150,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=奇安信%20(QiAnXin)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=6。綜合供應商鎖定(6), 決策複雜度(6), 技術門檻(2), 通路(3), 競爭(7), 風險(6)的加權計算結果。"
     },
     {
       "company": "九坤投資 (Ubiquant)",
@@ -3093,7 +3163,7 @@
       "odmOem": "OEM/ODM",
       "asusModel": "RS720A-E12, ESC4000A-E12, ESC8000-E12",
       "channel": "ODM Direct",
-      "difficulty": 4,
+      "difficulty": 6,
       "challenges": "【企業 IT 戰術】【技術門檻較低】九坤投資 (Ubiquant) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【供應鏈壁壘】目前主要供應商為 Dell, Supermicro，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 九坤投資 (Ubiquant)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 九坤投資 (Ubiquant) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 九坤投資 (Ubiquant) 客戶，透過 九坤投資 (Ubiquant) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -3125,7 +3195,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=九坤投資%20(Ubiquant)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(4), 通路(5), 競爭(7), 風險(8)的加權計算結果。"
     },
     {
       "company": "星環科技 (Transwarp)",
@@ -3137,7 +3208,7 @@
       "odmOem": "OEM/ODM",
       "asusModel": "RS720-E11, RS720A-E12, ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 6,
       "challenges": "【企業 IT 戰術】【技術門檻較低】星環科技 (Transwarp) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【供應鏈壁壘】目前主要供應商為 Dell, 部分 ODM，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 星環科技 (Transwarp)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 星環科技 (Transwarp) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 星環科技 (Transwarp) 客戶，透過 紫光數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -3169,7 +3240,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=星環科技%20(Transwarp)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
     },
     {
       "rank": 73,
@@ -3182,7 +3254,7 @@
       "odmOem": "ODM",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 6,
       "challenges": "【電信業戰術】【技術門檻較低】獵豹移動 (Cheetah Mobile) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【供應鏈壁壘】目前主要供應商為 浪潮, Dell，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。 【產業特性】電信業對網路設備和伺服器的穩定性、長期維護支援有嚴格要求，採購週期長但訂單量穩定。",
       "entryPoint": "【電信業戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 獵豹移動 (Cheetah Mobile)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 獵豹移動 (Cheetah Mobile) 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 獵豹移動 (Cheetah Mobile) 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -3213,7 +3285,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=獵豹移動%20(Cheetah%20Mobile)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
     },
     {
       "rank": 74,
@@ -3226,7 +3299,7 @@
       "odmOem": "ODM",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 6,
       "challenges": "【電信業戰術】【電信級要求】NEBS Level 3 認證、99.999% 可用性、-40°C~65°C 工作溫度等嚴苛規格。【既有生態系】浪潮, Dell已深度整合至電信 NFV/SDN 平台。【長期合約】電信業設備採購通常為 3-5 年框架合約，替換窗口有限。【規模經濟】電信業對價格極度敏感，需提供大量折扣。",
       "entryPoint": "【電信業戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 思必馳 (AISpeech)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 思必馳 (AISpeech) 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 思必馳 (AISpeech) 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -3257,7 +3330,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=思必馳%20(AISpeech)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
-      "archetype": "telecom"
+      "archetype": "telecom",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
     },
     {
       "rank": 75,
@@ -3270,7 +3344,7 @@
       "odmOem": "ODM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】浪潮, Dell已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 趣丸科技 (TT Voice / Quwanke)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 趣丸科技 (TT Voice / Quwanke) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 趣丸科技 (TT Voice / Quwanke) 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -3301,7 +3375,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=趣丸科技%20(TT%20Voice%20/%20Quwanke)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(2), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
     },
     {
       "rank": 76,
@@ -3314,7 +3389,7 @@
       "odmOem": "ODM",
       "asusModel": "通用2U: RS720-E11, 邊緣: E800-E12",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【汽車/自駕業戰術】【技術門檻較低】蔚來能源 (NIO Power) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【供應鏈壁壘】目前主要供應商為 浪潮, Dell，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。",
       "entryPoint": "【汽車/自駕業戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 蔚來能源 (NIO Power)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 蔚來能源 (NIO Power) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 蔚來能源 (NIO Power) 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -3345,7 +3420,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=蔚來能源%20(NIO%20Power)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(2), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
     },
     {
       "rank": 77,
@@ -3358,7 +3434,7 @@
       "odmOem": "ODM",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【醫療/製藥業戰術】【技術門檻較低】泰格醫藥 (Tigermed) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【供應鏈壁壘】目前主要供應商為 浪潮, Dell，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。 【產業特性】醫療產業對資料隱私（HIPAA）和系統可靠性有嚴格要求，需提供符合醫療法規的解決方案。",
       "entryPoint": "【醫療/製藥業戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 泰格醫藥 (Tigermed)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 提供符合醫療產業法規的伺服器方案，強調資料安全和系統可靠性。4. 針對醫療 AI（影像辨識、藥物研發）需求推薦 ASUS GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 泰格醫藥 (Tigermed) 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -3389,7 +3465,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=泰格醫藥%20(Tigermed)%20procurement%20VP",
         "commStrategy": "透過醫療業 SI（如 Epic Systems 合作夥伴、Cerner 生態系）切入，醫療業採購重視長期服務合約"
       },
-      "archetype": "healthcare"
+      "archetype": "healthcare",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(2), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
     },
     {
       "company": "長城汽車 (Great Wall Motor)",
@@ -3401,7 +3478,7 @@
       "odmOem": "OEM",
       "asusModel": "RS720-E11, ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【汽車/自駕業戰術】【產業轉型中】汽車業正從傳統 IT 轉向大規模 AI 基礎設施投資，採購流程仍在調整中。【既有關係】Dell, HPE已建立合作關係。【特殊需求】自駕訓練需要大量 GPU 運算，對散熱和電力效率要求極高。【工廠環境】邊緣部署需考慮工廠環境的溫度、震動、灰塵等因素。",
       "entryPoint": "【汽車/自駕業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 長城汽車 (Great Wall Motor) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 長城汽車 (Great Wall Motor) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 長城汽車 (Great Wall Motor) 客戶，透過 紫光數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -3433,7 +3510,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=長城汽車%20(Great%20Wall%20Motor)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
-      "archetype": "automotive"
+      "archetype": "automotive",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
     },
     {
       "company": "三一重工 (SANY Heavy Industry)",
@@ -3445,7 +3523,7 @@
       "odmOem": "OEM",
       "asusModel": "RS720-E11, RS520-E11, ESC4000A-E12",
       "channel": "SI/DIST",
-      "difficulty": 5,
+      "difficulty": 6,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 三一重工 (SANY Heavy Industry) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 三一重工 (SANY Heavy Industry) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 三一重工 (SANY Heavy Industry) 客戶，透過 神州數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -3483,7 +3561,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=三一重工%20(SANY%20Heavy%20Industry)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
     },
     {
       "company": "眾安在線 (ZhongAn Online)",
@@ -3495,7 +3574,7 @@
       "odmOem": "OEM",
       "asusModel": "RS720-E11, ESC4000A-E12",
       "channel": "DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】阿里雲為主, 部分自建已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 眾安在線 (ZhongAn Online)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 眾安在線 (ZhongAn Online) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 眾安在線 (ZhongAn Online) 客戶，透過 神州數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -3527,7 +3606,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=眾安在線%20(ZhongAn%20Online)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=2, D6(地緣政治)=8。主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。"
     },
     {
       "company": "富途控股 (Futu Holdings)",
@@ -3571,7 +3651,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=富途控股%20(Futu%20Holdings)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=2, D6(地緣政治)=8。主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。"
     },
     {
       "company": "嘉實基金 (Harvest Fund)",
@@ -3615,7 +3696,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=嘉實基金%20(Harvest%20Fund)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。"
     },
     {
       "company": "明略科技 (MiningLamp)",
@@ -3659,7 +3741,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=明略科技%20(MiningLamp)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=2, D6(地緣政治)=8。主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。"
     },
     {
       "company": "數夢工場 (DTDream)",
@@ -3671,7 +3754,7 @@
       "odmOem": "OEM",
       "asusModel": "RS720-E11, RS520-E11",
       "channel": "DIST",
-      "difficulty": 6,
+      "difficulty": 5,
       "challenges": "【企業 IT 戰術】【技術要求】數夢工場 (DTDream) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 阿里雲生態, Dell，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 數夢工場 (DTDream) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 數夢工場 (DTDream) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 數夢工場 (DTDream) 客戶，透過 神州數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -3703,7 +3786,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=數夢工場%20(DTDream)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=7。主要因供應商鎖定程度高 (7)，導致整體難易度偏高。"
     },
     {
       "company": "雲天勵飛 (Intellifusion)",
@@ -3715,7 +3799,7 @@
       "odmOem": "ODM",
       "asusModel": "ESC4000A-E12, RS520-E11",
       "channel": "ODM Direct",
-      "difficulty": 5,
+      "difficulty": 7,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】ODM 直採已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 雲天勵飛 (Intellifusion) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 雲天勵飛 (Intellifusion) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 雲天勵飛 (Intellifusion) 客戶，透過 雲天勵飛 (Intellifusion) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -3747,7 +3831,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=雲天勵飛%20(Intellifusion)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=8, D4(通路可及性)=8, D5(市場競爭)=2, D6(地緣政治)=8。主要因技術門檻與客製化需求高 (8)，導致整體難易度偏高。"
     },
     {
       "rank": 86,
@@ -3797,7 +3882,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=星環科技%20(Transwarp%20Technology)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。"
     },
     {
       "company": "涂鴉智能海外 (Tuya Global)",
@@ -3809,7 +3895,7 @@
       "odmOem": "OEM",
       "asusModel": "RS520-E11, E-series edge",
       "channel": "DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】AWS/Azure 為主, 部分自建已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 涂鴉智能海外 (Tuya Global)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 涂鴉智能海外 (Tuya Global) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 涂鴉智能海外 (Tuya Global) 客戶，透過 紫光數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -3841,7 +3927,8 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=涂鴉智能海外%20(Tuya%20Global)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=6。主要因供應商鎖定程度高 (7)，導致整體難易度偏高。"
     },
     {
       "company": "雲知聲 (Unisound)",
@@ -3853,14 +3940,14 @@
       "odmOem": "ODM",
       "asusModel": "ESC4000A-E12, RS520-E11",
       "channel": "ODM Direct",
-      "difficulty": 4,
+      "difficulty": 6,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】ODM 直採已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 雲知聲 (Unisound)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 雲知聲 (Unisound) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 雲知聲 (Unisound) 客戶，透過 雲知聲 (Unisound) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "黃偉 (Huang Wei)",
         "title": "Founder & CEO",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=黃偉%20(Huang%20Wei)%20雲知聲%20(Unisound)",
-        "source": ""
+        "source": "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E6%98%9F-%E4%B8%AD%E5%9B%BDai%E6%8A%80%E6%9C%AF%E4%BA%A7%E4%B8%9A%E5%8C%96%E5%85%88%E8%A1%8C%E8%80%85%E4%BA%91%E7%9F%A5%E5%A3%B0%E6%88%90%E5%8A%9F%E7%99%BB%E9%99%86%E6%B8%AF%E4%BA%A4%E6%89%80"
       },
       "siDist": [
         {
@@ -3885,7 +3972,8 @@
         "linkedin": "",
         "commStrategy": "強調AI語音晶片的高效能運算需求，提供客製化伺服器方案與彈性付款條件。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=8, D5(市場競爭)=2, D6(地緣政治)=8。主要因通路需重新建立 (8)，導致整體難易度偏高。"
     },
     {
       "company": "思謀科技 (SmartMore)",
@@ -3897,7 +3985,7 @@
       "odmOem": "ODM",
       "asusModel": "ESC4000A-E12",
       "channel": "ODM Direct",
-      "difficulty": 4,
+      "difficulty": 6,
       "challenges": "【零售/電商業戰術】【成本導向】零售業利潤率低，對伺服器 TCO 極度敏感。【既有關係】ODM 直採已建立穩定的供應關係。【季節性需求】零售業有明顯的季節性採購高峰（黑五、雙十一），需要供應商能快速擴容。【分散部署】門市邊緣 AI 需要大量小型伺服器分散部署。",
       "entryPoint": "【零售/電商業戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 思謀科技 (SmartMore)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 思謀科技 (SmartMore) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 思謀科技 (SmartMore) 客戶，透過 思謀科技 (SmartMore) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -3929,7 +4017,8 @@
         "linkedin": "",
         "commStrategy": "聚焦工業視覺AI推論需求，提供高GPU密度伺服器方案與POC測試機會。"
       },
-      "archetype": "retail"
+      "archetype": "retail",
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=8, D5(市場競爭)=2, D6(地緣政治)=8。主要因通路需重新建立 (8)，導致整體難易度偏高。"
     },
     {
       "company": "衛星化學 (Satellite Chemical)",
@@ -3948,7 +4037,7 @@
         "name": "楊衛東 (Yang Weidong)",
         "title": "VP IT",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=楊衛東%20(Yang%20Weidong)%20衛星化學%20(Satellite%20Chemical)",
-        "source": ""
+        "source": "https://baike.baidu.com/item/%E6%9D%A8%E5%8D%AB%E4%B8%9C/22267923"
       },
       "siDist": [
         {
@@ -3973,7 +4062,8 @@
         "linkedin": "",
         "commStrategy": "強調化工產業數位轉型的IT基礎設施需求，提供高性價比伺服器方案。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。採購需跨部門評估、面臨主要 OEM 競爭、地緣政治風險高，導致整體難易度較高。"
     },
     {
       "company": "萬興科技 (Wondershare)",
@@ -3985,14 +4075,14 @@
       "odmOem": "OEM",
       "asusModel": "ESC4000A-E12, RS520-E11",
       "channel": "SI/DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】雲端為主, 部分自建已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 萬興科技 (Wondershare)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 萬興科技 (Wondershare) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 萬興科技 (Wondershare) 客戶，透過 紫光數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "吳太兵 (Wu Taibing)",
         "title": "Founder & CEO",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=吳太兵%20(Wu%20Taibing)%20萬興科技%20(Wondershare)",
-        "source": ""
+        "source": "https://craft.co/wondershare-technology-group/executives"
       },
       "siDist": [
         {
@@ -4017,7 +4107,8 @@
         "linkedin": "",
         "commStrategy": "聚焦AI影片編輯與創意工具的GPU運算需求，提供具競爭力的TCO方案。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。採購需跨部門評估、面臨主要 OEM 競爭、地緣政治風險高，導致整體難易度較高。"
     },
     {
       "company": "商米科技 (Sunmi Technology)",
@@ -4036,7 +4127,7 @@
         "name": "林喆 (Lin Zhe)",
         "title": "Founder & CEO",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=林喆%20(Lin%20Zhe)%20商米科技%20(Sunmi%20Technology)",
-        "source": ""
+        "source": "https://www.linkedin.com/in/de-wang"
       },
       "siDist": [
         {
@@ -4061,7 +4152,8 @@
         "linkedin": "",
         "commStrategy": "強調智慧零售終端的邊緣運算需求，提供小型化高效能伺服器方案。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=6。採購需跨部門評估、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。"
     },
     {
       "company": "老虎證券 (Tiger Brokers / UP Fintech)",
@@ -4073,7 +4165,7 @@
       "odmOem": "OEM",
       "asusModel": "RS720-E11, RS520-E11",
       "channel": "DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【金融業戰術】【技術門檻較低】老虎證券 (Tiger Brokers / UP Fintech) 採用較標準化的伺服器規格，技術切入門檻相對較低，但仍需確保產品品質和交期。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 老虎證券 (Tiger Brokers / UP Fintech)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 老虎證券 (Tiger Brokers / UP Fintech) 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 老虎證券 (Tiger Brokers / UP Fintech) 客戶，透過 紫光數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -4105,7 +4197,8 @@
         "linkedin": "",
         "commStrategy": "聚焦金融交易系統的低延遲需求，提供高頻交易級伺服器方案與穩定供貨承諾。"
       },
-      "archetype": "financial"
+      "archetype": "financial",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=6。採購決策極其複雜、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。"
     },
     {
       "company": "達觀數據 (Datagrand)",
@@ -4117,14 +4210,14 @@
       "odmOem": "ODM",
       "asusModel": "ESC4000A-E12, RS520-E11",
       "channel": "ODM Direct",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】ODM 直採已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 達觀數據 (Datagrand)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 達觀數據 (Datagrand) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 達觀數據 (Datagrand) 客戶，透過 達觀數據 (Datagrand) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
         "name": "陳運文 (Chen Yunwen)",
         "title": "Founder & CEO",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=陳運文%20(Chen%20Yunwen)%20達觀數據%20(Datagrand)",
-        "source": ""
+        "source": "https://baike.baidu.com/item/%E8%BE%BE%E8%A7%82%E6%95%B0%E6%8D%AE/20809548"
       },
       "siDist": [
         {
@@ -4149,7 +4242,8 @@
         "linkedin": "",
         "commStrategy": "強調NLP大模型訓練的GPU運算需求，提供AI訓練專用伺服器方案。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。採購需跨部門評估、需建立新通路、地緣政治風險高，導致整體難易度較高。"
     },
     {
       "company": "聯易融 (Linklogis)",
@@ -4168,7 +4262,7 @@
         "name": "宋群 (Song Qun)",
         "title": "Founder & CEO",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=宋群%20(Song%20Qun)%20聯易融%20(Linklogis)",
-        "source": ""
+        "source": "https://www.linklogis.com/cn/about/"
       },
       "siDist": [
         {
@@ -4193,7 +4287,8 @@
         "linkedin": "",
         "commStrategy": "聚焦供應鏈金融科技的數據處理需求，提供高可靠性伺服器方案。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=6。採購需跨部門評估、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。"
     },
     {
       "company": "華勤技術 (Huaqin Technology)",
@@ -4212,7 +4307,7 @@
         "name": "邱文生 (Qiu Wensheng)",
         "title": "Founder & CEO",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=邱文生%20(Qiu%20Wensheng)%20華勤技術%20(Huaqin%20Technology)",
-        "source": ""
+        "source": "https://cn.linkedin.com/in/stephen-lizhi-cheng-52027620"
       },
       "siDist": [
         {
@@ -4237,7 +4332,8 @@
         "linkedin": "",
         "commStrategy": "強調ODM代工經驗的協同效應，提供伺服器零組件與整機的靈活採購方案。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=6。採購需跨部門評估、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。"
     },
     {
       "company": "陽光電源 (Sungrow Power)",
@@ -4256,7 +4352,7 @@
         "name": "曹仁賢 (Cao Renxian)",
         "title": "Founder & Chairman",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=曹仁賢%20(Cao%20Renxian)%20陽光電源%20(Sungrow%20Power)",
-        "source": ""
+        "source": "https://www.globaldata.com/company-profile/sungrow-power-supply-co-ltd/executives/"
       },
       "siDist": [
         {
@@ -4281,7 +4377,8 @@
         "linkedin": "",
         "commStrategy": "聚焦新能源數據中心的高效能運算需求，提供綠色節能伺服器方案。"
       },
-      "archetype": "energy"
+      "archetype": "energy",
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。採購需跨部門評估、面臨主要 OEM 競爭、地緣政治風險高，導致整體難易度較高。"
     },
     {
       "company": "安克創新 (Anker Innovations)",
@@ -4293,7 +4390,7 @@
       "odmOem": "OEM",
       "asusModel": "RS520-E11, ESC4000A-E12",
       "channel": "DIST",
-      "difficulty": 4,
+      "difficulty": 5,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】AWS 為主, 部分自建已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 安克創新 (Anker Innovations)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 安克創新 (Anker Innovations) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 安克創新 (Anker Innovations) 客戶，透過 神州數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "keyPerson": {
@@ -4325,7 +4422,8 @@
         "linkedin": "",
         "commStrategy": "強調跨境電商的全球IT基礎設施需求，提供多區域部署的伺服器方案。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。採購需跨部門評估、面臨主要 OEM 競爭、地緣政治風險高，導致整體難易度較高。"
     },
     {
       "company": "聯想之星 (Legend Star) / 聯泓新科",
@@ -4344,7 +4442,7 @@
         "name": "王明耀 (Wang Mingyao)",
         "title": "President",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=王明耀%20(Wang%20Mingyao)%20聯想之星%20(Legend%20Star)%20/%20聯泓新科",
-        "source": ""
+        "source": "https://www.legendstar.cn/home/team"
       },
       "siDist": [
         {
@@ -4369,7 +4467,8 @@
         "linkedin": "",
         "commStrategy": "聚焦投資組合公司的IT基礎設施整合需求，提供集團採購優惠方案。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=6。採購需跨部門評估、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。"
     },
     {
       "company": "火花思維 (Spark Education)",
@@ -4388,7 +4487,7 @@
         "name": "羅劍 (Luo Jian)",
         "title": "Founder & CEO",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=羅劍%20(Luo%20Jian)%20火花思維%20(Spark%20Education)",
-        "source": ""
+        "source": "https://theorg.com/org/spark-education/org-chart/junchen-feng"
       },
       "siDist": [
         {
@@ -4413,7 +4512,8 @@
         "linkedin": "",
         "commStrategy": "強調線上教育平台的AI互動運算需求，提供高性價比GPU伺服器方案。"
       },
-      "archetype": "enterprise_general"
+      "archetype": "enterprise_general",
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=7。綜合供應商鎖定(5), 決策複雜度(5), 技術門檻(3), 通路(3), 競爭(5), 及地緣政治(7)的加權計算結果。"
     }
   ]
 }
