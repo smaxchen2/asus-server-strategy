@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { useParams, Link } from "wouter";
 import { getRegion, type RegionKey } from "@/lib/regions";
 import { useLanguage } from "@/contexts/LanguageContext";
@@ -8,6 +9,7 @@ import {
   User, Link as LinkIcon,
 } from "lucide-react";
 import StructuredText from "@/components/StructuredText";
+import DifficultyModal from "@/components/DifficultyModal";
 
 function DifficultyBadge({ score }: { score: number }) {
   const { t } = useLanguage();
@@ -37,6 +39,7 @@ export default function CompanyDetail() {
   const company = regionConfig.companies.find((c) => c.rank === rank);
 
   const basePath = regionKey === "na" ? "" : `/region/${regionKey}`;
+  const [showDiffModal, setShowDiffModal] = useState(false);
   const listPath = regionKey === "na" ? "/" : `/region/${regionKey}`;
 
   const regionLabel: Record<string, string> = {
@@ -113,9 +116,24 @@ export default function CompanyDetail() {
             <span className="text-xs">{t.difficultyScale}</span>
           </div>
           {company.difficultyReason && (
-            <div className="mt-3 p-3 bg-blue-50/50 border border-blue-100 text-xs leading-relaxed text-muted-foreground">
-              <span className="font-semibold text-blue-700">{lang === 'en' ? 'Scoring Basis: ' : '評分依據：'}</span>
-              {company.difficultyReason}
+            <div
+              className="mt-3 flex items-center gap-3 p-3 bg-blue-50/50 border border-blue-100 cursor-pointer hover:bg-blue-50 transition-colors group"
+              onClick={() => setShowDiffModal(true)}
+            >
+              <div className={`${
+                company.difficulty <= 3 ? 'bg-emerald-500' :
+                company.difficulty <= 5 ? 'bg-amber-500' :
+                company.difficulty <= 7 ? 'bg-orange-500' : 'bg-red-500'
+              } text-white px-2.5 py-1.5 text-lg font-black min-w-[40px] text-center`}>
+                {company.difficulty}
+              </div>
+              <div className="flex-1">
+                <p className="text-xs font-semibold text-foreground/80">{t.diffModalViewDetail}</p>
+                <p className="text-[10px] text-muted-foreground mt-0.5">{t.diffModalSubtitle}</p>
+              </div>
+              <svg className="w-4 h-4 text-muted-foreground group-hover:text-foreground transition-colors" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                <path d="M9 18l6-6-6-6" />
+              </svg>
             </div>
           )}
         </div>
@@ -249,6 +267,16 @@ export default function CompanyDetail() {
           ) : <div />}
         </div>
       </main>
+
+      {/* Difficulty Modal */}
+      <DifficultyModal
+        isOpen={showDiffModal}
+        onClose={() => setShowDiffModal(false)}
+        companyName={company.company}
+        difficulty={company.difficulty}
+        difficultyReason={company.difficultyReason}
+        t={t}
+      />
     </div>
   );
 }

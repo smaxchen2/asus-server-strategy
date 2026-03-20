@@ -25,6 +25,7 @@ import {
 } from "lucide-react";
 import * as XLSX from "xlsx";
 import StructuredText, { StructuredCommStrategy } from "@/components/StructuredText";
+import DifficultyModal from "@/components/DifficultyModal";
 
 /* ─── CSV Export ─── */
 function exportToCSV(companies: Company[], regionLabel: string, t: Translations) {
@@ -182,26 +183,31 @@ function getDifficultyColor(score: number, t: Translations) {
   return { bg: "bg-red-500", text: "text-red-700", label: t.difficultyHard };
 }
 
-function DifficultyBar({ score, reason }: { score: number; reason?: string }) {
+function DifficultyBar({ score, reason, companyName, onClick }: { score: number; reason?: string; companyName?: string; onClick?: () => void }) {
   const { t } = useLanguage();
   const { bg } = getDifficultyColor(score, t);
   return (
-    <div className="flex items-center gap-2 group relative">
+    <div
+      className={`flex items-center gap-2 group relative ${onClick ? 'cursor-pointer hover:opacity-80 transition-opacity' : ''}`}
+      onClick={(e) => { if (onClick) { e.stopPropagation(); onClick(); } }}
+      title={onClick ? t.diffModalViewDetail : undefined}
+    >
       <div className="w-16 h-1.5 bg-muted overflow-hidden">
         <div className={`h-full ${bg}`} style={{ width: `${score * 10}%` }} />
       </div>
       <span className="text-xs font-semibold tabular-nums w-5 text-right">{score}</span>
-      {reason && (
-        <div className="absolute bottom-full left-0 mb-2 hidden group-hover:block z-50 w-72 p-3 bg-black text-white text-[11px] leading-relaxed shadow-lg border border-border/20">
-          {reason}
-        </div>
+      {onClick && (
+        <svg className="w-3 h-3 text-muted-foreground opacity-0 group-hover:opacity-100 transition-opacity" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+          <circle cx="12" cy="12" r="10" />
+          <path d="M12 16v-4M12 8h.01" />
+        </svg>
       )}
     </div>
   );
 }
 
 /* ─── Expanded Row with all fields ─── */
-function ExpandedRow({ company, regionKey }: { company: Company; regionKey: string }) {
+function ExpandedRow({ company, regionKey, setDiffModalCompany }: { company: Company; regionKey: string; setDiffModalCompany: (c: Company | null) => void }) {
   const { t, lang } = useLanguage();
   const basePath = regionKey === "na" ? "" : `/region/${regionKey}`;
   const kp = company.keyPerson;
@@ -238,12 +244,24 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
               {company.difficultyReason && (
                 <div>
                   <div className="text-xs font-bold tracking-[0.12em] uppercase text-blue-700 mb-2">{lang === 'en' ? 'DIFFICULTY ANALYSIS' : '難易度分析'}</div>
-                  <div className="text-xs leading-relaxed text-muted-foreground bg-blue-50/50 p-2.5 border border-blue-100">
-                    <div className="flex items-center gap-2 mb-1.5">
-                      <span className="text-sm font-bold">{company.difficulty}/10</span>
-                      <DifficultyBar score={company.difficulty} />
+                  <div
+                    className="flex items-center gap-3 bg-blue-50/50 p-3 border border-blue-100 cursor-pointer hover:bg-blue-50 transition-colors group"
+                    onClick={() => setDiffModalCompany(company)}
+                  >
+                    <div className={`${
+                      company.difficulty <= 3 ? 'bg-emerald-500' :
+                      company.difficulty <= 5 ? 'bg-amber-500' :
+                      company.difficulty <= 7 ? 'bg-orange-500' : 'bg-red-500'
+                    } text-white px-2.5 py-1.5 text-lg font-black min-w-[40px] text-center`}>
+                      {company.difficulty}
                     </div>
-                    <p className="text-[11px] leading-relaxed">{company.difficultyReason}</p>
+                    <div className="flex-1">
+                      <p className="text-xs font-semibold text-foreground/80">{t.diffModalViewDetail}</p>
+                      <p className="text-[10px] text-muted-foreground mt-0.5">{t.diffModalSubtitle}</p>
+                    </div>
+                    <svg className="w-4 h-4 text-muted-foreground group-hover:text-foreground transition-colors" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                      <path d="M9 18l6-6-6-6" />
+                    </svg>
                   </div>
                 </div>
               )}
@@ -454,6 +472,7 @@ export default function Home() {
   const [sortField, setSortField] = useState<SortField>("rank");
   const [sortDir, setSortDir] = useState<SortDir>("asc");
   const [expandedRow, setExpandedRow] = useState<number | null>(null);
+  const [diffModalCompany, setDiffModalCompany] = useState<Company | null>(null);
 
   const regionLabels = getRegionLabels(t);
   const INDUSTRY_CATEGORIES = getIndustryCategories(t);
@@ -817,7 +836,7 @@ export default function Home() {
                     </td>
                     <td className="px-3 py-3 text-xs text-muted-foreground">{truncate(company.volume, 40)}</td>
                     <td className="px-3 py-3 text-xs text-muted-foreground">{truncate(company.channel, 20)}</td>
-                    <td className="px-3 py-3"><DifficultyBar score={company.difficulty} reason={company.difficultyReason} /></td>
+                    <td className="px-3 py-3"><DifficultyBar score={company.difficulty} reason={company.difficultyReason} companyName={company.company} onClick={() => setDiffModalCompany(company)} /></td>
                     <td className="px-3 py-3">
                       {expandedRow === company.rank ? (
                         <ChevronUp className="w-4 h-4 text-muted-foreground" />
@@ -826,7 +845,7 @@ export default function Home() {
                       )}
                     </td>
                   </tr>
-                  {expandedRow === company.rank && <ExpandedRow company={company} regionKey={currentRegionKey} />}
+                  {expandedRow === company.rank && <ExpandedRow company={company} regionKey={currentRegionKey} setDiffModalCompany={setDiffModalCompany} />}
                 </Fragment>
               ))}
             </tbody>
@@ -854,6 +873,16 @@ export default function Home() {
           </div>
         </div>
       </footer>
+
+      {/* Difficulty Modal */}
+      <DifficultyModal
+        isOpen={diffModalCompany !== null}
+        onClose={() => setDiffModalCompany(null)}
+        companyName={diffModalCompany?.company || ''}
+        difficulty={diffModalCompany?.difficulty || 0}
+        difficultyReason={diffModalCompany?.difficultyReason}
+        t={t}
+      />
     </div>
   );
 }

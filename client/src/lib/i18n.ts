@@ -125,6 +125,31 @@ export interface Translations {
   sourceLabel: string;
   infoTBD: string;
 
+  /* ─── Difficulty Modal ─── */
+  diffModalTitle: string;
+  diffModalSubtitle: string;
+  diffModalFormula: string;
+  diffModalFormulaDesc: string;
+  diffModalD1: string;
+  diffModalD1Desc: string;
+  diffModalD2: string;
+  diffModalD2Desc: string;
+  diffModalD3: string;
+  diffModalD3Desc: string;
+  diffModalD4: string;
+  diffModalD4Desc: string;
+  diffModalD5: string;
+  diffModalD5Desc: string;
+  diffModalD6: string;
+  diffModalD6Desc: string;
+  diffModalWeight: string;
+  diffModalScore: string;
+  diffModalWeighted: string;
+  diffModalFinalScore: string;
+  diffModalAnalysis: string;
+  diffModalClose: string;
+  diffModalViewDetail: string;
+
   /* ─── DataStatus Page ─── */
   backToDashboard: string;
   dataConnectionStatus: string;
@@ -327,6 +352,31 @@ const zh: Translations = {
   sourceLabel: "來源",
   infoTBD: "資訊待更新",
 
+  /* Difficulty Modal */
+  diffModalTitle: "難易度評估報告",
+  diffModalSubtitle: "六維度加權評分系統",
+  diffModalFormula: "計算公式",
+  diffModalFormulaDesc: "Final Score = D1×0.25 + D2×0.20 + D3×0.20 + D4×0.15 + D5×0.10 + D6×0.10",
+  diffModalD1: "D1 供應商鎖定程度",
+  diffModalD1Desc: "現有供應商的綁定深度與排他性",
+  diffModalD2: "D2 採購決策複雜度",
+  diffModalD2Desc: "決策鏈層級、審批流程的複雜程度",
+  diffModalD3: "D3 技術門檻",
+  diffModalD3Desc: "客製化需求與技術認證要求",
+  diffModalD4: "D4 通路可及性",
+  diffModalD4Desc: "ASUS 現有通路能否觸及該客戶",
+  diffModalD5: "D5 市場競爭強度",
+  diffModalD5Desc: "競爭對手數量與強度",
+  diffModalD6: "D6 地緣政治與合規風險",
+  diffModalD6Desc: "國安審查、資料主權、貿易限制",
+  diffModalWeight: "權重",
+  diffModalScore: "分數",
+  diffModalWeighted: "加權",
+  diffModalFinalScore: "最終分數",
+  diffModalAnalysis: "評分分析",
+  diffModalClose: "關閉",
+  diffModalViewDetail: "點擊查看評分詳情",
+
   /* DataStatus */
   backToDashboard: "返回儀表板",
   dataConnectionStatus: "資料連線狀態",
@@ -528,6 +578,31 @@ const en: Translations = {
   linkedinProfile: "LinkedIn Profile",
   sourceLabel: "Source",
   infoTBD: "Information pending",
+
+  /* Difficulty Modal */
+  diffModalTitle: "Difficulty Assessment Report",
+  diffModalSubtitle: "Six-Dimension Weighted Scoring System",
+  diffModalFormula: "Formula",
+  diffModalFormulaDesc: "Final Score = D1×0.25 + D2×0.20 + D3×0.20 + D4×0.15 + D5×0.10 + D6×0.10",
+  diffModalD1: "D1 Supplier Lock-in",
+  diffModalD1Desc: "Depth and exclusivity of existing supplier binding",
+  diffModalD2: "D2 Procurement Complexity",
+  diffModalD2Desc: "Decision chain levels and approval process complexity",
+  diffModalD3: "D3 Technical Barrier",
+  diffModalD3Desc: "Customization needs and technical certification requirements",
+  diffModalD4: "D4 Channel Accessibility",
+  diffModalD4Desc: "Whether ASUS existing channels can reach this customer",
+  diffModalD5: "D5 Market Competition",
+  diffModalD5Desc: "Number and intensity of competitors",
+  diffModalD6: "D6 Geopolitical & Compliance Risk",
+  diffModalD6Desc: "National security review, data sovereignty, trade restrictions",
+  diffModalWeight: "Weight",
+  diffModalScore: "Score",
+  diffModalWeighted: "Weighted",
+  diffModalFinalScore: "Final Score",
+  diffModalAnalysis: "Scoring Analysis",
+  diffModalClose: "Close",
+  diffModalViewDetail: "Click to view scoring details",
 
   /* DataStatus */
   backToDashboard: "Back to Dashboard",
