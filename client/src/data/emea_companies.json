@@ -1,7 +1,4 @@
 {
-  "region": "EMEA",
-  "regionName": "歐洲、中東與非洲",
-  "totalCompanies": 100,
   "companies": [
     {
       "rank": 1,
@@ -606,6 +603,28 @@
     },
     {
       "rank": 10,
+      "company": "1&1 IONOS",
+      "region": "EMEA",
+      "volume": "約 15,000 台/年（估計值，基於超過100,000台伺服器容量及假設7年更新週期）",
+      "platform": "Intel Xeon和AMD Ryzen Pro/EPYC處理器，提供虛擬化vCPU伺服器，擁有超過100,000台伺服器及100萬個處理器核心",
+      "application": "雲端服務（IaaS、PaaS、SaaS）、網站託管、VPS、電子商務、企業IT基礎設施、資料中心營運",
+      "currentSuppliers": "自建資料中心並組裝伺服器，可能直接與零組件供應商合作（Intel、AMD）",
+      "odmOem": "ODM為主（自行組裝客製化伺服器）",
+      "asusModel": "RS720Q-E11（高密度機架式伺服器）; RS700-E11（通用型機架式伺服器）; ESC8000-E12（若有AI/ML需求）",
+      "channel": "直供（Direct）",
+      "difficulty": 8,
+      "challenges": "【neocloud】【技術門檻】IONOS擁有自建資料中心及伺服器組裝能力，對供應商的技術要求高，且可能傾向於ODM或零組件採購。ASUS需證明其伺服器產品在性能、可靠性、可擴展性及成本效益上具備競爭優勢，並能與IONOS現有基礎設施無縫整合。【供應鏈壁壘】IONOS具備強大的議價能力，ASUS需提供具吸引力的價格和服務方案。【商務挑戰】IONOS可能已建立穩固的供應鏈，ASUS需展現其供應鏈的穩定性和彈性，以滿足IONOS的大規模採購需求。【產業特性】德國企業對資料安全、GDPR合規和本地化服務有嚴格要求，需要提供符合歐盟法規的解決方案。",
+      "entryPoint": "【neocloud】【短期（6-12個月）】針對IONOS的特定工作負載（如網站託管、VPS），提供具成本效益且性能優越的ASUS機架式伺服器解決方案進行POC測試，強調ASUS伺服器在能效、穩定性及易於管理方面的優勢。【中期（1-2年）】在POC成功後，逐步擴大合作範圍，提供更多元化的伺服器產品線，包括高性能運算或AI/ML伺服器，以滿足IONOS不斷增長的雲端服務需求。同時，探討與IONOS在ODM模式下的合作可能性，提供客製化設計服務。【長期（2-3年）】建立長期戰略合作夥伴關係，成為IONOS主要的伺服器供應商之一，與IONOS的技術團隊緊密合作，共同開發符合未來雲端技術趨勢的伺服器解決方案。【關鍵行動】優先透過直供管道接觸 Dr. Markus Noga 的技術團隊，強調 ASUS 在德國市場的本地化服務能力。",
+      "keyPerson": "Dr. Markus Noga (CTO)",
+      "techDecisionMaker": "Dr. Markus Noga | CTO | https://www.linkedin.com/in/markusnoga/ | 與IONOS的技術團隊建立緊密聯繫，深入了解其資料中心架構、技術需求和未來發展方向，展示ASUS伺服器在性能、能效、散熱技術、管理工具及SDI整合方面的技術優勢。",
+      "procurementDecisionMaker": "N/A | N/A | N/A | 強調ASUS作為全球領先的伺服器供應商，具備強大的研發實力、生產能力和全球供應鏈優勢，能提供穩定、高品質且具競爭力的產品，並提供彈性的採購模式和優質的售後服務。",
+      "siDist": [],
+      "volumeSource": "https://www.ionos.com/about",
+      "industry": "科技",
+      "archetype": "neocloud"
+    },
+    {
+      "rank": 11,
       "company": "Siemens AG",
       "region": "德國",
       "volume": "約 25,000 - 40,000 台/年",
@@ -679,7 +698,7 @@
       "archetype": "automotive"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "company": "OVHcloud",
       "region": "法國",
       "volume": "約 25,000 - 40,000 台/年",
@@ -819,7 +838,42 @@
       "archetype": "neocloud"
     },
     {
-      "rank": 12,
+      "rank": 13,
+      "company": "Humain",
+      "region": "EMEA",
+      "volume": "約 30,000 - 60,000 台/年（估計值，基於250MW AI資料中心容量規劃）",
+      "platform": "GPU伺服器 (NVIDIA HGX、AMD MI300X、Groq GroqCard™、Qualcomm AI200/AI250)，高密度GPU叢集，單租戶架構",
+      "application": "AI訓練、AI推論、LLM開發、主權AI雲端基礎設施",
+      "currentSuppliers": "NVIDIA, AMD, Groq, Qualcomm（晶片/加速器供應商）",
+      "odmOem": "ODM為主",
+      "asusModel": "ESC8000-E12, ESC N8-E11, RS720Q-E11, RS700-E11",
+      "channel": "直供為主，輔以SI合作夥伴",
+      "difficulty": 8,
+      "challenges": "【neocloud】【技術門檻】Humain 對技術規格、安全性和本地化服務有極高要求，且已與多家頂級晶片供應商建立合作，ASUS 需證明其在高性能 AI 伺服器領域的領先地位、提供高度客製化的能力，並能與現有供應商生態系統有效整合。【供應鏈壁壘】Humain 是國家級戰略項目，採購決策涉及高度政治和戰略考量，進入此類客戶需要長期的關係建立、技術驗證和高層級的承諾。【商務挑戰】作為沙烏地阿拉伯主權AI基礎設施的核心，採購流程涉及多層審批，且對供應商的本地化服務能力、合規性和長期承諾要求嚴格。【產業特性】中東地區AI基礎設施建設正處於高速擴張期，但地緣政治風險和出口管制（如美國晶片出口限制）可能影響供應鏈穩定性。",
+      "entryPoint": "【neocloud】【短期（6-12個月）】透過技術交流會和概念驗證 (PoC) 展示 ASUS AI 伺服器在性能、擴展性、能效和散熱方面的優勢，特別是與 Humain 現有晶片供應商（NVIDIA、AMD、Qualcomm）的整合能力。針對其資料中心擴建需求，提供客製化解決方案的初步設計。【中期（1-2年）】深化與 Humain 技術團隊的合作，共同開發符合其主權 AI 基礎設施戰略目標的解決方案，並探討 ODM 或深度客製化 OEM 模式的可能性。透過本地 SI 合作夥伴提供全面的售後服務和技術支持。【長期（2-3年）】建立長期戰略合作夥伴關係，將 ASUS 定位為 Humain 在 AI 基礎設施領域的核心供應商，共同參與沙烏地阿拉伯的 AI 發展戰略。【關鍵行動】優先透過 STC Solutions 等本地 SI 合作夥伴建立關係，並積極參與沙烏地阿拉伯的 AI 峰會和展覽，提升品牌能見度。",
+      "keyPerson": "Dr. Khalid Alodhaibi, MBA, PhD (EVP Technology)",
+      "techDecisionMaker": "Dr. Khalid Alodhaibi, MBA, PhD | EVP Technology (前CTO) | https://www.linkedin.com/posts/humainai_techleadership-aiinfrastructure-arabicai-activity-7335900999716327424-EF5R | 強調 ASUS 在 AI 伺服器領域的技術領先地位，聚焦大規模 AI 訓練和推論工作負載的解決方案，以及與 NVIDIA、AMD、Qualcomm 等主流 AI 晶片平台的無縫整合能力。",
+      "procurementDecisionMaker": "Dirk Karl | Chief Procurement Officer & SVP | https://www.linkedin.com/posts/dirkkarl_ainative-activity-7392206858603630592-3Z0H | 強調 ASUS 作為全球領先伺服器供應商的穩定性、供應鏈韌性，聚焦 TCO、產品可靠性、售後服務，並探討靈活的 ODM 採購模式以滿足客製化需求。",
+      "siDist": [
+        {
+          "name": "STC Solutions",
+          "url": "https://www.stcs.com.sa"
+        },
+        {
+          "name": "Redington Gulf",
+          "url": "https://redingtongulf.com/"
+        },
+        {
+          "name": "Etisalat Digital",
+          "url": "https://www.etisalat.ae/en/business/etisalat-digital.jsp"
+        }
+      ],
+      "volumeSource": "https://www.reuters.com/world/middle-east/saudis-humain-secures-up-12-bln-expand-ai-infrastructure-2026-01-21/",
+      "industry": "NeoCloud/AI",
+      "archetype": "neocloud"
+    },
+    {
+      "rank": 14,
       "company": "Northern Data Group",
       "region": "德國",
       "volume": "約 20,000 - 40,000 台/年",
@@ -863,7 +917,7 @@
       "archetype": "neocloud"
     },
     {
-      "rank": 13,
+      "rank": 15,
       "company": "Ericsson",
       "region": "瑞典",
       "volume": "約 20,000 - 35,000 台/年（含內部研發與客戶部署）",
@@ -931,7 +985,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 14,
+      "rank": 16,
       "company": "Barclays",
       "region": "英國",
       "volume": "約 20,000 - 35,000 台/年",
@@ -987,7 +1041,7 @@
       "archetype": "financial"
     },
     {
-      "rank": 15,
+      "rank": 17,
       "company": "Aramco (Saudi Aramco)",
       "region": "沙烏地阿拉伯",
       "volume": "約 20,000 - 35,000 台/年",
@@ -1043,7 +1097,7 @@
       "archetype": "energy"
     },
     {
-      "rank": 16,
+      "rank": 18,
       "company": "Scaleway (Iliad Group)",
       "region": "法國",
       "volume": "約 15,000 - 25,000 台/年",
@@ -1087,7 +1141,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 17,
+      "rank": 19,
       "company": "Swisscom",
       "region": "瑞士",
       "volume": "約 15,000 - 25,000 台/年",
@@ -1143,7 +1197,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 18,
+      "rank": 20,
       "company": "Nokia",
       "region": "芬蘭",
       "volume": "約 15,000 - 25,000 台/年（含內部研發與客戶部署）",
@@ -1193,7 +1247,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 19,
+      "rank": 21,
       "company": "Bosch Group",
       "region": "德國",
       "volume": "約 15,000 - 25,000 台/年",
@@ -1261,7 +1315,7 @@
       "archetype": "automotive"
     },
     {
-      "rank": 20,
+      "rank": 22,
       "company": "Etisalat (e&)",
       "region": "阿聯酋",
       "volume": "約 15,000 - 25,000 台/年",
@@ -1329,7 +1383,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 21,
+      "rank": 23,
       "company": "stc (Saudi Telecom)",
       "region": "沙烏地阿拉伯",
       "volume": "約 15,000 - 25,000 台/年",
@@ -1373,7 +1427,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 22,
+      "rank": 24,
       "company": "Volkswagen Group",
       "region": "德國",
       "volume": "約 15,000 - 25,000 台/年",
@@ -1435,7 +1489,7 @@
       "archetype": "automotive"
     },
     {
-      "rank": 23,
+      "rank": 25,
       "company": "ING Group",
       "region": "荷蘭",
       "volume": "約 15,000 - 25,000 台/年",
@@ -1479,7 +1533,73 @@
       "archetype": "financial"
     },
     {
-      "rank": 24,
+      "rank": 26,
+      "company": "G42",
+      "region": "EMEA",
+      "volume": "約 20,000 - 50,000 台/年（根據200MW資料中心擴建和1GW集群建設推估）",
+      "platform": "GPU伺服器 (NVIDIA、AMD、Cerebras Systems晶片)、Intel/AMD CPU伺服器，高密度AI叢集",
+      "application": "AI訓練、雲端服務、資料中心、HPC高性能運算",
+      "currentSuppliers": "NVIDIA, AMD, Cerebras Systems, Oracle, Cisco, VAST Data",
+      "odmOem": "OEM為主，可能傾向ODM或高度客製化OEM",
+      "asusModel": "ESC8000-E12, ESC N8-E11, RS700-E11, RS720-E11",
+      "channel": "直供為主，搭配SI合作夥伴提供在地化服務",
+      "difficulty": 9,
+      "challenges": "【neocloud】【技術門檻】G42在AI和雲端運算領域擁有深厚的技術實力，並與NVIDIA、Oracle等領先企業合作，對伺服器性能、穩定性和客製化能力要求極高。ASUS需證明其在AI伺服器領域的領先技術和客製化能力。【供應鏈壁壘】G42已與多家頂級供應商建立合作關係，要切入其供應鏈需克服現有供應商的競爭優勢和客戶黏性。【商務挑戰】G42是阿聯酋國家級AI戰略的核心執行機構，採購決策涉及高度政治考量，且對供應商的合規性和長期承諾要求嚴格。【產業特性】中東AI基礎設施建設正處於高速擴張期，但地緣政治風險和美國晶片出口管制可能影響供應鏈穩定性。",
+      "entryPoint": "【neocloud】【短期（6-12個月）】透過ASUS在AI伺服器領域的技術優勢，特別是支援最新NVIDIA/AMD GPU的ESC系列產品，主動接觸G42的技術團隊，提供客製化解決方案的POC（概念驗證）。【中期（1-2年）】利用ASUS在散熱技術（如液冷）和高密度伺服器方面的創新，針對G42大型資料中心和AI叢集的需求，提供更高效、更節能的解決方案，爭取ODM合作機會。【長期（2-3年）】建立與G42的戰略合作夥伴關係，共同開發下一代AI和雲端運算基礎設施，並透過SI合作夥伴擴大在G42生態系統中的影響力。【關鍵行動】優先透過 Alpha Data、Gulf Business Machines 等本地 SI 建立關係，並積極參與 GITEX 等中東科技展覽。",
+      "keyPerson": "Dr. Andrew Jackson (Group Chief AI Officer)",
+      "techDecisionMaker": "Dr. Andrew Jackson | Group Chief AI Officer | https://ae.linkedin.com/in/andrew-jackson-phd | 聚焦ASUS在AI伺服器技術上的領先地位，特別是針對NVIDIA、AMD和Cerebras Systems晶片的最佳化設計、高效散熱解決方案（如液冷）、高密度配置以及客製化能力。",
+      "procurementDecisionMaker": "Ricky Thirion | Group Chief Financial Officer | https://ae.linkedin.com/in/rickythirion | 強調ASUS伺服器在成本效益、供應鏈彈性、全球服務支援以及長期合作潛力方面的優勢，提供靈活的採購方案和具競爭力的價格。",
+      "siDist": [
+        {
+          "name": "Alpha Data",
+          "url": "https://www.alpha.ae"
+        },
+        {
+          "name": "Gulf Business Machines (GBM)",
+          "url": "https://www.gbm.com"
+        }
+      ],
+      "volumeSource": "https://www.reuters.com/world/middle-east/microsoft-g42-announce-200-mw-data-centre-capacity-expansion-uae-2025-11-05/",
+      "industry": "NeoCloud/AI",
+      "archetype": "neocloud"
+    },
+    {
+      "rank": 27,
+      "company": "Aruba S.p.A.",
+      "region": "EMEA",
+      "volume": "約 50,000 台/年（估計值，基於其歐洲網路超過20萬台伺服器容量及假設4年更新週期）",
+      "platform": "Intel Xeon處理器為主，部分AMD EPYC，GPU加速伺服器，支援高密度部署與液冷解決方案，資料中心網路可支援超過20萬台伺服器",
+      "application": "雲端服務、資料中心、企業IT、AI應用（高密度運算）",
+      "currentSuppliers": "未明確提及特定品牌，作為大型雲服務商可能與多家ODM/OEM廠商合作",
+      "odmOem": "OEM為主，不排除ODM合作",
+      "asusModel": "RS720-E12-RS24U（高密度運算、資料中心）; ESC8000A-E12（AI訓練、GPU加速）",
+      "channel": "直供為主，搭配SI/DIST合作夥伴",
+      "difficulty": 8,
+      "challenges": "【neocloud】【技術門檻】Aruba S.p.A.作為領先的雲端服務提供商，對伺服器性能、穩定性、擴展性及能源效率有極高要求，且持續擴張，需要支援高密度部署、AI工作負載及液冷解決方案的先進伺服器技術。【供應鏈壁壘】歐洲雲端市場競爭激烈，現有供應商可能已建立長期合作關係，切入難度較高。【商務挑戰】Aruba S.p.A.積極投入資料中心永續發展，承諾2030年實現碳中和，伺服器採購需考量能源效率、PUE值及對再生能源的支援。【產業特性】義大利及南歐市場對本地化服務和語言支援有較高要求，需要在地化的技術支援體系。",
+      "entryPoint": "【neocloud】【短期（6-12個月）】針對Aruba S.p.A.對高密度運算、AI工作負載及液冷解決方案的需求，安排ASUS最新伺服器技術（RS720-E12系列、ESC8000A-E12系列）的技術交流會，重點展示產品在性能、能效、散熱及管理上的優勢，並提供小規模POC測試機會。【中期（1-2年）】在POC成功後，尋求與Aruba S.p.A.建立更深層次的策略合作夥伴關係，參與其資料中心擴建專案，提供整體解決方案，並強調ASUS產品在永續發展方面的貢獻。【長期（2-3年）】透過持續的技術創新、優質的產品和服務，逐步成為Aruba S.p.A.的主要伺服器供應商之一，甚至成為其ODM合作夥伴，並借助其在歐洲雲端市場的影響力共同拓展市場。【關鍵行動】優先透過 Arrow Electronics 和 Ingram Micro 義大利分支建立關係，並參與義大利 ICT 展覽提升品牌能見度。",
+      "keyPerson": "Lorenzo Giuntini (CTO)",
+      "techDecisionMaker": "Lorenzo Giuntini | CTO | https://it.linkedin.com/in/lorenzo-giuntini-30940a5 | 深入探討ASUS伺服器在性能、能效、散熱（特別是液冷技術）、虛擬化支援、AI加速能力及管理工具方面的技術細節，提供詳細的產品白皮書、測試報告和案例研究。",
+      "procurementDecisionMaker": "Giada Sanguigni | Procurement & Grants Specialist | N/A | 強調ASUS伺服器在成本效益、供應鏈穩定性及客製化方面的優勢，提供具競爭力的價格和彈性的採購方案，並展示在大型資料中心部署的成功案例。",
+      "siDist": [
+        {
+          "name": "Arrow Electronics",
+          "url": "https://www.arrow.com"
+        },
+        {
+          "name": "Ingram Micro",
+          "url": "https://www.ingrammicro.com"
+        },
+        {
+          "name": "Tech Data",
+          "url": "https://www.techdata.com"
+        }
+      ],
+      "volumeSource": "https://datacentremagazine.com/articles/aruba-s-p-a-on-growth-and-sustainable-data-centre-management",
+      "industry": "NeoCloud/AI",
+      "archetype": "neocloud"
+    },
+    {
+      "rank": 28,
       "company": "Mistral AI",
       "region": "法國",
       "volume": "約 10,000 - 20,000 台/年（快速成長中）",
@@ -1577,7 +1697,7 @@
       "challenges": "【金融業戰術】【技術要求】Booking Holdings (Booking.com) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Booking Holdings (Booking.com) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 Booking Holdings (Booking.com) 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Booking Holdings (Booking.com) 客戶，透過 Sysdig 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "rank": 25,
+      "rank": 29,
       "keyPerson": {
         "name": "Rob Francis",
         "title": "SVP & Chief Technology Officer",
@@ -1765,7 +1885,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Lenovo已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Aramco Digital 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Aramco Digital 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 Aramco Digital 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Aramco Digital 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Aramco Digital 客戶，透過 World Wide Technology 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "AI 8GPU: ESC N8-E11, AI POD: 液冷機櫃方案",
-      "rank": 26,
+      "rank": 30,
       "keyPerson": {
         "name": "Basim AlRuwaii",
         "title": "Infrastructure Vice President, Information Technology",
@@ -1827,7 +1947,7 @@
       "challenges": "【企業 IT 戰術】【技術要求】Atos SE 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 自有品牌 (Bull), Dell, HPE，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【合規要求】歐洲市場對資料主權（GDPR）、ESG、碳排放等合規要求嚴格，伺服器供應商需提供相關認證和合規文件。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Atos SE 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Atos SE 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 Atos SE 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Atos SE 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Atos SE 客戶，透過 Ingram Micro 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720A-E12, GPU: ESC8000A-E12",
-      "rank": 27,
+      "rank": 31,
       "keyPerson": {
         "name": "Laurent Barbet",
         "title": "Senior VP & Head of Infrastructure and Data Management",
@@ -1859,7 +1979,42 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 28,
+      "rank": 32,
+      "company": "GoDaddy",
+      "region": "EMEA",
+      "volume": "約 10,000 - 20,000 台/年（估計值，基於全球網路託管規模）",
+      "platform": "x86架構（Intel Xeon-D、Intel Xeon-E、AMD EPYC）、NVIDIA GPU伺服器、NVMe SSD儲存、KVM虛擬化",
+      "application": "網路託管、網域註冊服務、雲端服務（VPS、專用伺服器）、內部雲端基礎設施、AI/ML應用（AI Builder、LLM處理客戶對話）、資料中心營運",
+      "currentSuppliers": "Supermicro",
+      "odmOem": "OEM為主，部分ODM客製化",
+      "asusModel": "RS700-E11系列（支援Intel/AMD CPU，適用於網頁託管、雲端服務）; ESC8000-E12、ESC N8-E11系列（支援多GPU配置，適用於AI訓練與推論）",
+      "channel": "直供為主，搭配EMEA地區的SI/DIST合作夥伴提供在地化服務與支援",
+      "difficulty": 8,
+      "challenges": "【neocloud】【技術門檻】GoDaddy作為大型雲端服務提供商，對伺服器穩定性、性能、擴展性及客製化能力要求極高。其現有基礎設施已與Supermicro深度整合，ASUS需證明其產品在這些方面具備競爭優勢，並能無縫融入GoDaddy的生態系統。【供應鏈壁壘】GoDaddy與Supermicro有長期合作關係，供應鏈慣性強，要取代或成為主要供應商之一，需要克服現有合作關係的壁壘。【商務挑戰】作為大型服務商，GoDaddy對採購成本極為敏感，ASUS需提供具競爭力的價格和TCO方案。【產業特性】GoDaddy的EMEA業務涉及多個國家，需要供應商提供多語言支援和在地化服務能力。",
+      "entryPoint": "【neocloud】【短期（6-12個月）】針對GoDaddy的AI/ML應用需求，推廣ASUS的GPU伺服器解決方案（如ESC系列），強調其在AI運算性能、散熱設計和管理上的優勢，並提供POC測試，展示ASUS伺服器在特定AI工作負載下的卓越表現。透過現有SI/DIST夥伴網絡，接觸GoDaddy EMEA地區的技術和採購團隊，建立初步聯繫。【中期（1-2年）】基於POC成果，爭取小規模導入ASUS通用型伺服器（如RS系列）於非核心業務或新興專案中，逐步建立信任，並參與GoDaddy的供應商評選流程，提供具競爭力的報價和靈活的供應鏈方案。【長期（2-3年）】成為GoDaddy多供應商策略中的重要一員，擴大ASUS伺服器在GoDaddy核心業務中的佔比，並建立長期戰略合作夥伴關係，共同開發針對GoDaddy需求的伺服器產品，實現ODM級別的合作。【關鍵行動】優先透過 Arrow Electronics 和 Ingram Micro 建立與 GoDaddy EMEA 採購團隊的聯繫。",
+      "keyPerson": "Charles Beadnall (CTO)",
+      "techDecisionMaker": "Charles Beadnall | Chief Technology Officer (CTO) | https://www.linkedin.com/in/beadnall | 強調ASUS伺服器在性能、可靠性、擴展性、能源效率和對新技術（如AI/ML、最新CPU/GPU）的支援，提供技術白皮書、測試報告和解決方案架構圖。",
+      "procurementDecisionMaker": "Richard Stevens | Senior Director Of Procurement, Head of Procurement Operations | https://www.linkedin.com/posts/mrrickstevens_procurement-godaddy-supplychain-activity-7439064135708868608-ADEe | 強調ASUS作為全球領先硬體供應商的品牌實力、穩定供應鏈、具競爭力的TCO和彈性的客製化能力，可提供成功案例和客戶證言，並從供應鏈效率、成本優化和風險管理角度切入。",
+      "siDist": [
+        {
+          "name": "Arrow Electronics",
+          "url": "https://www.arrow.com"
+        },
+        {
+          "name": "Ingram Micro",
+          "url": "https://www.ingrammicro.com"
+        },
+        {
+          "name": "Tech Data",
+          "url": "https://www.techdata.com"
+        }
+      ],
+      "volumeSource": "",
+      "industry": "科技",
+      "archetype": "neocloud"
+    },
+    {
+      "rank": 33,
       "company": "Philips",
       "region": "荷蘭",
       "volume": "約 10,000 - 18,000 台/年",
@@ -1909,7 +2064,7 @@
       "archetype": "healthcare"
     },
     {
-      "rank": 29,
+      "rank": 34,
       "company": "Worldline",
       "region": "法國",
       "volume": "約 10,000 - 18,000 台/年",
@@ -1959,7 +2114,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 30,
+      "rank": 35,
       "company": "BMW Group",
       "region": "德國",
       "volume": "約 10,000 - 18,000 台/年",
@@ -2015,7 +2170,7 @@
       "archetype": "automotive"
     },
     {
-      "rank": 31,
+      "rank": 36,
       "company": "Telia Company",
       "region": "瑞典",
       "volume": "約 10,000 - 18,000 台/年",
@@ -2071,7 +2226,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 32,
+      "rank": 37,
       "company": "MTN Group",
       "region": "南非",
       "volume": "約 10,000 - 18,000 台/年",
@@ -2115,7 +2270,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 33,
+      "rank": 38,
       "company": "TotalEnergies",
       "region": "法國",
       "volume": "約 10,000 - 18,000 台/年",
@@ -2177,7 +2332,7 @@
       "archetype": "energy"
     },
     {
-      "rank": 34,
+      "rank": 39,
       "company": "Shell plc",
       "region": "英國/荷蘭",
       "volume": "約 10,000 - 18,000 台/年",
@@ -2239,7 +2394,7 @@
       "archetype": "energy"
     },
     {
-      "rank": 35,
+      "rank": 40,
       "company": "IONOS (United Internet)",
       "region": "德國",
       "volume": "約 10,000 - 18,000 台/年",
@@ -2307,7 +2462,7 @@
       "challenges": "【金融業戰術】【技術門檻】BNP Paribas 對伺服器的穩定性、效能和安全性要求極高，需通過嚴格的產品認證和壓力測試流程。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, IBM，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【合規要求】歐洲市場對資料主權（GDPR）、ESG、碳排放等合規要求嚴格，伺服器供應商需提供相關認證和合規文件。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（6-12個月）】1. 透過 Atos、Capgemini 等通路合作夥伴建立間接合作關係，先以小規模專案證明 ASUS 的技術能力和服務品質。2. 針對 BNP Paribas 的非核心或新興業務需求提供標準化伺服器方案，降低切入門檻。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 BNP Paribas 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 爭取成為 BNP Paribas 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 BNP Paribas 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 BNP Paribas 客戶，透過 Atos 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 36,
+      "rank": 41,
       "keyPerson": {
         "name": "Bernard Gavgani",
         "title": "Group CIO",
@@ -2345,7 +2500,7 @@
       "archetype": "financial"
     },
     {
-      "rank": 37,
+      "rank": 42,
       "company": "Telenor Group",
       "region": "挪威",
       "volume": "約 8,000 - 15,000 台/年",
@@ -2401,7 +2556,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 38,
+      "rank": 43,
       "company": "Nestlé",
       "region": "瑞士",
       "volume": "約 8,000 - 15,000 台/年",
@@ -2457,7 +2612,7 @@
       "archetype": "automotive"
     },
     {
-      "rank": 39,
+      "rank": 44,
       "company": "Roche Holding",
       "region": "瑞士",
       "volume": "約 8,000 - 15,000 台/年",
@@ -2501,7 +2656,7 @@
       "archetype": "healthcare"
     },
     {
-      "rank": 40,
+      "rank": 45,
       "company": "BP plc",
       "region": "英國",
       "volume": "約 8,000 - 15,000 台/年",
@@ -2545,7 +2700,7 @@
       "archetype": "energy"
     },
     {
-      "rank": 41,
+      "rank": 46,
       "company": "Daimler Truck / Mercedes-Benz",
       "region": "德國",
       "volume": "約 8,000 - 15,000 台/年",
@@ -2613,7 +2768,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Lenovo已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Amadeus IT Group 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Amadeus IT Group 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Amadeus IT Group 客戶，透過 Areka Consulting 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "rank": 42,
+      "rank": 47,
       "keyPerson": {
         "name": "Sylvain Roy",
         "title": "Chief Technology Officer",
@@ -2687,7 +2842,7 @@
       "challenges": "【國防/航太業戰術】【技術要求】Airbus 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 HPE, Dell, Atos，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【合規要求】歐洲市場對資料主權（GDPR）、ESG、碳排放等合規要求嚴格，伺服器供應商需提供相關認證和合規文件。 【產業特性】國防產業對供應鏈安全和產品來源有嚴格審查，需通過政府安全認證（如 FedRAMP、ITAR）。",
       "entryPoint": "【國防/航太業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Airbus 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Airbus 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 Airbus 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Airbus 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Airbus 客戶，透過 3M DEUTSCHLAND GMBH 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720A-E12, GPU: ESC8000A-E12",
-      "rank": 43,
+      "rank": 48,
       "keyPerson": {
         "name": "Firoz Ansari",
         "title": "Head of Digital Infrastructure & Platforms",
@@ -2731,7 +2886,7 @@
       "challenges": "【汽車/自駕業戰術】【技術要求】Stellantis (Fiat/PSA) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, Atos，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【合規要求】歐洲市場對資料主權（GDPR）、ESG、碳排放等合規要求嚴格，伺服器供應商需提供相關認證和合規文件。",
       "entryPoint": "【汽車/自駕業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Stellantis (Fiat/PSA) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Stellantis (Fiat/PSA) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 Stellantis (Fiat/PSA) 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Stellantis (Fiat/PSA) 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Stellantis (Fiat/PSA) 客戶，透過 GlobalLogic 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "rank": 44,
+      "rank": 49,
       "keyPerson": {
         "name": "Ned Curic",
         "title": "Chief Engineering & Technology Officer",
@@ -2781,7 +2936,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Lenovo已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Capgemini 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Capgemini 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Capgemini 客戶，透過 Cisco 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "rank": 45,
+      "rank": 50,
       "keyPerson": {
         "name": "Reza HARIRI",
         "title": "Vice President CIO Advisory",
@@ -2855,7 +3010,7 @@
       "challenges": "【電信業戰術】【電信級要求】NEBS Level 3 認證、99.999% 可用性、-40°C~65°C 工作溫度等嚴苛規格。【既有生態系】Dell, HPE, Ericsson已深度整合至電信 NFV/SDN 平台。【長期合約】電信業設備採購通常為 3-5 年框架合約，替換窗口有限。【規模經濟】電信業對價格極度敏感，需提供大量折扣。",
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Telecom Italia (TIM) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 Telecom Italia (TIM) 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Telecom Italia (TIM) 客戶，透過 Atos 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 46,
+      "rank": 51,
       "keyPerson": {
         "name": "Stefano Siragusa",
         "title": "Chief Network, Operations & Wholesale Officer",
@@ -2899,7 +3054,7 @@
       "challenges": "【金融業戰術】【技術門檻】Deutsche Bank 對伺服器的穩定性、效能和安全性要求極高，需通過嚴格的產品認證和壓力測試流程。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, IBM，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【合規要求】歐洲市場對資料主權（GDPR）、ESG、碳排放等合規要求嚴格，伺服器供應商需提供相關認證和合規文件。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（6-12個月）】1. 透過 Kyndryl、Computacenter 等通路合作夥伴建立間接合作關係，先以小規模專案證明 ASUS 的技術能力和服務品質。2. 針對 Deutsche Bank 的非核心或新興業務需求提供標準化伺服器方案，降低切入門檻。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 Deutsche Bank 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 爭取成為 Deutsche Bank 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Deutsche Bank 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Deutsche Bank 客戶，透過 Kyndryl 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 47,
+      "rank": 52,
       "keyPerson": {
         "name": "Bernd Leukert",
         "title": "CTO & Member of the Board",
@@ -2949,7 +3104,7 @@
       "challenges": "【金融業戰術】【技術門檻】UBS Group 對伺服器的穩定性、效能和安全性要求極高，需通過嚴格的產品認證和壓力測試流程。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, IBM，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（6-12個月）】1. 透過 Kyndryl 等通路合作夥伴建立間接合作關係，先以小規模專案證明 ASUS 的技術能力和服務品質。2. 針對 UBS Group 的非核心或新興業務需求提供標準化伺服器方案，降低切入門檻。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 UBS Group 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 爭取成為 UBS Group 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 UBS Group 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 UBS Group 客戶，透過 Kyndryl 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 48,
+      "rank": 53,
       "keyPerson": {
         "name": "Mike Dargan",
         "title": "Group CTO",
@@ -2993,7 +3148,7 @@
       "challenges": "【金融業戰術】【技術要求】Lloyds Banking Group 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE, IBM，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【合規要求】歐洲市場對資料主權（GDPR）、ESG、碳排放等合規要求嚴格，伺服器供應商需提供相關認證和合規文件。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Lloyds Banking Group 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 Lloyds Banking Group 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 爭取成為 Lloyds Banking Group 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Lloyds Banking Group 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Lloyds Banking Group 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 49,
+      "rank": 54,
       "keyPerson": {
         "name": "Daniele Tonella",
         "title": "CTO",
@@ -3037,7 +3192,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Lenovo已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 NEOM (沙烏地新城) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 NEOM (沙烏地新城) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 NEOM (沙烏地新城) 客戶，透過 NEOM (沙烏地新城) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "AI 8GPU: ESC N8-E11, AI POD: 液冷機櫃方案",
-      "rank": 50,
+      "rank": 55,
       "keyPerson": {
         "name": "Joseph Bradley",
         "title": "CEO NEOM Tech & Digital",
@@ -3069,7 +3224,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 51,
+      "rank": 56,
       "company": "Novartis",
       "region": "瑞士",
       "volume": "約 6,000 - 12,000 台/年",
@@ -3125,7 +3280,7 @@
       "challenges": "【金融業戰術】【技術要求】Société Générale 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【合規要求】歐洲市場對資料主權（GDPR）、ESG、碳排放等合規要求嚴格，伺服器供應商需提供相關認證和合規文件。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Société Générale 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 Société Générale 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 爭取成為 Société Générale 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Société Générale 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Société Générale 客戶，透過 Atos 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 52,
+      "rank": 57,
       "keyPerson": {
         "name": "Carlos Gonçalves",
         "title": "Group CIO",
@@ -3157,7 +3312,7 @@
       "archetype": "financial"
     },
     {
-      "rank": 53,
+      "rank": 58,
       "company": "Aleph Alpha",
       "region": "德國",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3201,7 +3356,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 54,
+      "rank": 59,
       "company": "Safaricom (Vodacom)",
       "region": "肯亞",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3245,7 +3400,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 55,
+      "rank": 60,
       "company": "Proximus",
       "region": "比利時",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3349,7 +3504,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 56,
+      "rank": 61,
       "company": "KPN",
       "region": "荷蘭",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3423,7 +3578,7 @@
       "archetype": "telecom"
     },
     {
-      "rank": 57,
+      "rank": 62,
       "company": "Unilever",
       "region": "英國/荷蘭",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3485,7 +3640,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 58,
+      "rank": 63,
       "company": "Adyen",
       "region": "荷蘭",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3715,7 +3870,7 @@
       "archetype": "financial"
     },
     {
-      "rank": 59,
+      "rank": 64,
       "company": "Zalando",
       "region": "德國",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3771,7 +3926,7 @@
       "archetype": "retail"
     },
     {
-      "rank": 60,
+      "rank": 65,
       "company": "ASML",
       "region": "荷蘭",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3833,7 +3988,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 61,
+      "rank": 66,
       "company": "Turkcell",
       "region": "土耳其",
       "volume": "約 5,000 - 10,000 台/年",
@@ -3889,7 +4044,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Volvo Group (AB Volvo) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Volvo Group (AB Volvo) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Volvo Group (AB Volvo) 客戶，透過 HCL Technologies 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "rank": 62,
+      "rank": 67,
       "keyPerson": {
         "name": "Scott Rafkin",
         "title": "Executive Vice President and Chief Digital Officer",
@@ -3939,7 +4094,7 @@
       "challenges": "【國防/航太業戰術】【技術要求】Thales Group 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 HPE, Dell, Atos，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【合規要求】歐洲市場對資料主權（GDPR）、ESG、碳排放等合規要求嚴格，伺服器供應商需提供相關認證和合規文件。 【產業特性】國防產業對供應鏈安全和產品來源有嚴格審查，需通過政府安全認證（如 FedRAMP、ITAR）。",
       "entryPoint": "【國防/航太業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Thales Group 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Thales Group 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 Thales Group 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Thales Group 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Thales Group 客戶，透過 Avnet Silica 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 63,
+      "rank": 68,
       "keyPerson": {
         "name": "Alexandre KEHIL",
         "title": "Head of Infrastructure & IT Services",
@@ -3989,7 +4144,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Schneider Electric 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Schneider Electric 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Schneider Electric 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 邊緣: E800-E12",
-      "rank": 64,
+      "rank": 69,
       "keyPerson": {
         "name": "Dominique Zuliani",
         "title": "Head of IT GSC Europe",
@@ -4033,7 +4188,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Naspers / Prosus 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Naspers / Prosus 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Naspers / Prosus 客戶，透過 AWS 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 65,
+      "rank": 70,
       "keyPerson": {
         "name": "Euro Beinat",
         "title": "Global Head AI and Data Science",
@@ -4077,7 +4232,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, Supermicro已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Criteo 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Criteo 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Criteo 客戶，透過 CommerceIQ 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "rank": 66,
+      "rank": 71,
       "keyPerson": {
         "name": "Matthieu Blumberg",
         "title": "Senior Vice President of Engineering Infrastructure, Security, Internal IT",
@@ -4169,7 +4324,7 @@
       "challenges": "【國防/航太業戰術】【技術要求】Leonardo S.p.A. 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 HPE, Dell，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【產業特性】國防產業對供應鏈安全和產品來源有嚴格審查，需通過政府安全認證（如 FedRAMP、ITAR）。",
       "entryPoint": "【國防/航太業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Leonardo S.p.A. 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Leonardo S.p.A. 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 Leonardo S.p.A. 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Leonardo S.p.A. 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Leonardo S.p.A. 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "rank": 67,
+      "rank": 72,
       "keyPerson": {
         "name": "Massa Alessandro",
         "title": "Chief Technology & Innovation Officer",
@@ -4213,7 +4368,7 @@
       "challenges": "【國防/航太業戰術】【技術門檻】BAE Systems 對伺服器的穩定性、效能和安全性要求極高，需通過嚴格的產品認證和壓力測試流程。 【供應鏈壁壘】目前主要供應商為 HPE, Dell，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【合規要求】歐洲市場對資料主權（GDPR）、ESG、碳排放等合規要求嚴格，伺服器供應商需提供相關認證和合規文件。 【產業特性】國防產業對供應鏈安全和產品來源有嚴格審查，需通過政府安全認證（如 FedRAMP、ITAR）。",
       "entryPoint": "【國防/航太業戰術】【短期（6-12個月）】1. 透過 SI/DIST 等通路合作夥伴建立間接合作關係，先以小規模專案證明 ASUS 的技術能力和服務品質。2. 針對 BAE Systems 的非核心或新興業務需求提供標準化伺服器方案，降低切入門檻。 【中期（6-12個月）】3. 深入了解 BAE Systems 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 BAE Systems 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 BAE Systems 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 BAE Systems 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, GPU: ESC8000A-E12",
-      "rank": 68,
+      "rank": 73,
       "keyPerson": {
         "name": "Simon Whibberley",
         "title": "Head of IT Infrastructure & Operations",
@@ -4257,7 +4412,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Continental AG 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Continental AG 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Continental AG 客戶，透過 Angst + Pfister 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, GPU: ESC8000A-E12",
-      "rank": 69,
+      "rank": 74,
       "keyPerson": {
         "name": "Christian Kötz",
         "title": "Chairperson of the Executive Board",
@@ -4409,7 +4564,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Dassault Systèmes 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Dassault Systèmes 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Dassault Systèmes 客戶，透過 Capgemini 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720A-E12, GPU: ESC8000A-E12",
-      "rank": 70,
+      "rank": 75,
       "keyPerson": {
         "name": "Florence Hu-Aubigny",
         "title": "EVP R&D",
@@ -4453,7 +4608,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE, Ericsson已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Ooredoo Group 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Ooredoo Group 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Ooredoo Group 客戶，透過 Huawei (excluded) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 71,
+      "rank": 76,
       "keyPerson": {
         "name": "Sheikh Mohammed Bin Abdulla Al Thani",
         "title": "Deputy Group CEO",
@@ -4503,7 +4658,7 @@
       "challenges": "【金融業戰術】【技術要求】Allianz SE 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【合規要求】歐洲市場對資料主權（GDPR）、ESG、碳排放等合規要求嚴格，伺服器供應商需提供相關認證和合規文件。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Allianz SE 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 Allianz SE 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 爭取成為 Allianz SE 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Allianz SE 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Allianz SE 客戶，透過 Computacenter 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 72,
+      "rank": 77,
       "keyPerson": {
         "name": "Ralf Schneider",
         "title": "Group CIO",
@@ -4553,7 +4708,7 @@
       "challenges": "【電信業戰術】【技術要求】Standard Chartered 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【合規要求】歐洲市場對資料主權（GDPR）、ESG、碳排放等合規要求嚴格，伺服器供應商需提供相關認證和合規文件。 【產業特性】電信業對網路設備和伺服器的穩定性、長期維護支援有嚴格要求，採購週期長但訂單量穩定。",
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Standard Chartered 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 Standard Chartered 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 爭取成為 Standard Chartered 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Standard Chartered 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Standard Chartered 客戶，透過 Kyndryl 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 73,
+      "rank": 78,
       "keyPerson": {
         "name": "Roel Louwhoff",
         "title": "Group COO",
@@ -4597,7 +4752,7 @@
       "challenges": "【能源業戰術】【HPC 需求】地質模擬需要大量 HPC 運算能力，對伺服器效能要求極高。【既有關係】Dell, HPE已建立長期合作。【邊緣環境】油田/鑽井平台的邊緣部署需考慮極端環境。【ESG 壓力】能源業正加速數位轉型以符合 ESG 要求，IT 投資增加中。",
       "entryPoint": "【能源業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Enel Group 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Enel Group 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Enel Group 客戶，透過 Atos 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 邊緣: E800-E12",
-      "rank": 74,
+      "rank": 79,
       "keyPerson": {
         "name": "Carlo Bozzoli",
         "title": "Head of Global Digital Solutions",
@@ -4629,6 +4784,103 @@
       "archetype": "energy"
     },
     {
+      "rank": 80,
+      "company": "Gcore",
+      "region": "EMEA",
+      "volume": "約 5,000 - 10,000 台/年（估計值，基於全球分散式基礎設施規模）",
+      "platform": "AI/GPU伺服器（ESC8000-E12支援NVIDIA H100/A100）、通用型/雲端/邊緣伺服器（RS700-E11、RS720Q-E11），全球分散式部署",
+      "application": "公共雲服務、邊緣運算、CDN、託管服務、安全解決方案（DDoS防護）、AI訓練與推論、S3物件儲存、託管Kubernetes、裸機服務",
+      "currentSuppliers": "Dell, Supermicro, Intel",
+      "odmOem": "OEM為主，不排除ODM客製化",
+      "asusModel": "ESC8000-E12（支援NVIDIA H100/A100 GPU）; ESC N8-E11（高密度AI運算）; RS700-E11（1U機架式）; RS720Q-E11（多節點伺服器）",
+      "channel": "直供為主，搭配SI/DIST合作夥伴",
+      "difficulty": 8,
+      "challenges": "【neocloud】【技術門檻】Gcore作為全球性的雲端與邊緣運算服務提供商，對伺服器的性能、穩定性、擴展性及能效有極高要求，特別是在AI訓練與推論方面，需要頂級GPU支援，且基礎設施遍布全球，需要供應商具備全球供貨與服務能力。【供應鏈壁壘】Gcore目前已使用Dell、Supermicro等品牌，轉換供應商或引入新供應商存在供應鏈整合風險與成本。【商務挑戰】雲端服務市場競爭激烈，Gcore對採購成本和TCO非常敏感，ASUS需提供具競爭力的價格方案。【產業特性】盧森堡總部的歐洲法規合規要求（GDPR等）對供應商的資料安全和隱私保護能力有嚴格要求。",
+      "entryPoint": "【neocloud】【短期（6-12個月）】針對Gcore的AI雲服務需求，主動提供ASUS搭載NVIDIA H100/A100 GPU的ESC系列伺服器解決方案，強調其在AI訓練與推論上的卓越性能和能效比，並從Gcore正在擴展的AI雲基礎設施項目切入，提供POC測試機會。【中期（1-2年）】建立長期合作關係，深入了解Gcore的雲端基礎設施發展藍圖，提供客製化的伺服器解決方案，並透過ASUS全球服務網絡提供快速響應的技術支援與維護服務。【長期（2-3年）】成為Gcore在AI、雲端和邊緣運算領域的戰略合作夥伴，共同探索新技術和新市場，提供全面的ASUS伺服器產品線，涵蓋其資料中心、雲端節點和邊緣站點的所有需求。【關鍵行動】透過 Arrow Electronics 和 Ingram Micro 在盧森堡/歐洲的通路建立初步聯繫。",
+      "keyPerson": "Dmitriy Gusakovskiy (Director of Infrastructure)",
+      "techDecisionMaker": "Dmitriy Gusakovskiy | Director of Infrastructure | https://lu.linkedin.com/in/dmitriy-gusakovskiy-a2a172106 | 重點介紹ASUS伺服器在AI、雲端和邊緣運算領域的技術領先性，特別是針對NVIDIA H100/A100 GPU的優化設計，以及對最新Intel Xeon和AMD EPYC處理器的支援。",
+      "procurementDecisionMaker": "N/A | N/A | N/A | 強調ASUS伺服器在TCO上的優勢，包括具競爭力的採購價格、優異的能效表現（降低營運成本）以及可靠的售後服務（降低維護成本），並提供彈性的採購方案和供應鏈管理。",
+      "siDist": [
+        {
+          "name": "Arrow Electronics",
+          "url": "https://www.arrow.com"
+        },
+        {
+          "name": "Ingram Micro",
+          "url": "https://www.ingrammicro.com"
+        },
+        {
+          "name": "Tech Data",
+          "url": "https://www.techdata.com"
+        }
+      ],
+      "volumeSource": "https://gcore.com/infrastructure",
+      "industry": "NeoCloud/AI",
+      "archetype": "neocloud"
+    },
+    {
+      "rank": 81,
+      "company": "Beyond.pl",
+      "region": "EMEA",
+      "volume": "約 5,000 - 10,000 台/年（估計值，基於AI Factory規模及NVIDIA Blackwell DGX SuperPOD部署）",
+      "platform": "高性能GPU伺服器（NVIDIA B200 GPU），基於NVIDIA Blackwell DGX SuperPOD基礎設施，支援高密度部署，每個機架功率密度高達140+kW",
+      "application": "AI訓練、雲端服務、企業IT、資料中心、高性能運算（HPC）",
+      "currentSuppliers": "NVIDIA（GPU技術及Blackwell DGX SuperPOD）, HPE, VMware",
+      "odmOem": "OEM為主",
+      "asusModel": "ESC8000-E12, ESC4000-E12, RS720Q-E11, RS700-E11系列",
+      "channel": "直供/SI",
+      "difficulty": 8,
+      "challenges": "【neocloud】【技術門檻】Beyond.pl作為AI Factory，對伺服器性能、散熱、擴展性及與NVIDIA生態系統的整合有極高要求，ASUS需證明其產品在這些方面的競爭力，並提供客製化解決方案。【供應鏈壁壘】數據中心市場競爭激烈，Beyond.pl已與NVIDIA、HPE等建立合作關係，ASUS需提供獨特價值主張才能切入。【商務挑戰】傾向OEM為主，可能涉及ODM客製化，需要ASUS具備彈性的供應鏈和研發能力。【產業特性】波蘭市場對本地化服務和語言支援有較高要求，且需符合歐盟資料主權和GDPR法規。",
+      "entryPoint": "【neocloud】【短期（6-12個月）】針對Beyond.pl的AI Factory需求，主動聯繫技術決策者Wojciech Darłowski，展示ASUS在GPU伺服器（如ESC系列）和高密度運算方面的技術實力及成功案例。透過TD SYNNEX Poland等潛在SI/DIST合作夥伴，尋求引薦機會，共同提供整合解決方案。針對Beyond.pl的特定AI或HPC工作負載，提供小規模的ASUS伺服器POC方案。【中期（1-2年）】根據POC結果和Beyond.pl的具體需求，提供更深度的伺服器客製化服務，包括硬體配置、散熱方案、軟體整合等，並密切關注其資料中心園區的擴建計畫，爭取參與伺服器採購招標。【長期（2-3年）】成為Beyond.pl在AI和HPC領域的長期戰略供應商，共同探索新技術和解決方案。【關鍵行動】優先透過 TD SYNNEX Poland 建立關係，並積極參與波蘭 IT 展覽。",
+      "keyPerson": "Wojciech Darłowski (Management Board Member, Cloud and Managed Services)",
+      "techDecisionMaker": "Wojciech Darłowski | Management Board Member, Cloud and Managed Services | https://pl.linkedin.com/in/wojciech-darlowski | 突出ASUS GPU伺服器（ESC系列）的性能、擴展性、散熱技術以及與NVIDIA生態系統的兼容性，強調ASUS能根據Beyond.pl的特定需求提供靈活的硬體配置和軟體整合服務。",
+      "procurementDecisionMaker": "N/A | N/A | N/A | 強調ASUS伺服器在性能、可靠性、能效和售後服務方面的綜合優勢，幫助Beyond.pl降低長期運營成本，並針對其OEM為主採購模式，提供靈活的供應鏈管理和客製化生產能力。",
+      "siDist": [
+        {
+          "name": "TD SYNNEX Poland",
+          "url": "https://pl.tdsynnex.com/"
+        }
+      ],
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/beyond-pl-to-deploy-nvidia-b200-gpus/",
+      "industry": "NeoCloud/AI",
+      "archetype": "neocloud"
+    },
+    {
+      "rank": 82,
+      "company": "ATEA",
+      "region": "EMEA",
+      "volume": "約 5,000 - 10,000 台/年（估計值，基於北歐最大IT基礎設施服務商規模）",
+      "platform": "Intel Xeon 6（Performance P-Core SP Granite Rapids、Efficiency E-Core SP Sierra Forest）和AMD EPYC，支援DDR5、PCIe 5.0/CXL 2.0、DPU和液冷技術",
+      "application": "AI/ML、HPC、資料中心、企業IT、虛擬化",
+      "currentSuppliers": "Dell, HPE, VMware by Broadcom, Cisco, IBM, Lenovo, HP, Microsoft, Netapp, Nutanix, Oracle, Hitachi Vantara",
+      "odmOem": "OEM為主，部分ODM",
+      "asusModel": "ESC8000A-E12（AMD EPYC、GPU）; ESC8000-E12（Intel Xeon 6、GPU）; RS920Q-E12（Intel Xeon 6900系列）; RS700-E12-RS4U（Intel Xeon 6）",
+      "channel": "直供（Direct Supply）或透過大型SI/DIST合作夥伴",
+      "difficulty": 8,
+      "challenges": "【enterprise_general】【技術門檻】ATEA作為大型IT基礎設施服務提供商，其客戶群廣泛，對伺服器產品的穩定性、可靠性、擴展性和安全性要求極高。由於其現有供應商多為Dell、HPE等一線品牌，ASUS需證明其產品在性能、品質和服務上能與之競爭，甚至超越。【供應鏈壁壘】ATEA對Intel Xeon 6和AMD EPYC等最新處理器技術、DDR5、PCIe 5.0/CXL 2.0、DPU和液冷技術有明確需求，ASUS需確保其產品線能全面覆蓋這些先進技術。【商務挑戰】ATEA可能對客製化解決方案有需求，ASUS需展現其ODM能力和彈性，並與ATEA現有的多品牌生態系統相容。【產業特性】北歐市場對永續發展、能源效率和碳排放有嚴格要求，ASUS需提供符合北歐環保標準的解決方案。",
+      "entryPoint": "【enterprise_general】【短期（6-12個月）】透過現有合作夥伴（如Intel、AMD）引薦，與ATEA的技術團隊建立聯繫，展示ASUS在AI/ML、HPC和資料中心解決方案上的技術實力。針對ATEA的特定需求，提供ASUS ESC8000系列或RS系列伺服器的測試樣機，並提供詳細的性能測試報告和技術支援。【中期（1-2年）】建立長期合作關係，成為ATEA的合格供應商之一，逐步擴大供貨份額，並針對ATEA的客製化需求，提供ODM服務，共同開發符合其客戶需求的伺服器產品。【長期（2-3年）】成為ATEA在特定領域（如AI、HPC）的首選伺服器供應商，與ATEA共同探索新興技術和市場機會，實現雙贏。【關鍵行動】優先透過 Arrow Electronics 和 ALSO Group 在北歐的通路建立關係，並積極參與北歐 IT 展覽。",
+      "keyPerson": "Kenneth Larsen (Senior VP & AMS CTO)",
+      "techDecisionMaker": "Kenneth Larsen | Senior Vice President & AMS CTO | https://dk.linkedin.com/in/kennethgl | 向技術決策者展示ASUS在AI/ML、HPC和資料中心解決方案的領先技術，特別是針對Intel Xeon 6和AMD EPYC最新處理器的支援、DDR5、PCIe 5.0/CXL 2.0、DPU和液冷技術的整合能力。",
+      "procurementDecisionMaker": "Jo Haugen | Director Procurement | https://no.linkedin.com/in/jo-haugen-118674462 | 向採購決策者強調ASUS伺服器在TCO、能源效率和長期穩定性方面的優勢，提供靈活的採購方案和供應鏈保障，並展示ASUS作為全球領先硬體供應商的實力與信譽。",
+      "siDist": [
+        {
+          "name": "Arrow Electronics",
+          "url": "https://www.arrow.com"
+        },
+        {
+          "name": "Ingram Micro",
+          "url": "https://www.ingrammicro.com"
+        },
+        {
+          "name": "ALSO Group",
+          "url": "https://www.also.com"
+        }
+      ],
+      "volumeSource": "https://www.atea.com/media/nubfsooi/transcript-q4-2024.pdf",
+      "industry": "科技",
+      "archetype": "enterprise_general"
+    },
+    {
       "company": "ABB Ltd",
       "region": "瑞士",
       "volume": "約 5,000 - 8,000 台/年",
@@ -4641,7 +4893,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 ABB Ltd 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 ABB Ltd 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 ABB Ltd 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 邊緣: E800-E12",
-      "rank": 75,
+      "rank": 83,
       "keyPerson": {
         "name": "Scot Burdette",
         "title": "Global CIO",
@@ -4685,7 +4937,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Infineon Technologies 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Infineon Technologies 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Infineon Technologies 客戶，透過 MOTEON 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720A-E12, GPU: ESC4000A-E12",
-      "rank": 76,
+      "rank": 84,
       "keyPerson": {
         "name": "Stephen Pullen",
         "title": "Vice President, IT Infrastructure Applications & Security",
@@ -4765,7 +5017,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】HPE, Dell已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Eni SpA 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Eni SpA 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Eni SpA 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720A-E12, GPU: ESC8000A-E12",
-      "rank": 77,
+      "rank": 85,
       "keyPerson": {
         "name": "Andrea Lo Schiavo",
         "title": "Head of IT Infrastructure",
@@ -4809,7 +5061,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Sopra Steria 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Sopra Steria 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Sopra Steria 客戶，透過 Microsoft 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 78,
+      "rank": 86,
       "keyPerson": {
         "name": "Jean-Marie Souchu",
         "title": "Infrastructure Management Director",
@@ -4883,7 +5135,7 @@
       "challenges": "【能源業戰術】【HPC 需求】地質模擬需要大量 HPC 運算能力，對伺服器效能要求極高。【既有關係】HPE, Dell已建立長期合作。【邊緣環境】油田/鑽井平台的邊緣部署需考慮極端環境。【ESG 壓力】能源業正加速數位轉型以符合 ESG 要求，IT 投資增加中。",
       "entryPoint": "【能源業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Equinor (原 Statoil) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Equinor (原 Statoil) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Equinor (原 Statoil) 客戶，透過 Atos 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720A-E12, GPU: ESC4000A-E12",
-      "rank": 79,
+      "rank": 87,
       "keyPerson": {
         "name": "Mette Ottøy",
         "title": "SVP IT & Digital",
@@ -4915,7 +5167,7 @@
       "archetype": "energy"
     },
     {
-      "rank": 80,
+      "rank": 88,
       "company": "Delivery Hero",
       "region": "德國",
       "volume": "約 3,000 - 8,000 台/年",
@@ -4959,7 +5211,7 @@
       "archetype": "retail"
     },
     {
-      "rank": 81,
+      "rank": 89,
       "company": "Bolt Technology",
       "region": "愛沙尼亞",
       "volume": "約 3,000 - 8,000 台/年",
@@ -5015,7 +5267,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Liquid Intelligent Technologies，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Liquid Intelligent Technologies 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Liquid Intelligent Technologies 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 82,
+      "rank": 90,
       "keyPerson": {
         "name": "David Eurin",
         "title": "Group CTO",
@@ -5059,7 +5311,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 NXP Semiconductors 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 NXP Semiconductors 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 NXP Semiconductors 客戶，透過 Advanide 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "rank": 83,
+      "rank": 91,
       "keyPerson": {
         "name": "Lars Reger",
         "title": "Executive Vice President and Chief Technology Officer",
@@ -5169,7 +5421,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Wise (TransferWise)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Wise (TransferWise) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Wise (TransferWise) 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 84,
+      "rank": 92,
       "keyPerson": {
         "name": "Kostas Stamatoukos",
         "title": "Sr Director Of Engineering, Wise Platform & Receive",
@@ -5213,7 +5465,7 @@
       "challenges": "【金融業戰術】【技術要求】Rolls-Royce Holdings 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 HPE, Dell，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【合規要求】歐洲市場對資料主權（GDPR）、ESG、碳排放等合規要求嚴格，伺服器供應商需提供相關認證和合規文件。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Rolls-Royce Holdings 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 Rolls-Royce Holdings 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Rolls-Royce Holdings 客戶，透過 AVK 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "rank": 85,
+      "rank": 93,
       "keyPerson": {
         "name": "Gero Stroebele",
         "title": "Director IT Infrastructure at Rolls-Royce Power Systems AG",
@@ -5263,7 +5515,7 @@
       "challenges": "【金融業戰術】【合規要求】金融監管（SOX、PCI-DSS、GDPR）對供應商有嚴格的安全認證與審計要求。【採購流程】Vendor Qualification Program 通常需 6-12 個月，包含安全審計、壓力測試、合規驗證。【既有關係】Dell已通過合規認證，替換成本包含重新認證費用。【穩定性優先】金融業極度重視系統穩定性，對新供應商持保守態度。",
       "entryPoint": "【金融業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Klarna 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 Klarna 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Klarna 客戶，透過 Adyen 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "rank": 86,
+      "rank": 94,
       "keyPerson": {
         "name": "Pontus Burman",
         "title": "Head of Infrastructure (Consultant)",
@@ -5343,7 +5595,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Adevinta，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Adevinta 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Adevinta 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 87,
+      "rank": 95,
       "keyPerson": {
         "name": "待查詢",
         "title": "VP, Platform Engineering",
@@ -5387,7 +5639,7 @@
       "challenges": "【零售/電商業戰術】【成本導向】零售業利潤率低，對伺服器 TCO 極度敏感。【既有關係】Dell已建立穩定的供應關係。【季節性需求】零售業有明顯的季節性採購高峰（黑五、雙十一），需要供應商能快速擴容。【分散部署】門市邊緣 AI 需要大量小型伺服器分散部署。",
       "entryPoint": "【零售/電商業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Glovo (Delivery Hero 子公司) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Glovo (Delivery Hero 子公司) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Glovo (Delivery Hero 子公司) 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 88,
+      "rank": 96,
       "keyPerson": {
         "name": "Kai Wichmann",
         "title": "Director Infrastructure Engineering",
@@ -5431,7 +5683,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Faurecia (FORVIA) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Faurecia (FORVIA) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Faurecia (FORVIA) 客戶，透過 TVH 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "rank": 89,
+      "rank": 97,
       "keyPerson": {
         "name": "Raphaël Viard",
         "title": "Group Senior Vice President, Chief Digital and Information Officer",
@@ -5475,7 +5727,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Getir 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Getir 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Getir 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 90,
+      "rank": 98,
       "keyPerson": {
         "name": "Atahan Kara",
         "title": "VP of Infrastructure, Data&AI",
@@ -5519,7 +5771,7 @@
       "challenges": "【金融業戰術】【技術要求】Revolut 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, AWS (部分雲端)，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【合規要求】歐洲市場對資料主權（GDPR）、ESG、碳排放等合規要求嚴格，伺服器供應商需提供相關認證和合規文件。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Revolut 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 Revolut 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Revolut 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 91,
+      "rank": 99,
       "keyPerson": {
         "name": "Vlad Yatsenko",
         "title": "Co-Founder & CTO",
@@ -5563,7 +5815,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Ubisoft 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Ubisoft 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Ubisoft 客戶，透過 OVHcloud 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "rank": 92,
+      "rank": 100,
       "keyPerson": {
         "name": "Christian Guillemot",
         "title": "CTO",
@@ -5607,7 +5859,7 @@
       "challenges": "【企業 IT 戰術】【技術要求】Safran Group 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 HPE, Dell，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【商務挑戰】採購決策流程複雜，涉及多個部門（IT、採購、財務），決策週期長。需要從技術驗證、商務談判到合約簽訂全流程跟進。 【合規要求】歐洲市場對資料主權（GDPR）、ESG、碳排放等合規要求嚴格，伺服器供應商需提供相關認證和合規文件。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Safran Group 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 Safran Group 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 爭取成為 Safran Group 的合格供應商名單（AVL），建立長期合作框架協議。6. 與 Safran Group 的技術團隊共同開發針對其特定需求的客製化伺服器方案，深化合作關係。 【關鍵行動】指派專責業務經理負責 Safran Group 客戶，透過 Atos 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, GPU: ESC4000A-E12",
-      "rank": 93,
+      "rank": 101,
       "keyPerson": {
         "name": "Christophe Fontaine",
         "title": "VP IT & Digital",
@@ -5651,7 +5903,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 Zain Group，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 Zain Group 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Zain Group 客戶，透過 SI/DIST 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 94,
+      "rank": 102,
       "keyPerson": {
         "name": "Nawaf Al-Gharabally",
         "title": "Group CTO",
@@ -5695,7 +5947,7 @@
       "challenges": "【電信業戰術】【電信級要求】NEBS Level 3 認證、99.999% 可用性、-40°C~65°C 工作溫度等嚴苛規格。【既有生態系】Dell, HPE已深度整合至電信 NFV/SDN 平台。【長期合約】電信業設備採購通常為 3-5 年框架合約，替換窗口有限。【規模經濟】電信業對價格極度敏感，需提供大量折扣。",
       "entryPoint": "【電信業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 du (Emirates Integrated Telecom) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 針對 5G 核心網路和邊緣運算需求，提供 ASUS 1U/2U 高密度伺服器方案。4. 參與 du (Emirates Integrated Telecom) 的網路設備更新招標，提供具競爭力的 TCO 分析。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 du (Emirates Integrated Telecom) 客戶，透過 Advanide 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 95,
+      "rank": 103,
       "keyPerson": {
         "name": "Lars Reger",
         "title": "Executive Vice President and Chief Technology Officer",
@@ -5805,7 +6057,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell, HPE已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 A1 Telekom Austria Group 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 A1 Telekom Austria Group 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 A1 Telekom Austria Group 客戶，透過 Bechtle 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 96,
+      "rank": 104,
       "keyPerson": {
         "name": "Marcus Grausam",
         "title": "CEO A1 Austria & CTO",
@@ -5849,7 +6101,7 @@
       "challenges": "【金融業戰術】【技術要求】Zurich Insurance Group 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 Zurich Insurance Group 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 Zurich Insurance Group 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 Zurich Insurance Group 客戶，透過 Computacenter 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 97,
+      "rank": 105,
       "keyPerson": {
         "name": "Ericson Chan",
         "title": "Group CIO",
@@ -5881,7 +6133,7 @@
       "archetype": "financial"
     },
     {
-      "rank": 98,
+      "rank": 106,
       "company": "AstraZeneca",
       "region": "英國",
       "volume": "約 3,000-6,000 台/年",
@@ -5931,7 +6183,7 @@
       "archetype": "healthcare"
     },
     {
-      "rank": 99,
+      "rank": 107,
       "company": "Dassault Systemes",
       "region": "法國(巴黎)",
       "volume": "約 3,000-5,000 台/年",
@@ -5981,6 +6233,28 @@
       "archetype": "enterprise_general"
     },
     {
+      "rank": 108,
+      "company": "Arkane Cloud",
+      "region": "EMEA",
+      "volume": "約 2,000 - 4,000 台/年（估計值，基於1,000-GPU叢集及擴展至6,000-GPU計畫）",
+      "platform": "NVIDIA GPU伺服器，高密度GPU叢集（目前1,000-GPU叢集，計畫擴展至6,000-GPU）",
+      "application": "AI訓練、雲端服務、機器學習、數據處理、推論工作負載、3D渲染",
+      "currentSuppliers": "NVIDIA, Supermicro, VAST Data, DDN, nLighten, Equinix",
+      "odmOem": "ODM為主",
+      "asusModel": "ESC8000-E12, ESC4000-E12",
+      "channel": "直供為主",
+      "difficulty": 8,
+      "challenges": "【neocloud】【技術門檻】Arkane Cloud對GPU伺服器有高密度、高效能、散熱等嚴格要求，且已與NVIDIA等廠商建立合作。ASUS需證明其在這些領域的技術實力與客製化能力。【供應鏈壁壘】快速擴展至6,000 GPU叢集需要穩定的供應鏈和大規模交付能力，ASUS需展現其供應鏈的可靠性與彈性。【商務挑戰】Arkane Cloud已與多個供應商合作，ASUS需提供足夠的差異化優勢才能切入，且作為法國新創公司，採購決策可能較為靈活但預算有限。【產業特性】法國AI雲端市場競爭激烈，且對資料主權和本地化服務有較高要求。",
+      "entryPoint": "【neocloud】【短期（6-12個月）】針對其擴展計畫，提供ASUS高密度GPU伺服器（如ESC8000-E12）的POC方案，展示ASUS在散熱、效能、管理軟體上的優勢。積極與其技術團隊溝通，了解其具體客製化需求，提供ODM合作的可能性，例如針對其液冷或特定機櫃設計提供解決方案。探討ASUS伺服器與其現有VAST Data、DDN等儲存解決方案的整合能力。【中期（1-2年）】在POC成功後，爭取小規模訂單，逐步建立信任，並在後續擴展計畫中爭取更大份額。邀請其技術團隊參訪ASUS研發中心，進行深度技術交流，共同開發符合未來AI基礎設施需求的解決方案。【長期（2-3年）】成為Arkane Cloud在AI基礎設施領域的核心供應商，隨著其6,000 GPU叢集的擴建，提供持續的供應鏈和技術支援。【關鍵行動】優先透過直供管道接觸 Julien Gauthier，並提供液冷GPU伺服器的技術展示。",
+      "keyPerson": "Julien Gauthier (CEO)",
+      "techDecisionMaker": "Julien Gauthier | CEO | https://fr.linkedin.com/in/julien-gauthier-b93a6a130/en | 強調ASUS伺服器在GPU密度、散熱解決方案、AI工作負載優化方面的技術優勢，並提供客製化解決方案以滿足其擴展至6,000 GPU叢集的需求。",
+      "procurementDecisionMaker": "N/A | N/A | N/A | 強調ASUS伺服器在性價比、供應鏈穩定性、售後服務方面的優勢，並提供彈性的採購模式（如ODM合作）以降低總體擁有成本。",
+      "siDist": [],
+      "volumeSource": "https://www.megaport.com/podcasts/scaling-ai-cloud-infrastructure/",
+      "industry": "NeoCloud/AI",
+      "archetype": "neocloud"
+    },
+    {
       "company": "N26 (Number26)",
       "region": "德國",
       "volume": "約 2,000 - 4,000 台/年",
@@ -5993,7 +6267,7 @@
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】Dell已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（1-3個月）】1. 直接透過通路合作夥伴或 ASUS 業務團隊接觸 N26 (Number26)，提供產品目錄和報價。2. 利用 ASUS 品牌知名度和性價比優勢快速建立合作關係。 【中期（6-12個月）】3. 深入了解 N26 (Number26) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 N26 (Number26) 客戶，透過 Computacenter 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
       "asusModel": "通用2U: RS720-E11, 通用1U: RS700-E11",
-      "rank": 100,
+      "rank": 109,
       "keyPerson": {
         "name": "Jan Kemper",
         "title": "CFO & Co-CEO",
@@ -6022,6 +6296,192 @@
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=N26%20(Number26)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
+      "archetype": "enterprise_general"
+    },
+    {
+      "rank": 110,
+      "company": "i3D.net",
+      "region": "EMEA",
+      "volume": "約 2,000 - 3,000 台/年（估計值，基於全球遊戲託管基礎設施規模）",
+      "platform": "Intel Xeon CPU、AMD EPYC CPU、NVIDIA GPU伺服器，搭配NVMe SSD及HDD儲存，全球六大洲分散式部署",
+      "application": "全球遊戲託管、企業IT基礎設施、雲端服務、AI/ML工作負載、WebRTC服務、物流、醫療",
+      "currentSuppliers": "Dell（主要硬體供應商）、Supermicro（AMD EPYC伺服器）、AMD（CPU）、Intel（CPU）、Samsung（SSD）、Western Digital（HDD）",
+      "odmOem": "OEM為主",
+      "asusModel": "RS700-E11系列（Intel平台）; RS720-E11系列（AMD平台）; ESC8000-E12系列（GPU伺服器）",
+      "channel": "直供為主，搭配SI合作夥伴",
+      "difficulty": 8,
+      "challenges": "【neocloud】【技術門檻】i3D.net對低延遲、高性能、高可靠性有極高要求，且其基礎設施涵蓋全球六大洲，技術整合與維護複雜。現有供應商Dell、Supermicro等已形成穩定供應鏈，切入需證明ASUS在性能、穩定性及全球服務支援上的顯著優勢。特別是遊戲託管對CPU單核性能、GPU運算和網路延遲有嚴苛要求。【供應鏈壁壘】i3D.net作為Ubisoft旗下公司，採購決策可能涉及集團層面的審批，且對供應商的全球服務能力和快速響應有嚴格要求。【商務挑戰】遊戲和媒體行業對成本敏感，ASUS需提供具競爭力的TCO方案，並展示其在全球服務支援方面的能力。【產業特性】遊戲行業的工作負載具有高度波動性，需要供應商提供靈活的擴展方案和快速交付能力。",
+      "entryPoint": "【neocloud】【短期（6-12個月）】突出ASUS伺服器在高性能、低延遲、高密度及散熱技術上的優勢，特別是針對遊戲託管和AI/ML工作負載的優化，強調ASUS在Intel、AMD及NVIDIA平台上的廣泛產品線與客製化能力，提供詳細的技術白皮書、測試報告及成功案例。【中期（1-2年）】建立與i3D.net技術團隊的深度合作關係，提供客製化的伺服器解決方案，並透過ASUS全球服務網絡提供快速響應的技術支援與維護服務。【長期（2-3年）】成為i3D.net在全球遊戲和AI基礎設施領域的核心供應商，隨著其業務擴張，提供全球化的供應鏈和服務支援。【關鍵行動】優先透過直供管道接觸 Giovanni Intini 的技術團隊，並提供遊戲伺服器專屬的性能基準測試報告。",
+      "keyPerson": "Giovanni Intini (CTO)",
+      "techDecisionMaker": "Giovanni Intini | CTO | https://ie.linkedin.com/in/intinig | 突出ASUS伺服器在高性能、低延遲、高密度及散熱技術上的優勢，特別是針對遊戲託管和AI/ML工作負載的優化，強調ASUS在Intel、AMD及NVIDIA平台上的廣泛產品線與客製化能力。",
+      "procurementDecisionMaker": "N/A | N/A | N/A | 強調ASUS作為全球領先硬體供應商的穩定性與可靠性，提供具競爭力的價格與彈性的供應鏈管理，展示ASUS在伺服器領域的長期承諾與研發投入，確保產品生命週期支援。",
+      "siDist": [],
+      "volumeSource": "https://www.i3d.net/",
+      "industry": "NeoCloud/AI",
+      "archetype": "neocloud"
+    },
+    {
+      "rank": 111,
+      "company": "SAP Cloud Infrastructure",
+      "region": "EMEA",
+      "volume": "約 1,000 - 2,000 台/年（估計值，基於SAP自有雲端基礎設施規模）",
+      "platform": "主要使用Intel處理器（Intel Sapphire Rapids SP、Ice Lake SP、Emerald Rapids SP、Granite Rapids），支援SAP HANA的IaaS平台，記憶體從128 GiB到12 TiB不等",
+      "application": "雲端服務（IaaS），支援SAP Cloud ERP、SAP HCM、SAP S/4HANA等，以及AI訓練和推論等AI工作負載（EU AI Cloud）",
+      "currentSuppliers": "IBM Cloud, Alibaba Cloud Computing Limited, Google Cloud Platform, Amazon Web Services",
+      "odmOem": "OEM為主",
+      "asusModel": "RS720Q-E11（高密度運算）; RS700-E10/RS700-E11系列（通用型Intel伺服器）; ESC8000-E12（GPU伺服器，適用於AI工作負載）",
+      "channel": "直供為主，輔以策略性SI合作夥伴",
+      "difficulty": 8,
+      "challenges": "【neocloud】【技術門檻】SAP Cloud Infrastructure基於OpenStack和Kubernetes，並高度依賴Intel平台，對硬體相容性、穩定性及效能有嚴格要求。現有供應商均為大型雲服務商或知名硬體廠商，ASUS需證明其產品在SAP生態系統中的兼容性與優勢。【供應鏈壁壘】SAP Cloud Infrastructure以OEM採購為主，且已與多家超大規模雲服務商建立合作關係，ASUS需找到差異化競爭優勢，並證明其供應鏈能力可滿足大規模、客製化需求。【商務挑戰】ASUS在企業級伺服器市場的品牌認知度可能不如現有供應商，需投入更多資源建立信任。【產業特性】SAP作為全球最大的企業軟體公司，其雲端基礎設施採購決策涉及多層審批，且對供應商的企業級支援能力和長期承諾有嚴格要求。",
+      "entryPoint": "【neocloud】【短期（6-12個月）】針對SAP Cloud Infrastructure的AI工作負載需求，推廣ASUS的GPU伺服器解決方案，強調其在AI運算效能、散熱技術及能效方面的優勢，爭取小規模試點專案。同時，積極參與SAP的硬體認證計畫，確保ASUS伺服器與SAP HANA及OpenStack/Kubernetes環境的完全兼容性。【中期（1-2年）】在成功完成AI試點專案後，逐步擴展至通用型Intel伺服器，提供具競爭力的性價比和客製化選項，可透過與SAP現有超大規模雲服務商合作，作為其硬體供應商之一，間接進入SAP Cloud Infrastructure的供應鏈。【長期（2-3年）】建立長期合作關係，成為SAP Cloud Infrastructure的策略性硬體供應商，提供全方位的伺服器產品線和解決方案，並參與其未來基礎設施的規劃與設計。【關鍵行動】優先取得 SAP HANA 硬體認證，並透過 SAP 合作夥伴計畫建立官方合作關係。",
+      "keyPerson": "Lalit Patil (EVP & CTO, Global Cloud Operations)",
+      "techDecisionMaker": "Lalit Patil | EVP & Chief Technology Officer, Global Cloud Operations | https://de.linkedin.com/in/lalit-patil-8647a39 | 強調ASUS伺服器在Intel平台上的優異效能和穩定性，特別是針對SAP HANA和OpenStack/Kubernetes環境的優化，展示ASUS在AI伺服器領域的領先技術，如高效能GPU支援、先進散熱解決方案。",
+      "procurementDecisionMaker": "Siv Rispoli | Global Procurement - Category Strategy Manager for Cloud IaaS | https://www.linkedin.com/in/siv-rispoli/en | 強調ASUS作為全球領先的硬體供應商，具備強大的研發實力、生產能力和全球供應鏈，能確保產品的穩定供應和高品質，並提供具競爭力的價格和彈性的採購條款。",
+      "siDist": [],
+      "volumeSource": "https://en.wikipedia.org/wiki/SAP_Cloud_Infrastructure",
+      "industry": "科技",
+      "archetype": "neocloud"
+    },
+    {
+      "rank": 112,
+      "company": "Ori Industries",
+      "region": "EMEA",
+      "volume": "約 1,000 - 2,000 台/年（估計值，基於AI雲端基礎設施規模）",
+      "platform": "NVIDIA GPU伺服器（NVIDIA B200、H200、H100、L40s、A100），基於NVIDIA DGX SuperPOD參考架構部署H100，使用Kubernetes進行容器編排",
+      "application": "AI訓練、AI推論、機器學習模型、雲端服務（私有雲、混合雲、主權AI雲）、企業AI應用",
+      "currentSuppliers": "NVIDIA（GPU）",
+      "odmOem": "ODM或混合模式",
+      "asusModel": "ESC8000-E12; ESC N8-E11; RS720Q-E11",
+      "channel": "直供/SI",
+      "difficulty": 8,
+      "challenges": "【neocloud】【技術門檻】Ori Industries作為AI基礎設施提供商，對伺服器性能、穩定性和客製化有極高要求，已有自己的AI Fabric平台和現有的GPU部署經驗，且可能與NVIDIA有深度合作。ASUS需要證明其AI伺服器在性能、擴展性、管理工具和技術支援方面具有競爭優勢，並能與Ori現有平台無縫整合。【供應鏈壁壘】Ori Industries近期被Brookfield旗下的Radiant收購，採購決策流程可能更加複雜，並可能涉及Radiant的現有供應鏈。【商務挑戰】作為新興的AI雲服務提供商，Ori Industries的採購規模可能快速增長，但目前尚未建立大規模的採購體系，需要ASUS提供靈活的供應鏈方案。【產業特性】英國市場對資料主權和本地化服務有較高要求，且需符合英國脫歐後的相關法規。",
+      "entryPoint": "【neocloud】【短期（6-12個月）】強調ASUS AI伺服器的領先技術、高性能（特別是針對NVIDIA B200/H200/H100等GPU的優化）、散熱設計、穩定性、易於管理性（ASUS ASMB9-iKVM、ASUS Control Center）以及與Kubernetes等AI編排平台的兼容性，提供詳細的技術白皮書、性能基準測試報告，並安排技術交流會議。【中期（1-2年）】建立與Ori Industries技術團隊的深度合作關係，共同開發或優化ASUS伺服器與Ori AI Fabric平台的整合方案，提供客製化服務以滿足其特定需求。同時，積極與Radiant的採購部門建立聯繫，了解其整體採購策略和供應商管理模式。【長期（2-3年）】成為Ori Industries在AI基礎設施領域的核心供應商，隨著其業務擴張，提供全球化的供應鏈和服務支援。【關鍵行動】優先透過 Arrow Electronics 和 Ingram Micro 英國分支建立關係。",
+      "keyPerson": "N/A",
+      "techDecisionMaker": "N/A | N/A | N/A | 強調ASUS AI伺服器的領先技術、高性能（特別是針對NVIDIA B200/H200/H100等GPU的優化）、散熱設計、穩定性、易於管理性以及與Kubernetes等AI編排平台的兼容性。",
+      "procurementDecisionMaker": "N/A | N/A | N/A | 強調ASUS伺服器的TCO、供應鏈的穩定性、產品的可靠性、全球服務支援能力以及客製化彈性，提供具競爭力的價格方案，並說明ASUS如何協助Ori Industries優化其AI基礎設施的採購和部署流程。",
+      "siDist": [
+        {
+          "name": "Arrow Electronics",
+          "url": "https://www.arrow.com"
+        },
+        {
+          "name": "Ingram Micro",
+          "url": "https://www.ingrammicro.com"
+        }
+      ],
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/ori-industries-to-deploy-nvidia-h200-gpus-in-uk-data-center/",
+      "industry": "NeoCloud/AI",
+      "archetype": "neocloud"
+    },
+    {
+      "rank": 113,
+      "company": "DeepL",
+      "region": "EMEA",
+      "volume": "約 500 - 1,000 台/年（估計值，基於NVIDIA DGX SuperPOD部署規模）",
+      "platform": "NVIDIA DGX SuperPOD、DGX GB200系統（基於NVIDIA Blackwell架構，連接72個Blackwell GPU），使用NVIDIA TensorRT LLM進行推論",
+      "application": "AI翻譯、大型語言模型（LLMs）訓練與推論、DeepL Voice（語音到語音翻譯）、Clarify（按需翻譯專家）",
+      "currentSuppliers": "NVIDIA, EcoDataCenter",
+      "odmOem": "OEM為主，但有深度客製化",
+      "asusModel": "ASUS AI POD with NVIDIA GB200 NVL72; ASUS ESC8000A-E13P",
+      "channel": "直供為主，搭配策略性SI合作夥伴",
+      "difficulty": 8,
+      "challenges": "【neocloud】【技術門檻】DeepL 已採用 NVIDIA 最新的 DGX SuperPOD 和 GB200 系統，對伺服器性能、擴展性、穩定性及軟硬體整合度有極高要求。ASUS 需證明其產品在這些方面能與 NVIDIA 解決方案無縫整合，並提供額外價值。【供應鏈壁壘】DeepL 與 NVIDIA 和 EcoDataCenter 建立了穩固的合作關係，要取代或成為其主要供應商之一，需要克服現有供應商的先發優勢和信任壁壘。【商務挑戰】DeepL 的採購模式傾向 OEM 為主但有深度客製化，ASUS 需展現其在客製化設計和軟體優化方面的能力，以滿足其特定的 AI 工作負載需求。【產業特性】德國企業對資料安全、GDPR合規和本地化服務有嚴格要求，且DeepL強調永續發展，需要供應商提供符合環保標準的解決方案。",
+      "entryPoint": "【neocloud】【短期（6-12個月）】透過 ASUS AI POD with NVIDIA GB200 NVL72 等產品，強調 ASUS 在 NVIDIA 生態系統中的整合能力，尋求與 DeepL 進行技術交流，展示 ASUS 在高性能 AI 伺服器領域的專業知識和解決方案，可從非核心或新興 AI 專案切入，提供概念驗證 (PoC)。強調 ASUS 伺服器在散熱、能效、管理便利性等方面的優勢，特別是針對大規模 AI 部署的長期運營成本效益。【中期（1-2年）】根據 DeepL 的具體需求，提供高度客製化的伺服器解決方案，包括硬體配置、軟體優化和系統整合服務，並探索與 EcoDataCenter 建立更緊密的合作關係，共同為 DeepL 提供整合的資料中心和伺服器解決方案。【長期（2-3年）】成為 DeepL 在 AI 基礎設施領域的核心供應商，隨著其業務擴張，提供全球化的供應鏈和服務支援。【關鍵行動】優先透過 EcoDataCenter 建立三方合作模式，並積極參與德國 AI 生態系活動。",
+      "keyPerson": "Sebastian Enderlein (CTO)",
+      "techDecisionMaker": "Sebastian Enderlein | Chief Technology Officer (CTO) | https://de.linkedin.com/in/sebastianenderlein | 強調 ASUS 伺服器在 AI 訓練和推論方面的卓越性能、能效比和擴展性，特別是與 NVIDIA 最新技術的整合優勢，並提供其他 AI 領域客戶的成功案例。",
+      "procurementDecisionMaker": "Mark Ashton | Director of Procurement | https://uk.linkedin.com/in/mark-ashton-65964022 | 強調 ASUS 伺服器在長期運營中如何降低 TCO，包括能耗、維護和管理成本，並強調 ASUS 作為全球領先的硬體供應商，具備穩定的供應鏈和靈活的生產能力。",
+      "siDist": [
+        {
+          "name": "EcoDataCenter",
+          "url": "https://ecodatacenter.tech/"
+        }
+      ],
+      "volumeSource": "https://www.nvidia.com/en-us/case-studies/deepl/",
+      "industry": "NeoCloud/AI",
+      "archetype": "neocloud"
+    },
+    {
+      "rank": 114,
+      "company": "Hivenet",
+      "region": "EMEA",
+      "volume": "約 500 - 1,000 台/年（估計值，基於分散式雲端基礎設施規模）",
+      "platform": "GPU（NVIDIA RTX 4090、RTX 5090）、CPU-optimized instances、VMs（Debian 12、Ubuntu 22.04、Fedora），分散式雲端基礎設施",
+      "application": "AI模型訓練、深度學習、HPC工作負載、分散式雲端儲存與運算、生成式AI、LLM訓練、影片處理、3D建模",
+      "currentSuppliers": "未明確提及特定伺服器品牌，可能為自行整合或與多家供應商合作",
+      "odmOem": "OEM為主，部分零組件可能採購自ODM廠商",
+      "asusModel": "ESC8000-E12（高密度GPU運算）; RS700-E11（通用運算/VMs）",
+      "channel": "直供為主，搭配SI/DIST夥伴進行在地化支援與服務",
+      "difficulty": 7,
+      "challenges": "【neocloud】【技術門檻】Hivenet專注於分散式雲端基礎設施和GPU運算，對伺服器性能、穩定性及能源效率有高要求。ASUS需證明其產品在這些方面的競爭力。【供應鏈壁壘】作為新創公司，Hivenet可能傾向於成本效益高的解決方案，且採購流程可能較為靈活，但對供應商的技術支援和客製化能力有期待。【商務挑戰】分散式雲端和AI/HPC領域競爭激烈，Hivenet可能已與其他供應商建立合作關係。【產業特性】瑞士市場對資料安全、隱私保護和永續發展有嚴格要求，且瑞士法規對資料主權的要求較高。",
+      "entryPoint": "【neocloud】【短期（6-12個月）】透過技術研討會或線上展示，強調ASUS GPU伺服器在AI/HPC領域的卓越性能和能源效率，特別是針對RTX 4090/5090的支援，可提供概念驗證（PoC）方案，展示ASUS解決方案如何優化其分散式雲端平台。【中期（1-2年）】建立與Hivenet技術團隊的深度合作關係，提供客製化解決方案，滿足其對VMs和特定工作負載的需求，可探討共同開發或優化特定軟硬體整合方案的可能性。【長期（2-3年）】將Hivenet納入ASUS的策略合作夥伴生態系統，共同探索新技術和市場機會，例如在邊緣運算或特定產業解決方案上的合作。【關鍵行動】優先透過 Bechtle 和 Computacenter 在瑞士的通路建立關係。",
+      "keyPerson": "David Gurle (Founder & CEO)",
+      "techDecisionMaker": "David Gurle | Founder & CEO | https://www.linkedin.com/in/davidgurle/ | 深入溝通ASUS伺服器在GPU運算、散熱技術、系統管理和軟體整合方面的技術優勢，提供詳細的產品規格、性能測試報告和技術白皮書，可邀請Hivenet技術團隊參與ASUS的技術交流活動或提供測試樣機。",
+      "procurementDecisionMaker": "N/A | N/A | N/A | 強調ASUS伺服器解決方案的TCO優勢，包括能源效率、可靠性和長期支援，提供彈性的採購和服務模式，以適應Hivenet的成長需求。",
+      "siDist": [
+        {
+          "name": "Bechtle",
+          "url": "https://www.bechtle.com"
+        },
+        {
+          "name": "Computacenter",
+          "url": "https://www.computacenter.com"
+        }
+      ],
+      "volumeSource": "https://www.hivenet.com/post/sc-ventures-leads-hives-eu12m-series-a-enabling-sustainable-distributed-cloud-computing-for-the-masses",
+      "industry": "NeoCloud/AI",
+      "archetype": "neocloud"
+    },
+    {
+      "rank": 115,
+      "company": "Policloud",
+      "region": "EMEA",
+      "volume": "約 300 - 700 台/年（估計值，基於分散式主權微型資料中心部署計畫）",
+      "platform": "高密度GPU伺服器（NVIDIA GPU）、Intel/AMD CPU伺服器，微型資料中心設計，強調水冷與高能效，每年約25,000個GPU部署量",
+      "application": "AI訓練、雲端服務、邊緣運算、資料主權、HPC",
+      "currentSuppliers": "未明確提及特定伺服器品牌，但其解決方案與Hivenet的軟體平台整合",
+      "odmOem": "OEM為主，但對客製化有高度需求",
+      "asusModel": "ESC8000-E12（針對高密度GPU運算）; RS720Q-E11-RS24U（針對高密度運算與儲存）; RS700-E11系列（針對通用型伺服器需求）",
+      "channel": "直供為主，搭配SI合作夥伴",
+      "difficulty": 8,
+      "challenges": "【neocloud】【技術門檻】Policloud專注於分散式、主權雲端解決方案，強調高密度GPU運算、邊緣部署及低環境影響。其微型資料中心設計獨特，對伺服器客製化程度、散熱、能效及尺寸有嚴格要求。ASUS需證明其伺服器產品能無縫整合至Policloud的模組化容器中，並符合其對水冷、低功耗及高運算密度的需求。【供應鏈壁壘】Policloud與Hivenet的軟體整合也需考量，ASUS需確保其硬體能與Hivenet的軟體平台相容。【商務挑戰】Policloud的目標是挑戰超大規模雲端供應商，其競爭對手可能包括CoreWeave、NVIDIA及VAST Data等，ASUS需展現其產品在性能、成本效益及客製化方面的優勢。【產業特性】法國分散式雲端市場對資料主權和本地化服務有極高要求，且需符合法國特定的環保和能源法規。",
+      "entryPoint": "【neocloud】【短期（6-12個月）】針對Policloud的微型資料中心設計，提供ASUS高密度GPU伺服器（如ESC8000-E12）的客製化解決方案，強調其在散熱、能效及尺寸上的優勢，並提供POC測試。同時，可探討與Hivenet的軟體平台進行整合的可能性。【中期（1-2年）】在POC成功後，爭取成為Policloud微型資料中心的伺服器供應商，並提供彈性的供應鏈管理及技術支援，可考慮與當地SI合作夥伴共同提供整體解決方案，加速部署。【長期（2-3年）】隨著Policloud的擴張（計畫2030年前部署1,000個主權微型資料中心），深化合作關係，共同開發符合未來邊緣運算及AI工作負載需求的伺服器產品，並將ASUS的伺服器納入Policloud的標準配置中。【關鍵行動】優先透過直供管道接觸 Jean-Baptiste Gouret，並提供水冷GPU伺服器的技術展示。",
+      "keyPerson": "Jean-Baptiste Gouret (CTO)",
+      "techDecisionMaker": "Jean-Baptiste Gouret | CTO Policloud | https://ae.linkedin.com/in/jbgouret | 強調ASUS伺服器在AI/HPC領域的領先技術，特別是高密度GPU伺服器（如ESC8000-E12）的性能、散熱解決方案（如水冷）及能效優勢，展示ASUS伺服器如何滿足Policloud對邊緣運算、資料主權及低環境影響的需求。",
+      "procurementDecisionMaker": "N/A | N/A | N/A | 強調ASUS作為全球領先伺服器供應商的穩定性、供應鏈彈性及成本效益，提供具競爭力的價格和客製化選項，並展示ASUS在EMEA地區的成功案例和服務網絡。",
+      "siDist": [],
+      "volumeSource": "https://www.datacenterdynamics.com/en/news/french-ai-cloud-startup-policloud-plans-1000-sovereign-micro-data-center-deployments-by-2030/",
+      "industry": "NeoCloud/AI",
+      "archetype": "neocloud"
+    },
+    {
+      "rank": 116,
+      "company": "Cloudfellow",
+      "region": "EMEA",
+      "volume": "約 50 台/年以下（估計值，IT諮詢公司自身伺服器採購量極低）",
+      "platform": "主要為雲端虛擬化平台（Microsoft Azure、Google Cloud Platform、Amazon Web Services），若有地端需求，可能為通用型Intel/AMD架構伺服器",
+      "application": "雲端服務諮詢、Microsoft Azure遷移、IT解決方案整合",
+      "currentSuppliers": "主要為雲端服務供應商（Microsoft Azure、Google Cloud Platform、Amazon Web Services）",
+      "odmOem": "主要為雲端服務消費，若有實體伺服器需求，傾向OEM",
+      "asusModel": "RS700-E11（通用型機架伺服器）; ESC8000-E12（若客戶有AI/GPU運算需求）",
+      "channel": "SI/DIST合作夥伴",
+      "difficulty": 8,
+      "challenges": "【enterprise_general】【技術門檻】Cloudfellow作為IT諮詢公司，其自身伺服器採購量極低，主要為客戶提供雲端解決方案。切入點不在於直接銷售伺服器給Cloudfellow，而在於影響其對客戶的硬體推薦。需證明ASUS伺服器在雲端環境下的兼容性、性能與成本效益。【供應鏈壁壘】小型諮詢公司的採購決策通常由技術主管兼任，缺乏專職採購部門，採購流程不透明，難以標準化切入。【商務挑戰】Cloudfellow的主要業務是雲端服務諮詢，直接的伺服器採購需求極低，ASUS需要透過影響其客戶推薦來間接獲益。【產業特性】英國IT諮詢市場競爭激烈，且Cloudfellow規模較小，對ASUS的直接採購價值有限。",
+      "entryPoint": "【enterprise_general】【短期（6-12個月）】透過技術研討會或合作夥伴計畫，向Cloudfellow展示ASUS伺服器在Azure Stack HCI、混合雲解決方案上的優勢，將ASUS納入其客戶推薦硬體清單，可提供測試設備或POC支援，以建立信任。【中期（1-2年）】與Cloudfellow建立戰略合作夥伴關係，共同開發針對特定產業或應用場景的解決方案，將ASUS伺服器作為其地端或邊緣運算解決方案的預設硬體平台。【長期（2-3年）】透過Cloudfellow的客戶網絡，擴大ASUS伺服器在EMEA地區中小型企業市場的滲透率，並持續提供技術支援與培訓。【關鍵行動】優先透過 Arrow Electronics 和 Ingram Micro 的合作夥伴計畫建立關係，並將 Cloudfellow 納入 ASUS 合作夥伴生態系統。",
+      "keyPerson": "Dinesh Chandra Babu Birisetti (Director & Infrastructure Solutions Architect)",
+      "techDecisionMaker": "Dinesh Chandra Babu Birisetti | Director & Infrastructure Solutions Architect | https://uk.linkedin.com/in/dinesh-chandra-babu-birisetti-17225169 | 針對技術決策者溝通ASUS伺服器在性能、擴展性、能源效率、與主流雲端平台（如Azure）的兼容性、以及對新興技術（如AI/HPC）的支援能力，強調ASUS的研發實力與客製化彈性。",
+      "procurementDecisionMaker": "N/A | N/A | N/A | 針對採購決策者溝通ASUS伺服器的TCO優勢、可靠性、全球服務網絡以及彈性的供應鏈，強調ASUS作為全球領先硬體供應商的品牌實力與長期支援承諾。",
+      "siDist": [
+        {
+          "name": "Arrow Electronics",
+          "url": "https://www.arrow.com"
+        },
+        {
+          "name": "Ingram Micro",
+          "url": "https://www.ingrammicro.com"
+        }
+      ],
+      "volumeSource": "",
+      "industry": "科技",
       "archetype": "enterprise_general"
     }
   ]
