@@ -7,6 +7,7 @@ export type SiDistEntry = {
   name: string;
   website: string;
   type: string;
+  isActual?: boolean;
 };
 
 export type KeyPerson = {
@@ -14,6 +15,13 @@ export type KeyPerson = {
   title: string;
   linkedin: string;
   source: string;
+};
+
+export type DecisionMaker = {
+  name: string;
+  title: string;
+  linkedin: string;
+  commStrategy: string;
 };
 
 export type Company = {
@@ -31,9 +39,13 @@ export type Company = {
   challenges: string;
   entryPoint: string;
   keyPerson?: KeyPerson;
+  techDecisionMaker?: DecisionMaker;
+  procurementDecisionMaker?: DecisionMaker;
   siDist?: SiDistEntry[];
+  actualSiPartners?: string;
   volumeSource?: string;
   industry?: string;
+  archetype?: string;
 };
 
 export type RegionKey = "na" | "apac" | "emea" | "china";

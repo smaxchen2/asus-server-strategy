@@ -29,8 +29,9 @@ function exportToCSV(companies: Company[], regionLabel: string) {
     "排名", "企業名稱", "產業分類", "區域", "年採購量", "伺服器平台架構", "伺服器應用",
     "目前供應商", "ODM/OEM", "ASUS 對應型號", "通路", "難易度 (1-10)",
     "困難點及如何克服", "切入點及如何執行",
-    "Key Person 姓名", "Key Person 職稱", "Key Person LinkedIn",
-    "SI/DIST 通路明細", "採購量數據來源"
+    "技術決策者", "技術決策者職稱", "技術決策者 LinkedIn", "技術溝通策略",
+    "採購決策者", "採購決策者職稱", "採購決策者 LinkedIn", "採購溝通策略",
+    "SI/DIST 通路明細", "實際合作 SI", "企業分類", "採購量數據來源"
   ];
 
   const escapeCSV = (val: string) => {
@@ -43,7 +44,10 @@ function exportToCSV(companies: Company[], regionLabel: string) {
   };
 
   const rows = companies.map((c) => {
-    const siDistStr = (c.siDist || []).map(s => `[${s.type}] ${s.name}${s.website ? " (" + s.website + ")" : ""}`).join("; ");
+    const siDistStr = (c.siDist || []).map(s => {
+      const actual = s.isActual ? " ★" : "";
+      return `[${s.type}${actual}] ${s.name}${s.website ? " (" + s.website + ")" : ""}`;
+    }).join("; ");
     return [
       String(c.rank),
       c.company || "",
@@ -59,10 +63,17 @@ function exportToCSV(companies: Company[], regionLabel: string) {
       String(c.difficulty),
       c.challenges || "",
       c.entryPoint || "",
-      c.keyPerson?.name || "",
-      c.keyPerson?.title || "",
-      c.keyPerson?.linkedin || "",
+      c.techDecisionMaker?.name || c.keyPerson?.name || "",
+      c.techDecisionMaker?.title || c.keyPerson?.title || "",
+      c.techDecisionMaker?.linkedin || c.keyPerson?.linkedin || "",
+      c.techDecisionMaker?.commStrategy || "",
+      c.procurementDecisionMaker?.name || "",
+      c.procurementDecisionMaker?.title || "",
+      c.procurementDecisionMaker?.linkedin || "",
+      c.procurementDecisionMaker?.commStrategy || "",
       siDistStr,
+      c.actualSiPartners || "",
+      c.archetype || "",
       c.volumeSource || ""
     ].map(v => escapeCSV(v));
   });
@@ -89,12 +100,16 @@ function exportToExcel(companies: Company[], regionLabel: string) {
     "排名", "企業名稱", "產業分類", "區域", "年採購量", "伺服器平台架構", "伺服器應用",
     "目前供應商", "ODM/OEM", "ASUS 對應型號", "通路", "難易度 (1-10)",
     "困難點及如何克服", "切入點及如何執行",
-    "Key Person 姓名", "Key Person 職稱", "Key Person LinkedIn",
-    "SI/DIST 通路明細", "採購量數據來源"
+    "技術決策者", "技術決策者職稱", "技術決策者 LinkedIn", "技術溝通策略",
+    "採購決策者", "採購決策者職稱", "採購決策者 LinkedIn", "採購溝通策略",
+    "SI/DIST 通路明細", "實際合作 SI", "企業分類", "採購量數據來源"
   ];
 
   const rows = companies.map((c) => {
-    const siDistStr = (c.siDist || []).map(s => `[${s.type}] ${s.name}${s.website ? " (" + s.website + ")" : ""}`).join("; ");
+    const siDistStr = (c.siDist || []).map(s => {
+      const actual = s.isActual ? " ★" : "";
+      return `[${s.type}${actual}] ${s.name}${s.website ? " (" + s.website + ")" : ""}`;
+    }).join("; ");
     return [
       c.rank,
       c.company || "",
@@ -110,10 +125,17 @@ function exportToExcel(companies: Company[], regionLabel: string) {
       c.difficulty,
       c.challenges || "",
       c.entryPoint || "",
-      c.keyPerson?.name || "",
-      c.keyPerson?.title || "",
-      c.keyPerson?.linkedin || "",
+      c.techDecisionMaker?.name || c.keyPerson?.name || "",
+      c.techDecisionMaker?.title || c.keyPerson?.title || "",
+      c.techDecisionMaker?.linkedin || c.keyPerson?.linkedin || "",
+      c.techDecisionMaker?.commStrategy || "",
+      c.procurementDecisionMaker?.name || "",
+      c.procurementDecisionMaker?.title || "",
+      c.procurementDecisionMaker?.linkedin || "",
+      c.procurementDecisionMaker?.commStrategy || "",
       siDistStr,
+      c.actualSiPartners || "",
+      c.archetype || "",
       c.volumeSource || ""
     ];
   });
@@ -137,10 +159,17 @@ function exportToExcel(companies: Company[], regionLabel: string) {
     { wch: 10 },  // 難易度
     { wch: 60 },  // 困難點
     { wch: 60 },  // 切入點
-    { wch: 25 },  // Key Person 姓名
-    { wch: 40 },  // Key Person 職稱
-    { wch: 40 },  // Key Person LinkedIn
+    { wch: 25 },  // 技術決策者
+    { wch: 40 },  // 技術決策者職稱
+    { wch: 40 },  // 技術決策者 LinkedIn
+    { wch: 50 },  // 技術溝通策略
+    { wch: 25 },  // 採購決策者
+    { wch: 40 },  // 採購決策者職稱
+    { wch: 40 },  // 採購決策者 LinkedIn
+    { wch: 50 },  // 採購溝通策略
     { wch: 50 },  // SI/DIST
+    { wch: 50 },  // 實際合作 SI
+    { wch: 15 },  // 企業分類
     { wch: 50 },  // 數據來源
   ];
 
@@ -206,8 +235,12 @@ function DifficultyBar({ score }: { score: number }) {
 function ExpandedRow({ company, regionKey }: { company: Company; regionKey: string }) {
   const basePath = regionKey === "na" ? "" : `/region/${regionKey}`;
   const kp = company.keyPerson;
+  const techDM = company.techDecisionMaker;
+  const procDM = company.procurementDecisionMaker;
   const siDist = company.siDist;
   const volSrc = company.volumeSource;
+  const actualSI = company.actualSiPartners;
+  const archetype = company.archetype;
 
   return (
     <tr>
@@ -257,6 +290,9 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
                         <span className={`text-[9px] px-1.5 py-0.5 font-semibold ${
                           s.type === "SI" ? "bg-blue-100 text-blue-700" : "bg-purple-100 text-purple-700"
                         }`}>{s.type}</span>
+                        {s.isActual && (
+                          <span className="text-[9px] px-1 py-0.5 bg-green-100 text-green-700 font-bold">實際合作</span>
+                        )}
                         {s.website ? (
                           <a href={s.website} target="_blank" rel="noopener noreferrer"
                             className="text-xs text-primary hover:underline flex items-center gap-0.5">
@@ -284,31 +320,83 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
               )}
             </div>
 
-            {/* Column 4: Key Person */}
-            <div className="bg-white p-5 space-y-3">
-              <div>
-                <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1.5">
-                  <span className="flex items-center gap-1"><User className="w-3 h-3" /> Key Person</span>
+            {/* Column 4: Decision Makers */}
+            <div className="bg-white p-5 space-y-4">
+              {/* Archetype Badge */}
+              {archetype && (
+                <div className="mb-1">
+                  <span className={`text-[9px] px-2 py-0.5 font-bold tracking-wider uppercase ${
+                    archetype === 'hyperscaler' ? 'bg-violet-100 text-violet-700' :
+                    archetype === 'neocloud' ? 'bg-orange-100 text-orange-700' :
+                    archetype === 'financial' ? 'bg-emerald-100 text-emerald-700' :
+                    archetype === 'healthcare' ? 'bg-pink-100 text-pink-700' :
+                    archetype === 'defense' ? 'bg-slate-200 text-slate-700' :
+                    archetype === 'telecom' ? 'bg-cyan-100 text-cyan-700' :
+                    archetype === 'automotive' ? 'bg-amber-100 text-amber-700' :
+                    archetype === 'retail' ? 'bg-lime-100 text-lime-700' :
+                    archetype === 'energy' ? 'bg-yellow-100 text-yellow-700' :
+                    'bg-gray-100 text-gray-700'
+                  }`}>{archetype}</span>
                 </div>
-                {kp && kp.name ? (
+              )}
+
+              {/* Technical Decision Maker */}
+              <div>
+                <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-blue-600 mb-1.5">
+                  <span className="flex items-center gap-1"><User className="w-3 h-3" /> 技術決策者 (CTO / Architect)</span>
+                </div>
+                {techDM && techDM.name ? (
                   <div className="space-y-1">
-                    <p className="text-sm font-semibold">{kp.name}</p>
-                    <p className="text-xs text-muted-foreground">{kp.title}</p>
-                    {kp.linkedin && (
-                      <a href={kp.linkedin} target="_blank" rel="noopener noreferrer"
-                        className="inline-flex items-center gap-1 text-xs text-blue-600 hover:underline mt-1">
+                    <p className="text-sm font-semibold">{techDM.name}</p>
+                    <p className="text-xs text-muted-foreground">{techDM.title}</p>
+                    {techDM.linkedin && (
+                      <a href={techDM.linkedin} target="_blank" rel="noopener noreferrer"
+                        className="inline-flex items-center gap-1 text-xs text-blue-600 hover:underline">
                         <svg className="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
                           <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
                         </svg>
-                        LinkedIn Profile
+                        LinkedIn
                       </a>
                     )}
-                    {kp.source && !kp.linkedin && (
-                      <p className="text-[10px] text-muted-foreground mt-1">來源: {kp.source}</p>
+                    {techDM.commStrategy && (
+                      <div className="mt-1.5 p-2 bg-blue-50 border-l-2 border-blue-400">
+                        <p className="text-[10px] font-semibold text-blue-700 mb-0.5">溝通策略</p>
+                        <p className="text-[10px] text-blue-800 leading-relaxed">{techDM.commStrategy}</p>
+                      </div>
                     )}
                   </div>
                 ) : (
-                  <p className="text-xs text-muted-foreground italic">資訊待更新</p>
+                  <p className="text-xs text-muted-foreground italic">待查證</p>
+                )}
+              </div>
+
+              {/* Procurement Decision Maker */}
+              <div>
+                <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-amber-600 mb-1.5">
+                  <span className="flex items-center gap-1"><User className="w-3 h-3" /> 採購決策者 (VP Procurement)</span>
+                </div>
+                {procDM && procDM.name ? (
+                  <div className="space-y-1">
+                    <p className="text-sm font-semibold">{procDM.name}</p>
+                    <p className="text-xs text-muted-foreground">{procDM.title}</p>
+                    {procDM.linkedin && (
+                      <a href={procDM.linkedin} target="_blank" rel="noopener noreferrer"
+                        className="inline-flex items-center gap-1 text-xs text-blue-600 hover:underline">
+                        <svg className="w-3 h-3" viewBox="0 0 24 24" fill="currentColor">
+                          <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+                        </svg>
+                        LinkedIn
+                      </a>
+                    )}
+                    {procDM.commStrategy && (
+                      <div className="mt-1.5 p-2 bg-amber-50 border-l-2 border-amber-400">
+                        <p className="text-[10px] font-semibold text-amber-700 mb-0.5">溝通策略</p>
+                        <p className="text-[10px] text-amber-800 leading-relaxed">{procDM.commStrategy}</p>
+                      </div>
+                    )}
+                  </div>
+                ) : (
+                  <p className="text-xs text-muted-foreground italic">待查證</p>
                 )}
               </div>
             </div>
@@ -424,7 +512,9 @@ export default function Home() {
           c.challenges.toLowerCase().includes(q) ||
           c.entryPoint.toLowerCase().includes(q) ||
           (c.industry || "").toLowerCase().includes(q) ||
-          (c.keyPerson?.name || "").toLowerCase().includes(q) ||
+          (c.techDecisionMaker?.name || c.keyPerson?.name || "").toLowerCase().includes(q) ||
+          (c.procurementDecisionMaker?.name || "").toLowerCase().includes(q) ||
+          (c.archetype || "").toLowerCase().includes(q) ||
           (c.siDist || []).some((s) => s.name.toLowerCase().includes(q))
       );
     }
