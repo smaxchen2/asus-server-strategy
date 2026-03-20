@@ -21,6 +21,7 @@ import {
   FileSpreadsheet,
 } from "lucide-react";
 import * as XLSX from "xlsx";
+import StructuredText, { StructuredCommStrategy } from "@/components/StructuredText";
 
 /* ─── CSV Export ─── */
 function exportToCSV(companies: Company[], regionLabel: string) {
@@ -265,14 +266,14 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
             </div>
 
             {/* Column 2: Strategy */}
-            <div className="bg-white p-5 space-y-3">
+            <div className="bg-white p-5 space-y-4">
               <div>
-                <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-red-600 mb-1.5">困難點及如何克服</div>
-                <p className="text-xs leading-relaxed text-foreground/80">{company.challenges}</p>
+                <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-red-600 mb-2">困難點及如何克服</div>
+                <StructuredText text={company.challenges} variant="compact" titleColor="text-red-700" />
               </div>
-              <div>
-                <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-emerald-600 mb-1.5">切入點及如何執行</div>
-                <p className="text-xs leading-relaxed text-foreground/80">{company.entryPoint}</p>
+              <div className="border-t border-border/50 pt-4">
+                <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-emerald-600 mb-2">切入點及如何執行</div>
+                <StructuredText text={company.entryPoint} variant="compact" titleColor="text-emerald-700" />
               </div>
             </div>
 
@@ -360,8 +361,10 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
                     )}
                     {techDM.commStrategy && (
                       <div className="mt-1.5 p-2 bg-blue-50 border-l-2 border-blue-400">
-                        <p className="text-[10px] font-semibold text-blue-700 mb-0.5">溝通策略</p>
-                        <p className="text-[10px] text-blue-800 leading-relaxed">{techDM.commStrategy}</p>
+                        <p className="text-[10px] font-semibold text-blue-700 mb-1">溝通策略</p>
+                        <div className="text-[10px] text-blue-800">
+                          <StructuredCommStrategy text={techDM.commStrategy} variant="compact" />
+                        </div>
                       </div>
                     )}
                   </div>
@@ -390,8 +393,10 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
                     )}
                     {procDM.commStrategy && (
                       <div className="mt-1.5 p-2 bg-amber-50 border-l-2 border-amber-400">
-                        <p className="text-[10px] font-semibold text-amber-700 mb-0.5">溝通策略</p>
-                        <p className="text-[10px] text-amber-800 leading-relaxed">{procDM.commStrategy}</p>
+                        <p className="text-[10px] font-semibold text-amber-700 mb-1">溝通策略</p>
+                        <div className="text-[10px] text-amber-800">
+                          <StructuredCommStrategy text={procDM.commStrategy} variant="compact" />
+                        </div>
                       </div>
                     )}
                   </div>

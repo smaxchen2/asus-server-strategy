@@ -5,6 +5,7 @@ import {
   AlertTriangle, Lightbulb, ChevronRight, ChevronLeft, ExternalLink,
   User, Link as LinkIcon,
 } from "lucide-react";
+import StructuredText from "@/components/StructuredText";
 
 function DifficultyBadge({ score }: { score: number }) {
   const getColor = (s: number) => {
@@ -199,19 +200,19 @@ export default function CompanyDetail() {
         {/* Strategy Sections */}
         <div className="space-y-8">
           <div className="border-l-2 border-red-400 pl-6">
-            <div className="flex items-center gap-2 mb-3">
+            <div className="flex items-center gap-2 mb-4">
               <AlertTriangle className="w-4 h-4 text-red-500" />
               <h2 className="text-lg font-bold" style={{ fontFamily: "'DM Sans', sans-serif" }}>困難點及如何克服</h2>
             </div>
-            <p className="text-sm leading-relaxed text-foreground/80">{company.challenges}</p>
+            <StructuredText text={company.challenges} variant="full" titleColor="text-red-700" />
           </div>
 
           <div className="border-l-2 border-emerald-400 pl-6">
-            <div className="flex items-center gap-2 mb-3">
+            <div className="flex items-center gap-2 mb-4">
               <Lightbulb className="w-4 h-4 text-emerald-500" />
               <h2 className="text-lg font-bold" style={{ fontFamily: "'DM Sans', sans-serif" }}>切入點及如何執行</h2>
             </div>
-            <p className="text-sm leading-relaxed text-foreground/80">{company.entryPoint}</p>
+            <StructuredText text={company.entryPoint} variant="full" titleColor="text-emerald-700" />
           </div>
         </div>
 
