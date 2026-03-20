@@ -658,7 +658,7 @@ export default function Home() {
         "bg-gradient-to-r from-red-900 via-red-800 to-red-700"
       }`}>
         <RegionMapBg region={currentRegionKey} />
-        <div className="container py-4 relative z-10">
+        <div className="container py-6 relative z-10">
           <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-3">
             {/* Left: Title */}
             <div className="flex-shrink-0">
