@@ -1,5 +1,7 @@
 import { useState, useEffect, useCallback } from "react";
 import { Link } from "wouter";
+import { useLanguage } from "@/contexts/LanguageContext";
+import LanguageSwitcher from "@/components/LanguageSwitcher";
 import {
   ArrowLeft,
   RefreshCw,
@@ -21,7 +23,8 @@ const BRANCH = "main";
 const DATA_FILES = [
   {
     key: "na",
-    label: "北美 (NA)",
+    labelZh: "北美 (NA)",
+    labelEn: "North America (NA)",
     flag: "🇺🇸",
     path: "client/src/data/companies.json",
     color: "bg-blue-500",
@@ -30,7 +33,8 @@ const DATA_FILES = [
   },
   {
     key: "apac",
-    label: "亞太 (APAC)",
+    labelZh: "亞太 (APAC)",
+    labelEn: "Asia Pacific (APAC)",
     flag: "🌏",
     path: "client/src/data/apac_companies.json",
     color: "bg-emerald-500",
@@ -39,7 +43,8 @@ const DATA_FILES = [
   },
   {
     key: "emea",
-    label: "EMEA",
+    labelZh: "EMEA",
+    labelEn: "EMEA",
     flag: "🇪🇺",
     path: "client/src/data/emea_companies.json",
     color: "bg-amber-500",
@@ -48,7 +53,8 @@ const DATA_FILES = [
   },
   {
     key: "china",
-    label: "中國大陸",
+    labelZh: "中國大陸",
+    labelEn: "China",
     flag: "🇨🇳",
     path: "client/src/data/china_companies.json",
     color: "bg-red-500",
@@ -102,13 +108,19 @@ function StatusIcon({ status }: { status: FileStatus }) {
 }
 
 function StatusBadge({ status }: { status: FileStatus }) {
+  const { t } = useLanguage();
   const map = {
     idle: "bg-muted text-muted-foreground",
     loading: "bg-blue-100 text-blue-700",
     success: "bg-emerald-100 text-emerald-700",
     error: "bg-red-100 text-red-700",
   };
-  const label = { idle: "待檢查", loading: "讀取中...", success: "連線正常", error: "連線失敗" };
+  const label = {
+    idle: t.statusIdle,
+    loading: t.statusLoading,
+    success: t.statusSuccess,
+    error: t.statusError,
+  };
   return (
     <span className={`inline-flex items-center gap-1 text-[10px] font-semibold px-2 py-0.5 ${map[status]}`}>
       <StatusIcon status={status} />
@@ -118,6 +130,7 @@ function StatusBadge({ status }: { status: FileStatus }) {
 }
 
 export default function DataStatus() {
+  const { lang, t } = useLanguage();
   const [repoInfo, setRepoInfo] = useState<RepoInfo>({ status: "idle", lastCommitDate: "", lastCommitMessage: "", lastCommitSha: "" });
   const [regions, setRegions] = useState<RegionData[]>(
     DATA_FILES.map((f) => ({
@@ -161,7 +174,6 @@ export default function DataStatus() {
     );
 
     try {
-      // Fetch file content via GitHub Contents API
       const contentsRes = await fetch(
         `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${fileConfig.path}?ref=${BRANCH}`,
         { headers: { Accept: "application/vnd.github.v3+json" } }
@@ -170,14 +182,12 @@ export default function DataStatus() {
       const contentsData = await contentsRes.json();
       const fileSizeKb = Math.round((contentsData.size || 0) / 1024);
 
-      // Fetch raw JSON
       const rawUrl = `https://raw.githubusercontent.com/${GITHUB_OWNER}/${GITHUB_REPO}/${BRANCH}/${fileConfig.path}`;
       const rawRes = await fetch(rawUrl);
       if (!rawRes.ok) throw new Error(`Raw HTTP ${rawRes.status}`);
       const json = await rawRes.json();
       const companies = json.companies || [];
 
-      // Fetch last commit for this file
       const commitsRes = await fetch(
         `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/commits?path=${fileConfig.path}&sha=${BRANCH}&per_page=1`,
         { headers: { Accept: "application/vnd.github.v3+json" } }
@@ -247,7 +257,7 @@ export default function DataStatus() {
               <Link href="/">
                 <span className="flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors text-sm font-medium cursor-pointer">
                   <ArrowLeft className="w-4 h-4" />
-                  返回儀表板
+                  {t.backToDashboard}
                 </span>
               </Link>
               <div className="w-px h-5 bg-border" />
@@ -257,20 +267,23 @@ export default function DataStatus() {
                 </div>
                 <div>
                   <h1 className="text-sm font-black tracking-tight" style={{ fontFamily: "'DM Sans', sans-serif" }}>
-                    資料連線狀態
+                    {t.dataConnectionStatus}
                   </h1>
-                  <p className="text-[10px] text-muted-foreground tracking-wide">Internal Data Status Check</p>
+                  <p className="text-[10px] text-muted-foreground tracking-wide">{t.dataStatusSubtitle}</p>
                 </div>
               </div>
             </div>
-            <button
-              onClick={runAllChecks}
-              disabled={isRefreshing}
-              className="flex items-center gap-2 px-3 py-1.5 text-xs font-medium border border-border bg-white hover:bg-muted transition-colors disabled:opacity-50"
-            >
-              <RefreshCw className={`w-3.5 h-3.5 ${isRefreshing ? "animate-spin" : ""}`} />
-              重新檢查
-            </button>
+            <div className="flex items-center gap-3">
+              <LanguageSwitcher />
+              <button
+                onClick={runAllChecks}
+                disabled={isRefreshing}
+                className="flex items-center gap-2 px-3 py-1.5 text-xs font-medium border border-border bg-white hover:bg-muted transition-colors disabled:opacity-50"
+              >
+                <RefreshCw className={`w-3.5 h-3.5 ${isRefreshing ? "animate-spin" : ""}`} />
+                {t.refreshCheck}
+              </button>
+            </div>
           </div>
         </div>
       </header>
@@ -290,14 +303,14 @@ export default function DataStatus() {
             <div>
               <p className={`text-sm font-bold ${allSuccess ? "text-emerald-800" : hasError ? "text-red-800" : "text-amber-800"}`}>
                 {allSuccess
-                  ? "✅ 所有資料來源連線正常，GitHub 資料為最新版本"
+                  ? t.allSourcesOk
                   : hasError
-                  ? "❌ 部分資料來源連線失敗，請檢查網路或 GitHub API 限制"
-                  : "⏳ 正在從 GitHub 讀取最新資料..."}
+                  ? t.someSourcesFailed
+                  : t.loadingFromGithub}
               </p>
               {lastChecked && (
                 <p className="text-xs text-muted-foreground mt-0.5">
-                  最後檢查時間：{lastChecked} (GMT+8)
+                  {t.lastCheckedAt}: {lastChecked}
                 </p>
               )}
             </div>
@@ -308,7 +321,7 @@ export default function DataStatus() {
         <section className="mb-8">
           <div className="flex items-center gap-2 mb-4">
             <GitBranch className="w-4 h-4 text-primary" />
-            <h2 className="text-xs font-bold tracking-[0.15em] uppercase text-muted-foreground">GitHub 儲存庫資訊</h2>
+            <h2 className="text-xs font-bold tracking-[0.15em] uppercase text-muted-foreground">{t.githubRepoInfo}</h2>
           </div>
           <div className="border border-border bg-white p-5">
             <div className="flex items-start justify-between gap-4 mb-4">
@@ -334,15 +347,15 @@ export default function DataStatus() {
             {repoInfo.status === "success" && (
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 pt-4 border-t border-border">
                 <div>
-                  <p className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">最新 Commit</p>
+                  <p className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">{t.latestCommit}</p>
                   <p className="text-xs font-mono text-foreground">{repoInfo.lastCommitSha}</p>
                 </div>
                 <div>
-                  <p className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">Commit 時間</p>
+                  <p className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">{t.commitTime}</p>
                   <p className="text-xs text-foreground">{formatDate(repoInfo.lastCommitDate)}</p>
                 </div>
                 <div>
-                  <p className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">Commit 訊息</p>
+                  <p className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">{t.commitMessage}</p>
                   <p className="text-xs text-foreground truncate" title={repoInfo.lastCommitMessage}>{repoInfo.lastCommitMessage}</p>
                 </div>
               </div>
@@ -361,10 +374,10 @@ export default function DataStatus() {
           <section className="mb-8">
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-px bg-border border border-border">
               {[
-                { label: "資料檔案", value: "4", sub: "個 JSON 檔案" },
-                { label: "企業總數", value: String(totalCompanies), sub: "筆企業資料" },
-                { label: "涵蓋區域", value: "4", sub: "NA / APAC / EMEA / China" },
-                { label: "資料狀態", value: "最新", sub: "已與 GitHub 同步" },
+                { label: t.dataFiles, value: "4", sub: `4 ${t.jsonFiles}` },
+                { label: t.totalCompanies, value: String(totalCompanies), sub: `${totalCompanies} ${t.companyRecords}` },
+                { label: t.coveredRegions, value: "4", sub: t.regionsList },
+                { label: t.dataStatus, value: t.upToDate, sub: t.syncedWithGithub },
               ].map((kpi) => (
                 <div key={kpi.label} className="bg-white p-4 text-center">
                   <p className="text-2xl font-black tabular-nums" style={{ fontFamily: "'DM Sans', sans-serif" }}>{kpi.value}</p>
@@ -380,11 +393,12 @@ export default function DataStatus() {
         <section>
           <div className="flex items-center gap-2 mb-4">
             <Globe className="w-4 h-4 text-primary" />
-            <h2 className="text-xs font-bold tracking-[0.15em] uppercase text-muted-foreground">各區域資料狀態</h2>
+            <h2 className="text-xs font-bold tracking-[0.15em] uppercase text-muted-foreground">{t.regionDataStatus}</h2>
           </div>
           <div className="space-y-px border border-border">
             {DATA_FILES.map((fileConfig, index) => {
               const region = regions[index];
+              const fileLabel = lang === "en" ? fileConfig.labelEn : fileConfig.labelZh;
               return (
                 <div key={fileConfig.key} className="bg-white p-5">
                   <div className="flex items-start justify-between gap-4 mb-4">
@@ -392,7 +406,7 @@ export default function DataStatus() {
                       <span className="text-xl">{fileConfig.flag}</span>
                       <div>
                         <div className="flex items-center gap-2">
-                          <span className="text-sm font-bold">{fileConfig.label}</span>
+                          <span className="text-sm font-bold">{fileLabel}</span>
                           <StatusBadge status={region.status} />
                         </div>
                         <p className="text-[10px] text-muted-foreground font-mono mt-0.5">{fileConfig.path}</p>
@@ -404,7 +418,7 @@ export default function DataStatus() {
                         <span className="text-lg font-black tabular-nums" style={{ fontFamily: "'DM Sans', sans-serif" }}>
                           {region.companyCount}
                         </span>
-                        <span className="text-xs text-muted-foreground">筆</span>
+                        <span className="text-xs text-muted-foreground">{t.records}</span>
                       </div>
                     )}
                   </div>
@@ -412,23 +426,23 @@ export default function DataStatus() {
                   {region.status === "success" && (
                     <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 pt-4 border-t border-border">
                       <div>
-                        <p className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">最新 Commit</p>
+                        <p className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">{t.latestCommit}</p>
                         <p className="text-xs font-mono">{region.lastCommitSha || "—"}</p>
                       </div>
                       <div>
-                        <p className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">最後更新時間</p>
+                        <p className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">{t.lastUpdate}</p>
                         <p className="text-xs">{formatDate(region.lastCommitDate)}</p>
                       </div>
                       <div>
-                        <p className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">第一筆（排名 #1）</p>
+                        <p className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">{t.firstRecord}</p>
                         <p className="text-xs font-medium truncate" title={region.firstCompany}>{region.firstCompany}</p>
                       </div>
                       <div>
-                        <p className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">最後一筆</p>
+                        <p className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">{t.lastRecord}</p>
                         <p className="text-xs font-medium truncate" title={region.lastCompany}>{region.lastCompany}</p>
                       </div>
                       <div className="col-span-2 sm:col-span-4">
-                        <p className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">最新 Commit 訊息</p>
+                        <p className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">{t.latestCommitMsg}</p>
                         <p className="text-xs text-foreground/70 truncate" title={region.lastCommitMessage}>{region.lastCommitMessage || "—"}</p>
                       </div>
                     </div>
@@ -437,7 +451,7 @@ export default function DataStatus() {
                   {region.status === "loading" && (
                     <div className="flex items-center gap-2 text-xs text-muted-foreground pt-3 border-t border-border">
                       <RefreshCw className="w-3.5 h-3.5 animate-spin" />
-                      正在從 GitHub 讀取資料...
+                      {t.readingFromGithub}
                     </div>
                   )}
 
@@ -458,9 +472,9 @@ export default function DataStatus() {
           <div className="flex items-start gap-2">
             <Server className="w-4 h-4 text-muted-foreground flex-shrink-0 mt-0.5" />
             <div className="text-xs text-muted-foreground space-y-1">
-              <p className="font-semibold">資料來源說明</p>
-              <p>本頁面透過 <strong>GitHub Raw Content API</strong> 及 <strong>GitHub REST API</strong> 即時讀取 <code className="bg-muted px-1 py-0.5 font-mono text-[10px]">smaxchen2/asus-server-strategy</code> 儲存庫的最新資料，不使用打包進 bundle 的靜態版本。</p>
-              <p>GitHub API 未驗證時每小時限制 60 次請求。若出現 403 錯誤，請稍後再試。</p>
+              <p className="font-semibold">{t.dataSourceNote}</p>
+              <p>{t.dataSourceDesc}</p>
+              <p>{t.githubApiNote}</p>
             </div>
           </div>
         </section>

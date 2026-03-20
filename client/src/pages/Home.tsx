@@ -1,6 +1,9 @@
 import { useState, useMemo, Fragment } from "react";
 import { Link, useParams, useLocation } from "wouter";
 import { getRegion, regionKeys, type RegionKey, type Company } from "@/lib/regions";
+import { useLanguage } from "@/contexts/LanguageContext";
+import type { Translations } from "@/lib/i18n";
+import LanguageSwitcher from "@/components/LanguageSwitcher";
 import {
   Search,
   ChevronDown,
@@ -24,15 +27,15 @@ import * as XLSX from "xlsx";
 import StructuredText, { StructuredCommStrategy } from "@/components/StructuredText";
 
 /* ─── CSV Export ─── */
-function exportToCSV(companies: Company[], regionLabel: string) {
+function exportToCSV(companies: Company[], regionLabel: string, t: Translations) {
   const BOM = "\uFEFF";
   const headers = [
-    "排名", "企業名稱", "產業分類", "區域", "年採購量", "伺服器平台架構", "伺服器應用",
-    "目前供應商", "ODM/OEM", "ASUS 對應型號", "通路", "難易度 (1-10)",
-    "困難點及如何克服", "切入點及如何執行",
-    "技術決策者", "技術決策者職稱", "技術決策者 LinkedIn", "技術溝通策略",
-    "採購決策者", "採購決策者職稱", "採購決策者 LinkedIn", "採購溝通策略",
-    "SI/DIST 通路明細", "實際合作 SI", "企業分類", "採購量數據來源"
+    t.exportRank, t.exportCompanyName, t.exportIndustry, t.exportRegion, t.exportVolume,
+    t.exportPlatform, t.exportApplication, t.exportSuppliers, t.exportOdmOem, t.exportAsusModel,
+    t.exportChannel, t.exportDifficulty, t.exportChallenges, t.exportEntryPoint,
+    t.exportTechDM, t.exportTechDMTitle, t.exportTechDMLinkedin, t.exportTechCommStrategy,
+    t.exportProcDM, t.exportProcDMTitle, t.exportProcDMLinkedin, t.exportProcCommStrategy,
+    t.exportSIDIST, t.exportActualSI, t.exportArchetype, t.exportVolumeSource,
   ];
 
   const escapeCSV = (val: string) => {
@@ -50,32 +53,16 @@ function exportToCSV(companies: Company[], regionLabel: string) {
       return `[${s.type}${actual}] ${s.name}${s.website ? " (" + s.website + ")" : ""}`;
     }).join("; ");
     return [
-      String(c.rank),
-      c.company || "",
-      c.industry || "",
-      c.region || "",
-      c.volume || "",
-      c.platform || "",
-      c.application || "",
-      c.currentSuppliers || "",
-      c.odmOem || "",
-      c.asusModel || "",
-      c.channel || "",
-      String(c.difficulty),
-      c.challenges || "",
-      c.entryPoint || "",
+      String(c.rank), c.company || "", c.industry || "", c.region || "", c.volume || "",
+      c.platform || "", c.application || "", c.currentSuppliers || "", c.odmOem || "",
+      c.asusModel || "", c.channel || "", String(c.difficulty), c.challenges || "", c.entryPoint || "",
       c.techDecisionMaker?.name || c.keyPerson?.name || "",
       c.techDecisionMaker?.title || c.keyPerson?.title || "",
       c.techDecisionMaker?.linkedin || c.keyPerson?.linkedin || "",
       c.techDecisionMaker?.commStrategy || "",
-      c.procurementDecisionMaker?.name || "",
-      c.procurementDecisionMaker?.title || "",
-      c.procurementDecisionMaker?.linkedin || "",
-      c.procurementDecisionMaker?.commStrategy || "",
-      siDistStr,
-      c.actualSiPartners || "",
-      c.archetype || "",
-      c.volumeSource || ""
+      c.procurementDecisionMaker?.name || "", c.procurementDecisionMaker?.title || "",
+      c.procurementDecisionMaker?.linkedin || "", c.procurementDecisionMaker?.commStrategy || "",
+      siDistStr, c.actualSiPartners || "", c.archetype || "", c.volumeSource || ""
     ].map(v => escapeCSV(v));
   });
 
@@ -89,21 +76,18 @@ function exportToCSV(companies: Company[], regionLabel: string) {
   a.style.display = "none";
   document.body.appendChild(a);
   a.click();
-  setTimeout(() => {
-    document.body.removeChild(a);
-    URL.revokeObjectURL(url);
-  }, 100);
+  setTimeout(() => { document.body.removeChild(a); URL.revokeObjectURL(url); }, 100);
 }
 
 /* ─── Excel Export ─── */
-function exportToExcel(companies: Company[], regionLabel: string) {
+function exportToExcel(companies: Company[], regionLabel: string, t: Translations) {
   const headers = [
-    "排名", "企業名稱", "產業分類", "區域", "年採購量", "伺服器平台架構", "伺服器應用",
-    "目前供應商", "ODM/OEM", "ASUS 對應型號", "通路", "難易度 (1-10)",
-    "困難點及如何克服", "切入點及如何執行",
-    "技術決策者", "技術決策者職稱", "技術決策者 LinkedIn", "技術溝通策略",
-    "採購決策者", "採購決策者職稱", "採購決策者 LinkedIn", "採購溝通策略",
-    "SI/DIST 通路明細", "實際合作 SI", "企業分類", "採購量數據來源"
+    t.exportRank, t.exportCompanyName, t.exportIndustry, t.exportRegion, t.exportVolume,
+    t.exportPlatform, t.exportApplication, t.exportSuppliers, t.exportOdmOem, t.exportAsusModel,
+    t.exportChannel, t.exportDifficulty, t.exportChallenges, t.exportEntryPoint,
+    t.exportTechDM, t.exportTechDMTitle, t.exportTechDMLinkedin, t.exportTechCommStrategy,
+    t.exportProcDM, t.exportProcDMTitle, t.exportProcDMLinkedin, t.exportProcCommStrategy,
+    t.exportSIDIST, t.exportActualSI, t.exportArchetype, t.exportVolumeSource,
   ];
 
   const rows = companies.map((c) => {
@@ -112,74 +96,31 @@ function exportToExcel(companies: Company[], regionLabel: string) {
       return `[${s.type}${actual}] ${s.name}${s.website ? " (" + s.website + ")" : ""}`;
     }).join("; ");
     return [
-      c.rank,
-      c.company || "",
-      c.industry || "",
-      c.region || "",
-      c.volume || "",
-      c.platform || "",
-      c.application || "",
-      c.currentSuppliers || "",
-      c.odmOem || "",
-      c.asusModel || "",
-      c.channel || "",
-      c.difficulty,
-      c.challenges || "",
-      c.entryPoint || "",
+      c.rank, c.company || "", c.industry || "", c.region || "", c.volume || "",
+      c.platform || "", c.application || "", c.currentSuppliers || "", c.odmOem || "",
+      c.asusModel || "", c.channel || "", c.difficulty, c.challenges || "", c.entryPoint || "",
       c.techDecisionMaker?.name || c.keyPerson?.name || "",
       c.techDecisionMaker?.title || c.keyPerson?.title || "",
       c.techDecisionMaker?.linkedin || c.keyPerson?.linkedin || "",
       c.techDecisionMaker?.commStrategy || "",
-      c.procurementDecisionMaker?.name || "",
-      c.procurementDecisionMaker?.title || "",
-      c.procurementDecisionMaker?.linkedin || "",
-      c.procurementDecisionMaker?.commStrategy || "",
-      siDistStr,
-      c.actualSiPartners || "",
-      c.archetype || "",
-      c.volumeSource || ""
+      c.procurementDecisionMaker?.name || "", c.procurementDecisionMaker?.title || "",
+      c.procurementDecisionMaker?.linkedin || "", c.procurementDecisionMaker?.commStrategy || "",
+      siDistStr, c.actualSiPartners || "", c.archetype || "", c.volumeSource || ""
     ];
   });
 
   const wsData = [headers, ...rows];
   const ws = XLSX.utils.aoa_to_sheet(wsData);
-
-  /* Set column widths for better readability */
   ws["!cols"] = [
-    { wch: 5 },   // 排名
-    { wch: 30 },  // 企業名稱
-    { wch: 15 },  // 產業分類
-    { wch: 12 },  // 區域
-    { wch: 35 },  // 年採購量
-    { wch: 40 },  // 伺服器平台架構
-    { wch: 35 },  // 伺服器應用
-    { wch: 40 },  // 目前供應商
-    { wch: 15 },  // ODM/OEM
-    { wch: 40 },  // ASUS 對應型號
-    { wch: 30 },  // 通路
-    { wch: 10 },  // 難易度
-    { wch: 60 },  // 困難點
-    { wch: 60 },  // 切入點
-    { wch: 25 },  // 技術決策者
-    { wch: 40 },  // 技術決策者職稱
-    { wch: 40 },  // 技術決策者 LinkedIn
-    { wch: 50 },  // 技術溝通策略
-    { wch: 25 },  // 採購決策者
-    { wch: 40 },  // 採購決策者職稱
-    { wch: 40 },  // 採購決策者 LinkedIn
-    { wch: 50 },  // 採購溝通策略
-    { wch: 50 },  // SI/DIST
-    { wch: 50 },  // 實際合作 SI
-    { wch: 15 },  // 企業分類
-    { wch: 50 },  // 數據來源
+    { wch: 5 }, { wch: 30 }, { wch: 15 }, { wch: 12 }, { wch: 35 }, { wch: 40 }, { wch: 35 },
+    { wch: 40 }, { wch: 15 }, { wch: 40 }, { wch: 30 }, { wch: 10 }, { wch: 60 }, { wch: 60 },
+    { wch: 25 }, { wch: 40 }, { wch: 40 }, { wch: 50 }, { wch: 25 }, { wch: 40 }, { wch: 40 },
+    { wch: 50 }, { wch: 50 }, { wch: 50 }, { wch: 15 }, { wch: 50 },
   ];
-
-  /* Enable auto-filter for pivot table usage */
   ws["!autofilter"] = { ref: XLSX.utils.encode_range({ s: { r: 0, c: 0 }, e: { r: rows.length, c: headers.length - 1 } }) };
 
   const wb = XLSX.utils.book_new();
   XLSX.utils.book_append_sheet(wb, ws, regionLabel);
-
   const timestamp = new Date().toISOString().slice(0, 10);
   XLSX.writeFile(wb, `ASUS_Server_Strategy_${regionLabel}_${timestamp}.xlsx`);
 }
@@ -187,41 +128,64 @@ function exportToExcel(companies: Company[], regionLabel: string) {
 type SortField = "rank" | "difficulty" | "company" | "volume";
 type SortDir = "asc" | "desc";
 
-/* ─── Region label map ─── */
-const regionLabels: Record<RegionKey, { label: string; short: string; flag: string }> = {
-  na: { label: "北美", short: "NA", flag: "🇺🇸" },
-  apac: { label: "亞太", short: "APAC", flag: "🌏" },
-  emea: { label: "歐洲中東非洲", short: "EMEA", flag: "🇪🇺" },
-  china: { label: "中國大陸", short: "China", flag: "🇨🇳" },
-};
+/* ─── Region label helpers ─── */
+function getRegionLabels(t: Translations): Record<RegionKey, { label: string; short: string; flag: string }> {
+  return {
+    na: { label: t.regionNA, short: t.regionNAShort, flag: "🇺🇸" },
+    apac: { label: t.regionAPAC, short: t.regionAPACShort, flag: "🌏" },
+    emea: { label: t.regionEMEA, short: t.regionEMEAShort, flag: "🇪🇺" },
+    china: { label: t.regionChina, short: t.regionChinaShort, flag: "🇨🇳" },
+  };
+}
 
-/* ─── Industry categories ─── */
-const INDUSTRY_CATEGORIES = [
-  { label: "全部", value: "all" },
-  { label: "NeoCloud/AI", value: "NeoCloud/AI" },
-  { label: "科技", value: "科技" },
-  { label: "金融", value: "金融" },
-  { label: "醫療", value: "醫療" },
-  { label: "國防", value: "國防" },
-  { label: "電信", value: "電信" },
-  { label: "能源", value: "能源" },
-  { label: "汽車/製造", value: "汽車" },
-  { label: "零售", value: "零售" },
-  { label: "媒體", value: "媒體" },
-  { label: "物流", value: "物流" },
-  { label: "工業", value: "工業" },
-  { label: "其他", value: "其他" },
-];
+function getIndustryCategories(t: Translations) {
+  return [
+    { label: t.industryAll, value: "all" },
+    { label: t.industryNeoCloud, value: "NeoCloud/AI" },
+    { label: t.industryTech, value: "科技" },
+    { label: t.industryFinance, value: "金融" },
+    { label: t.industryHealthcare, value: "醫療" },
+    { label: t.industryDefense, value: "國防" },
+    { label: t.industryTelecom, value: "電信" },
+    { label: t.industryEnergy, value: "能源" },
+    { label: t.industryAutomotive, value: "汽車" },
+    { label: t.industryRetail, value: "零售" },
+    { label: t.industryMedia, value: "媒體" },
+    { label: t.industryLogistics, value: "物流" },
+    { label: t.industryIndustrial, value: "工業" },
+    { label: t.industryOther, value: "其他" },
+  ];
+}
+
+function getDifficultyFilters(t: Translations) {
+  return [
+    { label: t.filterAll, value: "all" },
+    { label: t.filterEasy, value: "easy" },
+    { label: t.filterMedium, value: "medium" },
+    { label: t.filterHard, value: "hard" },
+  ];
+}
+
+function getChannelFilters(t: Translations) {
+  return [
+    { label: t.filterAll, value: "all" },
+    { label: t.filterDirect, value: "direct" },
+    { label: t.filterSIDIST, value: "si_dist" },
+    { label: t.filterMixed, value: "mixed" },
+  ];
+}
 
 /* ─── Difficulty helpers ─── */
-function getDifficultyColor(score: number) {
-  if (score <= 4) return { bg: "bg-emerald-500", text: "text-emerald-700", label: "較易" };
-  if (score <= 7) return { bg: "bg-amber-500", text: "text-amber-700", label: "中等" };
-  return { bg: "bg-red-500", text: "text-red-700", label: "困難" };
+function getDifficultyColor(score: number, t: Translations) {
+  if (score <= 4) return { bg: "bg-emerald-500", text: "text-emerald-700", label: t.difficultyEasy };
+  if (score <= 7) return { bg: "bg-amber-500", text: "text-amber-700", label: t.difficultyMedium };
+  return { bg: "bg-red-500", text: "text-red-700", label: t.difficultyHard };
 }
 
 function DifficultyBar({ score }: { score: number }) {
-  const { bg } = getDifficultyColor(score);
+  const { lang } = useLanguage();
+  const { t } = useLanguage();
+  const { bg } = getDifficultyColor(score, t);
   return (
     <div className="flex items-center gap-2">
       <div className="w-16 h-1.5 bg-muted overflow-hidden">
@@ -234,13 +198,13 @@ function DifficultyBar({ score }: { score: number }) {
 
 /* ─── Expanded Row with all fields ─── */
 function ExpandedRow({ company, regionKey }: { company: Company; regionKey: string }) {
+  const { t } = useLanguage();
   const basePath = regionKey === "na" ? "" : `/region/${regionKey}`;
   const kp = company.keyPerson;
   const techDM = company.techDecisionMaker;
   const procDM = company.procurementDecisionMaker;
   const siDist = company.siDist;
   const volSrc = company.volumeSource;
-  const actualSI = company.actualSiPartners;
   const archetype = company.archetype;
 
   return (
@@ -252,27 +216,27 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
             <div className="bg-white p-5 space-y-3">
               {company.industry && (
                 <div>
-                  <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">產業分類</div>
+                  <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1">{t.industryCategory}</div>
                   <span className="inline-flex items-center gap-1 text-xs px-2 py-0.5 bg-indigo-50 text-indigo-700 font-medium">
                     <Tag className="w-3 h-3" />{company.industry}
                   </span>
                 </div>
               )}
-              <InfoBlock label="伺服器機型及平台架構" value={company.platform} />
-              <InfoBlock label="伺服器應用" value={company.application} />
-              <InfoBlock label="目前供應商" value={company.currentSuppliers} />
-              <InfoBlock label="ODM/OEM" value={company.odmOem} />
-              <InfoBlock label="ASUS 對應型號" value={company.asusModel} />
+              <InfoBlock label={t.serverPlatform} value={company.platform} />
+              <InfoBlock label={t.serverApplication} value={company.application} />
+              <InfoBlock label={t.currentSuppliers} value={company.currentSuppliers} />
+              <InfoBlock label={t.odmOem} value={company.odmOem} />
+              <InfoBlock label={t.asusModel} value={company.asusModel} />
             </div>
 
             {/* Column 2: Strategy */}
             <div className="bg-white p-5 space-y-4">
               <div>
-                <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-red-600 mb-2">困難點及如何克服</div>
+                <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-red-600 mb-2">{t.challengesTitle}</div>
                 <StructuredText text={company.challenges} variant="compact" titleColor="text-red-700" />
               </div>
               <div className="border-t border-border/50 pt-4">
-                <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-emerald-600 mb-2">切入點及如何執行</div>
+                <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-emerald-600 mb-2">{t.entryPointTitle}</div>
                 <StructuredText text={company.entryPoint} variant="compact" titleColor="text-emerald-700" />
               </div>
             </div>
@@ -281,7 +245,7 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
             <div className="bg-white p-5 space-y-3">
               <div>
                 <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1.5">
-                  直供/SI/DIST 通路
+                  {t.channelLabel}
                 </div>
                 <p className="text-xs font-medium mb-2">{company.channel}</p>
                 {siDist && siDist.length > 0 && (
@@ -292,7 +256,7 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
                           s.type === "SI" ? "bg-blue-100 text-blue-700" : "bg-purple-100 text-purple-700"
                         }`}>{s.type}</span>
                         {s.isActual && (
-                          <span className="text-[9px] px-1 py-0.5 bg-green-100 text-green-700 font-bold">實際合作</span>
+                          <span className="text-[9px] px-1 py-0.5 bg-green-100 text-green-700 font-bold">{t.actualPartner}</span>
                         )}
                         {s.website ? (
                           <a href={s.website} target="_blank" rel="noopener noreferrer"
@@ -310,7 +274,7 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
               {volSrc && (
                 <div>
                   <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-1.5">
-                    採購量數據來源
+                    {t.volumeSource}
                   </div>
                   <a href={volSrc} target="_blank" rel="noopener noreferrer"
                     className="text-xs text-primary hover:underline flex items-center gap-1 break-all">
@@ -344,7 +308,7 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
               {/* Technical Decision Maker */}
               <div>
                 <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-blue-600 mb-1.5">
-                  <span className="flex items-center gap-1"><User className="w-3 h-3" /> 技術決策者 (CTO / Architect)</span>
+                  <span className="flex items-center gap-1"><User className="w-3 h-3" /> {t.techDecisionMaker}</span>
                 </div>
                 {techDM && techDM.name ? (
                   <div className="space-y-1">
@@ -361,7 +325,7 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
                     )}
                     {techDM.commStrategy && (
                       <div className="mt-1.5 p-2 bg-blue-50 border-l-2 border-blue-400">
-                        <p className="text-[10px] font-semibold text-blue-700 mb-1">溝通策略</p>
+                        <p className="text-[10px] font-semibold text-blue-700 mb-1">{t.commStrategy}</p>
                         <div className="text-[10px] text-blue-800">
                           <StructuredCommStrategy text={techDM.commStrategy} variant="compact" />
                         </div>
@@ -369,14 +333,14 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
                     )}
                   </div>
                 ) : (
-                  <p className="text-xs text-muted-foreground italic">待查證</p>
+                  <p className="text-xs text-muted-foreground italic">{t.pendingVerification}</p>
                 )}
               </div>
 
               {/* Procurement Decision Maker */}
               <div>
                 <div className="text-[10px] font-bold tracking-[0.15em] uppercase text-amber-600 mb-1.5">
-                  <span className="flex items-center gap-1"><User className="w-3 h-3" /> 採購決策者 (VP Procurement)</span>
+                  <span className="flex items-center gap-1"><User className="w-3 h-3" /> {t.procurementDecisionMaker}</span>
                 </div>
                 {procDM && procDM.name ? (
                   <div className="space-y-1">
@@ -393,7 +357,7 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
                     )}
                     {procDM.commStrategy && (
                       <div className="mt-1.5 p-2 bg-amber-50 border-l-2 border-amber-400">
-                        <p className="text-[10px] font-semibold text-amber-700 mb-1">溝通策略</p>
+                        <p className="text-[10px] font-semibold text-amber-700 mb-1">{t.commStrategy}</p>
                         <div className="text-[10px] text-amber-800">
                           <StructuredCommStrategy text={procDM.commStrategy} variant="compact" />
                         </div>
@@ -401,7 +365,7 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
                     )}
                   </div>
                 ) : (
-                  <p className="text-xs text-muted-foreground italic">待查證</p>
+                  <p className="text-xs text-muted-foreground italic">{t.pendingVerification}</p>
                 )}
               </div>
             </div>
@@ -409,7 +373,7 @@ function ExpandedRow({ company, regionKey }: { company: Company; regionKey: stri
           <div className="px-5 py-2.5 bg-white border-t border-border flex justify-end">
             <Link href={`${basePath}/company/${company.rank}`}>
               <span className="text-xs text-primary hover:underline flex items-center gap-1 cursor-pointer">
-                查看完整詳情 <ExternalLink className="w-3 h-3" />
+                {t.viewFullDetails} <ExternalLink className="w-3 h-3" />
               </span>
             </Link>
           </div>
@@ -428,21 +392,6 @@ function InfoBlock({ label, value }: { label: string; value: string }) {
   );
 }
 
-/* ─── Filter Tags ─── */
-const difficultyFilters = [
-  { label: "全部", value: "all" },
-  { label: "較易 (1-4)", value: "easy" },
-  { label: "中等 (5-7)", value: "medium" },
-  { label: "困難 (8-10)", value: "hard" },
-];
-
-const channelFilters = [
-  { label: "全部", value: "all" },
-  { label: "直供", value: "direct" },
-  { label: "SI/DIST", value: "si_dist" },
-  { label: "混合", value: "mixed" },
-];
-
 /* ─── Difficulty Distribution Mini Chart ─── */
 function DifficultyDistribution({ companies }: { companies: Company[] }) {
   const distribution: Record<number, number> = {};
@@ -455,14 +404,14 @@ function DifficultyDistribution({ companies }: { companies: Company[] }) {
       {Array.from({ length: 10 }, (_, i) => i + 1).map((score) => {
         const count = distribution[score] || 0;
         const height = maxCount > 0 ? (count / maxCount) * 100 : 0;
-        const { bg } = getDifficultyColor(score);
+        const bg = score <= 4 ? "bg-emerald-500" : score <= 7 ? "bg-amber-500" : "bg-red-500";
         return (
           <div key={score} className="flex flex-col items-center gap-0.5 flex-1">
             <div className="w-full relative" style={{ height: "32px" }}>
               <div
                 className={`absolute bottom-0 w-full ${bg} opacity-80 transition-all`}
                 style={{ height: `${height}%`, minHeight: count > 0 ? "2px" : "0" }}
-                title={`難易度 ${score}: ${count} 家`}
+                title={`${score}: ${count}`}
               />
             </div>
             <span className="text-[8px] text-muted-foreground tabular-nums">{score}</span>
@@ -475,6 +424,7 @@ function DifficultyDistribution({ companies }: { companies: Company[] }) {
 
 /* ─── Main Component ─── */
 export default function Home() {
+  const { t } = useLanguage();
   const params = useParams<{ region?: string }>();
   const [, navigate] = useLocation();
   const currentRegionKey = (params.region || "na") as RegionKey;
@@ -488,6 +438,11 @@ export default function Home() {
   const [sortField, setSortField] = useState<SortField>("rank");
   const [sortDir, setSortDir] = useState<SortDir>("asc");
   const [expandedRow, setExpandedRow] = useState<number | null>(null);
+
+  const regionLabels = getRegionLabels(t);
+  const INDUSTRY_CATEGORIES = getIndustryCategories(t);
+  const difficultyFilters = getDifficultyFilters(t);
+  const channelFilters = getChannelFilters(t);
 
   /* Compute available industries for current region */
   const availableIndustries = useMemo(() => {
@@ -553,7 +508,7 @@ export default function Home() {
     });
 
     return result;
-  }, [companies, search, diffFilter, channelFilter, industryFilter, sortField, sortDir]);
+  }, [companies, search, diffFilter, channelFilter, industryFilter, sortField, sortDir, INDUSTRY_CATEGORIES]);
 
   const toggleSort = (field: SortField) => {
     if (sortField === field) {
@@ -601,16 +556,19 @@ export default function Home() {
               </div>
               <div>
                 <h1 className="text-sm font-black tracking-tight leading-tight" style={{ fontFamily: "'DM Sans', sans-serif" }}>
-                  ASUS Global Server Strategy
+                  {t.siteTitle}
                 </h1>
-                <p className="text-[10px] text-muted-foreground tracking-wide">全球伺服器市場拓展策略</p>
+                <p className="text-[10px] text-muted-foreground tracking-wide">{t.siteSubtitle}</p>
               </div>
             </div>
-            <div className="hidden sm:flex items-center gap-1 text-[10px] text-muted-foreground tracking-wider uppercase">
-              <Globe className="w-3 h-3" />
-              <span className="ml-1">4 Regions</span>
-              <span className="mx-1.5 w-px h-3 bg-border" />
-              <span>405 Companies</span>
+            <div className="flex items-center gap-3">
+              <div className="hidden sm:flex items-center gap-1 text-[10px] text-muted-foreground tracking-wider uppercase">
+                <Globe className="w-3 h-3" />
+                <span className="ml-1">{t.regions}</span>
+                <span className="mx-1.5 w-px h-3 bg-border" />
+                <span>{t.companies}</span>
+              </div>
+              <LanguageSwitcher />
             </div>
           </div>
         </div>
@@ -658,21 +616,20 @@ export default function Home() {
           <div className="grid grid-cols-1 lg:grid-cols-[1fr_auto] gap-8 items-center">
             <div>
               <p className="text-[10px] font-bold tracking-[0.2em] uppercase text-background/50 mb-2">
-                {rl.flag} {rl.short} Market Intelligence
+                {rl.flag} {rl.short} {t.marketIntelligence}
               </p>
               <h2 className="text-2xl md:text-3xl font-black tracking-tight mb-3" style={{ fontFamily: "'DM Sans', sans-serif" }}>
-                {rl.label}伺服器採購商<br className="hidden md:block" />策略分析總覽
+                {rl.label} {t.strategyOverviewSuffix}
               </h2>
               <p className="text-sm text-background/60 leading-relaxed max-w-xl">
-                {regionConfig.description}，包含年採購量、伺服器架構、現有供應商、
-                ASUS 對應產品線、通路策略、困難點與切入策略。
+                {rl.label} Top {companies.length} {t.regionDescriptionSuffix}{t.regionDescriptionDetails}
               </p>
             </div>
             <div className="grid grid-cols-2 gap-4 lg:gap-6">
-              <DarkKPI icon={Building2} value={String(companies.length)} label="企業" sub={`${rl.label} Top ${companies.length}`} />
-              <DarkKPI icon={TrendingUp} value={regionConfig.totalVolume} label="台/年" sub="年度總採購量" />
-              <DarkKPI icon={Zap} value={String(neocloudCount)} label="NeoCloud" sub="AI 雲端企業" accent="amber" />
-              <DarkKPI icon={Target} value={String(hardCount)} label="高難度" sub="8-10 分" accent="red" />
+              <DarkKPI icon={Building2} value={String(companies.length)} label={t.kpiCompanies} sub={`${rl.label} ${t.kpiTopPrefix} ${companies.length}`} />
+              <DarkKPI icon={TrendingUp} value={regionConfig.totalVolume} label={t.kpiUnitsPerYear} sub={t.kpiAnnualVolume} />
+              <DarkKPI icon={Zap} value={String(neocloudCount)} label={t.kpiNeoCloud} sub={t.kpiAICloud} accent="amber" />
+              <DarkKPI icon={Target} value={String(hardCount)} label={t.kpiHighDifficulty} sub={t.kpiScore810} accent="red" />
             </div>
           </div>
         </div>
@@ -683,16 +640,16 @@ export default function Home() {
         <div className="container py-4">
           <div className="flex items-center gap-6">
             <div className="flex-shrink-0">
-              <p className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-0.5">難易度分佈</p>
-              <p className="text-[10px] text-muted-foreground">平均 {avgDifficulty} / 10</p>
+              <p className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground mb-0.5">{t.difficultyDistribution}</p>
+              <p className="text-[10px] text-muted-foreground">{t.difficultyAvg} {avgDifficulty} / 10</p>
             </div>
             <div className="flex-1 max-w-xs">
               <DifficultyDistribution companies={companies} />
             </div>
             <div className="hidden md:flex items-center gap-4 text-[10px] text-muted-foreground">
-              <span className="flex items-center gap-1.5"><span className="w-2 h-2 bg-emerald-500" /> 較易 ({easyCount})</span>
-              <span className="flex items-center gap-1.5"><span className="w-2 h-2 bg-amber-500" /> 中等 ({mediumCount})</span>
-              <span className="flex items-center gap-1.5"><span className="w-2 h-2 bg-red-500" /> 困難 ({hardCount})</span>
+              <span className="flex items-center gap-1.5"><span className="w-2 h-2 bg-emerald-500" /> {t.difficultyEasy} ({easyCount})</span>
+              <span className="flex items-center gap-1.5"><span className="w-2 h-2 bg-amber-500" /> {t.difficultyMedium} ({mediumCount})</span>
+              <span className="flex items-center gap-1.5"><span className="w-2 h-2 bg-red-500" /> {t.difficultyHard} ({hardCount})</span>
             </div>
           </div>
         </div>
@@ -705,7 +662,7 @@ export default function Home() {
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted-foreground" />
             <input
               type="text"
-              placeholder="搜尋企業名稱、產業、區域、應用、供應商、ASUS 型號、SI/DIST、Key Person..."
+              placeholder={t.searchPlaceholder}
               value={search}
               onChange={(e) => setSearch(e.target.value)}
               className="w-full pl-10 pr-10 py-2.5 text-sm border border-border bg-white focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all"
@@ -718,15 +675,15 @@ export default function Home() {
           </div>
 
           <div className="flex flex-wrap items-center gap-4">
-            <FilterGroup label="難易度" options={difficultyFilters} value={diffFilter} onChange={setDiffFilter} />
+            <FilterGroup label={t.filterDifficulty} options={difficultyFilters} value={diffFilter} onChange={setDiffFilter} />
             <div className="w-px h-5 bg-border hidden sm:block" />
-            <FilterGroup label="通路" options={channelFilters} value={channelFilter} onChange={setChannelFilter} />
+            <FilterGroup label={t.filterChannel} options={channelFilters} value={channelFilter} onChange={setChannelFilter} />
           </div>
 
           {/* Industry Filter */}
           <div className="flex flex-wrap items-center gap-2">
             <span className="text-xs font-medium text-muted-foreground flex items-center gap-1">
-              <Tag className="w-3 h-3" /> 產業:
+              <Tag className="w-3 h-3" /> {t.filterIndustry}:
             </span>
             <div className="flex flex-wrap gap-1">
               {INDUSTRY_CATEGORIES.map((cat) => {
@@ -761,7 +718,7 @@ export default function Home() {
                 onClick={() => { setSearch(""); setDiffFilter("all"); setChannelFilter("all"); setIndustryFilter("all"); }}
                 className="text-xs text-muted-foreground hover:text-foreground transition-colors ml-2"
               >
-                清除全部篩選
+                {t.clearAllFilters}
               </button>
             )}
           </div>
@@ -770,7 +727,7 @@ export default function Home() {
         {/* Results Count + Export */}
         <div className="flex items-center justify-between mb-3">
           <span className="text-xs text-muted-foreground">
-            顯示 <strong className="text-foreground">{filtered.length}</strong> / {companies.length} 家企業
+            {t.showing} <strong className="text-foreground">{filtered.length}</strong> {t.of} {companies.length} {t.companiesSuffix}
             {industryFilter !== "all" && (
               <span className="ml-2 px-1.5 py-0.5 bg-indigo-50 text-indigo-700 text-[10px] font-medium">
                 {industryFilter}
@@ -779,20 +736,20 @@ export default function Home() {
           </span>
           <div className="flex items-center gap-3">
             <button
-              onClick={() => exportToExcel(filtered, `${rl.short}_${filtered.length}companies`)}
+              onClick={() => exportToExcel(filtered, `${rl.short}_${filtered.length}companies`, t)}
               className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium bg-emerald-600 text-white hover:bg-emerald-700 transition-colors"
             >
               <FileSpreadsheet className="w-3.5 h-3.5" />
-              匯出 Excel ({filtered.length})
+              {t.exportExcel} ({filtered.length})
             </button>
             <button
-              onClick={() => exportToCSV(filtered, `${rl.short}_${filtered.length}companies`)}
+              onClick={() => exportToCSV(filtered, `${rl.short}_${filtered.length}companies`, t)}
               className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium bg-primary text-primary-foreground hover:bg-primary/90 transition-colors"
             >
               <Download className="w-3.5 h-3.5" />
-              匯出 CSV ({filtered.length})
+              {t.exportCSV} ({filtered.length})
             </button>
-            <span className="text-[10px] text-muted-foreground hidden sm:inline">點擊列展開詳細資訊</span>
+            <span className="text-[10px] text-muted-foreground hidden sm:inline">{t.clickToExpand}</span>
           </div>
         </div>
 
@@ -801,12 +758,12 @@ export default function Home() {
           <table className="w-full text-sm">
             <thead>
               <tr className="border-b border-border bg-muted/50">
-                <SortableHeader label="#" field="rank" current={sortField} dir={sortDir} onClick={toggleSort} width="w-12" />
-                <SortableHeader label="企業名稱" field="company" current={sortField} dir={sortDir} onClick={toggleSort} width="min-w-[200px]" />
-                <th className="text-left text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground px-3 py-3">產業</th>
-                <SortableHeader label="年採購量" field="volume" current={sortField} dir={sortDir} onClick={toggleSort} width="min-w-[140px]" />
-                <th className="text-left text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground px-3 py-3">通路</th>
-                <SortableHeader label="難易度" field="difficulty" current={sortField} dir={sortDir} onClick={toggleSort} width="w-28" />
+                <SortableHeader label={t.thRank} field="rank" current={sortField} dir={sortDir} onClick={toggleSort} width="w-12" />
+                <SortableHeader label={t.thCompanyName} field="company" current={sortField} dir={sortDir} onClick={toggleSort} width="min-w-[200px]" />
+                <th className="text-left text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground px-3 py-3">{t.thIndustry}</th>
+                <SortableHeader label={t.thAnnualVolume} field="volume" current={sortField} dir={sortDir} onClick={toggleSort} width="min-w-[140px]" />
+                <th className="text-left text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground px-3 py-3">{t.thChannel}</th>
+                <SortableHeader label={t.thDifficulty} field="difficulty" current={sortField} dir={sortDir} onClick={toggleSort} width="w-28" />
                 <th className="text-left text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground px-3 py-3 w-8" />
               </tr>
             </thead>
@@ -860,7 +817,7 @@ export default function Home() {
           </table>
           {filtered.length === 0 && (
             <div className="py-16 text-center text-muted-foreground text-sm">
-              找不到符合條件的企業
+              {t.noResults}
             </div>
           )}
         </div>
@@ -871,12 +828,12 @@ export default function Home() {
         <div className="container py-6">
           <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 text-[10px] text-muted-foreground">
             <div>
-              <span className="font-semibold text-foreground">ASUS Server Business Development</span>
+              <span className="font-semibold text-foreground">{t.footerTitle}</span>
               <span className="mx-2">·</span>
-              <span>全球市場策略報告 2026 Q1</span>
+              <span>{t.footerReport}</span>
             </div>
             <div>
-              資料來源：IDC Server Tracker, Gartner, TrendForce, 各企業年報
+              {t.footerSources}
             </div>
           </div>
         </div>

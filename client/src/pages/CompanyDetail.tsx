@@ -1,5 +1,7 @@
 import { useParams, Link } from "wouter";
 import { getRegion, type RegionKey } from "@/lib/regions";
+import { useLanguage } from "@/contexts/LanguageContext";
+import LanguageSwitcher from "@/components/LanguageSwitcher";
 import {
   ArrowLeft, Building2, MapPin, Server, Cpu, Layers, Truck, Target,
   AlertTriangle, Lightbulb, ChevronRight, ChevronLeft, ExternalLink,
@@ -8,15 +10,16 @@ import {
 import StructuredText from "@/components/StructuredText";
 
 function DifficultyBadge({ score }: { score: number }) {
+  const { t } = useLanguage();
   const getColor = (s: number) => {
     if (s <= 4) return "bg-emerald-100 text-emerald-800 border-emerald-300";
     if (s <= 7) return "bg-amber-100 text-amber-800 border-amber-300";
     return "bg-red-100 text-red-800 border-red-300";
   };
   const getLabel = (s: number) => {
-    if (s <= 4) return "較易";
-    if (s <= 7) return "中等";
-    return "困難";
+    if (s <= 4) return t.difficultyEasy;
+    if (s <= 7) return t.difficultyMedium;
+    return t.difficultyHard;
   };
   return (
     <span className={`inline-flex items-center gap-1.5 px-3 py-1 text-sm font-semibold border ${getColor(score)}`}>
@@ -26,6 +29,7 @@ function DifficultyBadge({ score }: { score: number }) {
 }
 
 export default function CompanyDetail() {
+  const { t } = useLanguage();
   const params = useParams<{ rank: string; region?: string }>();
   const regionKey = (params.region || "na") as RegionKey;
   const regionConfig = getRegion(regionKey);
@@ -35,37 +39,37 @@ export default function CompanyDetail() {
   const basePath = regionKey === "na" ? "" : `/region/${regionKey}`;
   const listPath = regionKey === "na" ? "/" : `/region/${regionKey}`;
 
+  const regionLabel: Record<string, string> = {
+    na: t.regionNA,
+    apac: t.regionAPAC,
+    emea: t.regionEMEA,
+    china: t.regionChina,
+  };
+
   if (!company) {
     return (
       <div className="min-h-screen flex items-center justify-center">
         <div className="text-center">
-          <h1 className="text-2xl font-bold mb-4">找不到該企業</h1>
-          <Link href={listPath} className="text-primary hover:underline">返回總表</Link>
+          <h1 className="text-2xl font-bold mb-4">{t.noResults}</h1>
+          <Link href={listPath} className="text-primary hover:underline">{t.backToList}</Link>
         </div>
       </div>
     );
   }
 
   const sections = [
-    { icon: MapPin, title: "區域/國家", content: company.region },
-    { icon: Server, title: "伺服器年採購量", content: company.volume },
-    { icon: Cpu, title: "伺服器機型及平台架構", content: company.platform },
-    { icon: Layers, title: "伺服器應用", content: company.application },
-    { icon: Truck, title: "目前供應商", content: company.currentSuppliers },
-    { icon: Building2, title: "ODM/OEM", content: company.odmOem },
-    { icon: Target, title: "ASUS 對應型號", content: company.asusModel },
-    { icon: ChevronRight, title: "直供/SI/DIST", content: company.channel },
+    { icon: MapPin, title: t.regionCountry, content: company.region },
+    { icon: Server, title: t.annualServerVolume, content: company.volume },
+    { icon: Cpu, title: t.serverPlatformArch, content: company.platform },
+    { icon: Layers, title: t.serverApp, content: company.application },
+    { icon: Truck, title: t.currentSuppliersLabel, content: company.currentSuppliers },
+    { icon: Building2, title: t.odmOemLabel, content: company.odmOem },
+    { icon: Target, title: t.asusModelLabel, content: company.asusModel },
+    { icon: ChevronRight, title: t.directSIDIST, content: company.channel },
   ];
 
   const prevCompany = regionConfig.companies.find((c) => c.rank === rank - 1);
   const nextCompany = regionConfig.companies.find((c) => c.rank === rank + 1);
-
-  const regionLabel: Record<string, string> = {
-    na: "北美",
-    apac: "亞太",
-    emea: "EMEA",
-    china: "中國大陸",
-  };
 
   const kp = company.keyPerson;
   const siDist = company.siDist;
@@ -75,17 +79,20 @@ export default function CompanyDetail() {
     <div className="min-h-screen bg-background">
       {/* Header */}
       <header className="border-b border-border bg-white sticky top-0 z-10">
-        <div className="container py-3 flex items-center gap-4">
-          <Link href={listPath}>
-            <span className="flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors text-sm font-medium cursor-pointer">
-              <ArrowLeft className="w-4 h-4" />
-              返回{regionLabel[regionKey]}總表
+        <div className="container py-3 flex items-center justify-between">
+          <div className="flex items-center gap-4">
+            <Link href={listPath}>
+              <span className="flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors text-sm font-medium cursor-pointer">
+                <ArrowLeft className="w-4 h-4" />
+                {t.backToList} ({regionLabel[regionKey]})
+              </span>
+            </Link>
+            <div className="w-px h-5 bg-border" />
+            <span className="text-[10px] text-muted-foreground tracking-[0.15em] uppercase">
+              {regionLabel[regionKey]} · {t.companyPrefix} #{company.rank}
             </span>
-          </Link>
-          <div className="w-px h-5 bg-border" />
-          <span className="text-[10px] text-muted-foreground tracking-[0.15em] uppercase">
-            {regionLabel[regionKey]} · Company #{company.rank}
-          </span>
+          </div>
+          <LanguageSwitcher />
         </div>
       </header>
 
@@ -101,9 +108,9 @@ export default function CompanyDetail() {
           <div className="flex items-center gap-3 text-sm text-muted-foreground">
             <span className="flex items-center gap-1"><MapPin className="w-3.5 h-3.5" />{company.region}</span>
             <span className="w-1 h-1 rounded-full bg-border" />
-            <span>排名 #{company.rank}</span>
+            <span>#{company.rank}</span>
             <span className="w-1 h-1 rounded-full bg-border" />
-            <span className="text-xs">10 最難 · 1 最簡單</span>
+            <span className="text-xs">{t.difficultyScale}</span>
           </div>
         </div>
 
@@ -126,7 +133,7 @@ export default function CompanyDetail() {
           <div className="bg-white p-6">
             <div className="flex items-center gap-2 mb-3">
               <User className="w-4 h-4 text-primary" />
-              <h3 className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground">Key Person</h3>
+              <h3 className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground">{t.keyPerson}</h3>
             </div>
             {kp && kp.name ? (
               <div className="space-y-1">
@@ -138,15 +145,15 @@ export default function CompanyDetail() {
                     <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="currentColor">
                       <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
                     </svg>
-                    LinkedIn Profile
+                    {t.linkedinProfile}
                   </a>
                 )}
                 {kp.source && !kp.linkedin && (
-                  <p className="text-[10px] text-muted-foreground mt-1">來源: {kp.source}</p>
+                  <p className="text-[10px] text-muted-foreground mt-1">{t.sourceLabel}: {kp.source}</p>
                 )}
               </div>
             ) : (
-              <p className="text-xs text-muted-foreground italic">資訊待更新</p>
+              <p className="text-xs text-muted-foreground italic">{t.infoTBD}</p>
             )}
           </div>
 
@@ -154,7 +161,7 @@ export default function CompanyDetail() {
           <div className="bg-white p-6">
             <div className="flex items-center gap-2 mb-3">
               <Truck className="w-4 h-4 text-primary" />
-              <h3 className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground">SI/DIST 通路夥伴</h3>
+              <h3 className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground">{t.siDistPartners}</h3>
             </div>
             {siDist && siDist.length > 0 ? (
               <div className="space-y-2">
@@ -175,7 +182,7 @@ export default function CompanyDetail() {
                 ))}
               </div>
             ) : (
-              <p className="text-xs text-muted-foreground italic">直供或資訊待更新</p>
+              <p className="text-xs text-muted-foreground italic">{t.directOrPending}</p>
             )}
           </div>
 
@@ -183,7 +190,7 @@ export default function CompanyDetail() {
           <div className="bg-white p-6">
             <div className="flex items-center gap-2 mb-3">
               <LinkIcon className="w-4 h-4 text-primary" />
-              <h3 className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground">採購量數據來源</h3>
+              <h3 className="text-[10px] font-bold tracking-[0.15em] uppercase text-muted-foreground">{t.volumeSourceLabel}</h3>
             </div>
             {volSrc ? (
               <a href={volSrc} target="_blank" rel="noopener noreferrer"
@@ -192,7 +199,7 @@ export default function CompanyDetail() {
                 {volSrc.replace(/^https?:\/\//, "")}
               </a>
             ) : (
-              <p className="text-xs text-muted-foreground italic">基於產業分析估算</p>
+              <p className="text-xs text-muted-foreground italic">{t.basedOnEstimate}</p>
             )}
           </div>
         </div>
@@ -202,7 +209,7 @@ export default function CompanyDetail() {
           <div className="border-l-2 border-red-400 pl-6">
             <div className="flex items-center gap-2 mb-4">
               <AlertTriangle className="w-4 h-4 text-red-500" />
-              <h2 className="text-lg font-bold" style={{ fontFamily: "'DM Sans', sans-serif" }}>困難點及如何克服</h2>
+              <h2 className="text-lg font-bold" style={{ fontFamily: "'DM Sans', sans-serif" }}>{t.challengesTitle}</h2>
             </div>
             <StructuredText text={company.challenges} variant="full" titleColor="text-red-700" />
           </div>
@@ -210,7 +217,7 @@ export default function CompanyDetail() {
           <div className="border-l-2 border-emerald-400 pl-6">
             <div className="flex items-center gap-2 mb-4">
               <Lightbulb className="w-4 h-4 text-emerald-500" />
-              <h2 className="text-lg font-bold" style={{ fontFamily: "'DM Sans', sans-serif" }}>切入點及如何執行</h2>
+              <h2 className="text-lg font-bold" style={{ fontFamily: "'DM Sans', sans-serif" }}>{t.entryPointTitle}</h2>
             </div>
             <StructuredText text={company.entryPoint} variant="full" titleColor="text-emerald-700" />
           </div>
