@@ -91,7 +91,7 @@
         "commStrategy": "Focus on server requirements for 5G core networks, MEC (Multi-access Edge Computing), and NFV/SDN platforms"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Michael Sohn",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Deutsche%20Telekom%20/%20T-Systems%20procurement%20VP",
         "commStrategy": "Through telecom industry SIs (such as Nokia, Ericsson ecosystem partners) or direct participation in the RFP process"
@@ -159,7 +159,7 @@
         "commStrategy": "Focus on server requirements for 5G core networks, MEC (Multi-access Edge Computing), and NFV/SDN platforms"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Ninian Wilson",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Vodafone%20Group%20procurement%20VP",
         "commStrategy": "Through telecom industry SIs (such as Nokia, Ericsson ecosystem partners) or direct participation in the RFP process"
@@ -257,7 +257,7 @@
         "commStrategy": "Demonstrate the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Nikolaus Kirner",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=SAP%20SE%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels, providing competitive TCO analysis and trial programs"
@@ -331,7 +331,7 @@
         "commStrategy": "Focus on server requirements for 5G core networks, MEC (Multi-access Edge Computing), and NFV/SDN platforms"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Michael Rubas",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Orange%20S.A.%20procurement%20VP",
         "commStrategy": "Through telecom industry SIs (such as Nokia, Ericsson ecosystem partners) or direct participation in the RFP process"
@@ -426,7 +426,7 @@
         "commStrategy": "Focus on server requirements for 5G core networks, MEC (Multi-access Edge Computing), and NFV/SDN platforms"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Javier García De Castro",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=BT%20Group%20procurement%20VP",
         "commStrategy": "Through telecom industry SIs (such as Nokia, Ericsson ecosystem partners) or directly participate in the RFP process"
@@ -482,7 +482,7 @@
         "commStrategy": "Demonstrate the performance advantages and energy efficiency ratio of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "（推估）Günther Müller",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Telefónica%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial solutions"
@@ -526,7 +526,7 @@
         "commStrategy": "Demonstrate the performance advantages and energy efficiency ratio of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Craig Cuffie",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hetzner%20Online%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial solutions"
@@ -594,10 +594,10 @@
         "commStrategy": "Emphasize server security certifications (FIPS 140-2/3, TPM 2.0), high-availability design, and low-latency performance of AI/ML trading systems"
       },
       "procurementDecisionMaker": {
-        "name": "",
-        "title": "VP of Procurement / Chief Procurement Officer",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=HSBC%20Holdings%20procurement%20VP",
-        "commStrategy": "Introduce through financial industry-specific SIs (such as Kyndryl, DXC Technology). The financial industry procurement process is rigorous and requires passing a vendor qualification program"
+        "name": "Craig Cuffie",
+        "title": "Group Chief Procurement Officer",
+        "linkedin": "https://www.linkedin.com/in/craig-cuffie/",
+        "commStrategy": "強調全球供應鏈多元化價值，以降低地緣政治風險。提供金融級合規認證與TCO分析報告，展示長期成本節約優勢。"
       },
       "archetype": "financial"
     },
@@ -615,9 +615,24 @@
       "difficulty": 8,
       "challenges": "【NeoCloud】【Technical Barriers】IONOS擁有自建資料中心及伺服器組裝能力，對供應商的Technical Requirements高，且可能傾向於ODM或零組件採購。ASUS需證明其伺服器產品在性能、可靠性、可擴展性及成本效益上具備競爭優勢，並能與IONOS現有基礎設施無縫整合。【Supply Chain Barriers】IONOS has strong bargaining power, and ASUS needs to provide attractive price and service plans.【Business Challenges】IONOS may have established a stable supply chain, and ASUS needs to demonstrate the stability and flexibility of its supply chain to meet IONOS's large-scale procurement needs.【Industry Characteristics】German companies have strict requirements for data security, GDPR compliance, and localized services, and need to provide solutions that comply with EU regulations.",
       "entryPoint": "【NeoCloud】【短期（6-12個月）】ForIONOS的特定工作負載（如網站託管、VPS），提供具成本效益且性能優越的ASUS機架式伺服器解決方案進行POC測試，強調ASUS伺服器在能效、穩定性及易於管理方面的優勢。【中期（1-2年）】在POC成功後，逐步擴大合作範圍，提供更多元化的伺服器產品線，包括高性能運算或AI/ML伺服器，以滿足IONOS不斷增長的雲端服務需求。同時，探討andIONOS在ODM模式下的合作可能性，提供客製化設計服務。【長期（2-3年）】建立長期戰略合作夥伴關係，成為IONOS主要的伺服器供應商之一，andIONOS的技術團隊緊密合作，共同開發符合未來雲端技術趨勢的伺服器解決方案。【Key Actions】優先through直供管道接觸 Dr. Markus Noga 的技術團隊，強調 ASUS 在德國市場的本地化服務能力。",
-      "keyPerson": "Dr. Markus Noga (CTO)",
-      "techDecisionMaker": "Dr. Markus Noga | CTO | https://www.linkedin.com/in/markusnoga/ | 與IONOS的技術團隊建立緊密聯繫，深入了解其資料中心架構、技術需求和未來發展方向，展示ASUS伺服器在性能、能效、散熱技術、管理工具及SDI整合方面的技術優勢。",
-      "procurementDecisionMaker": "N/A | N/A | N/A | 強調ASUS作為全球領先的伺服器供應商，具備強大的研發實力、生產能力和全球供應鏈優勢，能提供穩定、高品質且具競爭力的產品，並提供彈性的採購模式和優質的售後服務。",
+      "keyPerson": {
+        "name": "Patrik Heider",
+        "title": "Chief Financial Officer",
+        "linkedin": "https://de.linkedin.com/in/patrikheider",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "Dr. Markus Noga",
+        "title": "Chief Technology Officer",
+        "linkedin": "https://de.linkedin.com/in/mlnoga",
+        "commStrategy": "聚焦GPU密度與散熱效率，展示我們高效能伺服器如何滿足大規模運算需求，並以領先的散熱技術確保系統穩定性與能源效率。"
+      },
+      "procurementDecisionMaker": {
+        "name": "(推估) Hüseyin Dogan",
+        "title": "Chief Operating Officer",
+        "linkedin": "https://de.linkedin.com/in/hueseyindogan",
+        "commStrategy": "強調TCO優勢與供應鏈多元化價值，以及彈性的付款方式，協助企業優化IT採購成本效益。"
+      },
       "siDist": [],
       "volumeSource": "https://www.ionos.com/about",
       "industry": "Technology",
@@ -690,7 +705,7 @@
         "commStrategy": "Focus on GPU computing needs for autonomous driving training, vehicle networking data processing, and factory edge AI applications"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Klaus Staubitzer",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Siemens%20AG%20procurement%20VP",
         "commStrategy": "Engage through automotive Tier 1 suppliers ecosystem or directly with IT department, as automotive industry is heavily investing in AI infrastructure"
@@ -823,7 +838,13 @@
       ],
       "volumeSource": "https://corporate.ovhcloud.com/en/newsroom/news/financial-results-fy25/",
       "industry": "NeoCloud/AI",
-      "archetype": "neocloud"
+      "archetype": "neocloud",
+      "procurementDecisionMaker": {
+        "name": "Gauthier Gamby",
+        "title": "Group Chief Procurement and Real Estate Officer, VP",
+        "linkedin": "https://www.linkedin.com/in/gauthiergamby",
+        "commStrategy": "強調TCO（總體擁有成本）的優勢，並突顯我們解決方案在供應鏈多元化和彈性付款方式方面的價值，以應對市場波動。"
+      }
     },
     {
       "rank": 13,
@@ -839,9 +860,24 @@
       "difficulty": 8,
       "challenges": "【NeoCloud】【Technical Barriers】Humain has very high requirements for technical specifications, security, and localized services, with established partnerships with top chip suppliers. ASUS needs to demonstrate leadership in high-performance AI servers, provide high customization capabilities, and effectively integrate with existing supplier ecosystems. 【Supply Chain Barriers】Humain is a national strategic project, procurement involves high political and strategic considerations. Long-term relationship building, technical validation, and high-level commitments are required. 【Business Challenges】As the core of Saudi Arabia's sovereign AI infrastructure, procurement involves multiple approval layers, with strict requirements on localization, compliance, and long-term commitments. 【Industry Characteristics】AI infrastructure in the Middle East is rapidly expanding, but geopolitical risks and export controls (e.g., US chip export restrictions) may impact supply chain stability.",
       "entryPoint": "【NeoCloud】【Short-term (6-12 months)】 Demonstrate ASUS AI servers' advantages in performance, scalability, energy efficiency, and cooling through technical exchanges and PoC, especially in integration with existing chip suppliers (NVIDIA, AMD, Qualcomm). Provide initial customized design solutions for data center expansion needs. 【Mid-term (1-2 years)】 Deepen collaboration with Humain's technical team to develop solutions aligned with sovereignty AI infrastructure strategies, explore ODM or deep customization OEM modes, and provide comprehensive after-sales support via local SI partners. 【Long-term (2-3 years)】 Establish long-term strategic partnerships, positioning ASUS as a core supplier for Humain's AI infrastructure, participating in Saudi Arabia's AI development strategies. 【Key Actions】 Prioritize relationship building through local SI partners like STC Solutions, actively participate in Saudi AI summits and exhibitions to enhance brand visibility.",
-      "keyPerson": "Dr. Khalid Alodhaibi, MBA, PhD (EVP Technology)",
-      "techDecisionMaker": "Dr. Khalid Alodhaibi, MBA, PhD | EVP Technology (former CTO) | https://www.linkedin.com/posts/humainai_techleadership-aiinfrastructure-arabicai-activity-7335900999716327424-EF5R | Emphasize ASUS's technological leadership in AI servers, focusing on large-scale AI training and inference workloads, seamless integration with mainstream AI chip platforms like NVIDIA, AMD, Qualcomm.",
-      "procurementDecisionMaker": "Dirk Karl | Chief Procurement Officer & SVP | https://www.linkedin.com/posts/dirkkarl_ainative-activity-7392206858603630592-3Z0H | Highlight ASUS's stability as a leading global server supplier, supply chain resilience, TCO, product reliability, after-sales service, and explore flexible ODM procurement modes for customization needs.",
+      "keyPerson": {
+        "name": "Tareq Amin",
+        "title": "CEO",
+        "linkedin": "https://sa.linkedin.com/in/tareq-amin",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "Ali Siddiqui",
+        "title": "CTO AI Infra & Cloud",
+        "linkedin": "https://sa.linkedin.com/in/alisiddiqui",
+        "commStrategy": "聚焦於我們伺服器方案的超高GPU密度與領先的散熱效率，這將如何直接提升其AI基礎設施的運算效能與能源效率。同時，強調我們與NVIDIA等領導廠商的深度合作關係，確保其能第一時間獲得最新的技術。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Dirk Karl",
+        "title": "Chief Procurement Officer",
+        "linkedin": "https://sa.linkedin.com/in/dirkkarl",
+        "commStrategy": "強調我們解決方案的總體擁有成本 (TCO) 優勢，以及我們如何透過多元化的供應鏈選項增強其供應鏈的韌性。同時，提出具彈性的付款方案，以符合其採購預算和流程。"
+      },
       "siDist": [
         {
           "name": "STC Solutions",
@@ -897,7 +933,7 @@
         "commStrategy": "Directly demonstrate GPU servers' (ESC N8-E11 / ESC N8-E12) cooling efficiency and deployment speed, offer free PoC testing units"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Maria I. Gomez Unamuno",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Northern%20Data%20Group%20procurement%20VP",
         "commStrategy": "Provide flexible payment terms (installments/leasing) and quick delivery commitments, as NeoCloud values time-to-deploy"
@@ -965,7 +1001,7 @@
         "commStrategy": "Focus on servers for 5G core networks, MEC (Multi-access Edge Computing), and NFV/SDN platforms"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Matthew Frost",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ericsson%20procurement%20VP",
         "commStrategy": "Engage through telecom SI (e.g., Nokia, Ericsson ecosystem partners) or directly participate in RFP processes"
@@ -1021,7 +1057,7 @@
         "commStrategy": "Emphasize server security certifications (FIPS 140-2/3, TPM 2.0), high-availability design, and the low-latency performance of AI/ML trading systems"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Katherine Gleeson",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Barclays%20procurement%20VP",
         "commStrategy": "Introduced through financial industry-specific SIs (such as Kyndryl, DXC Technology), the financial industry procurement process is rigorous and requires passing a vendor qualification program"
@@ -1077,7 +1113,7 @@
         "commStrategy": "Focus on the server needs of geological simulation HPC, oilfield edge computing, and carbon emission monitoring AI"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Khalid Al Hajri",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Aramco%20(Saudi%20Aramco)%20procurement%20VP",
         "commStrategy": "Through energy industry SIs (such as Halliburton, Schlumberger IT departments) or direct participation in RFPs"
@@ -1121,7 +1157,7 @@
         "commStrategy": "Demonstrate the performance advantages and energy efficiency ratio of ASUS servers in AI/HPC workloads through product technology briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "（推估）Albane Bruyas",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Scaleway%20(Iliad%20Group)%20procurement%20VP",
         "commStrategy": "Introduced through regional SI/DIST channels, providing competitive TCO analysis and trial solutions"
@@ -1177,7 +1213,7 @@
         "commStrategy": "Focus on the server needs of 5G core networks, MEC (Multi-access Edge Computing), and NFV/SDN platforms"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Marc Dolder",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Swisscom%20procurement%20VP",
         "commStrategy": "Through telecom industry SIs (such as Nokia, Ericsson ecosystem partners) or direct participation in the RFP process"
@@ -1227,7 +1263,7 @@
         "commStrategy": "Focus on the server needs of 5G core networks, MEC (Multi-access Edge Computing), and NFV/SDN platforms"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Kim Aaltonen",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Nokia%20procurement%20VP",
         "commStrategy": "Through telecom industry SIs (such as Nokia, Ericsson ecosystem partners) or direct participation in the RFP process"
@@ -1295,7 +1331,7 @@
         "commStrategy": "Focus on GPU computing needs for autonomous driving training, data processing for the Internet of Vehicles, and edge AI applications in factories"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Dr. Arne Flemming",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Bosch%20Group%20procurement%20VP",
         "commStrategy": "Through the Tier 1 supplier ecosystem in the automotive industry or by directly contacting the IT department, the automotive industry is investing heavily in AI infrastructure"
@@ -1363,7 +1399,7 @@
         "commStrategy": "Demonstrate the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Saeed AlZarooni",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Etisalat%20(e&)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial solutions"
@@ -1407,7 +1443,7 @@
         "commStrategy": "Focus on server requirements for 5G core networks, MEC (Multi-access Edge Computing), and NFV/SDN platforms"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Abdullah M. Alowini",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=stc%20(Saudi%20Telecom)%20procurement%20VP",
         "commStrategy": "Through telecom SIs (such as Nokia, Ericsson ecosystem partners) or by directly participating in the RFP process"
@@ -1469,7 +1505,7 @@
         "commStrategy": "Focus on GPU computing needs for autonomous driving training, data processing for the Internet of Vehicles, and edge AI applications in factories"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Karsten Schnake",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Volkswagen%20Group%20procurement%20VP",
         "commStrategy": "Through the Tier 1 supplier ecosystem in the automotive industry or by directly contacting the IT department, the automotive industry is investing heavily in AI infrastructure"
@@ -1513,7 +1549,7 @@
         "commStrategy": "Emphasize server security certifications (FIPS 140-2/3, TPM 2.0), high-availability design, and low-latency performance of AI/ML trading systems"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Sara Harding",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=ING%20Group%20procurement%20VP",
         "commStrategy": "Introduced through financial industry-specific SIs (such as Kyndryl, DXC Technology), the financial industry procurement process is rigorous and requires passing a vendor qualification program"
@@ -1534,9 +1570,24 @@
       "difficulty": 9,
       "challenges": "【neocloud】【Technical barriers】G42 has strong technical capabilities in AI and cloud computing, collaborating with leading companies like NVIDIA and Oracle, demanding high server performance, stability, and customization. ASUS needs to demonstrate its leading technology and customization capabilities in AI servers. 【Supply chain barriers】G42 has established partnerships with top suppliers; entering their supply chain requires overcoming existing supplier advantages and customer loyalty. 【Business challenges】G42 is a core executor of the UAE's national AI strategy, with procurement decisions involving high political considerations and strict compliance and long-term commitment requirements. 【Industry characteristics】Middle Eastern AI infrastructure is rapidly expanding, but geopolitical risks and US chip export controls may impact supply chain stability.",
       "entryPoint": "【neocloud】【Short-term (6-12 months)】Leverage ASUS's technical advantages in AI server field, especially products supporting the latest NVIDIA/AMD GPUs like the ESC series, proactively engage G42's technical team, and offer proof of concept (POC) with customized solutions. 【Mid-term (1-2 years)】Utilize ASUS's innovations in cooling technology (such as liquid cooling) and high-density servers to meet G42's large data center and AI cluster needs, providing more efficient and energy-saving solutions, aiming for ODM cooperation. 【Long-term (2-3 years)】Establish strategic partnership with G42 to co-develop next-generation AI and cloud infrastructure, expanding influence within G42's ecosystem through SI partners. 【Key actions】Prioritize building relationships via Alpha Data, Gulf Business Machines, and other local SI partners, and actively participate in Middle Eastern tech exhibitions like GITEX.",
-      "keyPerson": "Dr. Andrew Jackson (Group Chief AI Officer)",
-      "techDecisionMaker": "Dr. Andrew Jackson | Group Chief AI Officer | https://ae.linkedin.com/in/andrew-jackson-phd | Focus on ASUS's leading position in AI server technology, especially optimized designs for NVIDIA, AMD, and Cerebras chips, efficient cooling solutions (like liquid cooling), high-density configurations, and customization capabilities.",
-      "procurementDecisionMaker": "Ricky Thirion | Group Chief Financial Officer | https://ae.linkedin.com/in/rickythirion | Emphasize ASUS servers' cost-effectiveness, supply chain resilience, global support, and long-term partnership potential, offering flexible procurement plans and competitive pricing.",
+      "keyPerson": {
+        "name": "Mansoor Al Blooshi",
+        "title": "Former Group COO",
+        "linkedin": "https://www.linkedin.com/in/mansour-al-blooshi-234190a5",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "Kiril Evtimov",
+        "title": "Group Chief Technology Officer",
+        "linkedin": "https://www.linkedin.com/in/kevtimov",
+        "commStrategy": "聚焦於我們伺服器的高運算密度、領先的散熱效率與低延遲特性，展示其如何支持G42在AI與雲端計算領域的大規模運算需求，並確保系統的穩定性與可擴展性。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Dr. Asif Ashraf",
+        "title": "Group VP Supply Chain",
+        "linkedin": "https://ae.linkedin.com/in/dr-asif-ashraf-phd-m-s-mcips-58662417",
+        "commStrategy": "強調我們伺服器方案的總體擁有成本（TCO）優勢，以及我們如何透過多元化的供應鏈策略，確保供貨穩定與彈性，並可提供靈活的付款條件，協助貴公司優化資本支出。"
+      },
       "siDist": [
         {
           "name": "Alpha Data",
@@ -1565,9 +1616,24 @@
       "difficulty": 8,
       "challenges": "【neocloud】【Technical barriers】As a leading cloud service provider, Aruba S.p.A. demands high server performance, stability, scalability, and energy efficiency, supporting high-density deployment, AI workloads, and liquid cooling. 【Supply chain barriers】European cloud market is highly competitive; existing suppliers may have long-term relationships, making entry difficult. 【Business challenges】Aruba S.p.A. is committed to data center sustainability goals, aiming for carbon neutrality by 2030; procurement must consider energy efficiency, PUE, and renewable energy support. 【Industry characteristics】Italy and Southern Europe require localized services and language support, necessitating localized technical support systems.",
       "entryPoint": "【neocloud】【Short-term (6-12 months)】Address Aruba S.p.A.'s needs for high-density computing, AI workloads, and liquid cooling by arranging technical exchanges showcasing ASUS's latest servers (RS720-E12, ESC8000A-E12), emphasizing performance, energy efficiency, cooling, and management advantages, and offering small-scale POC testing. 【Mid-term (1-2 years)】Post-POC success, seek deeper strategic partnership, participate in data center expansion projects, provide comprehensive solutions, and highlight ASUS's contributions to sustainability. 【Long-term (2-3 years)】Through continuous innovation and quality services, aim to become one of Aruba S.p.A.'s main server suppliers or ODM partners, leveraging its influence in the European cloud market to expand jointly. 【Key actions】Prioritize establishing relationships via Arrow Electronics and Ingram Micro Italy, and participate in Italian ICT exhibitions to increase brand visibility.",
-      "keyPerson": "Lorenzo Giuntini (CTO)",
-      "techDecisionMaker": "Lorenzo Giuntini | CTO | https://it.linkedin.com/in/lorenzo-giuntini-30940a5 | In-depth discussion on ASUS servers' performance, energy efficiency, cooling (especially liquid cooling), virtualization support, AI acceleration, and management tools, providing detailed white papers, test reports, and case studies.",
-      "procurementDecisionMaker": "Giada Sanguigni | Procurement & Grants Specialist | N/A | Emphasize ASUS servers' cost-effectiveness, supply chain stability, and customization advantages, offering competitive pricing and flexible procurement plans, with successful deployment cases in large data centers.",
+      "keyPerson": {
+        "name": "Stefano Cecconi",
+        "title": "Chief Executive Officer",
+        "linkedin": "N/A",
+        "source": "https://www.bloomberg.com/profile/person/20941204"
+      },
+      "techDecisionMaker": {
+        "name": "Lorenzo Giuntini",
+        "title": "CTO",
+        "linkedin": "N/A",
+        "commStrategy": "聚焦GPU密度與散熱效率，展示我們高效率的伺服器解決方案如何協助Aruba S.p.A.在現有空間中擴充基礎設施，同時降低營運成本。"
+      },
+      "procurementDecisionMaker": {
+        "name": "（推估）Matteo Cavagna",
+        "title": "Responsabile acquisti magazzino",
+        "linkedin": "https://it.linkedin.com/in/matteo-cavagna-a7437a277",
+        "commStrategy": "強調TCO優勢與供應鏈多元化價值，並提供彈性的付款方案。"
+      },
       "siDist": [
         {
           "name": "Arrow Electronics",
@@ -1665,7 +1731,7 @@
         "commStrategy": "Demonstrate ASUS server performance and energy efficiency advantages for AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Caroline Feldman",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mistral%20AI%20procurement%20VP",
         "commStrategy": "Recommend through regional SI/DIST channels, providing competitive TCO analysis and trial plans"
@@ -1853,7 +1919,7 @@
         "commStrategy": "Emphasize server security certifications (FIPS 140-2/3, TPM 2.0), high availability design, and low latency performance for AI/ML transaction systems"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Ashe Patankar",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Booking%20Holdings%20(Booking.com)%20procurement%20VP",
         "commStrategy": "Recommend through financial-specific SI (e.g., Kyndryl, DXC Technology), as procurement processes are rigorous and require vendor qualification programs"
@@ -1915,7 +1981,7 @@
         "commStrategy": "Demonstrate ASUS servers' performance and energy efficiency advantages for AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Ibrahim Aljassim",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Aramco%20Digital%20procurement%20VP",
         "commStrategy": "Recommend through regional SI/DIST channels, providing competitive TCO analysis and trial plans"
@@ -1959,7 +2025,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS server在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Mario Goethals",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Atos%20SE%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST Channel引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -1980,9 +2046,24 @@
       "difficulty": 8,
       "challenges": "[neocloud][Technical Barriers]GoDaddy作為大型Cloud services提供商，對server穩定性, 性能, 擴展性及客製化能力要求極高。Its existing infrastructure is deeply integrated with Supermicro. ASUS needs to prove that its products have competitive advantages in these aspects and can be seamlessly integrated into GoDaddy's ecosystem.[Supply Chain Barriers]GoDaddyhas a long-term cooperative relationship with Supermicro, and the supply chain inertia is strong. To replace or become one of the main suppliers, it is necessary to overcome the barriers of the existing cooperative relationship.[Business Challenges]作為大型服務商，GoDaddy對採購成本極為敏感，ASUS需提供具競爭力的價格和TCO方案。[Industry Characteristics]GoDaddy's EMEA business involves multiple countries and requires suppliers to provide multilingual support and localized service capabilities.",
       "entryPoint": "[neocloud][Short-term (6-12 months)]TargetingGoDaddy的AI/ML applications需求，推廣ASUS的GPUserver解決方案（如ESC系列），強調其在AI運算性能, 散熱設計和管理上的優勢，並提供POC測試，展示ASUSserver在特定AI工作負載下的卓越表現。ContactGoDaddy EMEA's technical and procurement teams through the existing SI/DIST partner network to establish initial contact.[Mid-term (1-2 years)]基於POC成果，爭取小規模導入ASUSGeneral-purpose型server（如RS系列）於非核心業務或新興專案中，逐步建立信任，並參與GoDaddy's supplier selection process, providing competitive quotations and flexible supply chain solutions.[Long-term (2-3 years)]BecomeGoDaddy多供應商策略中的重要一員，擴大ASUSserver在GoDaddy核心業務中的佔比，並建立長期戰略合作夥伴關係，共同開發TargetingGoDaddy需求的server產品，實現ODM級別的合作。[Key Actions]Prioritize establishing contact with GoDaddy EMEA procurement team through Arrow Electronics and Ingram Micro.",
-      "keyPerson": "Charles Beadnall (CTO)",
-      "techDecisionMaker": "Charles Beadnall | Chief Technology Officer (CTO) | https://www.linkedin.com/in/beadnall | 強調ASUSserver在性能, 可靠性, 擴展性, 能源效率和對新技術（如AI/ML, 最新CPU/GPU）的支援，提供技術白皮書, 測試報告和解決方案architecture圖。",
-      "procurementDecisionMaker": "Richard Stevens | Senior Director Of Procurement, Head of Procurement Operations | https://www.linkedin.com/posts/mrrickstevens_procurement-godaddy-supplychain-activity-7439064135708868608-ADEe | Emphasize ASUS's brand strength as a leading global hardware supplier, stable supply chain, competitive TCO, and flexible customization capabilities, provide success stories and customer testimonials, and approach from the perspectives of supply chain efficiency, cost optimization, and risk management.",
+      "keyPerson": {
+        "name": "Charles Beadnall",
+        "title": "Chief Technology Officer",
+        "linkedin": "https://www.linkedin.com/in/beadnall",
+        "source": "https://aboutus.godaddy.net/about-us/team/default.aspx"
+      },
+      "techDecisionMaker": {
+        "name": "Charles Beadnall",
+        "title": "Chief Technology Officer",
+        "linkedin": "https://www.linkedin.com/in/beadnall",
+        "commStrategy": "聚焦於我們伺服器解決方案的 GPU 密度、散熱效率和能源效率，展示我們如何協助 GoDaddy 在滿足 AI 運算需求的同時，達成其永續發展目標。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Richard Stevens",
+        "title": "Senior Director of Procurement",
+        "linkedin": "https://www.linkedin.com/in/mrrickstevens",
+        "commStrategy": "強調我們解決方案的總體擁有成本 (TCO) 優勢，以及我們如何透過多元化的供應鏈選擇，為 GoDaddy 提升供應鏈的韌性與彈性，並提供靈活的付款方案。"
+      },
       "siDist": [
         {
           "name": "Arrow Electronics",
@@ -2044,7 +2125,7 @@
         "commStrategy": "強調 HIPAA 合規server方案, AI 醫療影像分析的 GPU 運算能力, 以及高可靠性設計"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Alison Jones",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Philips%20procurement%20VP",
         "commStrategy": "Enter through healthcare SIs (such as Epic Systems partners, Cerner ecosystem), as the healthcare procurement values long-term service contracts"
@@ -2094,7 +2175,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS server在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Sridhar Rao",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Worldline%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST Channel引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -2150,7 +2231,7 @@
         "commStrategy": "Focus on the GPU computing needs of autonomous driving training, IoV data processing, and factory edge AI applications"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Dr. Nicolai Martin",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=BMW%20Group%20procurement%20VP",
         "commStrategy": "Enter through the automotive Tier 1 supplier ecosystem or directly contact the IT department, as the automotive industry is investing heavily in AI infrastructure"
@@ -2206,7 +2287,7 @@
         "commStrategy": "Focus on server requirements for 5G core networks, MEC (Multi-access Edge Computing), and NFV/SDN platforms"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "（推估）Mikael Naurin",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Telia%20Company%20procurement%20VP",
         "commStrategy": "Through telecom SIs (such as Nokia, Ericsson ecosystem partners) or direct participation in the RFP process"
@@ -2250,7 +2331,7 @@
         "commStrategy": "Demonstrate the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Andrew Savage",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=MTN%20Group%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs"
@@ -2312,7 +2393,7 @@
         "commStrategy": "Focus on server requirements for geological simulation HPC, oilfield edge computing, and carbon emission monitoring AI"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Stephane Cambier",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=TotalEnergies%20procurement%20VP",
         "commStrategy": "Through energy industry SIs (such as Halliburton, Schlumberger IT departments) or direct participation in RFPs"
@@ -2374,7 +2455,7 @@
         "commStrategy": "Focus on server requirements for geological simulation HPC, oilfield edge computing, and carbon emission monitoring AI"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Marcin Mazur",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Shell%20plc%20procurement%20VP",
         "commStrategy": "Through energy industry SIs (such as Halliburton, Schlumberger IT departments) or direct participation in RFPs"
@@ -2430,7 +2511,7 @@
         "commStrategy": "Demonstrate the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "（推估）Patrik Heider",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=IONOS%20(United%20Internet)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs"
@@ -2480,7 +2561,7 @@
         "commStrategy": "Emphasize server security certifications (FIPS 140-2/3, TPM 2.0), high-availability design, and low-latency performance for AI/ML trading systems."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Enguerrand de Pontevès",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=BNP%20Paribas%20procurement%20VP",
         "commStrategy": "Introduction through financial industry-specific SIs (such as Kyndryl, DXC Technology). The financial industry's procurement process is rigorous and requires passing a vendor qualification program."
@@ -2536,7 +2617,7 @@
         "commStrategy": "Focus on server requirements for 5G core networks, MEC (Multi-access Edge Computing), and NFV/SDN platforms."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Morten Dean Dunham",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Telenor%20Group%20procurement%20VP",
         "commStrategy": "Approach through telecom industry SIs (such as Nokia, Ericsson ecosystem partners) or participate directly in the RFP process."
@@ -2592,7 +2673,7 @@
         "commStrategy": "Focus on GPU computing needs for autonomous driving training, connected car data processing, and factory edge AI applications."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Jacob Busk Nielsen",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Nestlé%20procurement%20VP",
         "commStrategy": "Approach through the automotive Tier 1 supplier ecosystem or by directly contacting the IT department. The automotive industry is investing heavily in AI infrastructure."
@@ -2636,7 +2717,7 @@
         "commStrategy": "Emphasize HIPAA-compliant server solutions, GPU computing power for AI medical image analysis, and high-reliability design."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Marielle Beyer",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Roche%20Holding%20procurement%20VP",
         "commStrategy": "Approach through healthcare industry SIs (such as Epic Systems partners, Cerner ecosystem). The healthcare industry values long-term service contracts in procurement."
@@ -2680,7 +2761,7 @@
         "commStrategy": "Focus on server requirements for geological simulation HPC, oilfield edge computing, and carbon emission monitoring AI."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Louise Jacobsen Plutt",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=BP%20plc%20procurement%20VP",
         "commStrategy": "Approach through energy industry SIs (such as Halliburton, Schlumberger IT departments) or participate directly in RFPs."
@@ -2736,7 +2817,7 @@
         "commStrategy": "Focus on GPU computing needs for autonomous driving training, data processing for the Internet of Vehicles, and edge AI applications in factories"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Andreas Burkhart",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Daimler%20Truck%20/%20Mercedes-Benz%20procurement%20VP",
         "commStrategy": "Through the automotive Tier 1 supplier ecosystem or direct contact with the IT department, the automotive industry is investing heavily in AI infrastructure"
@@ -2810,7 +2891,7 @@
         "commStrategy": "Demonstrate the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Jesus Iriarte Garcia",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Amadeus%20IT%20Group%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs"
@@ -2854,7 +2935,7 @@
         "commStrategy": "Highlight the rugged design capabilities of ASUS servers, TAA compliance, and NVIDIA AI Enterprise certification"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Benoît Schultz",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Airbus%20procurement%20VP",
         "commStrategy": "Must enter through authorized channels in the defense industry (such as Carahsoft, CDWG, Presidio Federal), and TAA compliance certification is required"
@@ -2904,7 +2985,7 @@
         "commStrategy": "Focus on GPU computing needs for autonomous driving training, data processing for the Internet of Vehicles, and edge AI applications in factories"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Monica Genovese",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Stellantis%20(Fiat/PSA)%20procurement%20VP",
         "commStrategy": "Through the automotive Tier 1 supplier ecosystem or direct contact with the IT department, the automotive industry is investing heavily in AI infrastructure"
@@ -2978,7 +3059,7 @@
         "commStrategy": "Demonstrate the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Emmanuel Erba",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Capgemini%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs"
@@ -3022,7 +3103,7 @@
         "commStrategy": "Focus on server requirements for 5G core networks, MEC (Multi-access Edge Computing), and NFV/SDN platforms."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Nazzaro Paolo",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Telecom%20Italia%20(TIM)%20procurement%20VP",
         "commStrategy": "Through telecom industry SIs (such as partners in the Nokia, Ericsson ecosystem) or by direct participation in the RFP process."
@@ -3072,7 +3153,7 @@
         "commStrategy": "Emphasize server security certifications (FIPS 140-2/3, TPM 2.0), high-availability design, and the low-latency performance of AI/ML trading systems."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Paul Williams",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Deutsche%20Bank%20procurement%20VP",
         "commStrategy": "Introduced through financial industry-specific SIs (such as Kyndryl, DXC Technology), the financial industry procurement process is rigorous and requires passing a vendor qualification program."
@@ -3116,7 +3197,7 @@
         "commStrategy": "Emphasize server security certifications (FIPS 140-2/3, TPM 2.0), high-availability design, and the low-latency performance of AI/ML trading systems."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Simon Hannigan",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=UBS%20Group%20procurement%20VP",
         "commStrategy": "Introduced through financial industry-specific SIs (such as Kyndryl, DXC Technology), the financial industry procurement process is rigorous and requires passing a vendor qualification program."
@@ -3160,7 +3241,7 @@
         "commStrategy": "Emphasize server security certifications (FIPS 140-2/3, TPM 2.0), high-availability design, and the low-latency performance of AI/ML trading systems."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "George Booth",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Lloyds%20Banking%20Group%20procurement%20VP",
         "commStrategy": "Introduced through financial industry-specific SIs (such as Kyndryl, DXC Technology), the financial industry procurement process is rigorous and requires passing a vendor qualification program."
@@ -3204,7 +3285,7 @@
         "commStrategy": "Demonstrate the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Pierre Menges",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=NEOM%20(沙烏地新城)%20procurement%20VP",
         "commStrategy": "Introduced through regional SI/DIST channels, providing competitive TCO analysis and trial programs."
@@ -3248,7 +3329,7 @@
         "commStrategy": "Emphasize HIPAA-compliant server solutions, GPU computing power for AI medical image analysis, and high-reliability design"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Paula Davila Martinez",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Novartis%20procurement%20VP",
         "commStrategy": "Enter through healthcare industry SIs (such as Epic Systems partners, Cerner ecosystem), as healthcare procurement values long-term service contracts"
@@ -3292,7 +3373,7 @@
         "commStrategy": "Emphasize server security certifications (FIPS 140-2/3, TPM 2.0), high-availability design, and low-latency performance for AI/ML trading systems"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Charles Letizia",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Société%20Générale%20procurement%20VP",
         "commStrategy": "Introduction through financial industry-specific SIs (such as Kyndryl, DXC Technology), the financial industry procurement process is rigorous and requires passing a vendor qualification program"
@@ -3336,7 +3417,7 @@
         "commStrategy": "Demonstrate the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "（推估）Benjamin Oppl",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Aleph%20Alpha%20procurement%20VP",
         "commStrategy": "Introduction through regional SI/DIST channels, providing competitive TCO analysis and trial programs"
@@ -3380,7 +3461,7 @@
         "commStrategy": "Demonstrate the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Maryanne K Karanja",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Safaricom%20(Vodacom)%20procurement%20VP",
         "commStrategy": "Introduction through regional SI/DIST channels, providing competitive TCO analysis and trial programs"
@@ -3484,7 +3565,7 @@
         "commStrategy": "Focus on server requirements for 5G core networks, MEC (Multi-access Edge Computing), and NFV/SDN platforms"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Bart Smedts",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Proximus%20procurement%20VP",
         "commStrategy": "Through telecom industry SIs (such as Nokia, Ericsson ecosystem partners) or direct participation in the RFP process"
@@ -3558,7 +3639,7 @@
         "commStrategy": "Focus on server requirements for 5G core networks, MEC (Multi-access Edge Computing), and NFV/SDN platforms."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Jeroen Wegkamp",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=KPN%20procurement%20VP",
         "commStrategy": "Through telecom industry SIs (such as Nokia, Ericsson ecosystem partners) or by participating directly in the RFP process."
@@ -3620,7 +3701,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Shailendra Sadera",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Unilever%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs."
@@ -3844,7 +3925,7 @@
         "commStrategy": "Emphasize server security certifications (FIPS 140-2/3, TPM 2.0), high-availability design, and low-latency performance of AI/ML trading systems."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Sejla Murguzovic",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Adyen%20procurement%20VP",
         "commStrategy": "Introduction through financial industry-specific SIs (such as Kyndryl, DXC Technology). The financial industry procurement process is rigorous and requires passing a vendor qualification program."
@@ -3900,7 +3981,7 @@
         "commStrategy": "Focus on server requirements for AI recommendation systems, supply chain optimization, and edge AI in stores."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Alejandro Basterrechea",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Zalando%20procurement%20VP",
         "commStrategy": "Through retail SIs or by directly contacting the IT department. The retail industry is extremely sensitive to TCO."
@@ -3962,7 +4043,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Wayne Allan",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=ASML%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs."
@@ -4006,7 +4087,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "（推估）Bülent Onat",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Turkcell%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs."
@@ -4056,7 +4137,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Michael D. Lovati",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Volvo%20Group%20(AB%20Volvo)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs."
@@ -4106,7 +4187,7 @@
         "commStrategy": "Emphasize ASUS server's rugged design capabilities, TAA compliance, and NVIDIA AI Enterprise certification."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Roque Carmona",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Thales%20Group%20procurement%20VP",
         "commStrategy": "Must enter through authorized defense industry channels (such as Carahsoft, CDWG, Presidio Federal), and TAA compliance certification is required."
@@ -4150,7 +4231,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Ard Verboon",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Schneider%20Electric%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs."
@@ -4194,7 +4275,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Rob Waterlander",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Naspers%20/%20Prosus%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs."
@@ -4286,7 +4367,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Cyril Frances",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Criteo%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs"
@@ -4330,7 +4411,7 @@
         "commStrategy": "Emphasize the rugged design capabilities of ASUS servers, TAA compliance, and NVIDIA AI Enterprise certification"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Giacinto Carullo",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Leonardo%20S.p.A.%20procurement%20VP",
         "commStrategy": "Must enter through authorized channels in the defense industry (such as Carahsoft, CDWG, Presidio Federal), and TAA compliance certification is required"
@@ -4374,7 +4455,7 @@
         "commStrategy": "Emphasize the rugged design capabilities of ASUS servers, TAA compliance, and NVIDIA AI Enterprise certification"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Brad Pelachyk",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=BAE%20Systems%20procurement%20VP",
         "commStrategy": "Must enter through authorized channels in the defense industry (such as Carahsoft, CDWG, Presidio Federal), and TAA compliance certification is required"
@@ -4526,7 +4607,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Dirk Pott",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Continental%20AG%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs"
@@ -4570,7 +4651,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Olivier Gauwin",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dassault%20Systèmes%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs"
@@ -4620,7 +4701,7 @@
         "commStrategy": "Showcase ASUS servers' performance advantages and energy efficiency in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Saim Yaksan",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ooredoo%20Group%20procurement%20VP",
         "commStrategy": "Recommend through regional SI/DIST channels, provide competitive TCO analysis and trial plans"
@@ -4670,7 +4751,7 @@
         "commStrategy": "Emphasize server security certifications (FIPS 140-2/3, TPM 2.0), high availability design, and low latency performance for AI/ML trading systems"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Valentina Fanni",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Allianz%20SE%20procurement%20VP",
         "commStrategy": "Recommend through financial industry SI (e.g., Kyndryl, DXC Technology), as procurement processes are rigorous and require vendor qualification programs"
@@ -4714,7 +4795,7 @@
         "commStrategy": "Focus on servers' needs for 5G core networks, MEC (Multi-access Edge Computing), and NFV/SDN platforms"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Andrew Cannon-Brookes",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Standard%20Chartered%20procurement%20VP",
         "commStrategy": "Recommend through telecom industry SI (e.g., Nokia, Ericsson ecosystem partners) or directly participate in RFP processes"
@@ -4758,7 +4839,7 @@
         "commStrategy": "Focus on geological simulation HPC, oilfield edge computing, and carbon emission monitoring AI server demands"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Enrico Zampone",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Enel%20Group%20procurement%20VP",
         "commStrategy": "Recommend through energy industry SI (e.g., Halliburton, Schlumberger IT) or directly participate in RFP"
@@ -4779,9 +4860,24 @@
       "difficulty": 8,
       "challenges": "【Neocloud】【Technical Barriers】 Gcore, as a global cloud and edge computing service provider, has extremely high requirements for server performance, stability, scalability, and energy efficiency, especially in AI training and inference, requiring top GPU support, and infrastructure worldwide, demanding global supply and service capabilities. 【Supply Chain Barriers】 Gcore currently uses brands like Dell, Supermicro, with risks and costs associated with switching or introducing new suppliers. 【Business Challenges】 Cloud service market is highly competitive, Gcore is very sensitive to procurement costs and TCO, ASUS needs to offer competitive pricing. 【Industry Characteristics】 European regulations (GDPR, etc.) based in Luxembourg impose strict data security and privacy requirements on suppliers.",
       "entryPoint": "【Neocloud】【Short-term (6-12 months)】 Proactively offer ASUS servers with NVIDIA H100/A100 GPUs supporting Gcore's AI cloud service needs, emphasizing performance and energy efficiency in AI training and inference, and leverage Gcore's expanding AI cloud infrastructure projects to provide POC testing opportunities. 【Mid-term (1-2 years)】 Build long-term cooperation, understand Gcore's cloud infrastructure development plans, provide customized server solutions, and offer rapid technical support and maintenance through ASUS's global service network. 【Long-term (2-3 years)】 Become Gcore's strategic partner in AI, cloud, and edge computing, jointly explore new technologies and markets, providing a comprehensive ASUS server product line covering data centers, cloud nodes, and edge sites. 【Key Action】 Establish initial contact through Arrow Electronics and Ingram Micro in Luxembourg/Europe.",
-      "keyPerson": "Dmitriy Gusakovskiy (Director of Infrastructure)",
-      "techDecisionMaker": "Dmitriy Gusakovskiy | Director of Infrastructure | https://lu.linkedin.com/in/dmitriy-gusakovskiy-a2a172106 | Focus on ASUS servers' leading technology in AI, cloud, and edge computing, especially optimized for NVIDIA H100/A100 GPUs, and support for latest Intel Xeon and AMD EPYC processors.",
-      "procurementDecisionMaker": "N/A | N/A | N/A | Emphasize ASUS servers' TCO advantages, including competitive procurement prices, excellent energy efficiency (reducing operational costs), reliable after-sales service (reducing maintenance costs), and flexible procurement and supply chain management.",
+      "keyPerson": {
+        "name": "(推估) 待確認",
+        "title": "CIO",
+        "linkedin": "",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "Dmitriy Gusakovskiy",
+        "title": "Director of Infrastructure",
+        "linkedin": "https://lu.linkedin.com/in/dmitriysg",
+        "commStrategy": "聚焦GPU密度、散熱效率與低延遲網路，展示我們如何透過高效能基礎設施，支援其AI與邊緣運算業務的擴展。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Gediminas Venckus",
+        "title": "Head of Procurement",
+        "linkedin": "https://lt.linkedin.com/in/gediminas-venckus-mba-b91a04",
+        "commStrategy": "強調TCO優勢、供應鏈多元化以降低風險，並提供彈性的付款方案以符合其採購流程。"
+      },
       "siDist": [
         {
           "name": "Arrow Electronics",
@@ -4814,9 +4910,24 @@
       "difficulty": 8,
       "challenges": "【neocloud】【Technical Threshold】As an AI Factory, Beyond.pl has extremely high requirements for server performance, cooling, scalability, and integration with the NVIDIA ecosystem. ASUS needs to prove the competitiveness of its products in these areas and provide customized solutions. 【Supply Chain Barriers】The data center market is fiercely competitive. Beyond.pl has already established partnerships with NVIDIA, HPE, etc. ASUS needs to provide a unique value proposition to break in. 【Business Challenges】Tends to be primarily OEM, which may involve ODM customization, requiring ASUS to have a flexible supply chain and R&D capabilities. 【Industry Characteristics】The Polish market has high requirements for localized services and language support, and must comply with EU data sovereignty and GDPR regulations.",
       "entryPoint": "【neocloud】【Short-term (6-12 months)】Targeting Beyond.pl's AI Factory needs, proactively contact technical decision-maker Wojciech Darłowski to showcase ASUS's technical strength and success stories in GPU servers (such as the ESC series) and high-density computing. Seek referral opportunities through potential SI/DIST partners like TD SYNNEX Poland to jointly provide integrated solutions. Offer a small-scale ASUS server POC program for Beyond.pl's specific AI or HPC workloads. 【Mid-term (1-2 years)】Based on POC results and Beyond.pl's specific needs, provide deeper server customization services, including hardware configuration, cooling solutions, software integration, etc., and closely monitor its data center campus expansion plans to compete for server procurement bids. 【Long-term (2-3 years)】Become a long-term strategic supplier for Beyond.pl in the AI and HPC fields, jointly exploring new technologies and solutions. 【Key Actions】Prioritize building a relationship through TD SYNNEX Poland and actively participate in Polish IT exhibitions.",
-      "keyPerson": "Wojciech Darłowski (Management Board Member, Cloud and Managed Services)",
-      "techDecisionMaker": "Wojciech Darłowski | Management Board Member, Cloud and Managed Services | https://pl.linkedin.com/in/wojciech-darlowski | Emphasize the performance, scalability, cooling technology, and compatibility with the NVIDIA ecosystem of ASUS GPU servers (ESC series), highlighting that ASUS can provide flexible hardware configurations and software integration services based on Beyond.pl's specific needs.",
-      "procurementDecisionMaker": "N/A | N/A | N/A | Emphasize the comprehensive advantages of ASUS servers in performance, reliability, energy efficiency, and after-sales service to help Beyond.pl reduce long-term operating costs, and provide flexible supply chain management and customized production capabilities for its OEM-based procurement model.",
+      "keyPerson": {
+        "name": "Wojciech Stramski",
+        "title": "Chief Executive Officer",
+        "linkedin": "https://pl.linkedin.com/in/wojciechstramski",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "Piotr Kowalski",
+        "title": "Head of Innovation",
+        "linkedin": "https://pl.linkedin.com/in/piotr-kowalski-b4701913",
+        "commStrategy": "聚焦於我們伺服器的高 GPU 密度與卓越的散熱效率，這將如何支持 Beyond.pl 在 AI 和雲端服務領域的創新，並提升其數據中心的效能與永續性。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Wojciech Darłowski",
+        "title": "Member of the Board, Cloud and Managed Services",
+        "linkedin": "https://pl.linkedin.com/in/wojciech-darlowski",
+        "commStrategy": "強調我們解決方案的總體擁有成本 (TCO) 優勢，以及我們如何透過多元化的供應鏈和彈性的付款方式，協助 Beyond.pl 降低風險並優化營運。"
+      },
       "siDist": [
         {
           "name": "TD SYNNEX Poland",
@@ -4841,9 +4952,24 @@
       "difficulty": 8,
       "challenges": "【enterprise_general】【Technical Threshold】As a large IT infrastructure service provider, ATEA has a broad customer base with extremely high requirements for server product stability, reliability, scalability, and security. Since its existing suppliers are mostly top-tier brands like Dell and HPE, ASUS needs to prove that its products can compete with or even surpass them in performance, quality, and service. 【Supply Chain Barriers】ATEA has clear needs for the latest processor technologies like Intel Xeon 6 and AMD EPYC, as well as DDR5, PCIe 5.0/CXL 2.0, DPU, and liquid cooling. ASUS needs to ensure its product line can fully cover these advanced technologies. 【Business Challenges】ATEA may have demand for customized solutions, requiring ASUS to demonstrate its ODM capabilities and flexibility, and to be compatible with ATEA's existing multi-brand ecosystem. 【Industry Characteristics】The Nordic market has strict requirements for sustainable development, energy efficiency, and carbon emissions. ASUS needs to provide solutions that meet Nordic environmental standards.",
       "entryPoint": "【enterprise_general】【Short-term (6-12 months)】Through referrals from existing partners (like Intel, AMD), establish contact with ATEA's technical team to showcase ASUS's technical strength in AI/ML, HPC, and data center solutions. Provide ASUS ESC8000 series or RS series server test units for ATEA's specific needs, along with detailed performance test reports and technical support. 【Mid-term (1-2 years)】Establish a long-term cooperative relationship, become one of ATEA's qualified suppliers, gradually increase the supply share, and provide ODM services for ATEA's customized needs to jointly develop server products that meet their customers' requirements. 【Long-term (2-3 years)】Become ATEA's preferred server supplier in specific fields (such as AI, HPC), and jointly explore emerging technologies and market opportunities with ATEA for a win-win situation. 【Key Actions】Prioritize building relationships through Arrow Electronics and ALSO Group channels in the Nordics, and actively participate in Nordic IT exhibitions.",
-      "keyPerson": "Kenneth Larsen (Senior VP & AMS CTO)",
-      "techDecisionMaker": "Kenneth Larsen | Senior Vice President & AMS CTO | https://dk.linkedin.com/in/kennethgl | Showcase to the technical decision-maker ASUS's leading technology in AI/ML, HPC, and data center solutions, especially the support for the latest Intel Xeon 6 and AMD EPYC processors, and the integration capabilities of DDR5, PCIe 5.0/CXL 2.0, DPU, and liquid cooling.",
-      "procurementDecisionMaker": "Jo Haugen | Director Procurement | https://no.linkedin.com/in/jo-haugen-118674462 | Emphasize to the procurement decision-maker the advantages of ASUS servers in TCO, energy efficiency, and long-term stability, provide flexible procurement solutions and supply chain assurance, and showcase ASUS's strength and credibility as a leading global hardware supplier.",
+      "keyPerson": {
+        "name": "Steinar Sønsteby",
+        "title": "CEO",
+        "linkedin": "https://no.linkedin.com/in/steinarsonsteby",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "Kenneth Larsen",
+        "title": "Senior Vice President & AMS CTO",
+        "linkedin": "https://dk.linkedin.com/in/kennethgl",
+        "commStrategy": "N/A"
+      },
+      "procurementDecisionMaker": {
+        "name": "（推估）Carl-Johan Hultenheim",
+        "title": "Chief Operating Officer",
+        "linkedin": "https://se.linkedin.com/in/chultenheim",
+        "commStrategy": "強調總體擁有成本（TCO）的優勢，並突顯我們如何透過多元化的供應鏈選擇和彈性的付款方案，來增強貴公司採購的韌性與效率。"
+      },
       "siDist": [
         {
           "name": "Arrow Electronics",
@@ -4899,7 +5025,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Sara Cattaneo",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=ABB%20Ltd%20procurement%20VP",
         "commStrategy": "Provide competitive TCO analysis and trial programs through recommendations from regional SI/DIST channels."
@@ -4979,7 +5105,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Angelique van der Burg",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Infineon%20Technologies%20procurement%20VP",
         "commStrategy": "Provide competitive TCO analysis and trial programs through recommendations from regional SI/DIST channels."
@@ -5023,7 +5149,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "（推估）Leonardo Zammarano",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Eni%20SpA%20procurement%20VP",
         "commStrategy": "Provide competitive TCO analysis and trial programs through recommendations from regional SI/DIST channels."
@@ -5097,7 +5223,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Antoine Vincent",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sopra%20Steria%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs"
@@ -5141,7 +5267,7 @@
         "commStrategy": "Focus on server requirements for geological simulation HPC, oilfield edge computing, and carbon emission monitoring AI"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Jannicke Nilsson",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Equinor%20(原%20Statoil)%20procurement%20VP",
         "commStrategy": "Through energy industry SIs (such as Halliburton, Schlumberger IT departments) or direct participation in RFPs"
@@ -5185,7 +5311,7 @@
         "commStrategy": "Focus on server requirements for AI recommendation systems, supply chain optimization, and in-store edge AI"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "(推估) Marian Stewowitsch",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Delivery%20Hero%20procurement%20VP",
         "commStrategy": "Contact IT departments through retail SIs or directly, as the retail industry is extremely sensitive to TCO"
@@ -5229,7 +5355,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Senjaya Hidayat",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Bolt%20Technology%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs"
@@ -5273,7 +5399,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Ehab Khairat",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Liquid%20Intelligent%20Technologies%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs"
@@ -5383,7 +5509,7 @@
         "commStrategy": "Demonstrate the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Andy Micallef",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=NXP%20Semiconductors%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs"
@@ -5427,7 +5553,7 @@
         "commStrategy": "Demonstrate the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Karl Walton",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Wise%20(TransferWise)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs"
@@ -5477,7 +5603,7 @@
         "commStrategy": "Emphasize the server's security certifications (FIPS 140-2/3, TPM 2.0), high-availability design, and low-latency performance of the AI/ML trading system"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Heather Ostis",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Rolls-Royce%20Holdings%20procurement%20VP",
         "commStrategy": "Introduce through financial industry-specific SIs (such as Kyndryl, DXC Technology). The financial industry procurement process is rigorous and requires passing a vendor qualification program"
@@ -5557,7 +5683,7 @@
         "commStrategy": "Emphasize the server's security certifications (FIPS 140-2/3, TPM 2.0), high-availability design, and low-latency performance of the AI/ML trading system"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Krisztina Palfi",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Klarna%20procurement%20VP",
         "commStrategy": "Introduce through financial industry-specific SIs (such as Kyndryl, DXC Technology). The financial industry procurement process is rigorous and requires passing a vendor qualification program"
@@ -5601,7 +5727,7 @@
         "commStrategy": "Demonstrate the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Jean Rouquet",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Adevinta%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs"
@@ -5645,7 +5771,7 @@
         "commStrategy": "Focus on server requirements for AI recommendation systems, supply chain optimization, and edge AI in stores"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Ion Ortiz San José",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Glovo%20(Delivery%20Hero%20子公司)%20procurement%20VP",
         "commStrategy": "Contact the IT department through retail SI or directly, as the retail industry is extremely sensitive to TCO"
@@ -5689,7 +5815,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Amine Saidi",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Faurecia%20(FORVIA)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial solutions"
@@ -5733,7 +5859,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Ahmet Güleç",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Getir%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial solutions"
@@ -5777,7 +5903,7 @@
         "commStrategy": "Emphasize server security certifications (FIPS 140-2/3, TPM 2.0), high-availability design, and low-latency performance of AI/ML trading systems"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Lauren Richards",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Revolut%20procurement%20VP",
         "commStrategy": "Introduce through financial industry-specific SIs (such as Kyndryl, DXC Technology), as the financial industry procurement process is rigorous and requires passing a vendor qualification program"
@@ -5821,7 +5947,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Frederic Hamelin",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ubisoft%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial solutions"
@@ -5865,7 +5991,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Marjolaine Grange",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Safran%20Group%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs."
@@ -5909,7 +6035,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Rami Al Bishawi",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Zain%20Group%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs."
@@ -6019,7 +6145,7 @@
         "commStrategy": "Focus on server requirements for 5G core networks, MEC (Multi-access Edge Computing), and NFV/SDN platforms."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Syed Mustafa Hussain Naqvi",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=du%20(Emirates%20Integrated%20Telecom)%20procurement%20VP",
         "commStrategy": "Through telecom industry SIs (such as Nokia, Ericsson ecosystem partners) or by directly participating in the RFP process."
@@ -6063,7 +6189,7 @@
         "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Friedrich Suppan",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=A1%20Telekom%20Austria%20Group%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels and provide competitive TCO analysis and trial programs."
@@ -6107,7 +6233,7 @@
         "commStrategy": "Emphasize the server's security certifications (FIPS 140-2/3, TPM 2.0), high-availability design, and low-latency performance for AI/ML trading systems."
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "（推估）Sean Felton",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Zurich%20Insurance%20Group%20procurement%20VP",
         "commStrategy": "Introduce through financial industry-specific SIs (such as Kyndryl, DXC Technology). The financial industry's procurement process is rigorous and requires passing a vendor qualification program."
@@ -6157,7 +6283,7 @@
         "commStrategy": "Emphasize HIPAA-compliant server solutions, GPU computing power for AI medical imaging analysis, and high reliability design"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Nataša Vidmar",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=AstraZeneca%20procurement%20VP",
         "commStrategy": "Enter through healthcare industry SI (such as Epic Systems partners, Cerner ecosystem), healthcare procurement values long-term service contracts"
@@ -6207,7 +6333,7 @@
         "commStrategy": "Demonstrate ASUS server performance advantages and energy efficiency in AI/HPC workloads through product technical presentations"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Olivier Gauwin",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dassault%20Systemes%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels, provide competitive TCO analysis and trial programs"
@@ -6228,9 +6354,24 @@
       "difficulty": 8,
       "challenges": "【NeoCloud】【Technical Barriers】Arkane Cloud has strict requirements for GPU servers including high density, high performance, cooling, and has established partnerships with NVIDIA and others. ASUS needs to prove its technical strength and customization capabilities in these areas. 【Supply Chain Barriers】Rapid expansion to 6,000 GPU clusters requires stable supply chain and large-scale delivery capability; ASUS must demonstrate supply chain reliability and flexibility. 【Business Challenges】Arkane Cloud already cooperates with multiple suppliers; ASUS must provide sufficient differentiation to enter. As a French startup, procurement decisions may be flexible but budget limited. 【Industry Characteristics】French AI cloud market is highly competitive with high demands on data sovereignty and localized services.",
       "entryPoint": "【NeoCloud】【Short-term (6-12 months)】Provide ASUS high-density GPU servers (e.g., ESC8000-E12) POC solutions for their expansion plan, demonstrating ASUS advantages in cooling, performance, and management software. Actively communicate with their technical team to understand specific customization needs and offer ODM cooperation possibilities, such as solutions for liquid cooling or specific rack designs. Explore integration capabilities of ASUS servers with their existing VAST Data, DDN storage solutions. 【Mid-term (1-2 years)】After successful POC, strive for small-scale orders to build trust gradually and compete for larger shares in subsequent expansion plans. Invite their technical team to visit ASUS R&D center for in-depth technical exchanges and jointly develop solutions meeting future AI infrastructure needs. 【Long-term (2-3 years)】Become Arkane Cloud's core supplier in AI infrastructure field, providing continuous supply chain and technical support as their 6,000 GPU cluster expands. 【Key Actions】Prioritize contact with Julien Gauthier via direct supply channel and provide technical demonstrations of liquid-cooled GPU servers.",
-      "keyPerson": "Julien Gauthier (CEO)",
-      "techDecisionMaker": "Julien Gauthier | CEO | https://fr.linkedin.com/in/julien-gauthier-b93a6a130/en | Emphasize ASUS server technical advantages in GPU density, cooling solutions, AI workload optimization, and provide customized solutions to meet expansion needs to 6,000 GPU clusters.",
-      "procurementDecisionMaker": "N/A | N/A | N/A | Emphasize ASUS server advantages in cost-performance, supply chain stability, after-sales service, and offer flexible procurement models (such as ODM cooperation) to reduce total cost of ownership.",
+      "keyPerson": {
+        "name": "（推估）Julien Gauthier",
+        "title": "CEO",
+        "linkedin": "https://fr.linkedin.com/in/julien-gauthier-b93a6a130/en",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "（推估）Julien Gauthier",
+        "title": "CEO",
+        "linkedin": "https://fr.linkedin.com/in/julien-gauthier-b93a6a130/en",
+        "commStrategy": "聚焦於我們伺服器的高GPU密度、先進的散熱技術以及低延遲的網路架構，如何協助他們為客戶提供更具競爭力的AI運算服務。"
+      },
+      "procurementDecisionMaker": {
+        "name": "（推估）Julien Gauthier",
+        "title": "CEO",
+        "linkedin": "https://fr.linkedin.com/in/julien-gauthier-b93a6a130/en",
+        "commStrategy": "強調我們的解決方案如何能顯著降低總體擁有成本(TCO)，並提供彈性的付款方式以支持其快速擴張。同時，突顯我們多元化的供應鏈能確保其核心GPU資源的穩定供應，降低斷鏈風險。"
+      },
       "siDist": [],
       "volumeSource": "https://www.megaport.com/podcasts/scaling-ai-cloud-infrastructure/",
       "industry": "NeoCloud/AI",
@@ -6273,7 +6414,7 @@
         "commStrategy": "Demonstrate ASUS server performance advantages and energy efficiency in AI/HPC workloads through product technical presentations"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "（推估）Daniel Lappas",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=N26%20(Number26)%20procurement%20VP",
         "commStrategy": "Introduce through regional SI/DIST channels, provide competitive TCO analysis and trial programs"
@@ -6294,9 +6435,24 @@
       "difficulty": 8,
       "challenges": "【NeoCloud】【Technical Barriers】i3D.net has extremely high requirements for low latency, high performance, and high reliability, with infrastructure covering six continents, making technical integration and maintenance complex. Existing suppliers like Dell and Supermicro have established stable supply chains; ASUS must prove significant advantages in performance, stability, and global service support. Especially, game hosting demands strict CPU single-core performance, GPU computing, and network latency. 【Supply Chain Barriers】As a Ubisoft subsidiary, procurement decisions may involve group-level approvals and strict requirements on global service capabilities and rapid response. 【Business Challenges】Gaming and media industries are cost-sensitive; ASUS must provide competitive TCO solutions and demonstrate global service support capabilities. 【Industry Characteristics】Gaming workloads are highly volatile, requiring suppliers to provide flexible scaling solutions and rapid delivery capabilities.",
       "entryPoint": "【NeoCloud】【Short-term (6-12 months)】Highlight ASUS server advantages in high performance, low latency, high density, and cooling technologies, especially optimized for game hosting and AI/ML workloads. Emphasize ASUS's broad product lines and customization capabilities on Intel, AMD, and NVIDIA platforms. Provide detailed technical white papers, test reports, and success cases. 【Mid-term (1-2 years)】Establish deep cooperation with i3D.net technical team, provide customized server solutions, and offer rapid response technical support and maintenance through ASUS global service network. 【Long-term (2-3 years)】Become i3D.net's core supplier in global gaming and AI infrastructure fields, providing global supply chain and service support as business expands. 【Key Actions】Prioritize contact with Giovanni Intini's technical team via direct supply channel and provide game server-specific performance benchmark reports.",
-      "keyPerson": "Giovanni Intini (CTO)",
-      "techDecisionMaker": "Giovanni Intini | CTO | https://ie.linkedin.com/in/intinig | Highlight ASUS server advantages in high performance, low latency, high density, and cooling technologies, especially optimized for game hosting and AI/ML workloads. Emphasize ASUS's broad product lines and customization capabilities on Intel, AMD, and NVIDIA platforms.",
-      "procurementDecisionMaker": "N/A | N/A | N/A | Emphasize ASUS's stability and reliability as a global leading hardware supplier, provide competitive pricing and flexible supply chain management, demonstrate ASUS's long-term commitment and R&D investment in the server field, ensuring product lifecycle support.",
+      "keyPerson": {
+        "name": "Ivo Teel",
+        "title": "CEO",
+        "linkedin": "https://nl.linkedin.com/in/ivoteel",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "Giovanni Intini",
+        "title": "CTO",
+        "linkedin": "https://ie.linkedin.com/in/intinig",
+        "commStrategy": "聚焦於我們高GPU密度與優異散熱效率的伺服器如何協助貴公司在不犧牲效能的前提下，有效降低基礎設施的複雜性與營運成本。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Wim Sombroek",
+        "title": "Director of Customer Excellence",
+        "linkedin": "https://nl.linkedin.com/in/wimsombroek",
+        "commStrategy": "強調我們伺服器解決方案的總體擁有成本 (TCO) 優勢，以及我們如何透過多元化的供應鏈幫助您降低風險並增加採購彈性。"
+      },
       "siDist": [],
       "volumeSource": "https://www.i3d.net/",
       "industry": "NeoCloud/AI",
@@ -6439,7 +6595,8 @@
       "keyPerson": {
         "name": "David Gurle",
         "title": "Founder & CEO",
-        "linkedin": "https://www.linkedin.com/in/davidgurle/"
+        "linkedin": "https://www.linkedin.com/in/davidgurle/",
+        "source": "https://procurementmag.com/executive/stuart-riley"
       },
       "techDecisionMaker": {
         "name": "David Gurle",
@@ -6517,9 +6674,24 @@
       "difficulty": 8,
       "challenges": "【enterprise_general】【Technical Barriers】As an IT consulting firm, Cloudfellow's own server procurement volume is extremely low; they mainly provide cloud solutions for clients. The entry point is not to directly sell servers to Cloudfellow, but to influence their hardware recommendations to clients. It is necessary to prove the compatibility, performance, and cost-effectiveness of ASUS servers in a cloud environment. 【Supply Chain Barriers】Procurement decisions in small consulting firms are often made by the technical lead, lacking a dedicated procurement department. The procurement process is not transparent and difficult to standardize for entry. 【Business Challenges】Cloudfellow's main business is cloud service consulting, and their direct server procurement demand is extremely low. ASUS needs to gain indirect benefits by influencing their client recommendations. 【Industry Characteristics】The UK IT consulting market is highly competitive, and Cloudfellow is relatively small, limiting its direct procurement value to ASUS.",
       "entryPoint": "【enterprise_general】【Short-term (6-12 months)】Showcase the advantages of ASUS servers in Azure Stack HCI and hybrid cloud solutions to Cloudfellow through technical seminars or partner programs. Get ASUS included in their recommended hardware list for clients. Provide test equipment or POC support to build trust. 【Mid-term (1-2 years)】Establish a strategic partnership with Cloudfellow to jointly develop solutions for specific industries or application scenarios, positioning ASUS servers as the default hardware platform for their on-premises or edge computing solutions. 【Long-term (2-3 years)】Expand the penetration of ASUS servers in the EMEA SMB market through Cloudfellow's client network, and continue to provide technical support and training. 【Key Actions】Prioritize establishing relationships through the partner programs of Arrow Electronics and Ingram Micro, and incorporate Cloudfellow into the ASUS partner ecosystem.",
-      "keyPerson": "Dinesh Chandra Babu Birisetti (Director & Infrastructure Solutions Architect)",
-      "techDecisionMaker": "Dinesh Chandra Babu Birisetti | Director & Infrastructure Solutions Architect | https://uk.linkedin.com/in/dinesh-chandra-babu-birisetti-17225169 | For technical decision-makers, communicate the advantages of ASUS servers in terms of performance, scalability, energy efficiency, compatibility with mainstream cloud platforms (like Azure), and support for emerging technologies (like AI/HPC), emphasizing ASUS's R&D strength and customization flexibility.",
-      "procurementDecisionMaker": "N/A | N/A | N/A | For procurement decision-makers, communicate the TCO advantages, reliability, global service network, and flexible supply chain of ASUS servers, emphasizing the brand strength and long-term support commitment of ASUS as a leading global hardware supplier.",
+      "keyPerson": {
+        "name": "Dr. Elvia Hursh",
+        "title": "Co-founder",
+        "linkedin": "N/A",
+        "source": "https://www.cloudfellow.com/about-us/"
+      },
+      "techDecisionMaker": {
+        "name": "Donald Hursh",
+        "title": "Owner and President",
+        "linkedin": "https://www.linkedin.com/in/donhursh",
+        "commStrategy": "聚焦於我們的雲端解決方案和資訊安全服務如何協助他們為客戶提供更穩定、更安全的服務，並分享成功案例。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Donald Hursh",
+        "title": "Owner and President",
+        "linkedin": "https://www.linkedin.com/in/donhursh",
+        "commStrategy": "強調我們的解決方案如何能為中小型企業提供企業級的IT支援服務，從而提升其市場競爭力，並提供靈活的付款方式以符合其預算。"
+      },
       "siDist": [
         {
           "name": "Arrow Electronics",

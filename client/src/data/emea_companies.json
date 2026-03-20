@@ -91,7 +91,7 @@
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Michael Sohn",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Deutsche%20Telekom%20/%20T-Systems%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
@@ -159,7 +159,7 @@
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Ninian Wilson",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Vodafone%20Group%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
@@ -257,7 +257,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Nikolaus Kirner",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=SAP%20SE%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -331,7 +331,7 @@
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Michael Rubas",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Orange%20S.A.%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
@@ -426,7 +426,7 @@
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Javier García De Castro",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=BT%20Group%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
@@ -482,7 +482,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "（推估）Günther Müller",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Telefónica%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -526,7 +526,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Craig Cuffie",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hetzner%20Online%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -594,10 +594,10 @@
         "commStrategy": "強調伺服器的安全認證（FIPS 140-2/3、TPM 2.0）、高可用性設計、以及 AI/ML 交易系統的低延遲表現"
       },
       "procurementDecisionMaker": {
-        "name": "",
-        "title": "VP of Procurement / Chief Procurement Officer",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=HSBC%20Holdings%20procurement%20VP",
-        "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
+        "name": "Craig Cuffie",
+        "title": "Group Chief Procurement Officer",
+        "linkedin": "https://www.linkedin.com/in/craig-cuffie/",
+        "commStrategy": "強調全球供應鏈多元化價值，以降低地緣政治風險。提供金融級合規認證與TCO分析報告，展示長期成本節約優勢。"
       },
       "archetype": "financial"
     },
@@ -615,9 +615,24 @@
       "difficulty": 8,
       "challenges": "【neocloud】【技術門檻】IONOS擁有自建資料中心及伺服器組裝能力，對供應商的技術要求高，且可能傾向於ODM或零組件採購。ASUS需證明其伺服器產品在性能、可靠性、可擴展性及成本效益上具備競爭優勢，並能與IONOS現有基礎設施無縫整合。【供應鏈壁壘】IONOS具備強大的議價能力，ASUS需提供具吸引力的價格和服務方案。【商務挑戰】IONOS可能已建立穩固的供應鏈，ASUS需展現其供應鏈的穩定性和彈性，以滿足IONOS的大規模採購需求。【產業特性】德國企業對資料安全、GDPR合規和本地化服務有嚴格要求，需要提供符合歐盟法規的解決方案。",
       "entryPoint": "【neocloud】【短期（6-12個月）】針對IONOS的特定工作負載（如網站託管、VPS），提供具成本效益且性能優越的ASUS機架式伺服器解決方案進行POC測試，強調ASUS伺服器在能效、穩定性及易於管理方面的優勢。【中期（1-2年）】在POC成功後，逐步擴大合作範圍，提供更多元化的伺服器產品線，包括高性能運算或AI/ML伺服器，以滿足IONOS不斷增長的雲端服務需求。同時，探討與IONOS在ODM模式下的合作可能性，提供客製化設計服務。【長期（2-3年）】建立長期戰略合作夥伴關係，成為IONOS主要的伺服器供應商之一，與IONOS的技術團隊緊密合作，共同開發符合未來雲端技術趨勢的伺服器解決方案。【關鍵行動】優先透過直供管道接觸 Dr. Markus Noga 的技術團隊，強調 ASUS 在德國市場的本地化服務能力。",
-      "keyPerson": "Dr. Markus Noga (CTO)",
-      "techDecisionMaker": "Dr. Markus Noga | CTO | https://www.linkedin.com/in/markusnoga/ | 與IONOS的技術團隊建立緊密聯繫，深入了解其資料中心架構、技術需求和未來發展方向，展示ASUS伺服器在性能、能效、散熱技術、管理工具及SDI整合方面的技術優勢。",
-      "procurementDecisionMaker": "N/A | N/A | N/A | 強調ASUS作為全球領先的伺服器供應商，具備強大的研發實力、生產能力和全球供應鏈優勢，能提供穩定、高品質且具競爭力的產品，並提供彈性的採購模式和優質的售後服務。",
+      "keyPerson": {
+        "name": "Patrik Heider",
+        "title": "Chief Financial Officer",
+        "linkedin": "https://de.linkedin.com/in/patrikheider",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "Dr. Markus Noga",
+        "title": "Chief Technology Officer",
+        "linkedin": "https://de.linkedin.com/in/mlnoga",
+        "commStrategy": "聚焦GPU密度與散熱效率，展示我們高效能伺服器如何滿足大規模運算需求，並以領先的散熱技術確保系統穩定性與能源效率。"
+      },
+      "procurementDecisionMaker": {
+        "name": "(推估) Hüseyin Dogan",
+        "title": "Chief Operating Officer",
+        "linkedin": "https://de.linkedin.com/in/hueseyindogan",
+        "commStrategy": "強調TCO優勢與供應鏈多元化價值，以及彈性的付款方式，協助企業優化IT採購成本效益。"
+      },
       "siDist": [],
       "volumeSource": "https://www.ionos.com/about",
       "industry": "科技",
@@ -690,7 +705,7 @@
         "commStrategy": "聚焦自動駕駛訓練的 GPU 運算需求、車聯網資料處理、以及工廠邊緣 AI 應用"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Klaus Staubitzer",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Siemens%20AG%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
@@ -830,7 +845,7 @@
         "commStrategy": "直接展示 GPU 伺服器（ESC N8-E11 / ESC N8-E12）的散熱效率與部署速度優勢，提供免費 POC 測試機"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Gauthier Gamby",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=OVHcloud%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
@@ -851,9 +866,24 @@
       "difficulty": 8,
       "challenges": "【neocloud】【技術門檻】Humain 對技術規格、安全性和本地化服務有極高要求，且已與多家頂級晶片供應商建立合作，ASUS 需證明其在高性能 AI 伺服器領域的領先地位、提供高度客製化的能力，並能與現有供應商生態系統有效整合。【供應鏈壁壘】Humain 是國家級戰略項目，採購決策涉及高度政治和戰略考量，進入此類客戶需要長期的關係建立、技術驗證和高層級的承諾。【商務挑戰】作為沙烏地阿拉伯主權AI基礎設施的核心，採購流程涉及多層審批，且對供應商的本地化服務能力、合規性和長期承諾要求嚴格。【產業特性】中東地區AI基礎設施建設正處於高速擴張期，但地緣政治風險和出口管制（如美國晶片出口限制）可能影響供應鏈穩定性。",
       "entryPoint": "【neocloud】【短期（6-12個月）】透過技術交流會和概念驗證 (PoC) 展示 ASUS AI 伺服器在性能、擴展性、能效和散熱方面的優勢，特別是與 Humain 現有晶片供應商（NVIDIA、AMD、Qualcomm）的整合能力。針對其資料中心擴建需求，提供客製化解決方案的初步設計。【中期（1-2年）】深化與 Humain 技術團隊的合作，共同開發符合其主權 AI 基礎設施戰略目標的解決方案，並探討 ODM 或深度客製化 OEM 模式的可能性。透過本地 SI 合作夥伴提供全面的售後服務和技術支持。【長期（2-3年）】建立長期戰略合作夥伴關係，將 ASUS 定位為 Humain 在 AI 基礎設施領域的核心供應商，共同參與沙烏地阿拉伯的 AI 發展戰略。【關鍵行動】優先透過 STC Solutions 等本地 SI 合作夥伴建立關係，並積極參與沙烏地阿拉伯的 AI 峰會和展覽，提升品牌能見度。",
-      "keyPerson": "Dr. Khalid Alodhaibi, MBA, PhD (EVP Technology)",
-      "techDecisionMaker": "Dr. Khalid Alodhaibi, MBA, PhD | EVP Technology (前CTO) | https://www.linkedin.com/posts/humainai_techleadership-aiinfrastructure-arabicai-activity-7335900999716327424-EF5R | 強調 ASUS 在 AI 伺服器領域的技術領先地位，聚焦大規模 AI 訓練和推論工作負載的解決方案，以及與 NVIDIA、AMD、Qualcomm 等主流 AI 晶片平台的無縫整合能力。",
-      "procurementDecisionMaker": "Dirk Karl | Chief Procurement Officer & SVP | https://www.linkedin.com/posts/dirkkarl_ainative-activity-7392206858603630592-3Z0H | 強調 ASUS 作為全球領先伺服器供應商的穩定性、供應鏈韌性，聚焦 TCO、產品可靠性、售後服務，並探討靈活的 ODM 採購模式以滿足客製化需求。",
+      "keyPerson": {
+        "name": "Tareq Amin",
+        "title": "CEO",
+        "linkedin": "https://sa.linkedin.com/in/tareq-amin",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "Ali Siddiqui",
+        "title": "CTO AI Infra & Cloud",
+        "linkedin": "https://sa.linkedin.com/in/alisiddiqui",
+        "commStrategy": "聚焦於我們伺服器方案的超高GPU密度與領先的散熱效率，這將如何直接提升其AI基礎設施的運算效能與能源效率。同時，強調我們與NVIDIA等領導廠商的深度合作關係，確保其能第一時間獲得最新的技術。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Dirk Karl",
+        "title": "Chief Procurement Officer",
+        "linkedin": "https://sa.linkedin.com/in/dirkkarl",
+        "commStrategy": "強調我們解決方案的總體擁有成本 (TCO) 優勢，以及我們如何透過多元化的供應鏈選項增強其供應鏈的韌性。同時，提出具彈性的付款方案，以符合其採購預算和流程。"
+      },
       "siDist": [
         {
           "name": "STC Solutions",
@@ -909,7 +939,7 @@
         "commStrategy": "直接展示 GPU 伺服器（ESC N8-E11 / ESC N8-E12）的散熱效率與部署速度優勢，提供免費 POC 測試機"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Maria I. Gomez Unamuno",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Northern%20Data%20Group%20procurement%20VP",
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
@@ -977,7 +1007,7 @@
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Matthew Frost",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ericsson%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
@@ -1033,7 +1063,7 @@
         "commStrategy": "強調伺服器的安全認證（FIPS 140-2/3、TPM 2.0）、高可用性設計、以及 AI/ML 交易系統的低延遲表現"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Katherine Gleeson",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Barclays%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
@@ -1089,7 +1119,7 @@
         "commStrategy": "聚焦地質模擬 HPC、油田邊緣運算、以及碳排放監測 AI 的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Khalid Al Hajri",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Aramco%20(Saudi%20Aramco)%20procurement%20VP",
         "commStrategy": "透過能源業 SI（如 Halliburton、Schlumberger IT 部門）或直接參與 RFP"
@@ -1133,7 +1163,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "（推估）Albane Bruyas",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Scaleway%20(Iliad%20Group)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -1189,7 +1219,7 @@
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Marc Dolder",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Swisscom%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
@@ -1239,7 +1269,7 @@
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Kim Aaltonen",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Nokia%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
@@ -1307,7 +1337,7 @@
         "commStrategy": "聚焦自動駕駛訓練的 GPU 運算需求、車聯網資料處理、以及工廠邊緣 AI 應用"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Dr. Arne Flemming",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Bosch%20Group%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
@@ -1375,7 +1405,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Saeed AlZarooni",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Etisalat%20(e&)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -1419,7 +1449,7 @@
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Abdullah M. Alowini",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=stc%20(Saudi%20Telecom)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
@@ -1481,7 +1511,7 @@
         "commStrategy": "聚焦自動駕駛訓練的 GPU 運算需求、車聯網資料處理、以及工廠邊緣 AI 應用"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Karsten Schnake",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Volkswagen%20Group%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
@@ -1525,7 +1555,7 @@
         "commStrategy": "強調伺服器的安全認證（FIPS 140-2/3、TPM 2.0）、高可用性設計、以及 AI/ML 交易系統的低延遲表現"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Sara Harding",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=ING%20Group%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
@@ -1546,9 +1576,24 @@
       "difficulty": 9,
       "challenges": "【neocloud】【技術門檻】G42在AI和雲端運算領域擁有深厚的技術實力，並與NVIDIA、Oracle等領先企業合作，對伺服器性能、穩定性和客製化能力要求極高。ASUS需證明其在AI伺服器領域的領先技術和客製化能力。【供應鏈壁壘】G42已與多家頂級供應商建立合作關係，要切入其供應鏈需克服現有供應商的競爭優勢和客戶黏性。【商務挑戰】G42是阿聯酋國家級AI戰略的核心執行機構，採購決策涉及高度政治考量，且對供應商的合規性和長期承諾要求嚴格。【產業特性】中東AI基礎設施建設正處於高速擴張期，但地緣政治風險和美國晶片出口管制可能影響供應鏈穩定性。",
       "entryPoint": "【neocloud】【短期（6-12個月）】透過ASUS在AI伺服器領域的技術優勢，特別是支援最新NVIDIA/AMD GPU的ESC系列產品，主動接觸G42的技術團隊，提供客製化解決方案的POC（概念驗證）。【中期（1-2年）】利用ASUS在散熱技術（如液冷）和高密度伺服器方面的創新，針對G42大型資料中心和AI叢集的需求，提供更高效、更節能的解決方案，爭取ODM合作機會。【長期（2-3年）】建立與G42的戰略合作夥伴關係，共同開發下一代AI和雲端運算基礎設施，並透過SI合作夥伴擴大在G42生態系統中的影響力。【關鍵行動】優先透過 Alpha Data、Gulf Business Machines 等本地 SI 建立關係，並積極參與 GITEX 等中東科技展覽。",
-      "keyPerson": "Dr. Andrew Jackson (Group Chief AI Officer)",
-      "techDecisionMaker": "Dr. Andrew Jackson | Group Chief AI Officer | https://ae.linkedin.com/in/andrew-jackson-phd | 聚焦ASUS在AI伺服器技術上的領先地位，特別是針對NVIDIA、AMD和Cerebras Systems晶片的最佳化設計、高效散熱解決方案（如液冷）、高密度配置以及客製化能力。",
-      "procurementDecisionMaker": "Ricky Thirion | Group Chief Financial Officer | https://ae.linkedin.com/in/rickythirion | 強調ASUS伺服器在成本效益、供應鏈彈性、全球服務支援以及長期合作潛力方面的優勢，提供靈活的採購方案和具競爭力的價格。",
+      "keyPerson": {
+        "name": "Mansoor Al Blooshi",
+        "title": "Former Group COO",
+        "linkedin": "https://www.linkedin.com/in/mansour-al-blooshi-234190a5",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "Kiril Evtimov",
+        "title": "Group Chief Technology Officer",
+        "linkedin": "https://www.linkedin.com/in/kevtimov",
+        "commStrategy": "聚焦於我們伺服器的高運算密度、領先的散熱效率與低延遲特性，展示其如何支持G42在AI與雲端計算領域的大規模運算需求，並確保系統的穩定性與可擴展性。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Dr. Asif Ashraf",
+        "title": "Group VP Supply Chain",
+        "linkedin": "https://ae.linkedin.com/in/dr-asif-ashraf-phd-m-s-mcips-58662417",
+        "commStrategy": "強調我們伺服器方案的總體擁有成本（TCO）優勢，以及我們如何透過多元化的供應鏈策略，確保供貨穩定與彈性，並可提供靈活的付款條件，協助貴公司優化資本支出。"
+      },
       "siDist": [
         {
           "name": "Alpha Data",
@@ -1577,9 +1622,24 @@
       "difficulty": 8,
       "challenges": "【neocloud】【技術門檻】Aruba S.p.A.作為領先的雲端服務提供商，對伺服器性能、穩定性、擴展性及能源效率有極高要求，且持續擴張，需要支援高密度部署、AI工作負載及液冷解決方案的先進伺服器技術。【供應鏈壁壘】歐洲雲端市場競爭激烈，現有供應商可能已建立長期合作關係，切入難度較高。【商務挑戰】Aruba S.p.A.積極投入資料中心永續發展，承諾2030年實現碳中和，伺服器採購需考量能源效率、PUE值及對再生能源的支援。【產業特性】義大利及南歐市場對本地化服務和語言支援有較高要求，需要在地化的技術支援體系。",
       "entryPoint": "【neocloud】【短期（6-12個月）】針對Aruba S.p.A.對高密度運算、AI工作負載及液冷解決方案的需求，安排ASUS最新伺服器技術（RS720-E12系列、ESC8000A-E12系列）的技術交流會，重點展示產品在性能、能效、散熱及管理上的優勢，並提供小規模POC測試機會。【中期（1-2年）】在POC成功後，尋求與Aruba S.p.A.建立更深層次的策略合作夥伴關係，參與其資料中心擴建專案，提供整體解決方案，並強調ASUS產品在永續發展方面的貢獻。【長期（2-3年）】透過持續的技術創新、優質的產品和服務，逐步成為Aruba S.p.A.的主要伺服器供應商之一，甚至成為其ODM合作夥伴，並借助其在歐洲雲端市場的影響力共同拓展市場。【關鍵行動】優先透過 Arrow Electronics 和 Ingram Micro 義大利分支建立關係，並參與義大利 ICT 展覽提升品牌能見度。",
-      "keyPerson": "Lorenzo Giuntini (CTO)",
-      "techDecisionMaker": "Lorenzo Giuntini | CTO | https://it.linkedin.com/in/lorenzo-giuntini-30940a5 | 深入探討ASUS伺服器在性能、能效、散熱（特別是液冷技術）、虛擬化支援、AI加速能力及管理工具方面的技術細節，提供詳細的產品白皮書、測試報告和案例研究。",
-      "procurementDecisionMaker": "Giada Sanguigni | Procurement & Grants Specialist | N/A | 強調ASUS伺服器在成本效益、供應鏈穩定性及客製化方面的優勢，提供具競爭力的價格和彈性的採購方案，並展示在大型資料中心部署的成功案例。",
+      "keyPerson": {
+        "name": "Stefano Cecconi",
+        "title": "Chief Executive Officer",
+        "linkedin": "N/A",
+        "source": "https://www.bloomberg.com/profile/person/20941204"
+      },
+      "techDecisionMaker": {
+        "name": "Lorenzo Giuntini",
+        "title": "CTO",
+        "linkedin": "N/A",
+        "commStrategy": "聚焦GPU密度與散熱效率，展示我們高效率的伺服器解決方案如何協助Aruba S.p.A.在現有空間中擴充基礎設施，同時降低營運成本。"
+      },
+      "procurementDecisionMaker": {
+        "name": "（推估）Matteo Cavagna",
+        "title": "Responsabile acquisti magazzino",
+        "linkedin": "https://it.linkedin.com/in/matteo-cavagna-a7437a277",
+        "commStrategy": "強調TCO優勢與供應鏈多元化價值，並提供彈性的付款方案。"
+      },
       "siDist": [
         {
           "name": "Arrow Electronics",
@@ -1677,7 +1737,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Caroline Feldman",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mistral%20AI%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -1865,7 +1925,7 @@
         "commStrategy": "強調伺服器的安全認證（FIPS 140-2/3、TPM 2.0）、高可用性設計、以及 AI/ML 交易系統的低延遲表現"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Ashe Patankar",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Booking%20Holdings%20(Booking.com)%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
@@ -1927,7 +1987,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Ibrahim Aljassim",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Aramco%20Digital%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -1971,7 +2031,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Mario Goethals",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Atos%20SE%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -1992,9 +2052,24 @@
       "difficulty": 8,
       "challenges": "【neocloud】【技術門檻】GoDaddy作為大型雲端服務提供商，對伺服器穩定性、性能、擴展性及客製化能力要求極高。其現有基礎設施已與Supermicro深度整合，ASUS需證明其產品在這些方面具備競爭優勢，並能無縫融入GoDaddy的生態系統。【供應鏈壁壘】GoDaddy與Supermicro有長期合作關係，供應鏈慣性強，要取代或成為主要供應商之一，需要克服現有合作關係的壁壘。【商務挑戰】作為大型服務商，GoDaddy對採購成本極為敏感，ASUS需提供具競爭力的價格和TCO方案。【產業特性】GoDaddy的EMEA業務涉及多個國家，需要供應商提供多語言支援和在地化服務能力。",
       "entryPoint": "【neocloud】【短期（6-12個月）】針對GoDaddy的AI/ML應用需求，推廣ASUS的GPU伺服器解決方案（如ESC系列），強調其在AI運算性能、散熱設計和管理上的優勢，並提供POC測試，展示ASUS伺服器在特定AI工作負載下的卓越表現。透過現有SI/DIST夥伴網絡，接觸GoDaddy EMEA地區的技術和採購團隊，建立初步聯繫。【中期（1-2年）】基於POC成果，爭取小規模導入ASUS通用型伺服器（如RS系列）於非核心業務或新興專案中，逐步建立信任，並參與GoDaddy的供應商評選流程，提供具競爭力的報價和靈活的供應鏈方案。【長期（2-3年）】成為GoDaddy多供應商策略中的重要一員，擴大ASUS伺服器在GoDaddy核心業務中的佔比，並建立長期戰略合作夥伴關係，共同開發針對GoDaddy需求的伺服器產品，實現ODM級別的合作。【關鍵行動】優先透過 Arrow Electronics 和 Ingram Micro 建立與 GoDaddy EMEA 採購團隊的聯繫。",
-      "keyPerson": "Charles Beadnall (CTO)",
-      "techDecisionMaker": "Charles Beadnall | Chief Technology Officer (CTO) | https://www.linkedin.com/in/beadnall | 強調ASUS伺服器在性能、可靠性、擴展性、能源效率和對新技術（如AI/ML、最新CPU/GPU）的支援，提供技術白皮書、測試報告和解決方案架構圖。",
-      "procurementDecisionMaker": "Richard Stevens | Senior Director Of Procurement, Head of Procurement Operations | https://www.linkedin.com/posts/mrrickstevens_procurement-godaddy-supplychain-activity-7439064135708868608-ADEe | 強調ASUS作為全球領先硬體供應商的品牌實力、穩定供應鏈、具競爭力的TCO和彈性的客製化能力，可提供成功案例和客戶證言，並從供應鏈效率、成本優化和風險管理角度切入。",
+      "keyPerson": {
+        "name": "Charles Beadnall",
+        "title": "Chief Technology Officer",
+        "linkedin": "https://www.linkedin.com/in/beadnall",
+        "source": "https://aboutus.godaddy.net/about-us/team/default.aspx"
+      },
+      "techDecisionMaker": {
+        "name": "Charles Beadnall",
+        "title": "Chief Technology Officer",
+        "linkedin": "https://www.linkedin.com/in/beadnall",
+        "commStrategy": "聚焦於我們伺服器解決方案的 GPU 密度、散熱效率和能源效率，展示我們如何協助 GoDaddy 在滿足 AI 運算需求的同時，達成其永續發展目標。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Richard Stevens",
+        "title": "Senior Director of Procurement",
+        "linkedin": "https://www.linkedin.com/in/mrrickstevens",
+        "commStrategy": "強調我們解決方案的總體擁有成本 (TCO) 優勢，以及我們如何透過多元化的供應鏈選擇，為 GoDaddy 提升供應鏈的韌性與彈性，並提供靈活的付款方案。"
+      },
       "siDist": [
         {
           "name": "Arrow Electronics",
@@ -2056,7 +2131,7 @@
         "commStrategy": "強調 HIPAA 合規伺服器方案、AI 醫療影像分析的 GPU 運算能力、以及高可靠性設計"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Alison Jones",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Philips%20procurement%20VP",
         "commStrategy": "透過醫療業 SI（如 Epic Systems 合作夥伴、Cerner 生態系）切入，醫療業採購重視長期服務合約"
@@ -2106,7 +2181,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Sridhar Rao",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Worldline%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -2162,7 +2237,7 @@
         "commStrategy": "聚焦自動駕駛訓練的 GPU 運算需求、車聯網資料處理、以及工廠邊緣 AI 應用"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Dr. Nicolai Martin",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=BMW%20Group%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
@@ -2218,7 +2293,7 @@
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "（推估）Mikael Naurin",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Telia%20Company%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
@@ -2262,7 +2337,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Andrew Savage",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=MTN%20Group%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -2324,7 +2399,7 @@
         "commStrategy": "聚焦地質模擬 HPC、油田邊緣運算、以及碳排放監測 AI 的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Stephane Cambier",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=TotalEnergies%20procurement%20VP",
         "commStrategy": "透過能源業 SI（如 Halliburton、Schlumberger IT 部門）或直接參與 RFP"
@@ -2386,7 +2461,7 @@
         "commStrategy": "聚焦地質模擬 HPC、油田邊緣運算、以及碳排放監測 AI 的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Marcin Mazur",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Shell%20plc%20procurement%20VP",
         "commStrategy": "透過能源業 SI（如 Halliburton、Schlumberger IT 部門）或直接參與 RFP"
@@ -2442,7 +2517,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "（推估）Patrik Heider",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=IONOS%20(United%20Internet)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -2492,7 +2567,7 @@
         "commStrategy": "強調伺服器的安全認證（FIPS 140-2/3、TPM 2.0）、高可用性設計、以及 AI/ML 交易系統的低延遲表現"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Enguerrand de Pontevès",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=BNP%20Paribas%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
@@ -2548,7 +2623,7 @@
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Morten Dean Dunham",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Telenor%20Group%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
@@ -2604,7 +2679,7 @@
         "commStrategy": "聚焦自動駕駛訓練的 GPU 運算需求、車聯網資料處理、以及工廠邊緣 AI 應用"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Jacob Busk Nielsen",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Nestlé%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
@@ -2648,7 +2723,7 @@
         "commStrategy": "強調 HIPAA 合規伺服器方案、AI 醫療影像分析的 GPU 運算能力、以及高可靠性設計"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Marielle Beyer",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Roche%20Holding%20procurement%20VP",
         "commStrategy": "透過醫療業 SI（如 Epic Systems 合作夥伴、Cerner 生態系）切入，醫療業採購重視長期服務合約"
@@ -2692,7 +2767,7 @@
         "commStrategy": "聚焦地質模擬 HPC、油田邊緣運算、以及碳排放監測 AI 的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Louise Jacobsen Plutt",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=BP%20plc%20procurement%20VP",
         "commStrategy": "透過能源業 SI（如 Halliburton、Schlumberger IT 部門）或直接參與 RFP"
@@ -2748,7 +2823,7 @@
         "commStrategy": "聚焦自動駕駛訓練的 GPU 運算需求、車聯網資料處理、以及工廠邊緣 AI 應用"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Andreas Burkhart",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Daimler%20Truck%20/%20Mercedes-Benz%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
@@ -2822,7 +2897,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Jesus Iriarte Garcia",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Amadeus%20IT%20Group%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -2866,7 +2941,7 @@
         "commStrategy": "強調 ASUS 伺服器的強固型設計能力、TAA 合規、以及 NVIDIA AI Enterprise 認證"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Benoît Schultz",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Airbus%20procurement%20VP",
         "commStrategy": "必須透過國防業授權通路（如 Carahsoft、CDWG、Presidio Federal）進入，需取得 TAA 合規認證"
@@ -2916,7 +2991,7 @@
         "commStrategy": "聚焦自動駕駛訓練的 GPU 運算需求、車聯網資料處理、以及工廠邊緣 AI 應用"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Monica Genovese",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Stellantis%20(Fiat/PSA)%20procurement%20VP",
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
@@ -2990,7 +3065,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Emmanuel Erba",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Capgemini%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -3034,7 +3109,7 @@
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Nazzaro Paolo",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Telecom%20Italia%20(TIM)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
@@ -3084,7 +3159,7 @@
         "commStrategy": "強調伺服器的安全認證（FIPS 140-2/3、TPM 2.0）、高可用性設計、以及 AI/ML 交易系統的低延遲表現"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Paul Williams",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Deutsche%20Bank%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
@@ -3128,7 +3203,7 @@
         "commStrategy": "強調伺服器的安全認證（FIPS 140-2/3、TPM 2.0）、高可用性設計、以及 AI/ML 交易系統的低延遲表現"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Simon Hannigan",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=UBS%20Group%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
@@ -3172,7 +3247,7 @@
         "commStrategy": "強調伺服器的安全認證（FIPS 140-2/3、TPM 2.0）、高可用性設計、以及 AI/ML 交易系統的低延遲表現"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "George Booth",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Lloyds%20Banking%20Group%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
@@ -3216,7 +3291,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Pierre Menges",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=NEOM%20(沙烏地新城)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -3260,7 +3335,7 @@
         "commStrategy": "強調 HIPAA 合規伺服器方案、AI 醫療影像分析的 GPU 運算能力、以及高可靠性設計"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Paula Davila Martinez",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Novartis%20procurement%20VP",
         "commStrategy": "透過醫療業 SI（如 Epic Systems 合作夥伴、Cerner 生態系）切入，醫療業採購重視長期服務合約"
@@ -3304,7 +3379,7 @@
         "commStrategy": "強調伺服器的安全認證（FIPS 140-2/3、TPM 2.0）、高可用性設計、以及 AI/ML 交易系統的低延遲表現"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Charles Letizia",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Société%20Générale%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
@@ -3348,7 +3423,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "（推估）Benjamin Oppl",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Aleph%20Alpha%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -3392,7 +3467,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Maryanne K Karanja",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Safaricom%20(Vodacom)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -3496,7 +3571,7 @@
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Bart Smedts",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Proximus%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
@@ -3570,7 +3645,7 @@
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Jeroen Wegkamp",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=KPN%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
@@ -3632,7 +3707,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Shailendra Sadera",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Unilever%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -3862,7 +3937,7 @@
         "commStrategy": "強調伺服器的安全認證（FIPS 140-2/3、TPM 2.0）、高可用性設計、以及 AI/ML 交易系統的低延遲表現"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Sejla Murguzovic",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Adyen%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
@@ -3918,7 +3993,7 @@
         "commStrategy": "聚焦 AI 推薦系統、供應鏈優化、以及門市邊緣 AI 的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Alejandro Basterrechea",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Zalando%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
@@ -3980,7 +4055,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Wayne Allan",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=ASML%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -4024,7 +4099,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "（推估）Bülent Onat",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Turkcell%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -4074,7 +4149,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Michael D. Lovati",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Volvo%20Group%20(AB%20Volvo)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -4124,7 +4199,7 @@
         "commStrategy": "強調 ASUS 伺服器的強固型設計能力、TAA 合規、以及 NVIDIA AI Enterprise 認證"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Roque Carmona",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Thales%20Group%20procurement%20VP",
         "commStrategy": "必須透過國防業授權通路（如 Carahsoft、CDWG、Presidio Federal）進入，需取得 TAA 合規認證"
@@ -4168,7 +4243,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Ard Verboon",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Schneider%20Electric%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -4212,7 +4287,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Rob Waterlander",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Naspers%20/%20Prosus%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -4304,7 +4379,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Cyril Frances",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Criteo%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -4348,7 +4423,7 @@
         "commStrategy": "強調 ASUS 伺服器的強固型設計能力、TAA 合規、以及 NVIDIA AI Enterprise 認證"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Giacinto Carullo",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Leonardo%20S.p.A.%20procurement%20VP",
         "commStrategy": "必須透過國防業授權通路（如 Carahsoft、CDWG、Presidio Federal）進入，需取得 TAA 合規認證"
@@ -4392,7 +4467,7 @@
         "commStrategy": "強調 ASUS 伺服器的強固型設計能力、TAA 合規、以及 NVIDIA AI Enterprise 認證"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Brad Pelachyk",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=BAE%20Systems%20procurement%20VP",
         "commStrategy": "必須透過國防業授權通路（如 Carahsoft、CDWG、Presidio Federal）進入，需取得 TAA 合規認證"
@@ -4544,7 +4619,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Dirk Pott",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Continental%20AG%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -4588,7 +4663,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Olivier Gauwin",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dassault%20Systèmes%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -4638,7 +4713,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Saim Yaksan",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ooredoo%20Group%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -4688,7 +4763,7 @@
         "commStrategy": "強調伺服器的安全認證（FIPS 140-2/3、TPM 2.0）、高可用性設計、以及 AI/ML 交易系統的低延遲表現"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Valentina Fanni",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Allianz%20SE%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
@@ -4732,7 +4807,7 @@
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Andrew Cannon-Brookes",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Standard%20Chartered%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
@@ -4776,7 +4851,7 @@
         "commStrategy": "聚焦地質模擬 HPC、油田邊緣運算、以及碳排放監測 AI 的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Enrico Zampone",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Enel%20Group%20procurement%20VP",
         "commStrategy": "透過能源業 SI（如 Halliburton、Schlumberger IT 部門）或直接參與 RFP"
@@ -4797,9 +4872,24 @@
       "difficulty": 8,
       "challenges": "【neocloud】【技術門檻】Gcore作為全球性的雲端與邊緣運算服務提供商，對伺服器的性能、穩定性、擴展性及能效有極高要求，特別是在AI訓練與推論方面，需要頂級GPU支援，且基礎設施遍布全球，需要供應商具備全球供貨與服務能力。【供應鏈壁壘】Gcore目前已使用Dell、Supermicro等品牌，轉換供應商或引入新供應商存在供應鏈整合風險與成本。【商務挑戰】雲端服務市場競爭激烈，Gcore對採購成本和TCO非常敏感，ASUS需提供具競爭力的價格方案。【產業特性】盧森堡總部的歐洲法規合規要求（GDPR等）對供應商的資料安全和隱私保護能力有嚴格要求。",
       "entryPoint": "【neocloud】【短期（6-12個月）】針對Gcore的AI雲服務需求，主動提供ASUS搭載NVIDIA H100/A100 GPU的ESC系列伺服器解決方案，強調其在AI訓練與推論上的卓越性能和能效比，並從Gcore正在擴展的AI雲基礎設施項目切入，提供POC測試機會。【中期（1-2年）】建立長期合作關係，深入了解Gcore的雲端基礎設施發展藍圖，提供客製化的伺服器解決方案，並透過ASUS全球服務網絡提供快速響應的技術支援與維護服務。【長期（2-3年）】成為Gcore在AI、雲端和邊緣運算領域的戰略合作夥伴，共同探索新技術和新市場，提供全面的ASUS伺服器產品線，涵蓋其資料中心、雲端節點和邊緣站點的所有需求。【關鍵行動】透過 Arrow Electronics 和 Ingram Micro 在盧森堡/歐洲的通路建立初步聯繫。",
-      "keyPerson": "Dmitriy Gusakovskiy (Director of Infrastructure)",
-      "techDecisionMaker": "Dmitriy Gusakovskiy | Director of Infrastructure | https://lu.linkedin.com/in/dmitriy-gusakovskiy-a2a172106 | 重點介紹ASUS伺服器在AI、雲端和邊緣運算領域的技術領先性，特別是針對NVIDIA H100/A100 GPU的優化設計，以及對最新Intel Xeon和AMD EPYC處理器的支援。",
-      "procurementDecisionMaker": "N/A | N/A | N/A | 強調ASUS伺服器在TCO上的優勢，包括具競爭力的採購價格、優異的能效表現（降低營運成本）以及可靠的售後服務（降低維護成本），並提供彈性的採購方案和供應鏈管理。",
+      "keyPerson": {
+        "name": "(推估) 待確認",
+        "title": "CIO",
+        "linkedin": "",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "Dmitriy Gusakovskiy",
+        "title": "Director of Infrastructure",
+        "linkedin": "https://lu.linkedin.com/in/dmitriysg",
+        "commStrategy": "聚焦GPU密度、散熱效率與低延遲網路，展示我們如何透過高效能基礎設施，支援其AI與邊緣運算業務的擴展。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Gediminas Venckus",
+        "title": "Head of Procurement",
+        "linkedin": "https://lt.linkedin.com/in/gediminas-venckus-mba-b91a04",
+        "commStrategy": "強調TCO優勢、供應鏈多元化以降低風險，並提供彈性的付款方案以符合其採購流程。"
+      },
       "siDist": [
         {
           "name": "Arrow Electronics",
@@ -4832,9 +4922,24 @@
       "difficulty": 8,
       "challenges": "【neocloud】【技術門檻】Beyond.pl作為AI Factory，對伺服器性能、散熱、擴展性及與NVIDIA生態系統的整合有極高要求，ASUS需證明其產品在這些方面的競爭力，並提供客製化解決方案。【供應鏈壁壘】數據中心市場競爭激烈，Beyond.pl已與NVIDIA、HPE等建立合作關係，ASUS需提供獨特價值主張才能切入。【商務挑戰】傾向OEM為主，可能涉及ODM客製化，需要ASUS具備彈性的供應鏈和研發能力。【產業特性】波蘭市場對本地化服務和語言支援有較高要求，且需符合歐盟資料主權和GDPR法規。",
       "entryPoint": "【neocloud】【短期（6-12個月）】針對Beyond.pl的AI Factory需求，主動聯繫技術決策者Wojciech Darłowski，展示ASUS在GPU伺服器（如ESC系列）和高密度運算方面的技術實力及成功案例。透過TD SYNNEX Poland等潛在SI/DIST合作夥伴，尋求引薦機會，共同提供整合解決方案。針對Beyond.pl的特定AI或HPC工作負載，提供小規模的ASUS伺服器POC方案。【中期（1-2年）】根據POC結果和Beyond.pl的具體需求，提供更深度的伺服器客製化服務，包括硬體配置、散熱方案、軟體整合等，並密切關注其資料中心園區的擴建計畫，爭取參與伺服器採購招標。【長期（2-3年）】成為Beyond.pl在AI和HPC領域的長期戰略供應商，共同探索新技術和解決方案。【關鍵行動】優先透過 TD SYNNEX Poland 建立關係，並積極參與波蘭 IT 展覽。",
-      "keyPerson": "Wojciech Darłowski (Management Board Member, Cloud and Managed Services)",
-      "techDecisionMaker": "Wojciech Darłowski | Management Board Member, Cloud and Managed Services | https://pl.linkedin.com/in/wojciech-darlowski | 突出ASUS GPU伺服器（ESC系列）的性能、擴展性、散熱技術以及與NVIDIA生態系統的兼容性，強調ASUS能根據Beyond.pl的特定需求提供靈活的硬體配置和軟體整合服務。",
-      "procurementDecisionMaker": "N/A | N/A | N/A | 強調ASUS伺服器在性能、可靠性、能效和售後服務方面的綜合優勢，幫助Beyond.pl降低長期運營成本，並針對其OEM為主採購模式，提供靈活的供應鏈管理和客製化生產能力。",
+      "keyPerson": {
+        "name": "Wojciech Stramski",
+        "title": "Chief Executive Officer",
+        "linkedin": "https://pl.linkedin.com/in/wojciechstramski",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "Piotr Kowalski",
+        "title": "Head of Innovation",
+        "linkedin": "https://pl.linkedin.com/in/piotr-kowalski-b4701913",
+        "commStrategy": "聚焦於我們伺服器的高 GPU 密度與卓越的散熱效率，這將如何支持 Beyond.pl 在 AI 和雲端服務領域的創新，並提升其數據中心的效能與永續性。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Wojciech Darłowski",
+        "title": "Member of the Board, Cloud and Managed Services",
+        "linkedin": "https://pl.linkedin.com/in/wojciech-darlowski",
+        "commStrategy": "強調我們解決方案的總體擁有成本 (TCO) 優勢，以及我們如何透過多元化的供應鏈和彈性的付款方式，協助 Beyond.pl 降低風險並優化營運。"
+      },
       "siDist": [
         {
           "name": "TD SYNNEX Poland",
@@ -4859,9 +4964,24 @@
       "difficulty": 8,
       "challenges": "【enterprise_general】【技術門檻】ATEA作為大型IT基礎設施服務提供商，其客戶群廣泛，對伺服器產品的穩定性、可靠性、擴展性和安全性要求極高。由於其現有供應商多為Dell、HPE等一線品牌，ASUS需證明其產品在性能、品質和服務上能與之競爭，甚至超越。【供應鏈壁壘】ATEA對Intel Xeon 6和AMD EPYC等最新處理器技術、DDR5、PCIe 5.0/CXL 2.0、DPU和液冷技術有明確需求，ASUS需確保其產品線能全面覆蓋這些先進技術。【商務挑戰】ATEA可能對客製化解決方案有需求，ASUS需展現其ODM能力和彈性，並與ATEA現有的多品牌生態系統相容。【產業特性】北歐市場對永續發展、能源效率和碳排放有嚴格要求，ASUS需提供符合北歐環保標準的解決方案。",
       "entryPoint": "【enterprise_general】【短期（6-12個月）】透過現有合作夥伴（如Intel、AMD）引薦，與ATEA的技術團隊建立聯繫，展示ASUS在AI/ML、HPC和資料中心解決方案上的技術實力。針對ATEA的特定需求，提供ASUS ESC8000系列或RS系列伺服器的測試樣機，並提供詳細的性能測試報告和技術支援。【中期（1-2年）】建立長期合作關係，成為ATEA的合格供應商之一，逐步擴大供貨份額，並針對ATEA的客製化需求，提供ODM服務，共同開發符合其客戶需求的伺服器產品。【長期（2-3年）】成為ATEA在特定領域（如AI、HPC）的首選伺服器供應商，與ATEA共同探索新興技術和市場機會，實現雙贏。【關鍵行動】優先透過 Arrow Electronics 和 ALSO Group 在北歐的通路建立關係，並積極參與北歐 IT 展覽。",
-      "keyPerson": "Kenneth Larsen (Senior VP & AMS CTO)",
-      "techDecisionMaker": "Kenneth Larsen | Senior Vice President & AMS CTO | https://dk.linkedin.com/in/kennethgl | 向技術決策者展示ASUS在AI/ML、HPC和資料中心解決方案的領先技術，特別是針對Intel Xeon 6和AMD EPYC最新處理器的支援、DDR5、PCIe 5.0/CXL 2.0、DPU和液冷技術的整合能力。",
-      "procurementDecisionMaker": "Jo Haugen | Director Procurement | https://no.linkedin.com/in/jo-haugen-118674462 | 向採購決策者強調ASUS伺服器在TCO、能源效率和長期穩定性方面的優勢，提供靈活的採購方案和供應鏈保障，並展示ASUS作為全球領先硬體供應商的實力與信譽。",
+      "keyPerson": {
+        "name": "Steinar Sønsteby",
+        "title": "CEO",
+        "linkedin": "https://no.linkedin.com/in/steinarsonsteby",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "Kenneth Larsen",
+        "title": "Senior Vice President & AMS CTO",
+        "linkedin": "https://dk.linkedin.com/in/kennethgl",
+        "commStrategy": "N/A"
+      },
+      "procurementDecisionMaker": {
+        "name": "（推估）Carl-Johan Hultenheim",
+        "title": "Chief Operating Officer",
+        "linkedin": "https://se.linkedin.com/in/chultenheim",
+        "commStrategy": "強調總體擁有成本（TCO）的優勢，並突顯我們如何透過多元化的供應鏈選擇和彈性的付款方案，來增強貴公司採購的韌性與效率。"
+      },
       "siDist": [
         {
           "name": "Arrow Electronics",
@@ -4917,7 +5037,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Sara Cattaneo",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=ABB%20Ltd%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -4997,7 +5117,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Angelique van der Burg",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Infineon%20Technologies%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -5041,7 +5161,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "（推估）Leonardo Zammarano",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Eni%20SpA%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -5115,7 +5235,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Antoine Vincent",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sopra%20Steria%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -5159,7 +5279,7 @@
         "commStrategy": "聚焦地質模擬 HPC、油田邊緣運算、以及碳排放監測 AI 的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Jannicke Nilsson",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Equinor%20(原%20Statoil)%20procurement%20VP",
         "commStrategy": "透過能源業 SI（如 Halliburton、Schlumberger IT 部門）或直接參與 RFP"
@@ -5203,7 +5323,7 @@
         "commStrategy": "聚焦 AI 推薦系統、供應鏈優化、以及門市邊緣 AI 的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "(推估) Marian Stewowitsch",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Delivery%20Hero%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
@@ -5247,7 +5367,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Senjaya Hidayat",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Bolt%20Technology%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -5291,7 +5411,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Ehab Khairat",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Liquid%20Intelligent%20Technologies%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -5401,7 +5521,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Andy Micallef",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=NXP%20Semiconductors%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -5445,7 +5565,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Karl Walton",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Wise%20(TransferWise)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -5495,7 +5615,7 @@
         "commStrategy": "強調伺服器的安全認證（FIPS 140-2/3、TPM 2.0）、高可用性設計、以及 AI/ML 交易系統的低延遲表現"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Heather Ostis",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Rolls-Royce%20Holdings%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
@@ -5575,7 +5695,7 @@
         "commStrategy": "強調伺服器的安全認證（FIPS 140-2/3、TPM 2.0）、高可用性設計、以及 AI/ML 交易系統的低延遲表現"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Krisztina Palfi",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Klarna%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
@@ -5619,7 +5739,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Jean Rouquet",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Adevinta%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -5663,7 +5783,7 @@
         "commStrategy": "聚焦 AI 推薦系統、供應鏈優化、以及門市邊緣 AI 的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Ion Ortiz San José",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Glovo%20(Delivery%20Hero%20子公司)%20procurement%20VP",
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
@@ -5707,7 +5827,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Amine Saidi",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Faurecia%20(FORVIA)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -5751,7 +5871,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Ahmet Güleç",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Getir%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -5795,7 +5915,7 @@
         "commStrategy": "強調伺服器的安全認證（FIPS 140-2/3、TPM 2.0）、高可用性設計、以及 AI/ML 交易系統的低延遲表現"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Lauren Richards",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Revolut%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
@@ -5839,7 +5959,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Frederic Hamelin",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ubisoft%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -5883,7 +6003,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Marjolaine Grange",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Safran%20Group%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -5927,7 +6047,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Rami Al Bishawi",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Zain%20Group%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -6037,7 +6157,7 @@
         "commStrategy": "聚焦 5G 核心網路、MEC（Multi-access Edge Computing）、以及 NFV/SDN 平台的伺服器需求"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Syed Mustafa Hussain Naqvi",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=du%20(Emirates%20Integrated%20Telecom)%20procurement%20VP",
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
@@ -6081,7 +6201,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Friedrich Suppan",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=A1%20Telekom%20Austria%20Group%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -6125,7 +6245,7 @@
         "commStrategy": "強調伺服器的安全認證（FIPS 140-2/3、TPM 2.0）、高可用性設計、以及 AI/ML 交易系統的低延遲表現"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "（推估）Sean Felton",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Zurich%20Insurance%20Group%20procurement%20VP",
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
@@ -6175,7 +6295,7 @@
         "commStrategy": "強調 HIPAA 合規伺服器方案、AI 醫療影像分析的 GPU 運算能力、以及高可靠性設計"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Nataša Vidmar",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=AstraZeneca%20procurement%20VP",
         "commStrategy": "透過醫療業 SI（如 Epic Systems 合作夥伴、Cerner 生態系）切入，醫療業採購重視長期服務合約"
@@ -6225,7 +6345,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "Olivier Gauwin",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dassault%20Systemes%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -6246,9 +6366,24 @@
       "difficulty": 8,
       "challenges": "【neocloud】【技術門檻】Arkane Cloud對GPU伺服器有高密度、高效能、散熱等嚴格要求，且已與NVIDIA等廠商建立合作。ASUS需證明其在這些領域的技術實力與客製化能力。【供應鏈壁壘】快速擴展至6,000 GPU叢集需要穩定的供應鏈和大規模交付能力，ASUS需展現其供應鏈的可靠性與彈性。【商務挑戰】Arkane Cloud已與多個供應商合作，ASUS需提供足夠的差異化優勢才能切入，且作為法國新創公司，採購決策可能較為靈活但預算有限。【產業特性】法國AI雲端市場競爭激烈，且對資料主權和本地化服務有較高要求。",
       "entryPoint": "【neocloud】【短期（6-12個月）】針對其擴展計畫，提供ASUS高密度GPU伺服器（如ESC8000-E12）的POC方案，展示ASUS在散熱、效能、管理軟體上的優勢。積極與其技術團隊溝通，了解其具體客製化需求，提供ODM合作的可能性，例如針對其液冷或特定機櫃設計提供解決方案。探討ASUS伺服器與其現有VAST Data、DDN等儲存解決方案的整合能力。【中期（1-2年）】在POC成功後，爭取小規模訂單，逐步建立信任，並在後續擴展計畫中爭取更大份額。邀請其技術團隊參訪ASUS研發中心，進行深度技術交流，共同開發符合未來AI基礎設施需求的解決方案。【長期（2-3年）】成為Arkane Cloud在AI基礎設施領域的核心供應商，隨著其6,000 GPU叢集的擴建，提供持續的供應鏈和技術支援。【關鍵行動】優先透過直供管道接觸 Julien Gauthier，並提供液冷GPU伺服器的技術展示。",
-      "keyPerson": "Julien Gauthier (CEO)",
-      "techDecisionMaker": "Julien Gauthier | CEO | https://fr.linkedin.com/in/julien-gauthier-b93a6a130/en | 強調ASUS伺服器在GPU密度、散熱解決方案、AI工作負載優化方面的技術優勢，並提供客製化解決方案以滿足其擴展至6,000 GPU叢集的需求。",
-      "procurementDecisionMaker": "N/A | N/A | N/A | 強調ASUS伺服器在性價比、供應鏈穩定性、售後服務方面的優勢，並提供彈性的採購模式（如ODM合作）以降低總體擁有成本。",
+      "keyPerson": {
+        "name": "（推估）Julien Gauthier",
+        "title": "CEO",
+        "linkedin": "https://fr.linkedin.com/in/julien-gauthier-b93a6a130/en",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "（推估）Julien Gauthier",
+        "title": "CEO",
+        "linkedin": "https://fr.linkedin.com/in/julien-gauthier-b93a6a130/en",
+        "commStrategy": "聚焦於我們伺服器的高GPU密度、先進的散熱技術以及低延遲的網路架構，如何協助他們為客戶提供更具競爭力的AI運算服務。"
+      },
+      "procurementDecisionMaker": {
+        "name": "（推估）Julien Gauthier",
+        "title": "CEO",
+        "linkedin": "https://fr.linkedin.com/in/julien-gauthier-b93a6a130/en",
+        "commStrategy": "強調我們的解決方案如何能顯著降低總體擁有成本(TCO)，並提供彈性的付款方式以支持其快速擴張。同時，突顯我們多元化的供應鏈能確保其核心GPU資源的穩定供應，降低斷鏈風險。"
+      },
       "siDist": [],
       "volumeSource": "https://www.megaport.com/podcasts/scaling-ai-cloud-infrastructure/",
       "industry": "NeoCloud/AI",
@@ -6291,7 +6426,7 @@
         "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
       },
       "procurementDecisionMaker": {
-        "name": "",
+        "name": "（推估）Daniel Lappas",
         "title": "VP of Procurement / Chief Procurement Officer",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=N26%20(Number26)%20procurement%20VP",
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
@@ -6312,9 +6447,24 @@
       "difficulty": 8,
       "challenges": "【neocloud】【技術門檻】i3D.net對低延遲、高性能、高可靠性有極高要求，且其基礎設施涵蓋全球六大洲，技術整合與維護複雜。現有供應商Dell、Supermicro等已形成穩定供應鏈，切入需證明ASUS在性能、穩定性及全球服務支援上的顯著優勢。特別是遊戲託管對CPU單核性能、GPU運算和網路延遲有嚴苛要求。【供應鏈壁壘】i3D.net作為Ubisoft旗下公司，採購決策可能涉及集團層面的審批，且對供應商的全球服務能力和快速響應有嚴格要求。【商務挑戰】遊戲和媒體行業對成本敏感，ASUS需提供具競爭力的TCO方案，並展示其在全球服務支援方面的能力。【產業特性】遊戲行業的工作負載具有高度波動性，需要供應商提供靈活的擴展方案和快速交付能力。",
       "entryPoint": "【neocloud】【短期（6-12個月）】突出ASUS伺服器在高性能、低延遲、高密度及散熱技術上的優勢，特別是針對遊戲託管和AI/ML工作負載的優化，強調ASUS在Intel、AMD及NVIDIA平台上的廣泛產品線與客製化能力，提供詳細的技術白皮書、測試報告及成功案例。【中期（1-2年）】建立與i3D.net技術團隊的深度合作關係，提供客製化的伺服器解決方案，並透過ASUS全球服務網絡提供快速響應的技術支援與維護服務。【長期（2-3年）】成為i3D.net在全球遊戲和AI基礎設施領域的核心供應商，隨著其業務擴張，提供全球化的供應鏈和服務支援。【關鍵行動】優先透過直供管道接觸 Giovanni Intini 的技術團隊，並提供遊戲伺服器專屬的性能基準測試報告。",
-      "keyPerson": "Giovanni Intini (CTO)",
-      "techDecisionMaker": "Giovanni Intini | CTO | https://ie.linkedin.com/in/intinig | 突出ASUS伺服器在高性能、低延遲、高密度及散熱技術上的優勢，特別是針對遊戲託管和AI/ML工作負載的優化，強調ASUS在Intel、AMD及NVIDIA平台上的廣泛產品線與客製化能力。",
-      "procurementDecisionMaker": "N/A | N/A | N/A | 強調ASUS作為全球領先硬體供應商的穩定性與可靠性，提供具競爭力的價格與彈性的供應鏈管理，展示ASUS在伺服器領域的長期承諾與研發投入，確保產品生命週期支援。",
+      "keyPerson": {
+        "name": "Ivo Teel",
+        "title": "CEO",
+        "linkedin": "https://nl.linkedin.com/in/ivoteel",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "Giovanni Intini",
+        "title": "CTO",
+        "linkedin": "https://ie.linkedin.com/in/intinig",
+        "commStrategy": "聚焦於我們高GPU密度與優異散熱效率的伺服器如何協助貴公司在不犧牲效能的前提下，有效降低基礎設施的複雜性與營運成本。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Wim Sombroek",
+        "title": "Director of Customer Excellence",
+        "linkedin": "https://nl.linkedin.com/in/wimsombroek",
+        "commStrategy": "強調我們伺服器解決方案的總體擁有成本 (TCO) 優勢，以及我們如何透過多元化的供應鏈幫助您降低風險並增加採購彈性。"
+      },
       "siDist": [],
       "volumeSource": "https://www.i3d.net/",
       "industry": "NeoCloud/AI",
@@ -6334,9 +6484,24 @@
       "difficulty": 8,
       "challenges": "【neocloud】【技術門檻】SAP Cloud Infrastructure基於OpenStack和Kubernetes，並高度依賴Intel平台，對硬體相容性、穩定性及效能有嚴格要求。現有供應商均為大型雲服務商或知名硬體廠商，ASUS需證明其產品在SAP生態系統中的兼容性與優勢。【供應鏈壁壘】SAP Cloud Infrastructure以OEM採購為主，且已與多家超大規模雲服務商建立合作關係，ASUS需找到差異化競爭優勢，並證明其供應鏈能力可滿足大規模、客製化需求。【商務挑戰】ASUS在企業級伺服器市場的品牌認知度可能不如現有供應商，需投入更多資源建立信任。【產業特性】SAP作為全球最大的企業軟體公司，其雲端基礎設施採購決策涉及多層審批，且對供應商的企業級支援能力和長期承諾有嚴格要求。",
       "entryPoint": "【neocloud】【短期（6-12個月）】針對SAP Cloud Infrastructure的AI工作負載需求，推廣ASUS的GPU伺服器解決方案，強調其在AI運算效能、散熱技術及能效方面的優勢，爭取小規模試點專案。同時，積極參與SAP的硬體認證計畫，確保ASUS伺服器與SAP HANA及OpenStack/Kubernetes環境的完全兼容性。【中期（1-2年）】在成功完成AI試點專案後，逐步擴展至通用型Intel伺服器，提供具競爭力的性價比和客製化選項，可透過與SAP現有超大規模雲服務商合作，作為其硬體供應商之一，間接進入SAP Cloud Infrastructure的供應鏈。【長期（2-3年）】建立長期合作關係，成為SAP Cloud Infrastructure的策略性硬體供應商，提供全方位的伺服器產品線和解決方案，並參與其未來基礎設施的規劃與設計。【關鍵行動】優先取得 SAP HANA 硬體認證，並透過 SAP 合作夥伴計畫建立官方合作關係。",
-      "keyPerson": "Lalit Patil (EVP & CTO, Global Cloud Operations)",
-      "techDecisionMaker": "Lalit Patil | EVP & Chief Technology Officer, Global Cloud Operations | https://de.linkedin.com/in/lalit-patil-8647a39 | 強調ASUS伺服器在Intel平台上的優異效能和穩定性，特別是針對SAP HANA和OpenStack/Kubernetes環境的優化，展示ASUS在AI伺服器領域的領先技術，如高效能GPU支援、先進散熱解決方案。",
-      "procurementDecisionMaker": "Siv Rispoli | Global Procurement - Category Strategy Manager for Cloud IaaS | https://www.linkedin.com/in/siv-rispoli/en | 強調ASUS作為全球領先的硬體供應商，具備強大的研發實力、生產能力和全球供應鏈，能確保產品的穩定供應和高品質，並提供具競爭力的價格和彈性的採購條款。",
+      "keyPerson": {
+        "name": "Thomas Saueressig",
+        "title": "Member of the Executive Board, Customer Services & Delivery",
+        "linkedin": "https://de.linkedin.com/in/thsaueressig",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "Thomas Saueressig",
+        "title": "Member of the Executive Board, Customer Services & Delivery",
+        "linkedin": "https://de.linkedin.com/in/thsaueressig",
+        "commStrategy": "針對其負責的雲端基礎設施、營運及生命週期管理，聚焦於我們伺服器的高運算密度、先進散熱技術與低延遲特性，如何提升 SAP 全球客戶雲端服務的效能與可靠性。說明我們的架構能無縫整合至其現有維運流程，並支援 AI 應用的擴展。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Nikolaus Kirner",
+        "title": "Chief Procurement Officer",
+        "linkedin": "https://de.linkedin.com/in/chiefprocurementofficer",
+        "commStrategy": "向其強調我們伺服器解決方案的總體擁有成本 (TCO) 優勢，突顯我們具備彈性的全球供應鏈如何協助 SAP 分散風險並確保供貨穩定。同時，提出靈活的付款方案選項，以支援其大規模採購的財務規劃。"
+      },
       "siDist": [],
       "volumeSource": "https://en.wikipedia.org/wiki/SAP_Cloud_Infrastructure",
       "industry": "科技",
@@ -6356,9 +6521,24 @@
       "difficulty": 8,
       "challenges": "【neocloud】【技術門檻】Ori Industries作為AI基礎設施提供商，對伺服器性能、穩定性和客製化有極高要求，已有自己的AI Fabric平台和現有的GPU部署經驗，且可能與NVIDIA有深度合作。ASUS需要證明其AI伺服器在性能、擴展性、管理工具和技術支援方面具有競爭優勢，並能與Ori現有平台無縫整合。【供應鏈壁壘】Ori Industries近期被Brookfield旗下的Radiant收購，採購決策流程可能更加複雜，並可能涉及Radiant的現有供應鏈。【商務挑戰】作為新興的AI雲服務提供商，Ori Industries的採購規模可能快速增長，但目前尚未建立大規模的採購體系，需要ASUS提供靈活的供應鏈方案。【產業特性】英國市場對資料主權和本地化服務有較高要求，且需符合英國脫歐後的相關法規。",
       "entryPoint": "【neocloud】【短期（6-12個月）】強調ASUS AI伺服器的領先技術、高性能（特別是針對NVIDIA B200/H200/H100等GPU的優化）、散熱設計、穩定性、易於管理性（ASUS ASMB9-iKVM、ASUS Control Center）以及與Kubernetes等AI編排平台的兼容性，提供詳細的技術白皮書、性能基準測試報告，並安排技術交流會議。【中期（1-2年）】建立與Ori Industries技術團隊的深度合作關係，共同開發或優化ASUS伺服器與Ori AI Fabric平台的整合方案，提供客製化服務以滿足其特定需求。同時，積極與Radiant的採購部門建立聯繫，了解其整體採購策略和供應商管理模式。【長期（2-3年）】成為Ori Industries在AI基礎設施領域的核心供應商，隨著其業務擴張，提供全球化的供應鏈和服務支援。【關鍵行動】優先透過 Arrow Electronics 和 Ingram Micro 英國分支建立關係。",
-      "keyPerson": "N/A",
-      "techDecisionMaker": "N/A | N/A | N/A | 強調ASUS AI伺服器的領先技術、高性能（特別是針對NVIDIA B200/H200/H100等GPU的優化）、散熱設計、穩定性、易於管理性以及與Kubernetes等AI編排平台的兼容性。",
-      "procurementDecisionMaker": "N/A | N/A | N/A | 強調ASUS伺服器的TCO、供應鏈的穩定性、產品的可靠性、全球服務支援能力以及客製化彈性，提供具競爭力的價格方案，並說明ASUS如何協助Ori Industries優化其AI基礎設施的採購和部署流程。",
+      "keyPerson": {
+        "name": "Melissa Doré",
+        "title": "Co-Founder & VP of Community",
+        "linkedin": "https://www.linkedin.com/in/melissadore/",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "Mahdi Yahya",
+        "title": "Founder & CEO",
+        "linkedin": "https://uk.linkedin.com/in/mahdi-y",
+        "commStrategy": "聚焦於我們的AI基礎設施如何提供卓越的GPU密度和散熱效率，從而加速模型訓練和擴展，同時確保系統的穩定性和可靠性。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Richard Tame",
+        "title": "Chief Financial Officer",
+        "linkedin": "https://www.linkedin.com/in/richardtame",
+        "commStrategy": "強調我們的解決方案如何透過優化基礎設施支出來降低總體擁有成本（TCO），並提供靈活的付款方式以支援您的財務目標。"
+      },
       "siDist": [
         {
           "name": "Arrow Electronics",
@@ -6387,9 +6567,24 @@
       "difficulty": 8,
       "challenges": "【neocloud】【技術門檻】DeepL 已採用 NVIDIA 最新的 DGX SuperPOD 和 GB200 系統，對伺服器性能、擴展性、穩定性及軟硬體整合度有極高要求。ASUS 需證明其產品在這些方面能與 NVIDIA 解決方案無縫整合，並提供額外價值。【供應鏈壁壘】DeepL 與 NVIDIA 和 EcoDataCenter 建立了穩固的合作關係，要取代或成為其主要供應商之一，需要克服現有供應商的先發優勢和信任壁壘。【商務挑戰】DeepL 的採購模式傾向 OEM 為主但有深度客製化，ASUS 需展現其在客製化設計和軟體優化方面的能力，以滿足其特定的 AI 工作負載需求。【產業特性】德國企業對資料安全、GDPR合規和本地化服務有嚴格要求，且DeepL強調永續發展，需要供應商提供符合環保標準的解決方案。",
       "entryPoint": "【neocloud】【短期（6-12個月）】透過 ASUS AI POD with NVIDIA GB200 NVL72 等產品，強調 ASUS 在 NVIDIA 生態系統中的整合能力，尋求與 DeepL 進行技術交流，展示 ASUS 在高性能 AI 伺服器領域的專業知識和解決方案，可從非核心或新興 AI 專案切入，提供概念驗證 (PoC)。強調 ASUS 伺服器在散熱、能效、管理便利性等方面的優勢，特別是針對大規模 AI 部署的長期運營成本效益。【中期（1-2年）】根據 DeepL 的具體需求，提供高度客製化的伺服器解決方案，包括硬體配置、軟體優化和系統整合服務，並探索與 EcoDataCenter 建立更緊密的合作關係，共同為 DeepL 提供整合的資料中心和伺服器解決方案。【長期（2-3年）】成為 DeepL 在 AI 基礎設施領域的核心供應商，隨著其業務擴張，提供全球化的供應鏈和服務支援。【關鍵行動】優先透過 EcoDataCenter 建立三方合作模式，並積極參與德國 AI 生態系活動。",
-      "keyPerson": "Sebastian Enderlein (CTO)",
-      "techDecisionMaker": "Sebastian Enderlein | Chief Technology Officer (CTO) | https://de.linkedin.com/in/sebastianenderlein | 強調 ASUS 伺服器在 AI 訓練和推論方面的卓越性能、能效比和擴展性，特別是與 NVIDIA 最新技術的整合優勢，並提供其他 AI 領域客戶的成功案例。",
-      "procurementDecisionMaker": "Mark Ashton | Director of Procurement | https://uk.linkedin.com/in/mark-ashton-65964022 | 強調 ASUS 伺服器在長期運營中如何降低 TCO，包括能耗、維護和管理成本，並強調 ASUS 作為全球領先的硬體供應商，具備穩定的供應鏈和靈活的生產能力。",
+      "keyPerson": {
+        "name": "Jaroslaw Kutylowski",
+        "title": "Founder and CEO",
+        "linkedin": "https://de.linkedin.com/in/jarekkut",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "Sebastian Enderlein",
+        "title": "Chief Technology Officer",
+        "linkedin": "https://www.linkedin.com/in/sebastianenderlein",
+        "commStrategy": "聚焦於我們伺服器的高運算密度、先進散熱技術如何支持大規模AI模型訓練與推論，以及我們的架構如何幫助貴公司在維持業界領先的AI翻譯服務的同時，有效控制基礎設施成本與能耗。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Mark Ashton",
+        "title": "Director of Procurement",
+        "linkedin": "https://uk.linkedin.com/in/mark-ashton-65964022",
+        "commStrategy": "強調我們伺服器解決方案的總體擁有成本（TCO）優勢，並說明我們如何透過多元化的供應鏈策略確保供貨穩定與彈性，同時提供靈活的付款條件以支持您的採購流程。"
+      },
       "siDist": [
         {
           "name": "EcoDataCenter",
@@ -6414,9 +6609,24 @@
       "difficulty": 7,
       "challenges": "【neocloud】【技術門檻】Hivenet專注於分散式雲端基礎設施和GPU運算，對伺服器性能、穩定性及能源效率有高要求。ASUS需證明其產品在這些方面的競爭力。【供應鏈壁壘】作為新創公司，Hivenet可能傾向於成本效益高的解決方案，且採購流程可能較為靈活，但對供應商的技術支援和客製化能力有期待。【商務挑戰】分散式雲端和AI/HPC領域競爭激烈，Hivenet可能已與其他供應商建立合作關係。【產業特性】瑞士市場對資料安全、隱私保護和永續發展有嚴格要求，且瑞士法規對資料主權的要求較高。",
       "entryPoint": "【neocloud】【短期（6-12個月）】透過技術研討會或線上展示，強調ASUS GPU伺服器在AI/HPC領域的卓越性能和能源效率，特別是針對RTX 4090/5090的支援，可提供概念驗證（PoC）方案，展示ASUS解決方案如何優化其分散式雲端平台。【中期（1-2年）】建立與Hivenet技術團隊的深度合作關係，提供客製化解決方案，滿足其對VMs和特定工作負載的需求，可探討共同開發或優化特定軟硬體整合方案的可能性。【長期（2-3年）】將Hivenet納入ASUS的策略合作夥伴生態系統，共同探索新技術和市場機會，例如在邊緣運算或特定產業解決方案上的合作。【關鍵行動】優先透過 Bechtle 和 Computacenter 在瑞士的通路建立關係。",
-      "keyPerson": "David Gurle (Founder & CEO)",
-      "techDecisionMaker": "David Gurle | Founder & CEO | https://www.linkedin.com/in/davidgurle/ | 深入溝通ASUS伺服器在GPU運算、散熱技術、系統管理和軟體整合方面的技術優勢，提供詳細的產品規格、性能測試報告和技術白皮書，可邀請Hivenet技術團隊參與ASUS的技術交流活動或提供測試樣機。",
-      "procurementDecisionMaker": "N/A | N/A | N/A | 強調ASUS伺服器解決方案的TCO優勢，包括能源效率、可靠性和長期支援，提供彈性的採購和服務模式，以適應Hivenet的成長需求。",
+      "keyPerson": {
+        "name": "Stuart Riley",
+        "title": "Advisor",
+        "linkedin": "https://uk.linkedin.com/in/rileys",
+        "source": "https://procurementmag.com/executive/stuart-riley"
+      },
+      "techDecisionMaker": {
+        "name": "Amine Ismail",
+        "title": "CTO",
+        "linkedin": "https://www.linkedin.com/in/amine-ismail-ph-d-5993931b/",
+        "commStrategy": "聚焦GPU密度與散熱效率，展示我們如何透過創新技術降低總體擁有成本，並分享成功案例。"
+      },
+      "procurementDecisionMaker": {
+        "name": "（推估）Tom Martin",
+        "title": "VP of Enterprise Procurement",
+        "linkedin": "https://uk.linkedin.com/in/tom-martin-growth",
+        "commStrategy": "強調TCO優勢與供應鏈多元化價值，並提供彈性的付款方案。"
+      },
       "siDist": [
         {
           "name": "Bechtle",
@@ -6445,9 +6655,24 @@
       "difficulty": 8,
       "challenges": "【neocloud】【技術門檻】Policloud專注於分散式、主權雲端解決方案，強調高密度GPU運算、邊緣部署及低環境影響。其微型資料中心設計獨特，對伺服器客製化程度、散熱、能效及尺寸有嚴格要求。ASUS需證明其伺服器產品能無縫整合至Policloud的模組化容器中，並符合其對水冷、低功耗及高運算密度的需求。【供應鏈壁壘】Policloud與Hivenet的軟體整合也需考量，ASUS需確保其硬體能與Hivenet的軟體平台相容。【商務挑戰】Policloud的目標是挑戰超大規模雲端供應商，其競爭對手可能包括CoreWeave、NVIDIA及VAST Data等，ASUS需展現其產品在性能、成本效益及客製化方面的優勢。【產業特性】法國分散式雲端市場對資料主權和本地化服務有極高要求，且需符合法國特定的環保和能源法規。",
       "entryPoint": "【neocloud】【短期（6-12個月）】針對Policloud的微型資料中心設計，提供ASUS高密度GPU伺服器（如ESC8000-E12）的客製化解決方案，強調其在散熱、能效及尺寸上的優勢，並提供POC測試。同時，可探討與Hivenet的軟體平台進行整合的可能性。【中期（1-2年）】在POC成功後，爭取成為Policloud微型資料中心的伺服器供應商，並提供彈性的供應鏈管理及技術支援，可考慮與當地SI合作夥伴共同提供整體解決方案，加速部署。【長期（2-3年）】隨著Policloud的擴張（計畫2030年前部署1,000個主權微型資料中心），深化合作關係，共同開發符合未來邊緣運算及AI工作負載需求的伺服器產品，並將ASUS的伺服器納入Policloud的標準配置中。【關鍵行動】優先透過直供管道接觸 Jean-Baptiste Gouret，並提供水冷GPU伺服器的技術展示。",
-      "keyPerson": "Jean-Baptiste Gouret (CTO)",
-      "techDecisionMaker": "Jean-Baptiste Gouret | CTO Policloud | https://ae.linkedin.com/in/jbgouret | 強調ASUS伺服器在AI/HPC領域的領先技術，特別是高密度GPU伺服器（如ESC8000-E12）的性能、散熱解決方案（如水冷）及能效優勢，展示ASUS伺服器如何滿足Policloud對邊緣運算、資料主權及低環境影響的需求。",
-      "procurementDecisionMaker": "N/A | N/A | N/A | 強調ASUS作為全球領先伺服器供應商的穩定性、供應鏈彈性及成本效益，提供具競爭力的價格和客製化選項，並展示ASUS在EMEA地區的成功案例和服務網絡。",
+      "keyPerson": {
+        "name": "David Gurlé",
+        "title": "Founder and CEO",
+        "linkedin": "https://www.linkedin.com/in/davidgurle",
+        "source": ""
+      },
+      "techDecisionMaker": {
+        "name": "Jean-Baptiste Gouret",
+        "title": "CTO",
+        "linkedin": "https://ae.linkedin.com/in/jbgouret",
+        "commStrategy": "我們的伺服器解決方案專為高密度 AI 工作負載設計，能提供卓越的 GPU 運算能力與領先的散熱效率。這將有助於 Policloud 在其主權微型資料中心內，以更低的營運成本和更小的空間佔用，實現高效能的 AI 推論與運算。"
+      },
+      "procurementDecisionMaker": {
+        "name": "（推估）Christophe Torride",
+        "title": "COO",
+        "linkedin": "https://www.linkedin.com/in/ctorride",
+        "commStrategy": "針對 Policloud 快速擴展微型資料中心的需求，我們的解決方案可提供顯著的總體擁有成本 (TCO) 優勢。同時，我們能協助貴公司實現供應鏈多元化，降低地緣政治風險，並提供彈性的付款方案以支持您的全球業務擴張。"
+      },
       "siDist": [],
       "volumeSource": "https://www.datacenterdynamics.com/en/news/french-ai-cloud-startup-policloud-plans-1000-sovereign-micro-data-center-deployments-by-2030/",
       "industry": "NeoCloud/AI",
@@ -6467,9 +6692,24 @@
       "difficulty": 8,
       "challenges": "【enterprise_general】【技術門檻】Cloudfellow作為IT諮詢公司，其自身伺服器採購量極低，主要為客戶提供雲端解決方案。切入點不在於直接銷售伺服器給Cloudfellow，而在於影響其對客戶的硬體推薦。需證明ASUS伺服器在雲端環境下的兼容性、性能與成本效益。【供應鏈壁壘】小型諮詢公司的採購決策通常由技術主管兼任，缺乏專職採購部門，採購流程不透明，難以標準化切入。【商務挑戰】Cloudfellow的主要業務是雲端服務諮詢，直接的伺服器採購需求極低，ASUS需要透過影響其客戶推薦來間接獲益。【產業特性】英國IT諮詢市場競爭激烈，且Cloudfellow規模較小，對ASUS的直接採購價值有限。",
       "entryPoint": "【enterprise_general】【短期（6-12個月）】透過技術研討會或合作夥伴計畫，向Cloudfellow展示ASUS伺服器在Azure Stack HCI、混合雲解決方案上的優勢，將ASUS納入其客戶推薦硬體清單，可提供測試設備或POC支援，以建立信任。【中期（1-2年）】與Cloudfellow建立戰略合作夥伴關係，共同開發針對特定產業或應用場景的解決方案，將ASUS伺服器作為其地端或邊緣運算解決方案的預設硬體平台。【長期（2-3年）】透過Cloudfellow的客戶網絡，擴大ASUS伺服器在EMEA地區中小型企業市場的滲透率，並持續提供技術支援與培訓。【關鍵行動】優先透過 Arrow Electronics 和 Ingram Micro 的合作夥伴計畫建立關係，並將 Cloudfellow 納入 ASUS 合作夥伴生態系統。",
-      "keyPerson": "Dinesh Chandra Babu Birisetti (Director & Infrastructure Solutions Architect)",
-      "techDecisionMaker": "Dinesh Chandra Babu Birisetti | Director & Infrastructure Solutions Architect | https://uk.linkedin.com/in/dinesh-chandra-babu-birisetti-17225169 | 針對技術決策者溝通ASUS伺服器在性能、擴展性、能源效率、與主流雲端平台（如Azure）的兼容性、以及對新興技術（如AI/HPC）的支援能力，強調ASUS的研發實力與客製化彈性。",
-      "procurementDecisionMaker": "N/A | N/A | N/A | 針對採購決策者溝通ASUS伺服器的TCO優勢、可靠性、全球服務網絡以及彈性的供應鏈，強調ASUS作為全球領先硬體供應商的品牌實力與長期支援承諾。",
+      "keyPerson": {
+        "name": "Dr. Elvia Hursh",
+        "title": "Co-founder",
+        "linkedin": "N/A",
+        "source": "https://www.cloudfellow.com/about-us/"
+      },
+      "techDecisionMaker": {
+        "name": "Donald Hursh",
+        "title": "Owner and President",
+        "linkedin": "https://www.linkedin.com/in/donhursh",
+        "commStrategy": "聚焦於我們的雲端解決方案和資訊安全服務如何協助他們為客戶提供更穩定、更安全的服務，並分享成功案例。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Donald Hursh",
+        "title": "Owner and President",
+        "linkedin": "https://www.linkedin.com/in/donhursh",
+        "commStrategy": "強調我們的解決方案如何能為中小型企業提供企業級的IT支援服務，從而提升其市場競爭力，並提供靈活的付款方式以符合其預算。"
+      },
       "siDist": [
         {
           "name": "Arrow Electronics",
