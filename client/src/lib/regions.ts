@@ -74,7 +74,7 @@ const regions: Record<RegionKey, RegionConfig> = {
     key: "apac",
     label: "亞太 (APAC)",
     shortLabel: "APAC",
-    description: "亞太地區 Top 104 伺服器採購商",
+    description: "亞太地區 Top 105 伺服器採購商",
     companies: apacData.companies as Company[],
     totalVolume: "~4.2M",
     color: "bg-emerald-500",

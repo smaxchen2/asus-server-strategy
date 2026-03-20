@@ -5687,6 +5687,63 @@
     },
     {
       "rank": 91,
+      "company": "Brothers Pictures (bro.game)",
+      "region": "泰國",
+      "volume": "約 500-2,000 台/年 (估計值，基於 GeForce NOW 雲端遊戲服務，目標 30 萬用戶，使用 RTX 4080/5080 GPU 伺服器)",
+      "platform": "NVIDIA RTX 4080 GPU 伺服器（現有），RTX 5080 GPU 伺服器（規劃中）。1U-2U 遊戲 GPU 伺服器架構，每台伺服器支援 8-16 個並行遊戲串流",
+      "application": "GeForce NOW 雲端遊戲串流服務（NVIDIA 官方聯盟夥伴），支援 2,200+ 遊戲，4K/120FPS。附加應用：CG 渲染、動畫工作室算力出租",
+      "currentSuppliers": "未確認（推測為 NVIDIA 合作的 ODM/OEM 供應商）",
+      "odmOem": "Mixed",
+      "asusModel": "雲端遊戲 GPU: ESC4000A-E12 (AMD GPU), ESC8000-E12 (4U 8-GPU)；通用伺服器: RS720-E12 (2U), RS700-E11 (1U)",
+      "channel": "SI/DIST: Telehouse Thailand (資料中心夥伴); Com7 (零售通路)",
+      "difficulty": 6,
+      "challenges": "【NeoCloud/AI 新創戰術】【技術門檻】Brother Pictures 使用 NVIDIA GeForce RTX 遊戲級 GPU（非企業級 HGX），伺服器規格與傳統 AI 伺服器不同，需要針對雲端遊戲串流優化的方案。【供應鏈壁壘】作為 NVIDIA GeForce NOW Alliance Partner，可能受 NVIDIA 推薦供應商影響，但非強制綁定。投資規模 1.6 億泰銖（約 450 萬美元）相對較小。【商務挑戰】公司規模較小，採購決策集中於 CEO，需要建立直接高層關係。預算有限，對 TCO 敏感度高。【產業特性】雲端遊戲市場快速成長，泰國定位為東南亞雲端遊戲樞紐（覆蓋 CLMV 國家），未來擴展潛力大。",
+      "entryPoint": "【NeoCloud/AI 新創戰術】【短期（6-12個月）】1. 透過 Telehouse Thailand 的 KDDI 母公司關係建立接觸，ASUS 與 KDDI 在日本已有合作基礎。2. 提供 ASUS 遊戲 GPU 伺服器的 POC 測試，展示在 GeForce NOW 串流場景下的效能與穩定性優勢。3. 針對 RTX 5080 升級需求，提供預配置的 GPU 伺服器方案。【中期（1-2年）】4. 支援 Brother Pictures 擴展至 CLMV 市場（柬埔寨、寮國、緬甸、越南），提供區域部署方案。5. 提供 CG 渲染與 AI 推論的多用途伺服器方案，協助其拓展非遊戲業務。【長期（2-3年）】6. 隨著用戶規模從 30 萬成長至百萬級，成為其核心伺服器供應商。7. 共同開發針對東南亞雲端遊戲市場的客製化伺服器方案。【關鍵行動】透過 KDDI/Telehouse 關係安排與 CEO Alan Archapiraj 的技術交流會議。",
+      "keyPerson": {
+        "name": "Alan Archapiraj",
+        "title": "CEO, Brothers Pictures",
+        "linkedin": "https://www.linkedin.com/in/alan-archapiraj-24035037",
+        "source": "LinkedIn / BrickInfoTV"
+      },
+      "techDecisionMaker": {
+        "name": "Alan Archapiraj",
+        "title": "CEO, Brothers Pictures",
+        "linkedin": "https://www.linkedin.com/in/alan-archapiraj-24035037",
+        "commStrategy": "以 ASUS 在 NVIDIA GPU 伺服器領域的技術實力為切入點，展示針對 GeForce NOW 串流場景優化的伺服器方案。強調 ASUS 與 NVIDIA 的深度合作關係（NVIDIA Preferred Partner），以及在日本 KDDI/Telehouse 生態系的成功經驗。提供 RTX 5080 升級方案的技術規格與效能基準測試。"
+      },
+      "procurementDecisionMaker": {
+        "name": "Alan Archapiraj",
+        "title": "CEO, Brothers Pictures",
+        "linkedin": "https://www.linkedin.com/in/alan-archapiraj-24035037",
+        "commStrategy": "強調 ASUS 的價格競爭力與 TCO 優勢，提供靈活的付款方案適合新創公司的現金流需求。展示 ASUS 在東南亞的在地支援能力與快速交付優勢。提供階段性採購方案，配合其用戶成長節奏逐步擴充。"
+      },
+      "siDist": [
+        {
+          "name": "Telehouse Thailand",
+          "website": "https://www.telehouse.co.th",
+          "type": "DC Partner",
+          "isActual": true
+        },
+        {
+          "name": "Com7",
+          "website": "https://www.com7.com",
+          "type": "Retail Partner",
+          "isActual": true
+        },
+        {
+          "name": "SiS Distribution (Thailand)",
+          "website": "https://www.sisthai.com",
+          "type": "DIST",
+          "isActual": false
+        }
+      ],
+      "actualSiPartners": "Telehouse Thailand, Com7",
+      "volumeSource": "https://brickinfotv.com/en/278757",
+      "industry": "NeoCloud/AI",
+      "archetype": "neocloud"
+    },
+    {
+      "rank": 92,
       "company": "Daewoo E&C (現 DL E&C)",
       "region": "韓國",
       "volume": "約 3,000 - 5,000 台/年",
@@ -5730,7 +5787,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 92,
+      "rank": 93,
       "company": "Daikin Industries",
       "region": "日本",
       "volume": "約 3,000 - 5,000 台/年",
@@ -5786,7 +5843,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 93,
+      "rank": 94,
       "company": "Meesho",
       "region": "印度",
       "volume": "約 3,000 - 5,000 台/年",
@@ -5836,7 +5893,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 94,
+      "rank": 95,
       "company": "DeNA Co., Ltd.",
       "region": "日本",
       "volume": "約 3,000 - 5,000 台/年",
@@ -5880,7 +5937,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 95,
+      "rank": 96,
       "company": "Suzuki Motor Corporation",
       "region": "日本",
       "volume": "約 3,000 - 5,000 台/年",
@@ -5930,7 +5987,7 @@
       "archetype": "automotive"
     },
     {
-      "rank": 96,
+      "rank": 97,
       "company": "Woolworths Group",
       "region": "澳洲",
       "volume": "約 3,000 - 5,000 台/年",
@@ -5974,7 +6031,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 97,
+      "rank": 98,
       "company": "Stability AI (亞太業務)",
       "region": "日本/亞太",
       "volume": "約 2,000 - 5,000 台/年（亞太區域）",
@@ -6018,7 +6075,7 @@
       "archetype": "neocloud"
     },
     {
-      "rank": 98,
+      "rank": 99,
       "company": "Celltrion",
       "region": "韓國",
       "volume": "約 2,000 - 5,000 台/年",
@@ -6062,7 +6119,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 99,
+      "rank": 100,
       "company": "Sharp Corporation",
       "region": "日本",
       "volume": "約 2,000 - 5,000 台/年",
@@ -6112,7 +6169,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 100,
+      "rank": 101,
       "company": "Byju's (Think & Learn)",
       "region": "印度",
       "volume": "約 2,000 - 5,000 台/年",
@@ -6156,7 +6213,7 @@
       "archetype": "enterprise_general"
     },
     {
-      "rank": 101,
+      "rank": 102,
       "company": "Bridgestone Corporation",
       "region": "日本",
       "volume": "約 2,000 - 5,000 台/年",
@@ -6239,7 +6296,7 @@
         }
       ],
       "volumeSource": "https://holdings.panasonic/global/corporate/investors/pdf/annual/2024/pana_ar2024e_a4.pdf",
-      "rank": 102,
+      "rank": 103,
       "industry": "科技/製造",
       "techDecisionMaker": {
         "name": "Anurag Verma",
@@ -6289,7 +6346,7 @@
         }
       ],
       "volumeSource": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/Annual-Reports/FY-2025/kotak-mahindra-bank/Kotak-Mahindra-Bank-Limited-FY25.pdf",
-      "rank": 103,
+      "rank": 104,
       "industry": "金融",
       "techDecisionMaker": {
         "name": "Himanshu Soni",
@@ -6306,7 +6363,7 @@
       "archetype": "financial"
     },
     {
-      "rank": 104,
+      "rank": 105,
       "company": "RunSun Cloud (潤陽)",
       "region": "新加坡",
       "volume": "約 500-1,500 台/年 (此為估計值。基於其作為新興高階 GPU 雲端服務提供商，專注於最新的 NVIDIA 技術，並已開始產生服務收入。採購量將隨著其客戶增長而快速擴大)。",
