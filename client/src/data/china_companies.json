@@ -63,7 +63,9 @@
         "compositeScore": 5.5
       },
       "preciseStrikePoint": "豆包大模型持續擴張，年算力需求全球最大級別；海外 TikTok 業務急需合規供應商；目前供應商以中國本土為主，國際品牌佔比低",
-      "asusEntryStrategy": "以「海外算力節點」為首要切入點，利用 ASUS 全球交付能力為 TikTok 海外數據中心供貨；國內以 L40S/H20 推理方案切入，透過 POC 測試展示散熱與穩定性優勢"
+      "asusEntryStrategy": "以「海外算力節點」為首要切入點，利用 ASUS 全球交付能力為 TikTok 海外數據中心供貨；國內以 L40S/H20 推理方案切入，透過 POC 測試展示散熱與穩定性優勢",
+      "domesticDemand": "通用 2U/1U (業務平台): 150k-300k 台; 合規 GPU (AI 訓練/推理 L40S/H20): 30k-50k 台",
+      "overseasDemand": "TikTok 全球節點 (美/歐/東南亞): 50k-100k 台"
     },
     {
       "rank": 2,
@@ -124,8 +126,10 @@
         "opportunityScore": 3.6,
         "compositeScore": 1.6
       },
-      "preciseStrikePoint": "",
-      "asusEntryStrategy": ""
+      "preciseStrikePoint": "國內需求：公有雲持續擴張（中國市場份額第一）；通義千問大模型需大量 GPU 算力；達摩院研究需高性能計算。海外需求：阿里雲國際版在東南亞、中東快速擴張，需合規供應商。注意：DoD 1260H 名單企業，需逐案審查。採購模式以 JDM（磐久架構）為主，需配合其自研規格。",
+      "asusEntryStrategy": "以「海外合規算力節點」為首要切入點（避開國內 JDM 紅海）；利用阿里雲東南亞/中東擴張需求，提供非紅供貨的通用伺服器與 GPU 方案；國內可從邊緣節點或特定 AI 專案撕開缺口。",
+      "domesticDemand": "通用 2U/1U (公有雲): 100k-200k 台; 合規 GPU (通義千問 H20/L40S): 30k-50k 台",
+      "overseasDemand": "阿里雲海外 (東南亞/中東/歐洲): 20k-50k 台"
     },
     {
       "rank": 3,
@@ -186,8 +190,10 @@
         "opportunityScore": 5.6,
         "compositeScore": 3.5
       },
-      "preciseStrikePoint": "",
-      "asusEntryStrategy": ""
+      "preciseStrikePoint": "國內需求：騰訊雲公有雲擴張（遊戲雲、企業雲）；混元大模型需大量 GPU 算力；微信/QQ 等超級 App 後端需海量通用伺服器。海外需求：騰訊雲國際版在東南亞（遊戲）快速擴張。注意：DoD 1260H 名單企業，需逐案審查。採購模式以 JDM（星星海架構）為主。",
+      "asusEntryStrategy": "以「海外遊戲雲節點」為首要切入點（騰訊遊戲海外擴張強勁）；利用星星海架構的 JDM 合作機會，提供主機板/準系統級別的合作；國內可從騰訊雲的中小企業客戶專案切入。",
+      "domesticDemand": "通用 2U/1U (公有雲/遊戲): 80k-180k 台; 合規 GPU (混元大模型 H20/L40S): 20k-40k 台",
+      "overseasDemand": "騰訊雲海外 (東南亞/歐洲): 20k-50k 台"
     },
     {
       "rank": 4,
@@ -248,8 +254,10 @@
         "opportunityScore": 5.0,
         "compositeScore": 2.2
       },
-      "preciseStrikePoint": "",
-      "asusEntryStrategy": ""
+      "preciseStrikePoint": "國內需求：文心一言大模型需持續擴張 GPU 算力；百度智能雲公有雲擴張；Apollo 自駕平台需大規模訓練集群。海外需求：Apollo 自駕在美國/東南亞測試需合規算力。注意：DoD 1260H 名單企業，需逐案審查。",
+      "asusEntryStrategy": "以「Apollo 自駕海外測試節點」為首要切入點；利用百度智能雲的 AI 雲服務需求，提供合規 GPU 方案；國內可從百度雲的企業客戶專案切入。",
+      "domesticDemand": "通用 2U/1U (搜索/百度雲): 40k-70k 台; 合規 GPU (文心大模型 H20/L40S): 15k-30k 台",
+      "overseasDemand": "百度海外 (自駕 Apollo 測試): 3k-5k 台"
     },
     {
       "rank": 5,
@@ -311,7 +319,9 @@
         "compositeScore": 3.7
       },
       "preciseStrikePoint": "京東雲擴張 + 物流自動化 AI 驅動算力需求；海外電商業務需全球化 IT 基礎設施；採購量大但供應商集中度高",
-      "asusEntryStrategy": "以「混合雲方案（AI GPU + 通用伺服器）」一站式切入，展示雙引擎產品線優勢；透過京東雲合作夥伴計畫建立關係"
+      "asusEntryStrategy": "以「混合雲方案（AI GPU + 通用伺服器）」一站式切入，展示雙引擎產品線優勢；透過京東雲合作夥伴計畫建立關係",
+      "domesticDemand": "通用 2U/1U (電商/物流/京東雲): 40k-80k 台; 合規 GPU (AI/言犀大模型 L40S): 10k-20k 台",
+      "overseasDemand": "京東國際 (東南亞/歐洲): 5k-10k 台"
     },
     {
       "rank": 6,
@@ -373,7 +383,9 @@
         "compositeScore": 3.7
       },
       "preciseStrikePoint": "自動配送、無人機等 AI 應用快速發展需要邊緣算力；企業 IT 基礎設施龐大，通用伺服器需求穩定",
-      "asusEntryStrategy": "以「邊緣 AI 伺服器 + 企業通用伺服器」雙引擎切入；透過自動配送 AI 場景展示 ASUS 邊緣計算方案"
+      "asusEntryStrategy": "以「邊緣 AI 伺服器 + 企業通用伺服器」雙引擎切入；透過自動配送 AI 場景展示 ASUS 邊緣計算方案",
+      "domesticDemand": "通用 2U/1U (外賣/團購平台): 30k-60k 台; 合規 GPU (AI 調度/推薦 L40S): 5k-10k 台; 邊緣 AI (無人配送): 5k-10k 台",
+      "overseasDemand": "KeeTa 海外外賣 (香港/沙特): 2k-5k 台"
     },
     {
       "rank": 7,
@@ -435,7 +447,9 @@
         "compositeScore": 2.8
       },
       "preciseStrikePoint": "Temu 全球化擴張帶來海外數據中心建設需求；海外業務需要合規的國際品牌供應商",
-      "asusEntryStrategy": "以「海外數據中心通用伺服器 + 全球交付能力」切入；利用 ASUS 亞太供應鏈優勢支持 Temu 全球化"
+      "asusEntryStrategy": "以「海外數據中心通用伺服器 + 全球交付能力」切入；利用 ASUS 亞太供應鏈優勢支持 Temu 全球化",
+      "domesticDemand": "通用 2U/1U (國內電商平台): 20k-40k 台; 合規 GPU (推薦算法 L40S): 5k-10k 台",
+      "overseasDemand": "Temu 全球節點 (美/歐/東南亞): 10k-20k 台"
     },
     {
       "rank": 8,
@@ -497,7 +511,9 @@
         "compositeScore": 4.4
       },
       "preciseStrikePoint": "遊戲 AI NPC 與雲遊戲驅動 GPU 需求增長；海外遊戲業務（日本、東南亞）需合規基礎設施；目前 Dell 佔有一定份額可替代",
-      "asusEntryStrategy": "以「遊戲 AI 推理方案 + 海外數據中心」雙線切入，替代 Dell 份額；提供 L40S 方案滿足遊戲 AI 推理需求"
+      "asusEntryStrategy": "以「遊戲 AI 推理方案 + 海外數據中心」雙線切入，替代 Dell 份額；提供 L40S 方案滿足遊戲 AI 推理需求",
+      "domesticDemand": "通用 2U/1U (遊戲/音樂/郵箱): 25k-50k 台; 合規 GPU (AI/遊戲渲染 L40S): 5k-10k 台",
+      "overseasDemand": "海外遊戲節點 (日本/東南亞): 3k-5k 台"
     },
     {
       "rank": 9,
@@ -559,28 +575,25 @@
         "compositeScore": 2.7
       },
       "preciseStrikePoint": "短影音推薦算法持續優化，推理算力需求穩定增長；AI 生成內容（AIGC）功能擴展需要更多 GPU 算力",
-      "asusEntryStrategy": "以 L40S 推理方案切入，強調「高吞吐量 + 低延遲」的性價比優勢；提供推理優化的 BTO 方案"
+      "asusEntryStrategy": "以 L40S 推理方案切入，強調「高吞吐量 + 低延遲」的性價比優勢；提供推理優化的 BTO 方案",
+      "domesticDemand": "通用 2U/1U (短影音平台): 25k-50k 台; 合規 GPU (推薦算法/AIGC L40S): 5k-10k 台",
+      "overseasDemand": "Kwai 海外版 (巴西/東南亞): 3k-5k 台"
     },
     {
       "rank": 10,
       "company": "小紅書 (Xiaohongshu / RED)",
       "region": "上海",
-      "volume": "約 20,000 - 40,000 台/年",
+      "volume": "約 20,000 - 40,000 台/年（含推薦算法、AIGC、電商 IT）",
       "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U 通用伺服器、AI 伺服器。",
       "application": "社交電商平台（3 億+ MAU）、AI 推薦系統、圖片/視頻處理、搜尋引擎。",
-      "currentSuppliers": "浪潮, 新華三 (H3C)",
-      "odmOem": "ODM",
+      "currentSuppliers": "浪潮, 新華三, 聯想",
+      "odmOem": "JDM + OEM 混合",
       "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
       "channel": "直供",
       "difficulty": 6,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】浪潮, 新華三 (H3C)已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 小紅書 (Xiaohongshu / RED) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 小紅書 (Xiaohongshu / RED) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 小紅書 (Xiaohongshu / RED) 客戶，透過 小紅書 (Xiaohongshu / RED) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
-      "keyPerson": {
-        "name": "毛文超 (Charlwin Mao)",
-        "title": "Co-Founder & CEO",
-        "linkedin": "https://www.linkedin.com/company/xiaohongshu",
-        "source": "LinkedIn"
-      },
+      "keyPerson": "CTO 張德芬 / 基礎架構 VP",
       "siDist": [
         {
           "name": "小紅書 (Xiaohongshu / RED) (直供)",
@@ -591,37 +604,27 @@
       ],
       "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "科技",
-      "techDecisionMaker": {
-        "name": "毛文超 (Charlwin Mao)",
-        "title": "Co-Founder & CEO",
-        "linkedin": "https://www.linkedin.com/company/xiaohongshu",
-        "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
-      },
-      "procurementDecisionMaker": {
-        "name": "（推估）Seth Kwok",
-        "title": "採購副總裁 / 採購長",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=小紅書%20(Xiaohongshu%20/%20RED)%20procurement%20VP",
-        "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
-      },
+      "techDecisionMaker": "CTO 張德芬",
+      "procurementDecisionMaker": "採購總監",
       "archetype": "enterprise_general",
       "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。",
       "complianceStatus": "clean",
       "complianceReason": "",
-      "isTarget": false,
-      "targetTier": 0,
-      "targetTierName": "",
+      "isTarget": true,
+      "targetTier": 2,
+      "targetTierName": "Tier 2：科技與出海巨頭",
       "riskScoring": {
-        "complianceRisk": 2,
-        "exportControlImpact": 3,
-        "productIterationSpeed": 6,
-        "cooperationHistory": 7,
-        "financialStability": 2,
-        "riskScore": 2.4,
-        "opportunityScore": 4.4,
-        "compositeScore": 3.2
+        "compliance": 95,
+        "exportControl": 90,
+        "productIteration": 85,
+        "cooperationHistory": 30,
+        "financialStability": 80,
+        "total": 76
       },
-      "preciseStrikePoint": "",
-      "asusEntryStrategy": ""
+      "preciseStrikePoint": "國內需求：AIGC 內容生成（圖片/影片）需大量 GPU 推理算力；推薦算法與搜索引擎需高密度通用伺服器；電商業務（直播帶貨）流量暴增需彈性擴容。海外需求：小紅書海外版拓展東南亞市場，需合規數據中心基礎設施。",
+      "asusEntryStrategy": "以「L40S/L20 推理方案 + 高密度通用伺服器」切入其 AIGC 與推薦算法場景；利用亞太供應鏈優勢支持其海外擴張；強調 ASUS 在 GPU 伺服器的散熱與能效優勢。",
+      "domesticDemand": "通用 2U/1U (推薦/搜索/電商): 15k-30k 台; 合規 GPU (L40S/L20 AIGC): 5k-10k 台",
+      "overseasDemand": "東南亞數據中心: 2k-5k 台（擴張中）"
     },
     {
       "rank": 11,
@@ -683,7 +686,9 @@
         "compositeScore": 2.3
       },
       "preciseStrikePoint": "金融級高安規私有雲需求；AI 風控模型需要穩定的推理算力；對供應商的安全認證要求極高",
-      "asusEntryStrategy": "以「金融級高安規伺服器 + AI 推理方案」切入；展示 ASUS 的國際安全認證與品質保證"
+      "asusEntryStrategy": "以「金融級高安規伺服器 + AI 推理方案」切入；展示 ASUS 的國際安全認證與品質保證",
+      "domesticDemand": "通用 2U (支付寶/螞蟻雲): 20k-40k 台; 合規 GPU (百靈大模型 L40S/L20): 5k-10k 台",
+      "overseasDemand": "Alipay+ 海外節點 (東南亞/歐洲): 5k-10k 台"
     },
     {
       "rank": 12,
@@ -745,28 +750,25 @@
         "compositeScore": 3.1
       },
       "preciseStrikePoint": "影音串流與 AI 推薦算法驅動伺服器需求持續增長；AIGC 內容生成需要 GPU 算力；高密度儲存需求大",
-      "asusEntryStrategy": "以「高密度儲存伺服器 + AI 推理方案」切入；透過影音串流場景展示 ASUS 儲存伺服器的優勢"
+      "asusEntryStrategy": "以「高密度儲存伺服器 + AI 推理方案」切入；透過影音串流場景展示 ASUS 儲存伺服器的優勢",
+      "domesticDemand": "通用 2U/1U (影音串流/轉碼): 10k-20k 台; 合規 GPU (AI 推薦/AIGC L40S): 3k-5k 台",
+      "overseasDemand": "B站海外版: 2k-5k 台"
     },
     {
       "rank": 13,
       "company": "滴滴出行 (DiDi)",
       "region": "北京",
-      "volume": "約 15,000 - 25,000 台/年",
+      "volume": "約 15,000 - 25,000 台/年（含出行平台、自駕、企業 IT）",
       "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U 通用伺服器、AI 伺服器。",
       "application": "叫車平台、AI 路線優化、自動駕駛研發、地圖服務。",
-      "currentSuppliers": "浪潮, 新華三 (H3C)",
-      "odmOem": "ODM",
+      "currentSuppliers": "浪潮, 新華三, Dell",
+      "odmOem": "OEM + 部分 JDM",
       "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12, 邊緣: E700 系列",
       "channel": "直供",
       "difficulty": 6,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】浪潮, 新華三 (H3C)已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 滴滴出行 (DiDi) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 滴滴出行 (DiDi) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 滴滴出行 (DiDi) 客戶，透過 滴滴出行 (DiDi) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
-      "keyPerson": {
-        "name": "程維 (Cheng Wei)",
-        "title": "Founder & CEO",
-        "linkedin": "https://www.linkedin.com/company/didiglobal",
-        "source": "LinkedIn"
-      },
+      "keyPerson": "CTO 張博 / 基礎架構負責人",
       "siDist": [
         {
           "name": "滴滴出行 (DiDi) (直供)",
@@ -777,58 +779,43 @@
       ],
       "volumeSource": "https://ir.didiglobal.com/",
       "industry": "交通",
-      "techDecisionMaker": {
-        "name": "程維 (Cheng Wei)",
-        "title": "Founder & CEO",
-        "linkedin": "https://www.linkedin.com/company/didiglobal",
-        "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
-      },
-      "procurementDecisionMaker": {
-        "name": "（推估）付军华 (Junhua Fu)",
-        "title": "採購副總裁 / 首席採購官",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=滴滴出行%20(DiDi)%20procurement%20VP",
-        "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
-      },
+      "techDecisionMaker": "CTO 張博",
+      "procurementDecisionMaker": "採購副總裁",
       "archetype": "enterprise_general",
       "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。",
       "complianceStatus": "clean",
       "complianceReason": "",
-      "isTarget": false,
-      "targetTier": 0,
-      "targetTierName": "",
+      "isTarget": true,
+      "targetTier": 2,
+      "targetTierName": "Tier 2：科技與出海巨頭",
       "riskScoring": {
-        "complianceRisk": 2,
-        "exportControlImpact": 3,
-        "productIterationSpeed": 4,
-        "cooperationHistory": 7,
-        "financialStability": 3,
-        "riskScore": 2.6,
-        "opportunityScore": 3.6,
-        "compositeScore": 2.3
+        "compliance": 90,
+        "exportControl": 85,
+        "productIteration": 80,
+        "cooperationHistory": 25,
+        "financialStability": 75,
+        "total": 71
       },
-      "preciseStrikePoint": "",
-      "asusEntryStrategy": ""
+      "preciseStrikePoint": "國內需求：出行平台海量即時調度需高密度通用伺服器；自駕研發（L4 級別）需 GPU 訓練集群；地圖與導航 AI 需推理算力。海外需求：滴滴國際版（巴西、墨西哥、澳洲等）需合規海外節點；Dell 份額可替代。",
+      "asusEntryStrategy": "以「自駕訓練 GPU 伺服器 + 海外合規節點」雙線切入；替代 Dell 份額，強調亞太供應鏈與非紅供貨優勢；提供邊緣 AI 方案支持其車載計算需求。",
+      "domesticDemand": "通用 2U/1U (出行平台/調度): 10k-18k 台; 合規 GPU (自駕訓練 L40S): 3k-5k 台; 邊緣 AI: 2k-3k 台",
+      "overseasDemand": "巴西/墨西哥/澳洲節點: 2k-4k 台"
     },
     {
       "rank": 14,
       "company": "金山雲 (Kingsoft Cloud)",
       "region": "北京",
-      "volume": "約 15,000 - 25,000 台/年",
+      "volume": "約 15,000 - 25,000 台/年（含公有雲、遊戲雲、企業雲）",
       "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U 通用伺服器、AI 伺服器。",
       "application": "公有雲服務、遊戲雲、AI 雲、企業 IT 服務。金山集團旗下。",
-      "currentSuppliers": "浪潮, 新華三 (H3C)",
-      "odmOem": "ODM",
+      "currentSuppliers": "浪潮, 新華三, 聯想",
+      "odmOem": "OEM + JDM",
       "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
       "channel": "直供",
       "difficulty": 6,
       "challenges": "【金融業戰術】【技術要求】金山雲 (Kingsoft Cloud) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。 【產業特性】金融業對系統穩定性、資安合規（如 PCI DSS）和災難復原有極高要求，伺服器供應商需提供完整的安全認證和 SLA 保障。",
       "entryPoint": "【金融業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 金山雲 (Kingsoft Cloud) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供符合金融業合規要求的伺服器解決方案，包含安全認證、加密功能和災難復原方案。4. 針對 金山雲 (Kingsoft Cloud) 的 AI/ML 應用需求，推薦 ASUS ESC 系列 GPU 伺服器。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 金山雲 (Kingsoft Cloud) 客戶，透過 紫光數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
-      "keyPerson": {
-        "name": "鄒濤 (Zou Tao)",
-        "title": "CEO",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=鄒濤%20(Zou%20Tao)%20金山雲%20(Kingsoft%20Cloud)",
-        "source": "https://ir.ksyun.com/zh-hant/governance/management?mobile=1"
-      },
+      "keyPerson": "CEO 王育林 / VP 基礎架構",
       "siDist": [
         {
           "name": "紫光數碼",
@@ -839,37 +826,27 @@
       ],
       "volumeSource": "https://ir.ksyun.com/",
       "industry": "金融",
-      "techDecisionMaker": {
-        "name": "鄒濤 (Zou Tao)",
-        "title": "CEO",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=鄒濤%20(Zou%20Tao)%20金山雲%20(Kingsoft%20Cloud)",
-        "commStrategy": "強調伺服器的安全認證（FIPS 140-2/3、TPM 2.0）、高可用性設計、以及 AI/ML 交易系統的低延遲表現"
-      },
-      "procurementDecisionMaker": {
-        "name": "李翊 (Yi Li)",
-        "title": "採購副總裁 / 首席採購官",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=金山雲%20(Kingsoft%20Cloud)%20procurement%20VP",
-        "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
-      },
+      "techDecisionMaker": "VP 基礎架構",
+      "procurementDecisionMaker": "採購總監",
       "archetype": "financial",
       "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。",
       "complianceStatus": "clean",
       "complianceReason": "",
-      "isTarget": false,
-      "targetTier": 0,
-      "targetTierName": "",
+      "isTarget": true,
+      "targetTier": 3,
+      "targetTierName": "Tier 3：企業 IT 與金融",
       "riskScoring": {
-        "complianceRisk": 2,
-        "exportControlImpact": 3,
-        "productIterationSpeed": 4,
-        "cooperationHistory": 7,
-        "financialStability": 3,
-        "riskScore": 2.6,
-        "opportunityScore": 3.6,
-        "compositeScore": 2.3
+        "compliance": 95,
+        "exportControl": 90,
+        "productIteration": 75,
+        "cooperationHistory": 20,
+        "financialStability": 70,
+        "total": 70
       },
-      "preciseStrikePoint": "",
-      "asusEntryStrategy": ""
+      "preciseStrikePoint": "國內需求：金山雲公有雲擴張需大量通用伺服器；遊戲雲（與金山遊戲協同）需高性能計算；AI 雲服務需合規 GPU 伺服器。海外需求：金山辦公（WPS）海外版需全球數據中心支持。",
+      "asusEntryStrategy": "以「高性價比通用伺服器 + 合規 GPU 方案」切入其公有雲擴張；利用金山辦公海外業務需求，提供海外節點解決方案；強調 ASUS 主機板穩定性與 TCO 優勢。",
+      "domesticDemand": "通用 2U/1U (公有雲/遊戲雲): 12k-20k 台; 合規 GPU (AI 雲 L40S/L20): 3k-5k 台",
+      "overseasDemand": "WPS 海外節點: 1k-3k 台"
     },
     {
       "rank": 15,
@@ -931,7 +908,9 @@
         "compositeScore": 3.1
       },
       "preciseStrikePoint": "金融 AI 應用（風控、客服、醫療 AI）需要穩定的推理基礎設施；平安集團 IT 基礎設施龐大，通用伺服器需求穩定",
-      "asusEntryStrategy": "以「金融級穩定性 + AI 推理伺服器」切入；展示 ASUS 在金融場景的國際安全認證"
+      "asusEntryStrategy": "以「金融級穩定性 + AI 推理伺服器」切入；展示 ASUS 在金融場景的國際安全認證",
+      "domesticDemand": "通用 2U (平安雲/金融 IT): 15k-30k 台; 合規 GPU (AI 風控/醫療 AI): 3k-5k 台",
+      "overseasDemand": "平安海外 (香港/東南亞): 2k-5k 台"
     },
     {
       "rank": 16,
@@ -993,7 +972,9 @@
         "compositeScore": 4.4
       },
       "preciseStrikePoint": "B 輪融資後積極擴張算力基礎設施，正在尋找多元化供應商降低對單一品牌的依賴；對 AMD GPU 方案持開放態度",
-      "asusEntryStrategy": "提供 MI308X 作為 NVIDIA 之外的替代方案，降低客戶單一供應商風險；以 BTO 客製化能力展示靈活性，提供 POC 測試機會"
+      "asusEntryStrategy": "提供 MI308X 作為 NVIDIA 之外的替代方案，降低客戶單一供應商風險；以 BTO 客製化能力展示靈活性，提供 POC 測試機會",
+      "domesticDemand": "合規 GPU (大模型訓練 H20/L40S): 8k-15k 台; 通用 2U (推理部署): 2k-5k 台",
+      "overseasDemand": "海外研發節點: 500-1k 台（規劃中）"
     },
     {
       "rank": 17,
@@ -1117,7 +1098,9 @@
         "compositeScore": 2.3
       },
       "preciseStrikePoint": "全球化業務擴張（Trip.com），海外數據中心建設需求增長；AI 客服與推薦系統需要推理算力",
-      "asusEntryStrategy": "以「海外通用伺服器 + AI 客服推理方案」切入；利用 ASUS 全球交付能力支持其國際化擴張"
+      "asusEntryStrategy": "以「海外通用伺服器 + AI 客服推理方案」切入；利用 ASUS 全球交付能力支持其國際化擴張",
+      "domesticDemand": "通用 2U (旅遊平台 IT): 8k-15k 台; 合規 GPU (攜程問道大模型 L20): 2k-5k 台",
+      "overseasDemand": "Trip.com 海外節點 (歐/美/亞): 3k-5k 台"
     },
     {
       "rank": 19,
@@ -1179,7 +1162,9 @@
         "compositeScore": 2.5
       },
       "preciseStrikePoint": "小米汽車 SU7 量產，自駕算力需求急增；IoT 平台需要邊緣算力；手機端側 AI 模型訓練需求增長",
-      "asusEntryStrategy": "以「自駕訓練 GPU 方案 + IoT 邊緣伺服器」切入；利用 ASUS 品牌在消費電子的知名度建立信任"
+      "asusEntryStrategy": "以「自駕訓練 GPU 方案 + IoT 邊緣伺服器」切入；利用 ASUS 品牌在消費電子的知名度建立信任",
+      "domesticDemand": "通用 2U (企業 IT/IoT): 5k-10k 台; 合規 GPU (自駕/手機 AI L40S): 3k-5k 台; 邊緣 AI (智慧工廠): 2k-5k 台",
+      "overseasDemand": "小米海外 (印度/東南亞/歐洲): 2k-5k 台"
     },
     {
       "rank": 20,
@@ -1241,28 +1226,25 @@
         "compositeScore": 5.0
       },
       "preciseStrikePoint": "清華系 AI 新創，技術實力強但供應鏈尚未成熟，對硬體品質與技術支援要求高；在清華 AI 圈具有口碑效應",
-      "asusEntryStrategy": "以「原廠級品質 + FAE 深度技術支援」建立信任，提供 POC 測試機會；成功切入後可透過清華 AI 圈口碑效應輻射其他學術系 AI 新創"
+      "asusEntryStrategy": "以「原廠級品質 + FAE 深度技術支援」建立信任，提供 POC 測試機會；成功切入後可透過清華 AI 圈口碑效應輻射其他學術系 AI 新創",
+      "domesticDemand": "合規 GPU (大模型訓練 H20): 300-600 台; 通用 2U (推理): 200-400 台",
+      "overseasDemand": "暫無明確海外需求"
     },
     {
       "rank": 21,
       "company": "順豐科技 (SF Technology)",
       "region": "深圳",
-      "volume": "約 8,000 - 15,000 台/年",
+      "volume": "約 8,000 - 15,000 台/年（含物流平台、AI 分揀、企業 IT）",
       "platform": "Intel Xeon / AMD EPYC / NVIDIA GPU，2U 通用伺服器、AI 伺服器。",
       "application": "中國最大快遞物流公司、AI 路線優化、智慧倉儲、無人機配送、豐巢智能櫃。",
-      "currentSuppliers": "浪潮, 新華三 (H3C)",
-      "odmOem": "ODM",
+      "currentSuppliers": "浪潮, 新華三, Dell",
+      "odmOem": "OEM",
       "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12, 邊緣: E700 系列",
       "channel": "直供",
       "difficulty": 5,
       "challenges": "【企業 IT 戰術】【品牌認知】ASUS 在伺服器市場的品牌認知度低於 Dell、HPE、Lenovo，需要更多市場教育。【既有關係】浪潮, 新華三 (H3C)已建立穩定的合作關係和服務體系。【採購慣性】企業 IT 採購傾向選擇既有供應商以降低風險。【技術支援】需展示完善的售後服務與技術支援能力。",
       "entryPoint": "【企業 IT 戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 順豐科技 (SF Technology) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 順豐科技 (SF Technology) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 順豐科技 (SF Technology) 客戶，透過 神州數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
-      "keyPerson": {
-        "name": "王衛 (Wang Wei)",
-        "title": "Founder & Chairman",
-        "linkedin": "https://www.linkedin.com/company/sf-express",
-        "source": "LinkedIn"
-      },
+      "keyPerson": "CTO / VP 基礎架構",
       "siDist": [
         {
           "name": "神州數碼",
@@ -1273,37 +1255,27 @@
       ],
       "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "物流",
-      "techDecisionMaker": {
-        "name": "王衛 (Wang Wei)",
-        "title": "Founder & Chairman",
-        "linkedin": "https://www.linkedin.com/company/sf-express",
-        "commStrategy": "透過產品技術簡報展示 ASUS 伺服器在 AI/HPC 工作負載的效能優勢與能效比"
-      },
-      "procurementDecisionMaker": {
-        "name": "王昇 (Wang Sheng)",
-        "title": "採購副總裁 / 首席採購官",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=順豐科技%20(SF%20Technology)%20procurement%20VP",
-        "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
-      },
+      "techDecisionMaker": "CTO",
+      "procurementDecisionMaker": "集團採購中心",
       "archetype": "enterprise_general",
       "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=6。主要挑戰來自 供應商鎖定(6)、通路需開發(6)。",
       "complianceStatus": "clean",
       "complianceReason": "",
-      "isTarget": false,
-      "targetTier": 0,
-      "targetTierName": "",
+      "isTarget": true,
+      "targetTier": 3,
+      "targetTierName": "Tier 3：企業 IT 與金融",
       "riskScoring": {
-        "complianceRisk": 2,
-        "exportControlImpact": 3,
-        "productIterationSpeed": 4,
-        "cooperationHistory": 7,
-        "financialStability": 3,
-        "riskScore": 2.6,
-        "opportunityScore": 4.0,
-        "compositeScore": 2.7
+        "compliance": 95,
+        "exportControl": 90,
+        "productIteration": 75,
+        "cooperationHistory": 20,
+        "financialStability": 85,
+        "total": 73
       },
-      "preciseStrikePoint": "",
-      "asusEntryStrategy": ""
+      "preciseStrikePoint": "國內需求：物流調度平台需高密度通用伺服器；AI 智慧分揀與無人機配送需邊緣 AI 算力；豐巢智能櫃 IoT 平台需穩定的後端基礎設施。海外需求：順豐國際（東南亞、中東）物流網絡擴張需合規海外節點；Dell 份額可替代。",
+      "asusEntryStrategy": "以「高密度通用伺服器 + 邊緣 AI 方案」切入其物流調度與智慧分揀場景；替代 Dell 份額，利用亞太供應鏈支持其東南亞擴張；提供工業級邊緣伺服器支持其無人機與智慧物流。",
+      "domesticDemand": "通用 2U/1U (物流平台/IT): 6k-10k 台; 邊緣 AI (分揀/無人機): 1k-3k 台; 合規 GPU (AI 研發): 1k-2k 台",
+      "overseasDemand": "東南亞/中東物流節點: 1k-3k 台"
     },
     {
       "rank": 22,
@@ -1367,7 +1339,9 @@
         "compositeScore": 4.2
       },
       "preciseStrikePoint": "Kimi 用戶量快速增長，推理算力需求急劇上升，現有供應商交付速度跟不上擴張節奏；對推理優化方案有強烈需求",
-      "asusEntryStrategy": "以 L40S 推理方案切入，強調「快速交付 + 穩定供貨」解決其擴張瓶頸；提供推理優化的 BTO 方案，展示 ASUS 的客製化能力"
+      "asusEntryStrategy": "以 L40S 推理方案切入，強調「快速交付 + 穩定供貨」解決其擴張瓶頸；提供推理優化的 BTO 方案，展示 ASUS 的客製化能力",
+      "domesticDemand": "合規 GPU (Kimi 大模型訓練 H20/L40S): 4k-12k 台; 通用 2U (推理部署): 1k-3k 台",
+      "overseasDemand": "海外研發節點: 500-1k 台（規劃中）"
     },
     {
       "rank": 23,
@@ -1431,7 +1405,9 @@
         "compositeScore": 3.6
       },
       "preciseStrikePoint": "DeepSeek-V3 引發全球關注，訓練算力需求持續攀升；母公司幻方量化資金雄厚，對硬體品質要求極高；自建萬卡集群經驗豐富",
-      "asusEntryStrategy": "以 H20 大規模訓練方案切入，強調「穩定供貨能力」與「原廠級散熱設計」；提供液冷方案滿足高密度部署需求"
+      "asusEntryStrategy": "以 H20 大規模訓練方案切入，強調「穩定供貨能力」與「原廠級散熱設計」；提供液冷方案滿足高密度部署需求",
+      "domesticDemand": "合規 GPU (DeepSeek 大模型訓練 H20): 4k-12k 台; 通用 2U (推理): 1k-3k 台",
+      "overseasDemand": "暫無明確海外需求（但 DeepSeek API 全球開放）"
     },
     {
       "company": "幻方量化 (High-Flyer Capital)",
@@ -1493,7 +1469,9 @@
         "compositeScore": 3.4
       },
       "preciseStrikePoint": "自建萬卡集群，對硬體品質與系統穩定性要求極高；量化交易對延遲極度敏感，需要 7×24 不間斷運行",
-      "asusEntryStrategy": "以「極致散熱設計 + 7×24 穩定運行」切入，提供高密度 GPU 伺服器方案；展示液冷方案降低 PUE"
+      "asusEntryStrategy": "以「極致散熱設計 + 7×24 穩定運行」切入，提供高密度 GPU 伺服器方案；展示液冷方案降低 PUE",
+      "domesticDemand": "合規 GPU (量化交易/AI 訓練 H20/L40S): 4k-12k 台; 通用 2U (交易系統): 1k-3k 台",
+      "overseasDemand": "暫無明確海外需求"
     },
     {
       "rank": 25,
@@ -1557,7 +1535,9 @@
         "compositeScore": 4.2
       },
       "preciseStrikePoint": "海螺 AI 用戶增長快速，多模態模型需要大量推理算力；對推理成本極度敏感，尋找高性價比方案",
-      "asusEntryStrategy": "以 L20 推理方案切入，提供「高性價比 + 快速擴容」的彈性架構；展示 ASUS 推理優化方案的 TCO 優勢"
+      "asusEntryStrategy": "以 L20 推理方案切入，提供「高性價比 + 快速擴容」的彈性架構；展示 ASUS 推理優化方案的 TCO 優勢",
+      "domesticDemand": "合規 GPU (大模型訓練/推理 L40S): 3k-7k 台; 通用 2U (API 服務): 2k-3k 台",
+      "overseasDemand": "海外 API 節點: 500-1k 台（規劃中）"
     },
     {
       "rank": 26,
@@ -1682,8 +1662,10 @@
         "opportunityScore": 4.6,
         "compositeScore": 2.1
       },
-      "preciseStrikePoint": "",
-      "asusEntryStrategy": ""
+      "preciseStrikePoint": "國內需求：全球最大電池製造商，智慧工廠需大量邊緣 AI 與工業 IT；電池材料研發需 AI 模擬算力。海外需求：匈牙利、印尼、美國等海外超級工廠需合規 IT 基礎設施。注意：DoD 1260H 名單企業，但伺服器銷售目前未被禁止。",
+      "asusEntryStrategy": "以「海外超級工廠 IT 基礎設施」為首要切入點（匈牙利/印尼工廠急需合規供應商）；提供工業級邊緣伺服器支持其智慧製造；強調 ASUS 在全球交付與非紅供貨的優勢。",
+      "domesticDemand": "通用 2U (企業 IT/MES): 3k-6k 台; 邊緣 AI (智慧工廠/電池檢測): 1k-3k 台; 合規 GPU (材料研發 AI): 1k-2k 台",
+      "overseasDemand": "寧德時代海外工廠 (匈牙利/印尼/美國): 2k-4k 台"
     },
     {
       "rank": 28,
@@ -1744,8 +1726,10 @@
         "opportunityScore": 5.4,
         "compositeScore": 2.9
       },
-      "preciseStrikePoint": "",
-      "asusEntryStrategy": ""
+      "preciseStrikePoint": "國內需求：全球新能源車銷量冠軍，智慧工廠與自駕研發需大量算力；方程豹/仰望等高端品牌的智駕系統需 GPU 訓練。海外需求：泰國、巴西、匈牙利等海外工廠快速擴張。注意：DoD 1260H 名單企業，但伺服器銷售目前未被禁止。",
+      "asusEntryStrategy": "以「海外工廠 IT + 自駕 GPU 伺服器」雙線切入；利用比亞迪海外擴張的急迫性，提供合規的全球化交付方案；國內可從其高端品牌自駕研發切入。",
+      "domesticDemand": "通用 2U (企業 IT/MES): 3k-6k 台; 邊緣 AI (智慧工廠/自駕): 1k-3k 台; 合規 GPU (自駕訓練): 1k-2k 台",
+      "overseasDemand": "比亞迪海外工廠 (泰國/巴西/匈牙利): 2k-4k 台"
     },
     {
       "rank": 29,
@@ -1807,7 +1791,9 @@
         "compositeScore": 3.3
       },
       "preciseStrikePoint": "工業互聯網平台需要大量邊緣算力與私有雲基礎設施；「燈塔工廠」數位轉型驅動 IT 升級",
-      "asusEntryStrategy": "以「工業邊緣 AI 伺服器 + 私有雲方案」切入，強調工業級穩定性與耐用性"
+      "asusEntryStrategy": "以「工業邊緣 AI 伺服器 + 私有雲方案」切入，強調工業級穩定性與耐用性",
+      "domesticDemand": "通用 2U (工業互聯網平台): 3k-6k 台; 邊緣 AI (智慧工廠): 2k-4k 台",
+      "overseasDemand": "海爾海外工廠 (東南亞/歐洲): 1k-2k 台"
     },
     {
       "rank": 30,
@@ -1869,7 +1855,9 @@
         "compositeScore": 3.3
       },
       "preciseStrikePoint": "企業 SaaS 雲平台需要大量通用伺服器；AI 功能整合（如 AI 財務助手）需要推理算力",
-      "asusEntryStrategy": "以「大量通用伺服器供貨 + 長期合作框架」切入；建立穩定的供貨關係"
+      "asusEntryStrategy": "以「大量通用伺服器供貨 + 長期合作框架」切入；建立穩定的供貨關係",
+      "domesticDemand": "通用 2U (YonBIP 雲平台): 3k-6k 台; 合規 GPU (AI 功能 L20): 1k-2k 台",
+      "overseasDemand": "用友海外: 500-1k 台"
     },
     {
       "rank": 31,
@@ -2054,8 +2042,10 @@
         "opportunityScore": 4.4,
         "compositeScore": 2.2
       },
-      "preciseStrikePoint": "",
-      "asusEntryStrategy": ""
+      "preciseStrikePoint": "國內需求：全球最大 CRO/CDMO 企業之一，AI 藥物研發（分子模擬、蛋白質結構預測）需大量 GPU 算力；實驗室數據管理需高安規伺服器。海外需求：美國、歐洲、新加坡等海外研發中心需合規 IT。注意：DoD 1260H 名單企業，且面臨美國《生物安全法案》壓力。",
+      "asusEntryStrategy": "以「海外研發中心合規 IT」為首要切入點；提供高安規伺服器支持其 AI 藥物研發；注意《生物安全法案》風險，需密切監控政策動態。",
+      "domesticDemand": "通用 2U (企業 IT/研發): 3k-6k 台; 合規 GPU (AI 藥物研發): 1k-3k 台",
+      "overseasDemand": "藥明康德海外 (美國/歐洲/新加坡): 2k-4k 台"
     },
     {
       "company": "階躍星辰 (StepFun)",
@@ -2117,7 +2107,9 @@
         "compositeScore": 3.3
       },
       "preciseStrikePoint": "姚期智院士背書，技術路線獨特，對硬體定制化需求高；追求差異化的技術方案",
-      "asusEntryStrategy": "以「BTO 客製化能力」切入，展示 ASUS 與 NVIDIA 的聯合開發經驗；提供針對其獨特技術路線的定制化方案"
+      "asusEntryStrategy": "以「BTO 客製化能力」切入，展示 ASUS 與 NVIDIA 的聯合開發經驗；提供針對其獨特技術路線的定制化方案",
+      "domesticDemand": "合規 GPU (大模型訓練 H20/L40S): 3k-7k 台; 通用 2U (推理): 2k-3k 台",
+      "overseasDemand": "暫無明確海外需求"
     },
     {
       "rank": 35,
@@ -2179,7 +2171,9 @@
         "compositeScore": 4.1
       },
       "preciseStrikePoint": "李開復創辦，國際化佈局明確，海外推理節點基礎設施需求大；在東南亞、中東等地區有擴張計畫",
-      "asusEntryStrategy": "以「全球交付能力 + 海外算力節點」切入，全力支持其國際化擴張；利用 ASUS 亞太供應鏈優勢提供東南亞/中東數據中心方案"
+      "asusEntryStrategy": "以「全球交付能力 + 海外算力節點」切入，全力支持其國際化擴張；利用 ASUS 亞太供應鏈優勢提供東南亞/中東數據中心方案",
+      "domesticDemand": "合規 GPU (Yi 大模型訓練 L40S): 2k-5k 台; 通用 2U (推理): 1k-3k 台",
+      "overseasDemand": "海外研發節點 (新加坡/矽谷): 500-1k 台"
     },
     {
       "rank": 36,
@@ -2241,7 +2235,9 @@
         "compositeScore": 3.2
       },
       "preciseStrikePoint": "自駕研發投入加大，訓練集群持續擴張；對算力品質與散熱要求極高；正在評估多元化供應商",
-      "asusEntryStrategy": "以「自駕訓練專用 GPU 伺服器」切入，強調頂尖散熱設計與高密度架構；提供 POC 測試展示穩定性"
+      "asusEntryStrategy": "以「自駕訓練專用 GPU 伺服器」切入，強調頂尖散熱設計與高密度架構；提供 POC 測試展示穩定性",
+      "domesticDemand": "合規 GPU (自駕訓練 L40S): 2k-5k 台; 通用 2U (企業 IT): 1k-3k 台",
+      "overseasDemand": "暫無明確海外需求"
     },
     {
       "rank": 37,
@@ -2302,8 +2298,10 @@
         "opportunityScore": 5.0,
         "compositeScore": 2.4
       },
-      "preciseStrikePoint": "",
-      "asusEntryStrategy": ""
+      "preciseStrikePoint": "國內需求：自駕研發（NIO Pilot/NAD）需大規模 GPU 訓練集群；換電站網絡需邊緣計算。海外需求：歐洲市場（挪威/德國/荷蘭）擴張需合規 IT。注意：DoD 1260H 名單企業，但伺服器銷售目前未被禁止。",
+      "asusEntryStrategy": "以「自駕 GPU 伺服器 + 歐洲合規節點」雙線切入；利用蔚來歐洲擴張需求，提供非紅供貨方案；國內可從換電站邊緣計算切入。",
+      "domesticDemand": "合規 GPU (自駕訓練 L40S): 2k-5k 台; 通用 2U (企業 IT): 1k-3k 台",
+      "overseasDemand": "蔚來海外 (歐洲/中東): 500-1k 台"
     },
     {
       "rank": 38,
@@ -2365,7 +2363,9 @@
         "compositeScore": 3.2
       },
       "preciseStrikePoint": "全棧自研自駕系統，對算力品質要求極高；XNGP 全場景自駕持續迭代需要大量訓練算力",
-      "asusEntryStrategy": "以「高密度 GPU 訓練方案 + BTO 客製化」切入；展示 ASUS 與 NVIDIA 的聯合開發經驗"
+      "asusEntryStrategy": "以「高密度 GPU 訓練方案 + BTO 客製化」切入；展示 ASUS 與 NVIDIA 的聯合開發經驗",
+      "domesticDemand": "合規 GPU (自駕訓練 L40S): 2k-5k 台; 通用 2U (企業 IT): 1k-3k 台",
+      "overseasDemand": "小鵬海外 (歐洲/東南亞): 500-1k 台（規劃中）"
     },
     {
       "rank": 39,
@@ -2427,7 +2427,9 @@
         "compositeScore": 3.2
       },
       "preciseStrikePoint": "端側 AI 模型訓練需求增長，研發中心 IT 基礎設施升級；AndesGPT 大模型持續迭代需要訓練算力",
-      "asusEntryStrategy": "以「AI 模型訓練方案 + 研發中心通用伺服器」切入；利用 ASUS 品牌在消費電子的知名度建立信任"
+      "asusEntryStrategy": "以「AI 模型訓練方案 + 研發中心通用伺服器」切入；利用 ASUS 品牌在消費電子的知名度建立信任",
+      "domesticDemand": "通用 2U (研發中心 IT): 2k-5k 台; 合規 GPU (AI 模型訓練 L40S): 1k-3k 台",
+      "overseasDemand": "OPPO 海外 (印度/東南亞): 1k-2k 台"
     },
     {
       "rank": 40,
@@ -2489,7 +2491,9 @@
         "compositeScore": 3.2
       },
       "preciseStrikePoint": "藍心大模型持續迭代，需要穩定的訓練算力；對 AMD GPU 方案持開放態度以降低對 NVIDIA 的依賴",
-      "asusEntryStrategy": "以「大模型訓練 GPU 方案」切入，提供 MI308X 多元選擇；展示 ASUS 在 AMD 平台的技術實力"
+      "asusEntryStrategy": "以「大模型訓練 GPU 方案」切入，提供 MI308X 多元選擇；展示 ASUS 在 AMD 平台的技術實力",
+      "domesticDemand": "通用 2U (研發中心 IT): 2k-5k 台; 合規 GPU (藍心大模型 L40S/L20): 1k-3k 台",
+      "overseasDemand": "vivo 海外 (印度/東南亞): 1k-2k 台"
     },
     {
       "rank": 41,
@@ -2551,28 +2555,25 @@
         "compositeScore": 2.8
       },
       "preciseStrikePoint": "蒼穹平台雲化轉型，需要穩定的雲基礎設施；企業客戶對 IT 基礎設施的穩定性要求高",
-      "asusEntryStrategy": "以「企業級通用伺服器 + 穩定供貨」切入；建立長期合作框架"
+      "asusEntryStrategy": "以「企業級通用伺服器 + 穩定供貨」切入；建立長期合作框架",
+      "domesticDemand": "通用 2U (金蝶雲星空/蒼穹): 2k-5k 台; 合規 GPU (蒼穹大模型 L20): 1k-3k 台",
+      "overseasDemand": "金蝶海外: 500-1k 台"
     },
     {
       "rank": 42,
       "company": "地平線 (Horizon Robotics)",
       "region": "北京",
-      "volume": "約 3,000 - 8,000 台/年",
+      "volume": "約 3,000 - 8,000 台/年（自駕晶片訓練 + 驗證平台）",
       "platform": "NVIDIA GPU / 自研征程晶片，4U AI 伺服器。",
       "application": "自動駕駛晶片與方案供應商、征程系列晶片研發、AI 訓練平台。",
-      "currentSuppliers": "浪潮, Supermicro",
-      "odmOem": "ODM",
+      "currentSuppliers": "浪潮, 聯想",
+      "odmOem": "OEM",
       "asusModel": "AI 4U: ESC4000A-E12, AI 8GPU: ESC N8-E11",
       "channel": "直供",
       "difficulty": 5,
       "challenges": "【NeoCloud/AI 新創戰術】【技術要求】地平線 (Horizon Robotics) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。 【產業特性】NeoCloud/AI 產業對 GPU 伺服器的效能、散熱（液冷）和快速部署能力有極高要求，技術迭代速度快，供應商需持續跟進最新平台。",
       "entryPoint": "【2026 Q2 短名單】【Supermicro 替代機會】【NeoCloud/AI 新創戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 地平線 (Horizon Robotics) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 提供 ASUS ESC 系列 GPU 伺服器和 AI POD 解決方案的技術方案書，展示在 NVIDIA Blackwell/Rubin 平台的先發優勢。4. 針對 地平線 (Horizon Robotics) 的液冷需求提供差異化的散熱解決方案，這是目前市場上的關鍵差異化因素。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 地平線 (Horizon Robotics) 客戶，透過 地平線 (Horizon Robotics) (直供) 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
-      "keyPerson": {
-        "name": "余凱 (Yu Kai)",
-        "title": "Founder & CEO",
-        "linkedin": "https://www.linkedin.com/in/yukai",
-        "source": "LinkedIn"
-      },
+      "keyPerson": "創辦人兼 CEO 余凱 / VP 基礎架構",
       "siDist": [
         {
           "name": "地平線 (Horizon Robotics) (直供)",
@@ -2583,37 +2584,27 @@
       ],
       "volumeSource": "https://www.idc.com/promo/global-ict-spending/forecast",
       "industry": "NeoCloud/AI",
-      "techDecisionMaker": {
-        "name": "余凱 (Yu Kai)",
-        "title": "Founder & CEO",
-        "linkedin": "https://www.linkedin.com/in/yukai",
-        "commStrategy": "直接展示 GPU 伺服器（ESC N8-E11 / ESC N8-E12）的散熱效率與部署速度優勢，提供免費 POC 測試機"
-      },
-      "procurementDecisionMaker": {
-        "name": "（推估）陶斐雯 (Annie Feiwen Tao)",
-        "title": "採購副總裁 / 採購長",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=地平線%20(Horizon%20Robotics)%20procurement%20VP",
-        "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
-      },
+      "techDecisionMaker": "創辦人兼 CEO 余凱",
+      "procurementDecisionMaker": "採購總監",
       "archetype": "neocloud",
       "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=2, D3(技術門檻)=8, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=8。主要挑戰在於技術門檻高、地緣政治風險高。",
       "complianceStatus": "clean",
       "complianceReason": "",
-      "isTarget": false,
-      "targetTier": 0,
-      "targetTierName": "",
+      "isTarget": true,
+      "targetTier": 2,
+      "targetTierName": "Tier 2：科技與出海巨頭",
       "riskScoring": {
-        "complianceRisk": 2,
-        "exportControlImpact": 7,
-        "productIterationSpeed": 8,
-        "cooperationHistory": 4,
-        "financialStability": 6,
-        "riskScore": 4.6,
-        "opportunityScore": 6.4,
-        "compositeScore": 4.1
+        "compliance": 95,
+        "exportControl": 90,
+        "productIteration": 90,
+        "cooperationHistory": 15,
+        "financialStability": 75,
+        "total": 73
       },
-      "preciseStrikePoint": "",
-      "asusEntryStrategy": ""
+      "preciseStrikePoint": "國內需求：征程系列自駕晶片的訓練與驗證需大規模 GPU 集群；與車企（大眾、比亞迪、理想等）合作的 ADAS 方案需邊緣推理伺服器。海外需求：2024 年港股上市後加速國際化，海外車企合作需合規算力基礎設施。",
+      "asusEntryStrategy": "以「自駕訓練 GPU 伺服器 + 邊緣推理方案」切入；利用 ASUS 在主機板與硬體設計的穩定性優勢，支持其晶片驗證平台；海外合作可提供非紅供貨的合規算力節點。",
+      "domesticDemand": "合規 GPU (自駕訓練 L40S/A100): 2k-5k 台; 邊緣 AI (ADAS 驗證): 1k-3k 台",
+      "overseasDemand": "海外車企合作節點: 500-1k 台（成長中）"
     },
     {
       "rank": 43,
@@ -2865,7 +2856,9 @@
         "compositeScore": 4.6
       },
       "preciseStrikePoint": "超融合與雲計算平台需要大量通用伺服器；AI 安全產品（如 AI 防火牆）需要 GPU 算力；採購量穩定且持續增長",
-      "asusEntryStrategy": "以「通用伺服器大量供貨 + AI 安全 GPU 方案」雙線切入，建立穩定營收基盤"
+      "asusEntryStrategy": "以「通用伺服器大量供貨 + AI 安全 GPU 方案」雙線切入，建立穩定營收基盤",
+      "domesticDemand": "通用 2U (超融合/雲計算): 2k-5k 台; 合規 GPU (安全 GPT L20): 1k-3k 台",
+      "overseasDemand": "深信服海外 (東南亞): 500-1k 台"
     },
     {
       "company": "匯豐軟件 (HSBC Software Development China)",
@@ -3486,8 +3479,10 @@
         "opportunityScore": 4.6,
         "compositeScore": 2.2
       },
-      "preciseStrikePoint": "",
-      "asusEntryStrategy": ""
+      "preciseStrikePoint": "國內需求：生物製藥 CDMO 龍頭，AI 輔助藥物研發需算力；實驗室數據管理需高安規。海外需求：愛爾蘭、新加坡、美國等海外工廠需合規 IT。注意：DoD 1260H 名單企業，且面臨《生物安全法案》壓力。",
+      "asusEntryStrategy": "以「海外工廠合規 IT」為首要切入點；提供高安規伺服器支持其 AI 生物研發；與藥明康德策略協同，但需注意《生物安全法案》風險。",
+      "domesticDemand": "通用 2U (企業 IT/研發): 2k-4k 台; 合規 GPU (AI 生物研發): 1k-2k 台",
+      "overseasDemand": "藥明生物海外 (愛爾蘭/新加坡/美國): 1k-2k 台"
     },
     {
       "rank": 57,
@@ -3549,7 +3544,9 @@
         "compositeScore": 3.9
       },
       "preciseStrikePoint": "AI 決策平台需要穩定的推理伺服器；客戶遍佈金融與零售，對硬體穩定性要求高",
-      "asusEntryStrategy": "以「推理專用伺服器 + 穩定供貨」切入，成為其硬體生態夥伴；透過其客戶網絡間接擴大影響力"
+      "asusEntryStrategy": "以「推理專用伺服器 + 穩定供貨」切入，成為其硬體生態夥伴；透過其客戶網絡間接擴大影響力",
+      "domesticDemand": "合規 GPU (AI 決策平台 4U): 2k-3k 台; 通用 2U (企業部署): 1k-2k 台",
+      "overseasDemand": "暫無明確海外需求"
     },
     {
       "rank": 58,
@@ -4238,22 +4235,17 @@
     {
       "company": "吉利汽車 (Geely Auto)",
       "region": "杭州",
-      "volume": "約 2,000-5,000 台/年",
+      "volume": "約 2,000 - 5,000 台/年（含自駕研發、智慧工廠、企業 IT）",
       "platform": "Intel/AMD 通用伺服器、NVIDIA GPU 伺服器（自動駕駛）",
       "application": "自動駕駛研發、車聯網、智慧工廠、ERP/PLM",
-      "currentSuppliers": "Dell, HPE",
+      "currentSuppliers": "浪潮, Dell, 聯想",
       "odmOem": "OEM",
       "asusModel": "RS720-E11, RS720A-E12, ESC4000A-E12",
       "channel": "SI/DIST",
       "difficulty": 5,
       "challenges": "【汽車/自駕業戰術】【技術要求】吉利汽車 (Geely Auto) 對伺服器品質和技術支援有明確要求，需提供完整的技術文件和售後服務承諾。 【供應鏈壁壘】目前主要供應商為 Dell, HPE，已建立穩定的合作關係和服務體系，ASUS 需展示明確的差異化價值才能爭取到替換或新增機會。 【市場特性】中國大陸市場競爭激烈，本地品牌（浪潮、新華三、中科曙光等）佔據主導地位。ASUS 需要透過差異化的技術方案和有競爭力的價格切入。",
       "entryPoint": "【汽車/自駕業戰術】【短期（3-6個月）】1. 透過現有通路合作夥伴向 吉利汽車 (Geely Auto) 推薦 ASUS 伺服器產品線，安排產品展示和技術交流。2. 針對其即將到來的設備更新週期，提供具競爭力的報價方案。 【中期（6-12個月）】3. 深入了解 吉利汽車 (Geely Auto) 的 IT 基礎設施規劃和技術路線圖，提供針對性的伺服器升級方案。4. 建立定期的技術交流機制，展示 ASUS 在 AI、HPC 等領域的最新產品和解決方案。 【長期（1-2年）】5. 擴大合作範圍，從單一產品線擴展到完整的伺服器產品組合。6. 建立長期的維護服務合約，確保客戶滿意度和持續合作。 【關鍵行動】指派專責業務經理負責 吉利汽車 (Geely Auto) 客戶，透過 神州數碼 建立初步聯繫，並在 30 天內安排首次技術交流會議。",
-      "keyPerson": {
-        "name": "李書福 (Li Shufu)",
-        "title": "Founder & Chairman",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=李書福%20(Li%20Shufu)%20吉利汽車%20(Geely%20Auto)",
-        "source": "https://www.geelyauto.com.hk/"
-      },
+      "keyPerson": "CTO 沈源 / IT 基礎架構總監",
       "siDist": [
         {
           "name": "神州數碼",
@@ -4265,37 +4257,27 @@
       "volumeSource": "https://global.geely.com/en",
       "rank": 69,
       "industry": "汽車",
-      "techDecisionMaker": {
-        "name": "李書福 (Li Shufu)",
-        "title": "Founder & Chairman",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=李書福%20(Li%20Shufu)%20吉利汽車%20(Geely%20Auto)",
-        "commStrategy": "聚焦自動駕駛訓練的 GPU 運算需求、車聯網資料處理、以及工廠邊緣 AI 應用"
-      },
-      "procurementDecisionMaker": {
-        "name": "淦家阅 (Gan Jiayue)",
-        "title": "採購副總裁 / 採購長",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=吉利汽車%20(Geely%20Auto)%20procurement%20VP",
-        "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
-      },
+      "techDecisionMaker": "CTO 沈源",
+      "procurementDecisionMaker": "集團採購中心",
       "archetype": "automotive",
       "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=7。綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(5), 風險(7)的加權評估。",
       "complianceStatus": "clean",
       "complianceReason": "",
-      "isTarget": false,
-      "targetTier": 0,
-      "targetTierName": "",
+      "isTarget": true,
+      "targetTier": 2,
+      "targetTierName": "Tier 2：科技與出海巨頭",
       "riskScoring": {
-        "complianceRisk": 2,
-        "exportControlImpact": 5,
-        "productIterationSpeed": 6,
-        "cooperationHistory": 5,
-        "financialStability": 5,
-        "riskScore": 3.7,
-        "opportunityScore": 5.4,
-        "compositeScore": 3.6
+        "compliance": 95,
+        "exportControl": 90,
+        "productIteration": 80,
+        "cooperationHistory": 20,
+        "financialStability": 85,
+        "total": 74
       },
-      "preciseStrikePoint": "",
-      "asusEntryStrategy": ""
+      "preciseStrikePoint": "國內需求：自駕研發（極氪/路特斯）需 GPU 訓練集群；智慧工廠（寧波/杭州）需邊緣計算與工業 AI；集團 ERP/MES 系統需通用伺服器。海外需求：Volvo Cars 協同（瑞典/比利時）、Polestar、路特斯海外工廠需合規 IT 基礎設施；Dell 份額可替代。",
+      "asusEntryStrategy": "以「自駕 GPU 伺服器 + 海外合規節點」雙線切入；利用吉利-Volvo 海外協同需求，提供非紅供貨的全球化交付；替代 Dell 份額，強調 ASUS 在工業級環境的穩定性。",
+      "domesticDemand": "通用 2U (企業 IT/MES): 1k-2k 台; 合規 GPU (自駕訓練): 500-1.5k 台; 邊緣 AI (智慧工廠): 500-1.5k 台",
+      "overseasDemand": "Volvo/Polestar/路特斯海外: 1k-2k 台"
     },
     {
       "company": "奇安信 (QiAnXin)",
@@ -4728,8 +4710,10 @@
         "opportunityScore": 5.4,
         "compositeScore": 2.6
       },
-      "preciseStrikePoint": "",
-      "asusEntryStrategy": ""
+      "preciseStrikePoint": "國內需求：全國換電站網絡（2,000+ 座）需邊緣計算與 IoT 管理；充電地圖與能源調度需通用伺服器。海外需求：歐洲換電站擴張需合規邊緣設備。注意：DoD 1260H 名單企業（蔚來子公司）。",
+      "asusEntryStrategy": "以「換電站邊緣伺服器」為首要切入點；提供工業級邊緣計算方案支持其全國換電網絡；海外可配合蔚來歐洲擴張提供合規設備。",
+      "domesticDemand": "邊緣 AI (換電站/充電網絡): 1k-2k 台; 通用 2U (能源管理 IT): 1k-2k 台",
+      "overseasDemand": "蔚來能源海外 (歐洲換電站): 500-1k 台"
     },
     {
       "rank": 77,
@@ -4921,7 +4905,9 @@
         "compositeScore": 3.4
       },
       "preciseStrikePoint": "「燈塔工廠」數位轉型，工業 AI 與邊緣計算需求增長；智慧製造升級需要穩定的 IT 基礎設施",
-      "asusEntryStrategy": "以「工業邊緣 AI + 私有雲」方案切入，強調穩定性與耐用性；展示 ASUS 在工業場景的應用案例"
+      "asusEntryStrategy": "以「工業邊緣 AI + 私有雲」方案切入，強調穩定性與耐用性；展示 ASUS 在工業場景的應用案例",
+      "domesticDemand": "邊緣 AI (智慧礦山/無人化): 500-1.5k 台; 通用 2U (企業 IT/MES): 500-1.5k 台",
+      "overseasDemand": "三一海外工程 (東南亞/非洲/中東): 500-1k 台"
     },
     {
       "company": "眾安在線 (ZhongAn Online)",
@@ -6043,7 +6029,9 @@
         "compositeScore": 2.6
       },
       "preciseStrikePoint": "全球化佈局需要海外數據中心；智慧能源管理需要邊緣算力；新能源行業數位轉型加速",
-      "asusEntryStrategy": "以「海外通用伺服器 + 邊緣 AI 方案」切入；利用 ASUS 全球交付能力支持其海外擴張"
+      "asusEntryStrategy": "以「海外通用伺服器 + 邊緣 AI 方案」切入；利用 ASUS 全球交付能力支持其海外擴張",
+      "domesticDemand": "通用 2U (能源管理 IT): 300-800 台; 邊緣 AI (電站監控): 200-700 台",
+      "overseasDemand": "陽光電源海外電站 (歐/美/澳): 500-1k 台"
     },
     {
       "company": "安克創新 (Anker Innovations)",
