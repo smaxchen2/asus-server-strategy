@@ -48,7 +48,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 1,
-      "targetTierName": "AI NeoCloud"
+      "targetTierName": "AI NeoCloud (Immediate Action)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 4,
+        "financialStability": 2,
+        "riskScore": 2.4,
+        "opportunityScore": 5.3,
+        "compositeScore": 4.1
+      }
     },
     {
       "rank": 2,
@@ -94,11 +104,21 @@
       },
       "archetype": "retail",
       "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=5, D3(Technical Barrier)=7, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=7. The main challenge comes from adopting self-developed or exclusive vendor solutions.",
-      "complianceStatus": "blocked",
-      "complianceReason": "DoD 1260H List",
-      "isTarget": false,
-      "targetTier": 0,
-      "targetTierName": ""
+      "complianceStatus": "dod_monitored",
+      "complianceReason": "DoD 1260H List (added 2022). US does NOT prohibit commercial server sales. Alibaba Cloud is China's largest cloud provider. Monitor policy changes.",
+      "isTarget": true,
+      "targetTier": 4,
+      "targetTierName": "DoD Watchlist (Proceed with Caution)",
+      "riskScoring": {
+        "complianceRisk": 6,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 2,
+        "riskScore": 4.1,
+        "opportunityScore": 3.6,
+        "compositeScore": 1.6
+      }
     },
     {
       "rank": 3,
@@ -144,11 +164,21 @@
       },
       "archetype": "enterprise_general",
       "difficultyReason": "D1(Supplier Lock-in)=3, D2(Decision Complexity)=5, D3(Technical Barrier)=3, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=7. 主要挑戰來自需跨部門評估，3-6 個月。",
-      "complianceStatus": "blocked",
-      "complianceReason": "DoD 1260H List",
-      "isTarget": false,
-      "targetTier": 0,
-      "targetTierName": ""
+      "complianceStatus": "dod_monitored",
+      "complianceReason": "DoD 1260H List (added 2022). US does NOT prohibit commercial server sales. Tencent Cloud is China's 2nd largest cloud provider. Monitor policy changes.",
+      "isTarget": true,
+      "targetTier": 4,
+      "targetTierName": "DoD Watchlist (Proceed with Caution)",
+      "riskScoring": {
+        "complianceRisk": 6,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 2,
+        "riskScore": 4.1,
+        "opportunityScore": 4.2,
+        "compositeScore": 2.2
+      }
     },
     {
       "rank": 4,
@@ -194,11 +224,21 @@
       },
       "archetype": "neocloud",
       "difficultyReason": "D1(Supplier Lock-in)=9, D2(Decision Complexity)=1, D3(Technical Barrier)=7, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=7. The main challenge comes from adopting self-developed or exclusive supplier solutions.",
-      "complianceStatus": "blocked",
-      "complianceReason": "DoD 1260H List",
-      "isTarget": false,
-      "targetTier": 0,
-      "targetTierName": ""
+      "complianceStatus": "dod_monitored",
+      "complianceReason": "DoD 1260H List (added 2022). US does NOT prohibit commercial server sales. Baidu is China's leading AI company. Monitor policy changes.",
+      "isTarget": true,
+      "targetTier": 4,
+      "targetTierName": "DoD Watchlist (Proceed with Caution)",
+      "riskScoring": {
+        "complianceRisk": 6,
+        "exportControlImpact": 7,
+        "productIterationSpeed": 8,
+        "cooperationHistory": 7,
+        "financialStability": 2,
+        "riskScore": 5.5,
+        "opportunityScore": 5.0,
+        "compositeScore": 2.2
+      }
     },
     {
       "rank": 5,
@@ -248,7 +288,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 2,
-      "targetTierName": "Tech/Auto/Manufacturing"
+      "targetTierName": "Tech/Auto/Manufacturing (Mid-term)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 2,
+        "riskScore": 2.4,
+        "opportunityScore": 4.2,
+        "compositeScore": 3.0
+      }
     },
     {
       "rank": 6,
@@ -298,7 +348,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 2,
-      "targetTierName": "Tech/Auto/Manufacturing"
+      "targetTierName": "Tech/Auto/Manufacturing (Mid-term)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 2,
+        "riskScore": 2.4,
+        "opportunityScore": 4.2,
+        "compositeScore": 3.0
+      }
     },
     {
       "rank": 7,
@@ -348,7 +408,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 3,
-      "targetTierName": "Enterprise IT/Financial"
+      "targetTierName": "Enterprise IT/Financial (Stable Growth)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 2,
+        "riskScore": 2.4,
+        "opportunityScore": 4.0,
+        "compositeScore": 2.8
+      }
     },
     {
       "rank": 8,
@@ -398,7 +468,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 2,
-      "targetTierName": "Tech/Auto/Manufacturing"
+      "targetTierName": "Tech/Auto/Manufacturing (Mid-term)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 2,
+        "riskScore": 2.4,
+        "opportunityScore": 4.2,
+        "compositeScore": 3.0
+      }
     },
     {
       "rank": 9,
@@ -448,7 +528,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 2,
-      "targetTierName": "Tech/Auto/Manufacturing"
+      "targetTierName": "Tech/Auto/Manufacturing (Mid-term)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 2,
+        "riskScore": 2.4,
+        "opportunityScore": 4.2,
+        "compositeScore": 3.0
+      }
     },
     {
       "rank": 10,
@@ -498,7 +588,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 2,
+        "riskScore": 2.4,
+        "opportunityScore": 3.6,
+        "compositeScore": 2.4
+      }
     },
     {
       "rank": 11,
@@ -548,7 +648,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 3,
-      "targetTierName": "Enterprise IT/Financial"
+      "targetTierName": "Enterprise IT/Financial (Stable Growth)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 3,
+        "riskScore": 2.6,
+        "opportunityScore": 3.6,
+        "compositeScore": 2.3
+      }
     },
     {
       "rank": 12,
@@ -598,7 +708,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 3,
-      "targetTierName": "Enterprise IT/Financial"
+      "targetTierName": "Enterprise IT/Financial (Stable Growth)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 3,
+        "riskScore": 2.6,
+        "opportunityScore": 3.6,
+        "compositeScore": 2.3
+      }
     },
     {
       "rank": 13,
@@ -648,7 +768,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 3,
+        "riskScore": 2.6,
+        "opportunityScore": 3.6,
+        "compositeScore": 2.3
+      }
     },
     {
       "rank": 14,
@@ -698,7 +828,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 3,
+        "riskScore": 2.6,
+        "opportunityScore": 3.6,
+        "compositeScore": 2.3
+      }
     },
     {
       "rank": 15,
@@ -748,7 +888,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 3,
-      "targetTierName": "Enterprise IT/Financial"
+      "targetTierName": "Enterprise IT/Financial (Stable Growth)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 3,
+        "riskScore": 2.6,
+        "opportunityScore": 4.4,
+        "compositeScore": 3.1
+      }
     },
     {
       "rank": 16,
@@ -798,7 +948,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 1,
-      "targetTierName": "AI NeoCloud"
+      "targetTierName": "AI NeoCloud (Immediate Action)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 7,
+        "productIterationSpeed": 8,
+        "cooperationHistory": 4,
+        "financialStability": 3,
+        "riskScore": 4.0,
+        "opportunityScore": 6.4,
+        "compositeScore": 4.4
+      }
     },
     {
       "rank": 17,
@@ -848,7 +1008,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 3,
+        "riskScore": 2.6,
+        "opportunityScore": 3.6,
+        "compositeScore": 2.3
+      }
     },
     {
       "rank": 18,
@@ -898,7 +1068,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 3,
-      "targetTierName": "Enterprise IT/Financial"
+      "targetTierName": "Enterprise IT/Financial (Stable Growth)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 3,
+        "riskScore": 2.6,
+        "opportunityScore": 3.6,
+        "compositeScore": 2.3
+      }
     },
     {
       "rank": 19,
@@ -948,57 +1128,77 @@
       "complianceReason": "Previously proposed for DoD 1260H (Listed 2021 then removed; Re-proposed 2025/12)",
       "isTarget": true,
       "targetTier": 2,
-      "targetTierName": "Tech/Auto/Manufacturing"
+      "targetTierName": "Tech/Auto/Manufacturing (Mid-term)",
+      "riskScoring": {
+        "complianceRisk": 5,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 3,
+        "riskScore": 3.9,
+        "opportunityScore": 3.6,
+        "compositeScore": 1.7
+      }
     },
     {
       "rank": 20,
-      "company": "智譜 AI (Zhipu AI)",
+      "company": "ModelBest (面壁智能)",
       "region": "Beijing",
-      "volume": "Approx. 8,000 - 15,000 units/year (growing rapidly)",
-      "platform": "NVIDIA GPU servers (H100/A100), 4U/8U AI servers.",
-      "application": "Chinese AI large model company, GLM series large models, ChatGLM, enterprise AI solutions. Tsinghua University technical background.",
-      "currentSuppliers": "Inspur, Supermicro",
+      "volume": "~500-1,000 units/year (LLM training & inference clusters)",
+      "platform": "NVIDIA GPU (H20/L40S), AMD MI308X, 4U/8U AI 伺服器",
+      "application": "Large-scale pretrained model library (MiniCPM series), on-device AI models, LLM training/fine-tuning/inference platform",
+      "currentSuppliers": "浪潮, Supermicro",
       "odmOem": "ODM",
       "asusModel": "AI 8GPU: ESC N8-E11, AI 4U: ESC4000A-E12",
-      "channel": "Direct",
-      "difficulty": 5,
-      "challenges": "【NeoCloud/AI Startup Tactics】【Low Technical Barrier】Zhipu AI adopts relatively standardized server specifications, making the technical entry barrier relatively low, but product quality and delivery times must still be ensured. 【Market Characteristics】The mainland China market is fiercely competitive, with local brands (Inspur, H3C, Sugon, etc.) dominating. ASUS needs to enter with differentiated technical solutions and competitive prices. 【Industry Characteristics】The NeoCloud/AI industry has extremely high requirements for the performance, cooling (liquid cooling), and rapid deployment capabilities of GPU servers. Technology iterates quickly, and suppliers must continuously keep up with the latest platforms.",
-      "entryPoint": "[2026 Q2 Shortlist][Supermicro Replacement] 【NeoCloud/AI Startup Tactics】【Short-term (1-3 months)】1. Directly contact Zhipu AI through channel partners or the ASUS sales team to provide product catalogs and quotations. 2. Utilize ASUS's brand awareness and cost-effectiveness advantages to quickly establish a cooperative relationship. 【Mid-term (6-12 months)】3. Provide technical proposals for ASUS ESC series GPU servers and AI POD solutions, showcasing the first-mover advantage on the NVIDIA Blackwell/Rubin platform. 4. Provide differentiated liquid cooling solutions for Zhipu AI's needs, which is a key market differentiator. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish long-term maintenance service contracts to ensure customer satisfaction and continued cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the Zhipu AI account, establish initial contact through Zhipu AI (Direct), and arrange the first technical exchange meeting within 30 days.",
+      "channel": "直供",
+      "difficulty": 3,
+      "challenges": "[AI Startup Tactics] Tsinghua-affiliated AI company, completed hundreds of millions RMB funding led by China Telecom in early 2026. Strong tech but small scale, cost-sensitive. Urgently needs stable alternative after SMCI compliance crisis.",
+      "entryPoint": "[Short-term] Connect via China Telecom/carrier channels, provide AI server POC testing. [Mid-term] Understand MiniCPM training needs, offer customized cooling solutions. [Long-term] Become core compute supplier.",
       "keyPerson": {
-        "name": "張鵬 (Zhang Peng)",
+        "name": "李大海 (Li Dahai)",
         "title": "CEO",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=張鵬%20(Zhang%20Peng)%20智譜%20AI%20(Zhipu%20AI)",
-        "source": "https://money.udn.com/money/story/122331/8949906"
+        "linkedin": "https://www.linkedin.com/company/modelbest",
+        "source": "公開報導"
       },
       "siDist": [
         {
-          "name": "智譜 AI (Zhipu AI) (直供)",
-          "website": "",
-          "type": "Direct",
+          "name": "中國電信",
+          "website": "https://www.chinatelecom.com.cn",
+          "type": "SI",
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.zhipuai.cn",
+      "volumeSource": "https://www.cb.com.cn/index/show/bzyc/cv/cv135276911641",
       "industry": "NeoCloud/AI",
       "techDecisionMaker": {
-        "name": "張鵬 (Zhang Peng)",
+        "name": "李大海 (Li Dahai)",
         "title": "CEO",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=張鵬%20(Zhang%20Peng)%20智譜%20AI%20(Zhipu%20AI)",
-        "commStrategy": "Directly showcase the cooling efficiency and deployment speed advantages of GPU servers (ESC N8-E11 / ESC N8-E12), and provide free POC test machines"
+        "linkedin": "https://www.linkedin.com/company/modelbest",
+        "commStrategy": "透過技術論壇與清華系人脈建立聯繫，展示 ASUS AI 伺服器在大模型訓練的效能優勢"
       },
       "procurementDecisionMaker": {
-        "name": "（推估）張鵬 (Zhang Peng)",
-        "title": "VP of Procurement / Chief Procurement Officer",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=智譜%20AI%20(Zhipu%20AI)%20procurement%20VP",
-        "commStrategy": "Provide flexible payment terms (installments/leasing) and fast delivery commitments, as NeoCloud prioritizes time-to-deploy"
+        "name": "待確認",
+        "title": "採購負責人",
+        "linkedin": "",
+        "commStrategy": "透過運營商渠道引薦"
       },
-      "archetype": "neocloud",
-      "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=2, D3(Technical Barrier)=4, D4(Channel Access)=6, D5(Competition)=4, D6(Geopolitical Risk)=8. The main challenges come from geopolitical risk (8) and supplier lock-in (6).",
-      "complianceStatus": "blocked",
-      "complianceReason": "BIS Entity List (Added 2025/1/16)",
-      "isTarget": false,
-      "targetTier": 0,
-      "targetTierName": ""
+      "archetype": "ai_neocloud",
+      "difficultyReason": "D1(供應商鎖定)=2, D2(採購決策複雜度)=3, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=3。新創企業決策快速，SMCI 替換需求明確。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 1,
+      "targetTierName": "AI NeoCloud (Immediate Action)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 7,
+        "productIterationSpeed": 8,
+        "cooperationHistory": 4,
+        "financialStability": 3,
+        "riskScore": 4.0,
+        "opportunityScore": 7.0,
+        "compositeScore": 5.0
+      }
     },
     {
       "rank": 21,
@@ -1048,7 +1248,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 3,
+        "riskScore": 2.6,
+        "opportunityScore": 4.0,
+        "compositeScore": 2.7
+      }
     },
     {
       "rank": 22,
@@ -1098,7 +1308,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 1,
-      "targetTierName": "AI NeoCloud"
+      "targetTierName": "AI NeoCloud (Immediate Action)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 7,
+        "productIterationSpeed": 8,
+        "cooperationHistory": 4,
+        "financialStability": 5,
+        "riskScore": 4.4,
+        "opportunityScore": 6.4,
+        "compositeScore": 4.2
+      }
     },
     {
       "rank": 23,
@@ -1148,7 +1368,17 @@
       "complianceReason": "Proposed for DoD 1260H (US lawmakers urged Pentagon 2025/12)",
       "isTarget": true,
       "targetTier": 1,
-      "targetTierName": "AI NeoCloud"
+      "targetTierName": "AI NeoCloud (Immediate Action)",
+      "riskScoring": {
+        "complianceRisk": 5,
+        "exportControlImpact": 7,
+        "productIterationSpeed": 8,
+        "cooperationHistory": 4,
+        "financialStability": 5,
+        "riskScore": 5.7,
+        "opportunityScore": 6.4,
+        "compositeScore": 3.6
+      }
     },
     {
       "company": "幻方量化 (High-Flyer Capital)",
@@ -1198,7 +1428,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 1,
-      "targetTierName": "AI NeoCloud"
+      "targetTierName": "AI NeoCloud (Immediate Action)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 4,
+        "financialStability": 3,
+        "riskScore": 2.6,
+        "opportunityScore": 4.7,
+        "compositeScore": 3.4
+      }
     },
     {
       "rank": 25,
@@ -1248,7 +1488,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 1,
-      "targetTierName": "AI NeoCloud"
+      "targetTierName": "AI NeoCloud (Immediate Action)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 7,
+        "productIterationSpeed": 8,
+        "cooperationHistory": 4,
+        "financialStability": 5,
+        "riskScore": 4.4,
+        "opportunityScore": 6.4,
+        "compositeScore": 4.2
+      }
     },
     {
       "rank": 26,
@@ -1298,7 +1548,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 3,
+        "riskScore": 2.6,
+        "opportunityScore": 4.4,
+        "compositeScore": 3.1
+      }
     },
     {
       "rank": 27,
@@ -1344,11 +1604,21 @@
       },
       "archetype": "automotive",
       "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=7, D6(Geopolitical Risk)=6. 主要挑戰來自 決策複雜(7)、競爭激烈(7)。",
-      "complianceStatus": "blocked",
-      "complianceReason": "DoD 1260H List",
-      "isTarget": false,
-      "targetTier": 0,
-      "targetTierName": ""
+      "complianceStatus": "dod_monitored",
+      "complianceReason": "DoD 1260H List (added 2022). US does NOT prohibit commercial server sales. CATL is world's largest EV battery maker. Server demand from smart factories & R&D.",
+      "isTarget": true,
+      "targetTier": 4,
+      "targetTierName": "DoD Watchlist (Proceed with Caution)",
+      "riskScoring": {
+        "complianceRisk": 6,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 3,
+        "riskScore": 4.3,
+        "opportunityScore": 4.6,
+        "compositeScore": 2.4
+      }
     },
     {
       "rank": 28,
@@ -1394,11 +1664,21 @@
       },
       "archetype": "automotive",
       "difficultyReason": "D1(Supplier Lock-in)=5, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=7, D6(Geopolitical Risk)=6. 主要挑戰來自 決策複雜(7)、競爭激烈(7)。",
-      "complianceStatus": "blocked",
-      "complianceReason": "DoD 1260H List",
-      "isTarget": false,
-      "targetTier": 0,
-      "targetTierName": ""
+      "complianceStatus": "dod_monitored",
+      "complianceReason": "DoD 1260H List (added 2022). US does NOT prohibit commercial server sales. BYD is world's largest NEV maker. Server demand from autonomous driving R&D & smart manufacturing.",
+      "isTarget": true,
+      "targetTier": 4,
+      "targetTierName": "DoD Watchlist (Proceed with Caution)",
+      "riskScoring": {
+        "complianceRisk": 6,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 3,
+        "riskScore": 4.3,
+        "opportunityScore": 4.6,
+        "compositeScore": 2.4
+      }
     },
     {
       "rank": 29,
@@ -1448,7 +1728,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 2,
-      "targetTierName": "Tech/Auto/Manufacturing"
+      "targetTierName": "Tech/Auto/Manufacturing (Mid-term)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 3,
+        "riskScore": 2.6,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.3
+      }
     },
     {
       "rank": 30,
@@ -1498,7 +1788,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 3,
-      "targetTierName": "Enterprise IT/Financial"
+      "targetTierName": "Enterprise IT/Financial (Stable Growth)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 3,
+        "riskScore": 2.6,
+        "opportunityScore": 4.0,
+        "compositeScore": 2.7
+      }
     },
     {
       "rank": 31,
@@ -1548,7 +1848,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 4,
+        "riskScore": 2.8,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.2
+      }
     },
     {
       "rank": 32,
@@ -1598,7 +1908,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 4,
+        "riskScore": 2.8,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.2
+      }
     },
     {
       "rank": 33,
@@ -1644,11 +1964,21 @@
       },
       "archetype": "healthcare",
       "difficultyReason": "D1(Supplier Lock-in)=6, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=7. Main challenges come from: lengthy procurement process, intense market competition, high geopolitical risk.",
-      "complianceStatus": "blocked",
-      "complianceReason": "DoD 1260H List",
-      "isTarget": false,
-      "targetTier": 0,
-      "targetTierName": ""
+      "complianceStatus": "dod_monitored",
+      "complianceReason": "DoD 1260H List (added 2023). US does NOT prohibit commercial server sales. WuXi AppTec is a global leading pharma CRO/CDMO.",
+      "isTarget": true,
+      "targetTier": 4,
+      "targetTierName": "DoD Watchlist (Proceed with Caution)",
+      "riskScoring": {
+        "complianceRisk": 6,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 4,
+        "riskScore": 4.5,
+        "opportunityScore": 4.4,
+        "compositeScore": 2.2
+      }
     },
     {
       "company": "階躍星辰 (StepFun)",
@@ -1698,7 +2028,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 1,
-      "targetTierName": "AI NeoCloud"
+      "targetTierName": "AI NeoCloud (Immediate Action)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 7,
+        "productIterationSpeed": 8,
+        "cooperationHistory": 7,
+        "financialStability": 6,
+        "riskScore": 4.6,
+        "opportunityScore": 5.6,
+        "compositeScore": 3.3
+      }
     },
     {
       "rank": 35,
@@ -1748,7 +2088,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 1,
-      "targetTierName": "AI NeoCloud"
+      "targetTierName": "AI NeoCloud (Immediate Action)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 7,
+        "productIterationSpeed": 8,
+        "cooperationHistory": 4,
+        "financialStability": 6,
+        "riskScore": 4.6,
+        "opportunityScore": 6.4,
+        "compositeScore": 4.1
+      }
     },
     {
       "rank": 36,
@@ -1798,7 +2148,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 2,
-      "targetTierName": "Tech/Auto/Manufacturing"
+      "targetTierName": "Tech/Auto/Manufacturing (Mid-term)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 4,
+        "riskScore": 2.8,
+        "opportunityScore": 4.4,
+        "compositeScore": 3.0
+      }
     },
     {
       "rank": 37,
@@ -1844,11 +2204,21 @@
       },
       "archetype": "automotive",
       "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=4, D4(Channel Access)=5, D5(Competition)=4, D6(Geopolitical Risk)=7. Main challenges come from: high supplier lock-in, lengthy procurement process, need to expand new channels, and high geopolitical risk.",
-      "complianceStatus": "blocked",
-      "complianceReason": "DoD 1260H List",
-      "isTarget": false,
-      "targetTier": 0,
-      "targetTierName": ""
+      "complianceStatus": "dod_monitored",
+      "complianceReason": "DoD 1260H List (added 2024). US does NOT prohibit commercial server sales. NIO is a premium Chinese EV brand. Server demand from autonomous driving R&D.",
+      "isTarget": true,
+      "targetTier": 4,
+      "targetTierName": "DoD Watchlist (Proceed with Caution)",
+      "riskScoring": {
+        "complianceRisk": 6,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 4,
+        "riskScore": 4.5,
+        "opportunityScore": 4.4,
+        "compositeScore": 2.2
+      }
     },
     {
       "rank": 38,
@@ -1898,7 +2268,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 2,
-      "targetTierName": "Tech/Auto/Manufacturing"
+      "targetTierName": "Tech/Auto/Manufacturing (Mid-term)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 4,
+        "riskScore": 2.8,
+        "opportunityScore": 4.4,
+        "compositeScore": 3.0
+      }
     },
     {
       "rank": 39,
@@ -1948,7 +2328,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 2,
-      "targetTierName": "Tech/Auto/Manufacturing"
+      "targetTierName": "Tech/Auto/Manufacturing (Mid-term)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 4,
+        "riskScore": 2.8,
+        "opportunityScore": 4.0,
+        "compositeScore": 2.6
+      }
     },
     {
       "rank": 40,
@@ -1998,7 +2388,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 2,
-      "targetTierName": "Tech/Auto/Manufacturing"
+      "targetTierName": "Tech/Auto/Manufacturing (Mid-term)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 4,
+        "riskScore": 2.8,
+        "opportunityScore": 4.0,
+        "compositeScore": 2.6
+      }
     },
     {
       "rank": 41,
@@ -2048,7 +2448,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 3,
-      "targetTierName": "Enterprise IT/Financial"
+      "targetTierName": "Enterprise IT/Financial (Stable Growth)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 4,
+        "riskScore": 2.8,
+        "opportunityScore": 4.2,
+        "compositeScore": 2.8
+      }
     },
     {
       "rank": 42,
@@ -2096,9 +2506,19 @@
       "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=2, D3(Technical Barrier)=8, D4(Channel Access)=5, D5(Competition)=3, D6(Geopolitical Risk)=8. The main challenges lie in high technical barriers and high geopolitical risks.",
       "complianceStatus": "clean",
       "complianceReason": "",
-      "isTarget": true,
-      "targetTier": 1,
-      "targetTierName": "AI NeoCloud"
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 7,
+        "productIterationSpeed": 8,
+        "cooperationHistory": 4,
+        "financialStability": 6,
+        "riskScore": 4.6,
+        "opportunityScore": 6.4,
+        "compositeScore": 4.1
+      }
     },
     {
       "rank": 43,
@@ -2148,7 +2568,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 4,
+        "financialStability": 4,
+        "riskScore": 2.8,
+        "opportunityScore": 5.0,
+        "compositeScore": 3.6
+      }
     },
     {
       "rank": 44,
@@ -2198,7 +2628,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 4,
+        "financialStability": 4,
+        "riskScore": 2.8,
+        "opportunityScore": 5.0,
+        "compositeScore": 3.6
+      }
     },
     {
       "company": "光年之外 (Lightspeed)",
@@ -2248,7 +2688,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 7,
+        "productIterationSpeed": 8,
+        "cooperationHistory": 7,
+        "financialStability": 6,
+        "riskScore": 4.6,
+        "opportunityScore": 5.9,
+        "compositeScore": 3.6
+      }
     },
     {
       "company": "深信服 (Sangfor Technologies)",
@@ -2298,7 +2748,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 3,
-      "targetTierName": "Enterprise IT/Financial"
+      "targetTierName": "Enterprise IT/Financial (Stable Growth)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 4,
+        "financialStability": 4,
+        "riskScore": 2.8,
+        "opportunityScore": 5.3,
+        "compositeScore": 3.9
+      }
     },
     {
       "company": "匯豐軟件 (HSBC Software Development China)",
@@ -2348,7 +2808,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 4,
+        "riskScore": 2.8,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.2
+      }
     },
     {
       "rank": 48,
@@ -2398,7 +2868,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 4,
+        "riskScore": 2.8,
+        "opportunityScore": 4.9,
+        "compositeScore": 3.5
+      }
     },
     {
       "rank": 49,
@@ -2448,7 +2928,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 4,
+        "financialStability": 4,
+        "riskScore": 2.8,
+        "opportunityScore": 5.0,
+        "compositeScore": 3.6
+      }
     },
     {
       "rank": 50,
@@ -2498,7 +2988,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 4,
+        "financialStability": 4,
+        "riskScore": 2.8,
+        "opportunityScore": 5.0,
+        "compositeScore": 3.6
+      }
     },
     {
       "rank": 51,
@@ -2548,7 +3048,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 5,
+        "riskScore": 3.0,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.1
+      }
     },
     {
       "rank": 52,
@@ -2598,7 +3108,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 5,
+        "riskScore": 3.0,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.1
+      }
     },
     {
       "rank": 53,
@@ -2648,7 +3168,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 5,
+        "riskScore": 3.0,
+        "opportunityScore": 4.9,
+        "compositeScore": 3.4
+      }
     },
     {
       "rank": 54,
@@ -2698,7 +3228,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 5,
+        "riskScore": 3.0,
+        "opportunityScore": 4.9,
+        "compositeScore": 3.4
+      }
     },
     {
       "rank": 55,
@@ -2748,7 +3288,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 5,
+        "riskScore": 3.0,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.1
+      }
     },
     {
       "rank": 56,
@@ -2794,11 +3344,21 @@
       },
       "archetype": "healthcare",
       "difficultyReason": "D1(Supplier Lock-in)=4, D2(Decision Complexity)=7, D3(Technical Barrier)=4, D4(Channel Access)=4, D5(Competition)=6, D6(Geopolitical Risk)=8. 難點在於 地緣政治 (8分)，但整體難度中等。",
-      "complianceStatus": "blocked",
-      "complianceReason": "DoD 1260H List (Same Group)",
-      "isTarget": false,
-      "targetTier": 0,
-      "targetTierName": ""
+      "complianceStatus": "dod_monitored",
+      "complianceReason": "DoD 1260H List (same group as WuXi AppTec). US does NOT prohibit commercial server sales. WuXi Biologics is a global leading biologics CRO/CDMO.",
+      "isTarget": true,
+      "targetTier": 4,
+      "targetTierName": "DoD Watchlist (Proceed with Caution)",
+      "riskScoring": {
+        "complianceRisk": 6,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 5,
+        "riskScore": 4.7,
+        "opportunityScore": 4.6,
+        "compositeScore": 2.2
+      }
     },
     {
       "rank": 57,
@@ -2848,7 +3408,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 3,
-      "targetTierName": "Enterprise IT/Financial"
+      "targetTierName": "Enterprise IT/Financial (Stable Growth)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 5,
+        "riskScore": 3.0,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.1
+      }
     },
     {
       "rank": 58,
@@ -2898,7 +3468,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 5,
+        "riskScore": 3.0,
+        "opportunityScore": 4.9,
+        "compositeScore": 3.4
+      }
     },
     {
       "rank": 59,
@@ -2948,7 +3528,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 4,
+        "financialStability": 5,
+        "riskScore": 3.0,
+        "opportunityScore": 5.0,
+        "compositeScore": 3.5
+      }
     },
     {
       "rank": 60,
@@ -2998,7 +3588,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 5,
+        "riskScore": 3.0,
+        "opportunityScore": 4.9,
+        "compositeScore": 3.4
+      }
     },
     {
       "rank": 61,
@@ -3048,7 +3648,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 5,
+        "riskScore": 3.0,
+        "opportunityScore": 4.9,
+        "compositeScore": 3.4
+      }
     },
     {
       "rank": 62,
@@ -3098,7 +3708,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 5,
+        "riskScore": 3.0,
+        "opportunityScore": 4.9,
+        "compositeScore": 3.4
+      }
     },
     {
       "rank": 63,
@@ -3148,7 +3768,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 5,
+        "riskScore": 3.0,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.1
+      }
     },
     {
       "rank": 64,
@@ -3198,7 +3828,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 5,
+        "riskScore": 3.0,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.1
+      }
     },
     {
       "rank": 65,
@@ -3248,7 +3888,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 7,
+        "productIterationSpeed": 8,
+        "cooperationHistory": 7,
+        "financialStability": 7,
+        "riskScore": 4.9,
+        "opportunityScore": 5.0,
+        "compositeScore": 2.5
+      }
     },
     {
       "rank": 66,
@@ -3297,7 +3947,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 5,
+        "riskScore": 3.0,
+        "opportunityScore": 4.9,
+        "compositeScore": 3.4
+      }
     },
     {
       "rank": 67,
@@ -3346,7 +4006,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 4,
+        "financialStability": 5,
+        "riskScore": 3.0,
+        "opportunityScore": 5.0,
+        "compositeScore": 3.5
+      }
     },
     {
       "company": "面壁智能 (ModelBest)",
@@ -3395,7 +4065,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 5,
+        "riskScore": 3.0,
+        "opportunityScore": 4.2,
+        "compositeScore": 2.7
+      }
     },
     {
       "company": "吉利汽車 (Geely Auto)",
@@ -3444,7 +4124,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 5,
+        "riskScore": 3.0,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.1
+      }
     },
     {
       "company": "奇安信 (QiAnXin)",
@@ -3493,7 +4183,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 5,
+        "riskScore": 3.0,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.1
+      }
     },
     {
       "company": "九坤投資 (Ubiquant)",
@@ -3543,7 +4243,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 4,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.7,
+        "compositeScore": 3.1
+      }
     },
     {
       "company": "星環科技 (Transwarp)",
@@ -3593,7 +4303,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.4,
+        "compositeScore": 2.8
+      }
     },
     {
       "rank": 73,
@@ -3643,7 +4363,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.4,
+        "compositeScore": 2.8
+      }
     },
     {
       "rank": 74,
@@ -3693,7 +4423,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.4,
+        "compositeScore": 2.8
+      }
     },
     {
       "rank": 75,
@@ -3743,7 +4483,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.0
+      }
     },
     {
       "rank": 76,
@@ -3789,11 +4539,21 @@
       },
       "archetype": "automotive",
       "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=2, D4(Channel Access)=3, D5(Competition)=7, D6(Geopolitical Risk)=8. Weighted calculation results of supplier lock-in (7), decision complexity (6), technical barrier (2), channel (3), competition (7), risk (8).",
-      "complianceStatus": "blocked",
-      "complianceReason": "DoD 1260H List (Same Group)",
-      "isTarget": false,
-      "targetTier": 0,
-      "targetTierName": ""
+      "complianceStatus": "dod_monitored",
+      "complianceReason": "DoD 1260H List (same group as NIO). US does NOT prohibit commercial server sales. NIO Power operates NIO's battery swap network.",
+      "isTarget": true,
+      "targetTier": 4,
+      "targetTierName": "DoD Watchlist (Proceed with Caution)",
+      "riskScoring": {
+        "complianceRisk": 6,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 6,
+        "riskScore": 4.9,
+        "opportunityScore": 4.6,
+        "compositeScore": 2.1
+      }
     },
     {
       "rank": 77,
@@ -3843,7 +4603,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.0
+      }
     },
     {
       "company": "長城汽車 (Great Wall Motor)",
@@ -3893,7 +4663,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.4,
+        "compositeScore": 2.8
+      }
     },
     {
       "company": "三一重工 (SANY Heavy Industry)",
@@ -3949,7 +4729,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 2,
-      "targetTierName": "Tech/Auto/Manufacturing"
+      "targetTierName": "Tech/Auto/Manufacturing (Mid-term)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.4,
+        "compositeScore": 2.8
+      }
     },
     {
       "company": "眾安在線 (ZhongAn Online)",
@@ -3999,7 +4789,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.0,
+        "compositeScore": 2.4
+      }
     },
     {
       "company": "富途控股 (Futu Holdings)",
@@ -4049,7 +4849,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.9,
+        "compositeScore": 3.3
+      }
     },
     {
       "company": "嘉實基金 (Harvest Fund)",
@@ -4099,7 +4909,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.0
+      }
     },
     {
       "company": "明略科技 (MiningLamp)",
@@ -4149,7 +4969,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.0
+      }
     },
     {
       "company": "數夢工場 (DTDream)",
@@ -4199,57 +5029,77 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.0
+      }
     },
     {
-      "company": "雲天勵飛 (Intellifusion)",
-      "region": "Shenzhen",
-      "volume": "Approx. 1,000-3,000 units/year",
-      "platform": "NVIDIA GPU Servers, self-developed AI chip servers",
-      "application": "AI visual analysis, smart city, smart retail",
-      "currentSuppliers": "ODM Direct",
+      "rank": 85,
+      "company": "Pony.ai (小馬智行)",
+      "region": "Guangzhou/Beijing",
+      "volume": "~300-800 units/year (autonomous driving training & simulation)",
+      "platform": "NVIDIA GPU (A100/L40S), Intel Xeon, 4U AI 伺服器, 2U 通用伺服器",
+      "application": "L4 autonomous driving R&D, Robotaxi operations platform, HD map training, simulation testing",
+      "currentSuppliers": "浪潮, Dell, 新華三",
       "odmOem": "ODM",
-      "asusModel": "ESC4000A-E12, RS520-E11",
-      "channel": "ODM Direct",
-      "difficulty": 7,
-      "challenges": "【Enterprise IT Tactics】【Brand Awareness】ASUS has lower brand awareness in the server market than Dell, HPE, and Lenovo, requiring more market education. 【Existing Relationships】ODM Direct has established stable cooperative relationships and service systems. 【Procurement Inertia】Enterprise IT procurement tends to choose existing suppliers to reduce risks. 【Technical Support】Need to demonstrate comprehensive after-sales service and technical support capabilities.",
-      "entryPoint": "【Enterprise IT Tactics】【Short-term (3-6 months)】1. Recommend the ASUS server product line to Intellifusion through existing channel partners, and arrange product demonstrations and technical exchanges. 2. Provide a competitive quotation plan for its upcoming equipment renewal cycle. 【Mid-term (6-12 months)】3. Gain an in-depth understanding of Intellifusion's IT infrastructure planning and technology roadmap, and provide targeted server upgrade solutions. 4. Establish a regular technical exchange mechanism to showcase ASUS's latest products and solutions in fields such as AI and HPC. 【Long-term (1-2 years)】5. Expand the scope of cooperation from a single product line to a complete server product portfolio. 6. Establish a long-term maintenance service contract to ensure customer satisfaction and continued cooperation. 【Key Action】Assign a dedicated account manager to be responsible for the Intellifusion account, establish initial contact through Intellifusion (Direct), and arrange the first technical exchange meeting within 30 days.",
+      "asusModel": "AI 4U: ESC4000A-E12, 通用2U: RS720A-E12",
+      "channel": "直供/SI",
+      "difficulty": 4,
+      "challenges": "[Autonomous Driving Tactics] NASDAQ-listed since late 2024, Robotaxi achieved positive monthly operating profit per vehicle in 2025. Heavy R&D spending (>600M RMB/year), continuous GPU server demand. International expansion underway (Middle East, Europe).",
+      "entryPoint": "[Short-term] Target compute demand from Robotaxi expansion with AI server solutions. [Mid-term] Support overseas compute node deployment (Middle East/Europe), leverage ASUS APAC supply chain. [Long-term] Become global compute infrastructure partner.",
       "keyPerson": {
-        "name": "陳寧 (Chen Ning)",
-        "title": "Founder & CEO",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=陳寧%20(Chen%20Ning)%20雲天勵飛%20(Intellifusion)",
-        "source": "http://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=688343&id=11003793"
+        "name": "彭軍 (James Peng)",
+        "title": "CEO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/jamespeng",
+        "source": "LinkedIn"
       },
       "siDist": [
         {
-          "name": "雲天勵飛 (Intellifusion) (直供)",
-          "website": "",
-          "type": "Direct",
+          "name": "神州數碼",
+          "website": "https://www.digitalchina.com",
+          "type": "DIST",
           "isActual": false
         }
       ],
-      "volumeSource": "https://www.intellif.com",
-      "rank": 85,
-      "industry": "Tech",
+      "volumeSource": "https://autonews.gasgoo.com/articles/news/chinese-robotaxi-firms-an-inevitable-showdown-with-tesla-waymo-2032365544924106753",
+      "industry": "自駕",
       "techDecisionMaker": {
-        "name": "陳寧 (Chen Ning)",
-        "title": "Founder & CEO",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=陳寧%20(Chen%20Ning)%20雲天勵飛%20(Intellifusion)",
-        "commStrategy": "Showcase the performance advantages and energy efficiency of ASUS servers in AI/HPC workloads through product technical briefings."
+        "name": "樓天城 (Lou Tiancheng)",
+        "title": "CTO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/tianchenglou",
+        "commStrategy": "透過技術論壇展示 ASUS 在 AI 推理與訓練伺服器的效能優勢"
       },
       "procurementDecisionMaker": {
-        "name": "蔡松 (Cai Song)",
-        "title": "VP of Procurement / Chief Procurement Officer",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=雲天勵飛%20(Intellifusion)%20procurement%20VP",
-        "commStrategy": "Introduction through regional SI/DIST channels, providing competitive TCO analysis and trial programs."
+        "name": "待確認",
+        "title": "採購VP",
+        "linkedin": "",
+        "commStrategy": "透過 SI 通路引薦，提供 TCO 分析"
       },
-      "archetype": "enterprise_general",
-      "difficultyReason": "D1(Supplier Lock-in)=7, D2(Decision Complexity)=6, D3(Technical Barrier)=8, D4(Channel Access)=8, D5(Competition)=2, D6(Geopolitical Risk)=8. Mainly due to high technical barriers and customization requirements (8), resulting in an overall higher level of difficulty.",
-      "complianceStatus": "blocked",
-      "complianceReason": "BIS Entity List (Added 2019/10)",
+      "archetype": "autonomous_driving",
+      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=4, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=4, D6(地緣政治)=3。上市公司採購流程較規範，但國際化需求是切入點。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 5,
+        "productIterationSpeed": 8,
+        "cooperationHistory": 5,
+        "financialStability": 8,
+        "riskScore": 4.4,
+        "opportunityScore": 6.4,
+        "compositeScore": 4.2
+      }
     },
     {
       "rank": 86,
@@ -4305,7 +5155,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.0
+      }
     },
     {
       "company": "涂鴉智能海外 (Tuya Global)",
@@ -4355,7 +5215,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.0,
+        "compositeScore": 2.4
+      }
     },
     {
       "company": "雲知聲 (Unisound)",
@@ -4405,7 +5275,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 3.6,
+        "compositeScore": 2.0
+      }
     },
     {
       "company": "思謀科技 (SmartMore)",
@@ -4455,7 +5335,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 3.6,
+        "compositeScore": 2.0
+      }
     },
     {
       "company": "衛星化學 (Satellite Chemical)",
@@ -4505,7 +5395,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.0
+      }
     },
     {
       "company": "Wondershare",
@@ -4555,7 +5455,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.0,
+        "compositeScore": 2.4
+      }
     },
     {
       "company": "Sunmi Technology",
@@ -4605,7 +5515,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.2,
+        "compositeScore": 2.6
+      }
     },
     {
       "company": "Tiger Brokers / UP Fintech",
@@ -4655,7 +5575,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.0,
+        "compositeScore": 2.4
+      }
     },
     {
       "company": "Datagrand",
@@ -4705,7 +5635,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.0,
+        "compositeScore": 2.4
+      }
     },
     {
       "company": "Linklogis",
@@ -4755,7 +5695,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.2,
+        "compositeScore": 2.6
+      }
     },
     {
       "company": "華勤技術 (Huaqin Technology)",
@@ -4805,7 +5755,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.0
+      }
     },
     {
       "company": "陽光電源 (Sungrow Power)",
@@ -4855,7 +5815,17 @@
       "complianceReason": "",
       "isTarget": true,
       "targetTier": 3,
-      "targetTierName": "Enterprise IT/Financial"
+      "targetTierName": "Enterprise IT/Financial (Stable Growth)",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.0
+      }
     },
     {
       "company": "安克創新 (Anker Innovations)",
@@ -4905,7 +5875,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.0,
+        "compositeScore": 2.4
+      }
     },
     {
       "company": "聯想之星 (Legend Star) / 聯泓新科",
@@ -4955,7 +5935,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 5,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.6,
+        "compositeScore": 3.0
+      }
     },
     {
       "company": "火花思維 (Spark Education)",
@@ -5005,7 +5995,17 @@
       "complianceReason": "",
       "isTarget": false,
       "targetTier": 0,
-      "targetTierName": ""
+      "targetTierName": "",
+      "riskScoring": {
+        "complianceRisk": 2,
+        "exportControlImpact": 3,
+        "productIterationSpeed": 4,
+        "cooperationHistory": 7,
+        "financialStability": 6,
+        "riskScore": 3.2,
+        "opportunityScore": 4.2,
+        "compositeScore": 2.6
+      }
     }
   ]
 }
