@@ -46,7 +46,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=5, D6(地緣政治)=7。主要挑戰來自需跨部門評估，3-6 個月。"
+      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=5, D6(地緣政治)=7。主要挑戰來自需跨部門評估，3-6 個月。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 1,
+      "targetTierName": "AI NeoCloud（立即行動）"
     },
     {
       "rank": 2,
@@ -91,7 +96,12 @@
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
       "archetype": "retail",
-      "difficultyReason": "D1(供應商鎖定)=9, D2(採購決策複雜度)=5, D3(技術門檻)=7, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自採用自研或獨家供應商的解決方案。"
+      "difficultyReason": "D1(供應商鎖定)=9, D2(採購決策複雜度)=5, D3(技術門檻)=7, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自採用自研或獨家供應商的解決方案。",
+      "complianceStatus": "blocked",
+      "complianceReason": "DoD 1260H List",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 3,
@@ -136,7 +146,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自需跨部門評估，3-6 個月。"
+      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自需跨部門評估，3-6 個月。",
+      "complianceStatus": "blocked",
+      "complianceReason": "DoD 1260H List",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 4,
@@ -181,7 +196,12 @@
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
       "archetype": "neocloud",
-      "difficultyReason": "D1(供應商鎖定)=9, D2(採購決策複雜度)=1, D3(技術門檻)=7, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自採用自研或獨家供應商的解決方案。"
+      "difficultyReason": "D1(供應商鎖定)=9, D2(採購決策複雜度)=1, D3(技術門檻)=7, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自採用自研或獨家供應商的解決方案。",
+      "complianceStatus": "blocked",
+      "complianceReason": "DoD 1260H List",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 5,
@@ -226,7 +246,12 @@
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
       "archetype": "retail",
-      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自需跨部門評估，3-6 個月。"
+      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自需跨部門評估，3-6 個月。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 2,
+      "targetTierName": "科技/汽車/製造（中期開發）"
     },
     {
       "rank": 6,
@@ -271,7 +296,12 @@
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
       "archetype": "retail",
-      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自需跨部門評估，3-6 個月。"
+      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自需跨部門評估，3-6 個月。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 2,
+      "targetTierName": "科技/汽車/製造（中期開發）"
     },
     {
       "rank": 7,
@@ -316,7 +346,12 @@
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
       "archetype": "financial",
-      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自有主要供應商但非獨家，切換成本中等。"
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自有主要供應商但非獨家，切換成本中等。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 3,
+      "targetTierName": "企業 IT/金融（穩健開發）"
     },
     {
       "rank": 8,
@@ -361,7 +396,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自需跨部門評估，3-6 個月。"
+      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自需跨部門評估，3-6 個月。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 2,
+      "targetTierName": "科技/汽車/製造（中期開發）"
     },
     {
       "rank": 9,
@@ -406,7 +446,12 @@
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
       "archetype": "telecom",
-      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自需跨部門評估，3-6 個月。"
+      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自需跨部門評估，3-6 個月。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 2,
+      "targetTierName": "科技/汽車/製造（中期開發）"
     },
     {
       "rank": 10,
@@ -451,7 +496,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 11,
@@ -496,7 +546,12 @@
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
       "archetype": "financial",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 3,
+      "targetTierName": "企業 IT/金融（穩健開發）"
     },
     {
       "rank": 12,
@@ -541,7 +596,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 3,
+      "targetTierName": "企業 IT/金融（穩健開發）"
     },
     {
       "rank": 13,
@@ -586,7 +646,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 14,
@@ -631,7 +696,12 @@
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
       "archetype": "financial",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 15,
@@ -676,7 +746,12 @@
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
       "archetype": "financial",
-      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=7, D6(地緣政治)=8。主要挑戰在於採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=7, D6(地緣政治)=8。主要挑戰在於採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 3,
+      "targetTierName": "企業 IT/金融（穩健開發）"
     },
     {
       "rank": 16,
@@ -721,7 +796,12 @@
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
       "archetype": "neocloud",
-      "difficultyReason": "D1(供應商鎖定)=2, D2(採購決策複雜度)=2, D3(技術門檻)=8, D4(通路可及性)=6, D5(市場競爭)=6, D6(地緣政治)=8。主要挑戰在於高技術門檻、需新通路開發、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=2, D2(採購決策複雜度)=2, D3(技術門檻)=8, D4(通路可及性)=6, D5(市場競爭)=6, D6(地緣政治)=8。主要挑戰在於高技術門檻、需新通路開發、地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 1,
+      "targetTierName": "AI NeoCloud（立即行動）"
     },
     {
       "rank": 17,
@@ -766,7 +846,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=7。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=7。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 18,
@@ -811,7 +896,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=7。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=7。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 3,
+      "targetTierName": "企業 IT/金融（穩健開發）"
     },
     {
       "rank": 19,
@@ -856,7 +946,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=8, D6(地緣政治)=8。主要挑戰在於供應商高度鎖定、採購流程複雜、需新通路開發、市場競爭激烈、地緣政治風險高。",
+      "complianceStatus": "yellow",
+      "complianceReason": "曾被提議列入 DoD 1260H (2021年列入後移除；2025/12 再次被提議)",
+      "isTarget": true,
+      "targetTier": 2,
+      "targetTierName": "科技/汽車/製造（中期開發）"
     },
     {
       "rank": 20,
@@ -903,7 +998,12 @@
       "archetype": "neocloud",
       "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=2, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=8。主要挑戰來自 地緣政治風險(8)、供應商鎖定(6)。",
       "latestIntelligence": "2025年持續與清華大學深度合作，算力需求持續擴大，正積極尋找Supermicro替代方案。",
-      "asusOpportunityUpdate": "學術背景降低採購複雜度，Supermicro替代視窗開啟，ASUS合規保障是核心訴求。"
+      "asusOpportunityUpdate": "學術背景降低採購複雜度，Supermicro替代視窗開啟，ASUS合規保障是核心訴求。",
+      "complianceStatus": "blocked",
+      "complianceReason": "BIS Entity List (2025/1/16)",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 21,
@@ -948,7 +1048,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=6。主要挑戰來自 供應商鎖定(6)、通路需開發(6)。"
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=6。主要挑戰來自 供應商鎖定(6)、通路需開發(6)。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 22,
@@ -995,7 +1100,12 @@
       "archetype": "neocloud",
       "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=2, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=8。主要挑戰來自 地緣政治風險(8)、供應商鎖定(6)。",
       "latestIntelligence": "2026年1月完成C輪5億美元融資，估值達43億美元，計畫擴展GPU基礎設施與AI芯片採購，加速Kimi K3模型開發。",
-      "asusOpportunityUpdate": "融資後算力需求急增，Supermicro合規危機導致採購中斷，ASUS ESC N8-E11V（H20/B40）為最佳替代方案。"
+      "asusOpportunityUpdate": "融資後算力需求急增，Supermicro合規危機導致採購中斷，ASUS ESC N8-E11V（H20/B40）為最佳替代方案。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 1,
+      "targetTierName": "AI NeoCloud（立即行動）"
     },
     {
       "rank": 23,
@@ -1042,7 +1152,12 @@
       "archetype": "neocloud",
       "difficultyReason": "D1(供應商鎖定)=8, D2(採購決策複雜度)=2, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=8。主要挑戰來自 地緣政治風險(8)、供應商鎖定(8)。",
       "latestIntelligence": "2026年2月DeepSeek震撼全球市場一周年，持續推出低成本高效能AI模型，算力需求龐大且持續成長。",
-      "asusOpportunityUpdate": "具備自研需求，可從OEM合作或液冷AI POD解決方案切入，提供高密度算力節點。"
+      "asusOpportunityUpdate": "具備自研需求，可從OEM合作或液冷AI POD解決方案切入，提供高密度算力節點。",
+      "complianceStatus": "yellow",
+      "complianceReason": "曾被提議列入 DoD 1260H (2025/12 美國議員呼籲列入)",
+      "isTarget": true,
+      "targetTier": 1,
+      "targetTierName": "AI NeoCloud（立即行動）"
     },
     {
       "company": "幻方量化 (High-Flyer Capital)",
@@ -1087,7 +1202,12 @@
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
       "archetype": "financial",
-      "difficultyReason": "D1(供應商鎖定)=8, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=8。主要挑戰來自 地緣政治風險(8)、供應商鎖定(8)。"
+      "difficultyReason": "D1(供應商鎖定)=8, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=8。主要挑戰來自 地緣政治風險(8)、供應商鎖定(8)。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 1,
+      "targetTierName": "AI NeoCloud（立即行動）"
     },
     {
       "rank": 25,
@@ -1134,7 +1254,12 @@
       "archetype": "neocloud",
       "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=2, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=8。主要挑戰來自 地緣政治風險(8)、供應商鎖定(6)。",
       "latestIntelligence": "2025年主要收入來源為C端產品Talkie、開放平台及視頻生成模型海螺AI，持續擴大算力投入。",
-      "asusOpportunityUpdate": "快速融資擴張中，Supermicro替代需求明確，可提供ESC N8-E11系列AI伺服器方案。"
+      "asusOpportunityUpdate": "快速融資擴張中，Supermicro替代需求明確，可提供ESC N8-E11系列AI伺服器方案。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 1,
+      "targetTierName": "AI NeoCloud（立即行動）"
     },
     {
       "rank": 26,
@@ -1179,7 +1304,12 @@
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
       "archetype": "financial",
-      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=6。主要挑戰來自 決策複雜(7)、供應商鎖定(6)。"
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=6。主要挑戰來自 決策複雜(7)、供應商鎖定(6)。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 27,
@@ -1226,7 +1356,12 @@
       "archetype": "automotive",
       "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=7, D6(地緣政治)=6。主要挑戰來自 決策複雜(7)、競爭激烈(7)。",
       "latestIntelligence": "2025年淨利潤增長42.3%至722億人民幣，AI數據中心儲能業務成為新增長點，IT基礎設施投資持續擴大。",
-      "asusOpportunityUpdate": "可從邊緣運算或特定廠區的IT基礎設施更新切入，強調ASUS工業級可靠性與穩定交期。"
+      "asusOpportunityUpdate": "可從邊緣運算或特定廠區的IT基礎設施更新切入，強調ASUS工業級可靠性與穩定交期。",
+      "complianceStatus": "blocked",
+      "complianceReason": "DoD 1260H List",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 28,
@@ -1271,7 +1406,12 @@
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
       "archetype": "automotive",
-      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=7, D6(地緣政治)=6。主要挑戰來自 決策複雜(7)、競爭激烈(7)。"
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=7, D6(地緣政治)=6。主要挑戰來自 決策複雜(7)、競爭激烈(7)。",
+      "complianceStatus": "blocked",
+      "complianceReason": "DoD 1260H List",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 29,
@@ -1316,7 +1456,12 @@
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
       "archetype": "automotive",
-      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=6。主要挑戰來自 決策複雜(7)、供應商鎖定(6)。"
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=6。主要挑戰來自 決策複雜(7)、供應商鎖定(6)。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 2,
+      "targetTierName": "科技/汽車/製造（中期開發）"
     },
     {
       "rank": 30,
@@ -1361,7 +1506,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=4, D6(地緣政治)=7。主要挑戰來自：供應商高度鎖定、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=4, D6(地緣政治)=7。主要挑戰來自：供應商高度鎖定、地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 3,
+      "targetTierName": "企業 IT/金融（穩健開發）"
     },
     {
       "rank": 31,
@@ -1406,7 +1556,12 @@
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
       "archetype": "financial",
-      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。主要挑戰來自：採購流程漫長、市場競爭激烈、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。主要挑戰來自：採購流程漫長、市場競爭激烈、地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 32,
@@ -1451,7 +1606,12 @@
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
       "archetype": "automotive",
-      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。主要挑戰來自：採購流程漫長、市場競爭激烈、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。主要挑戰來自：採購流程漫長、市場競爭激烈、地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 33,
@@ -1496,7 +1656,12 @@
         "commStrategy": "透過醫療業 SI（如 Epic Systems 合作夥伴、Cerner 生態系）切入，醫療業採購重視長期服務合約"
       },
       "archetype": "healthcare",
-      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。主要挑戰來自：採購流程漫長、市場競爭激烈、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。主要挑戰來自：採購流程漫長、市場競爭激烈、地緣政治風險高。",
+      "complianceStatus": "blocked",
+      "complianceReason": "DoD 1260H List",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "階躍星辰 (StepFun)",
@@ -1541,7 +1706,12 @@
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
       "archetype": "neocloud",
-      "difficultyReason": "D1(供應商鎖定)=2, D2(採購決策複雜度)=2, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自：需拓展新通路、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=2, D2(採購決策複雜度)=2, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。主要挑戰來自：需拓展新通路、地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 1,
+      "targetTierName": "AI NeoCloud（立即行動）"
     },
     {
       "rank": 35,
@@ -1586,7 +1756,12 @@
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
       "archetype": "neocloud",
-      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=2, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=4, D6(地緣政治)=7。主要挑戰來自：需拓展新通路、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=2, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=4, D6(地緣政治)=7。主要挑戰來自：需拓展新通路、地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 1,
+      "targetTierName": "AI NeoCloud（立即行動）"
     },
     {
       "rank": 36,
@@ -1631,7 +1806,12 @@
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
       "archetype": "automotive",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=4, D6(地緣政治)=7。主要挑戰來自：供應商高度鎖定、採購流程漫長、需拓展新通路、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=4, D6(地緣政治)=7。主要挑戰來自：供應商高度鎖定、採購流程漫長、需拓展新通路、地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 2,
+      "targetTierName": "科技/汽車/製造（中期開發）"
     },
     {
       "rank": 37,
@@ -1676,7 +1856,12 @@
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
       "archetype": "automotive",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=4, D6(地緣政治)=7。主要挑戰來自：供應商高度鎖定、採購流程漫長、需拓展新通路、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=4, D6(地緣政治)=7。主要挑戰來自：供應商高度鎖定、採購流程漫長、需拓展新通路、地緣政治風險高。",
+      "complianceStatus": "blocked",
+      "complianceReason": "DoD 1260H List",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 38,
@@ -1721,7 +1906,12 @@
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
       "archetype": "automotive",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=4, D6(地緣政治)=7。主要挑戰來自：供應商高度鎖定、採購流程漫長、需拓展新通路、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=4, D6(地緣政治)=7。主要挑戰來自：供應商高度鎖定、採購流程漫長、需拓展新通路、地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 2,
+      "targetTierName": "科技/汽車/製造（中期開發）"
     },
     {
       "rank": 39,
@@ -1766,7 +1956,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=4, D6(地緣政治)=7。主要挑戰來自：供應商高度鎖定、需拓展新通路、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=4, D6(地緣政治)=7。主要挑戰來自：供應商高度鎖定、需拓展新通路、地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 2,
+      "targetTierName": "科技/汽車/製造（中期開發）"
     },
     {
       "rank": 40,
@@ -1811,7 +2006,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=8。主要挑戰在於地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=8。主要挑戰在於地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 2,
+      "targetTierName": "科技/汽車/製造（中期開發）"
     },
     {
       "rank": 41,
@@ -1856,7 +2056,12 @@
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
       "archetype": "financial",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=1, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=5。主要挑戰在於採購決策複雜。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=1, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=5。主要挑戰在於採購決策複雜。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 3,
+      "targetTierName": "企業 IT/金融（穩健開發）"
     },
     {
       "rank": 42,
@@ -1901,7 +2106,12 @@
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
       "archetype": "neocloud",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=2, D3(技術門檻)=8, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=8。主要挑戰在於技術門檻高、地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=2, D3(技術門檻)=8, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=8。主要挑戰在於技術門檻高、地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 1,
+      "targetTierName": "AI NeoCloud（立即行動）"
     },
     {
       "rank": 43,
@@ -1946,7 +2156,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=8。主要挑戰在於地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=8。主要挑戰在於地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 44,
@@ -1993,7 +2208,12 @@
       "archetype": "enterprise_general",
       "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=8。主要挑戰在於地緣政治風險高。",
       "latestIntelligence": "2026年2月與摩爾線程達成戰略合作，首次在關鍵訓練與仿真環節規模化應用國產AI算力，但仍需國際品牌伺服器作為補充。",
-      "asusOpportunityUpdate": "雖已與摩爾線程合作，但國際品牌伺服器仍有需求，可從Supermicro替代切入，提供Dell/HPE替代方案。"
+      "asusOpportunityUpdate": "雖已與摩爾線程合作，但國際品牌伺服器仍有需求，可從Supermicro替代切入，提供Dell/HPE替代方案。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "光年之外 (Lightspeed)",
@@ -2038,7 +2258,12 @@
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
       "archetype": "neocloud",
-      "difficultyReason": "D1(供應商鎖定)=2, D2(採購決策複雜度)=2, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=1, D6(地緣政治)=8。主要挑戰在於地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=2, D2(採購決策複雜度)=2, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=1, D6(地緣政治)=8。主要挑戰在於地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "深信服 (Sangfor Technologies)",
@@ -2085,7 +2310,12 @@
       "archetype": "enterprise_general",
       "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=1, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=5。存在一定挑戰，但仍有切入機會。",
       "latestIntelligence": "2025年服務超過27,000家雲端客戶，協助12,000+企業從VMware遷移至Sangfor，IT基礎設施需求持續成長。2025年7月合作夥伴峰會吸引17個國家650+合作夥伴。",
-      "asusOpportunityUpdate": "Supermicro替代機會，利用ASUS品牌知名度和性價比優勢快速建立合作關係，可提供通用伺服器方案。"
+      "asusOpportunityUpdate": "Supermicro替代機會，利用ASUS品牌知名度和性價比優勢快速建立合作關係，可提供通用伺服器方案。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 3,
+      "targetTierName": "企業 IT/金融（穩健開發）"
     },
     {
       "company": "匯豐軟件 (HSBC Software Development China)",
@@ -2130,7 +2360,12 @@
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
       "archetype": "financial",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=1, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=5。主要挑戰在於供應商高度鎖定、採購決策複雜。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=1, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=5。主要挑戰在於供應商高度鎖定、採購決策複雜。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 48,
@@ -2175,7 +2410,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=1, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=5。存在一定挑戰，但仍有切入機會。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=1, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=5。存在一定挑戰，但仍有切入機會。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 49,
@@ -2220,7 +2460,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=8。主要挑戰在於地緣政治風險高。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=3, D6(地緣政治)=8。主要挑戰在於地緣政治風險高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 50,
@@ -2267,7 +2512,12 @@
       "archetype": "financial",
       "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=6, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。",
       "latestIntelligence": "2026年3月在ECR 2026展示超過60個AI應用，uAI Clinical Portal持續擴大，醫療AI算力需求強勁。",
-      "asusOpportunityUpdate": "Supermicro替代機會，提供符合醫療合規要求的伺服器解決方案，強調台灣研發的品質保障。"
+      "asusOpportunityUpdate": "Supermicro替代機會，提供符合醫療合規要求的伺服器解決方案，強調台灣研發的品質保障。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 51,
@@ -2312,7 +2562,12 @@
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
       "archetype": "financial",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 52,
@@ -2357,7 +2612,12 @@
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
       "archetype": "financial",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=6, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=6, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 53,
@@ -2402,7 +2662,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。切入機會較大，各維度阻力均不高，尤其 技術門檻 (2分) 為主要優勢。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。切入機會較大，各維度阻力均不高，尤其 技術門檻 (2分) 為主要優勢。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 54,
@@ -2447,7 +2712,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。切入機會較大，各維度阻力均不高，尤其 技術門檻 (2分) 為主要優勢。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。切入機會較大，各維度阻力均不高，尤其 技術門檻 (2分) 為主要優勢。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 55,
@@ -2492,7 +2762,12 @@
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
       "archetype": "financial",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 56,
@@ -2537,7 +2812,12 @@
         "commStrategy": "透過醫療業 SI（如 Epic Systems 合作夥伴、Cerner 生態系）切入，醫療業採購重視長期服務合約"
       },
       "archetype": "healthcare",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=6, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=6, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。",
+      "complianceStatus": "blocked",
+      "complianceReason": "DoD 1260H List (同集團)",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 57,
@@ -2582,7 +2862,12 @@
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
       "archetype": "automotive",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 3,
+      "targetTierName": "企業 IT/金融（穩健開發）"
     },
     {
       "rank": 58,
@@ -2627,7 +2912,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。切入機會較大，各維度阻力均不高，尤其 技術門檻 (2分) 為主要優勢。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。切入機會較大，各維度阻力均不高，尤其 技術門檻 (2分) 為主要優勢。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 59,
@@ -2672,7 +2962,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=4, D3(技術門檻)=4, D4(通路可及性)=6, D5(市場競爭)=4, D6(地緣政治)=8。難點在於 地緣政治 (8分)，但整體難度中等。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 60,
@@ -2717,7 +3012,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=5。綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(2), 通路(3), 競爭(5), 風險(5)的加權評估。"
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=5。綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(2), 通路(3), 競爭(5), 風險(5)的加權評估。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 61,
@@ -2762,7 +3062,12 @@
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
       "archetype": "financial",
-      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=5。綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(2), 通路(3), 競爭(5), 風險(5)的加權評估。"
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=5。綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(2), 通路(3), 競爭(5), 風險(5)的加權評估。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 62,
@@ -2807,7 +3112,12 @@
         "commStrategy": "透過零售業 SI 或直接接觸 IT 部門，零售業對 TCO 極度敏感"
       },
       "archetype": "retail",
-      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=5。綜合供應商鎖定(5), 決策複雜度(5), 技術門檻(2), 通路(3), 競爭(5), 風險(5)的加權評估。"
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=5。綜合供應商鎖定(5), 決策複雜度(5), 技術門檻(2), 通路(3), 競爭(5), 風險(5)的加權評估。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 63,
@@ -2852,7 +3162,12 @@
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
       "archetype": "automotive",
-      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=7。綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(5), 風險(7)的加權評估。"
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=7。綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(5), 風險(7)的加權評估。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 64,
@@ -2897,7 +3212,12 @@
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
       "archetype": "automotive",
-      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=7。綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(5), 風險(7)的加權評估。"
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=7。綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(5), 風險(7)的加權評估。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 65,
@@ -2942,7 +3262,12 @@
         "commStrategy": "提供靈活的付款條件（分期/租賃）與快速交付承諾，NeoCloud 最重視 time-to-deploy"
       },
       "archetype": "neocloud",
-      "difficultyReason": "D1(供應商鎖定)=9, D2(採購決策複雜度)=1, D3(技術門檻)=8, D4(通路可及性)=5, D5(市場競爭)=5, D6(地緣政治)=5。綜合供應商鎖定(9), 決策複雜度(1), 技術門檻(8), 通路(5), 競爭(5), 風險(5)的加權評估。"
+      "difficultyReason": "D1(供應商鎖定)=9, D2(採購決策複雜度)=1, D3(技術門檻)=8, D4(通路可及性)=5, D5(市場競爭)=5, D6(地緣政治)=5。綜合供應商鎖定(9), 決策複雜度(1), 技術門檻(8), 通路(5), 競爭(5), 風險(5)的加權評估。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 66,
@@ -2987,7 +3312,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=5。綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(2), 通路(3), 競爭(5), 風險(5)的加權評估。"
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=5。綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(2), 通路(3), 競爭(5), 風險(5)的加權評估。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 67,
@@ -3034,7 +3364,12 @@
       "archetype": "enterprise_general",
       "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=5, D6(地緣政治)=7。綜合供應商鎖定(5), 決策複雜度(5), 技術門檻(4), 通路(5), 競爭(5), 風險(7)的加權評估。",
       "latestIntelligence": "2026年預計交付2000台Robotaxi GXR，投放至國內和海外市場，算力需求持續擴大。",
-      "asusOpportunityUpdate": "Supermicro替代機會，深入了解其IT基礎設施規劃，提供針對性的伺服器升級方案。"
+      "asusOpportunityUpdate": "Supermicro替代機會，深入了解其IT基礎設施規劃，提供針對性的伺服器升級方案。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "面壁智能 (ModelBest)",
@@ -3079,7 +3414,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=1, D6(地緣政治)=7。綜合供應商鎖定(3), 決策複雜度(5), 技術門檻(4), 通路(5), 競爭(1), 風險(7)的加權評估。"
+      "difficultyReason": "D1(供應商鎖定)=3, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=1, D6(地緣政治)=7。綜合供應商鎖定(3), 決策複雜度(5), 技術門檻(4), 通路(5), 競爭(1), 風險(7)的加權評估。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "吉利汽車 (Geely Auto)",
@@ -3124,7 +3464,12 @@
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
       "archetype": "automotive",
-      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=7。綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(5), 風險(7)的加權評估。"
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=7。綜合供應商鎖定(5), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(5), 風險(7)的加權評估。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "奇安信 (QiAnXin)",
@@ -3169,7 +3514,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=6。綜合供應商鎖定(6), 決策複雜度(6), 技術門檻(2), 通路(3), 競爭(7), 風險(6)的加權計算結果。"
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=6。綜合供應商鎖定(6), 決策複雜度(6), 技術門檻(2), 通路(3), 競爭(7), 風險(6)的加權計算結果。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "九坤投資 (Ubiquant)",
@@ -3214,7 +3564,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(4), 通路(5), 競爭(7), 風險(8)的加權計算結果。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(4), 通路(5), 競爭(7), 風險(8)的加權計算結果。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "星環科技 (Transwarp)",
@@ -3259,7 +3614,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 73,
@@ -3304,7 +3664,12 @@
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
       "archetype": "telecom",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 74,
@@ -3349,7 +3714,12 @@
         "commStrategy": "透過電信業 SI（如 Nokia、Ericsson 生態系合作夥伴）或直接參與 RFP 流程"
       },
       "archetype": "telecom",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(7), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 75,
@@ -3394,7 +3764,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(2), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(2), 通路(3), 競爭(7), 風險(8)的加權計算結果。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 76,
@@ -3439,7 +3814,12 @@
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
       "archetype": "automotive",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(2), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(2), 通路(3), 競爭(7), 風險(8)的加權計算結果。",
+      "complianceStatus": "blocked",
+      "complianceReason": "DoD 1260H List (同集團)",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 77,
@@ -3484,7 +3864,12 @@
         "commStrategy": "透過醫療業 SI（如 Epic Systems 合作夥伴、Cerner 生態系）切入，醫療業採購重視長期服務合約"
       },
       "archetype": "healthcare",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(2), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(2), 通路(3), 競爭(7), 風險(8)的加權計算結果。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "長城汽車 (Great Wall Motor)",
@@ -3529,7 +3914,12 @@
         "commStrategy": "透過汽車業 Tier 1 供應商生態系或直接接觸 IT 部門，汽車業正大量投資 AI 基礎設施"
       },
       "archetype": "automotive",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "三一重工 (SANY Heavy Industry)",
@@ -3580,7 +3970,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=8。綜合供應商鎖定(7), 決策複雜度(6), 技術門檻(4), 通路(3), 競爭(7), 風險(8)的加權計算結果。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 2,
+      "targetTierName": "科技/汽車/製造（中期開發）"
     },
     {
       "company": "眾安在線 (ZhongAn Online)",
@@ -3625,7 +4020,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=2, D6(地緣政治)=8。主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=2, D6(地緣政治)=8。主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "富途控股 (Futu Holdings)",
@@ -3670,7 +4070,12 @@
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
       "archetype": "financial",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=2, D6(地緣政治)=8。主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=2, D6(地緣政治)=8。主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "嘉實基金 (Harvest Fund)",
@@ -3715,7 +4120,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "明略科技 (MiningLamp)",
@@ -3760,7 +4170,12 @@
         "commStrategy": "透過金融業專屬 SI（如 Kyndryl、DXC Technology）引薦，金融業採購流程嚴謹，需通過 vendor qualification program"
       },
       "archetype": "financial",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=2, D6(地緣政治)=8。主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=2, D6(地緣政治)=8。主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "數夢工場 (DTDream)",
@@ -3805,7 +4220,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=7。主要因供應商鎖定程度高 (7)，導致整體難易度偏高。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=7。主要因供應商鎖定程度高 (7)，導致整體難易度偏高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "雲天勵飛 (Intellifusion)",
@@ -3850,7 +4270,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=8, D4(通路可及性)=8, D5(市場競爭)=2, D6(地緣政治)=8。主要因技術門檻與客製化需求高 (8)，導致整體難易度偏高。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=8, D4(通路可及性)=8, D5(市場競爭)=2, D6(地緣政治)=8。主要因技術門檻與客製化需求高 (8)，導致整體難易度偏高。",
+      "complianceStatus": "blocked",
+      "complianceReason": "BIS Entity List (2019/10)",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "rank": 86,
@@ -3901,7 +4326,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=8。主要因地緣政治與合規風險高 (8)，導致整體難易度偏高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "涂鴉智能海外 (Tuya Global)",
@@ -3946,7 +4376,12 @@
         "commStrategy": "透過區域 SI/DIST 通路引薦，提供具競爭力的 TCO 分析與試用方案"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=6。主要因供應商鎖定程度高 (7)，導致整體難易度偏高。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=2, D4(通路可及性)=4, D5(市場競爭)=4, D6(地緣政治)=6。主要因供應商鎖定程度高 (7)，導致整體難易度偏高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "雲知聲 (Unisound)",
@@ -3991,7 +4426,12 @@
         "commStrategy": "強調AI語音晶片的高效能運算需求，提供客製化伺服器方案與彈性付款條件。"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=8, D5(市場競爭)=2, D6(地緣政治)=8。主要因通路需重新建立 (8)，導致整體難易度偏高。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=8, D5(市場競爭)=2, D6(地緣政治)=8。主要因通路需重新建立 (8)，導致整體難易度偏高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "思謀科技 (SmartMore)",
@@ -4036,7 +4476,12 @@
         "commStrategy": "聚焦工業視覺AI推論需求，提供高GPU密度伺服器方案與POC測試機會。"
       },
       "archetype": "retail",
-      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=8, D5(市場競爭)=2, D6(地緣政治)=8。主要因通路需重新建立 (8)，導致整體難易度偏高。"
+      "difficultyReason": "D1(供應商鎖定)=7, D2(採購決策複雜度)=6, D3(技術門檻)=4, D4(通路可及性)=8, D5(市場競爭)=2, D6(地緣政治)=8。主要因通路需重新建立 (8)，導致整體難易度偏高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "衛星化學 (Satellite Chemical)",
@@ -4081,7 +4526,12 @@
         "commStrategy": "強調化工產業數位轉型的IT基礎設施需求，提供高性價比伺服器方案。"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。採購需跨部門評估、面臨主要 OEM 競爭、地緣政治風險高，導致整體難易度較高。"
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。採購需跨部門評估、面臨主要 OEM 競爭、地緣政治風險高，導致整體難易度較高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "萬興科技 (Wondershare)",
@@ -4126,7 +4576,12 @@
         "commStrategy": "聚焦AI影片編輯與創意工具的GPU運算需求，提供具競爭力的TCO方案。"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。採購需跨部門評估、面臨主要 OEM 競爭、地緣政治風險高，導致整體難易度較高。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。採購需跨部門評估、面臨主要 OEM 競爭、地緣政治風險高，導致整體難易度較高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "商米科技 (Sunmi Technology)",
@@ -4171,7 +4626,12 @@
         "commStrategy": "強調智慧零售終端的邊緣運算需求，提供小型化高效能伺服器方案。"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=6。採購需跨部門評估、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=6。採購需跨部門評估、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "老虎證券 (Tiger Brokers / UP Fintech)",
@@ -4216,7 +4676,12 @@
         "commStrategy": "聚焦金融交易系統的低延遲需求，提供高頻交易級伺服器方案與穩定供貨承諾。"
       },
       "archetype": "financial",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=6。採購決策極其複雜、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=7, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=6。採購決策極其複雜、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "達觀數據 (Datagrand)",
@@ -4261,7 +4726,12 @@
         "commStrategy": "強調NLP大模型訓練的GPU運算需求，提供AI訓練專用伺服器方案。"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。採購需跨部門評估、需建立新通路、地緣政治風險高，導致整體難易度較高。"
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=5, D5(市場競爭)=3, D6(地緣政治)=7。採購需跨部門評估、需建立新通路、地緣政治風險高，導致整體難易度較高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "聯易融 (Linklogis)",
@@ -4306,7 +4776,12 @@
         "commStrategy": "聚焦供應鏈金融科技的數據處理需求，提供高可靠性伺服器方案。"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=6。採購需跨部門評估、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=6。採購需跨部門評估、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "華勤技術 (Huaqin Technology)",
@@ -4351,7 +4826,12 @@
         "commStrategy": "強調ODM代工經驗的協同效應，提供伺服器零組件與整機的靈活採購方案。"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=6。採購需跨部門評估、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。"
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=6。採購需跨部門評估、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "陽光電源 (Sungrow Power)",
@@ -4396,7 +4876,12 @@
         "commStrategy": "聚焦新能源數據中心的高效能運算需求，提供綠色節能伺服器方案。"
       },
       "archetype": "energy",
-      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。採購需跨部門評估、面臨主要 OEM 競爭、地緣政治風險高，導致整體難易度較高。"
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。採購需跨部門評估、面臨主要 OEM 競爭、地緣政治風險高，導致整體難易度較高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": true,
+      "targetTier": 3,
+      "targetTierName": "企業 IT/金融（穩健開發）"
     },
     {
       "company": "安克創新 (Anker Innovations)",
@@ -4441,7 +4926,12 @@
         "commStrategy": "強調跨境電商的全球IT基礎設施需求，提供多區域部署的伺服器方案。"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。採購需跨部門評估、面臨主要 OEM 競爭、地緣政治風險高，導致整體難易度較高。"
+      "difficultyReason": "D1(供應商鎖定)=4, D2(採購決策複雜度)=5, D3(技術門檻)=4, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=7。採購需跨部門評估、面臨主要 OEM 競爭、地緣政治風險高，導致整體難易度較高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "聯想之星 (Legend Star) / 聯泓新科",
@@ -4486,7 +4976,12 @@
         "commStrategy": "聚焦投資組合公司的IT基礎設施整合需求，提供集團採購優惠方案。"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=6。採購需跨部門評估、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。"
+      "difficultyReason": "D1(供應商鎖定)=6, D2(採購決策複雜度)=5, D3(技術門檻)=2, D4(通路可及性)=3, D5(市場競爭)=7, D6(地緣政治)=6。採購需跨部門評估、面臨主要 OEM 競爭、存在合規風險，導致整體難易度較高。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     },
     {
       "company": "火花思維 (Spark Education)",
@@ -4531,7 +5026,12 @@
         "commStrategy": "強調線上教育平台的AI互動運算需求，提供高性價比GPU伺服器方案。"
       },
       "archetype": "enterprise_general",
-      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=7。綜合供應商鎖定(5), 決策複雜度(5), 技術門檻(3), 通路(3), 競爭(5), 及地緣政治(7)的加權計算結果。"
+      "difficultyReason": "D1(供應商鎖定)=5, D2(採購決策複雜度)=5, D3(技術門檻)=3, D4(通路可及性)=3, D5(市場競爭)=5, D6(地緣政治)=7。綜合供應商鎖定(5), 決策複雜度(5), 技術門檻(3), 通路(3), 競爭(5), 及地緣政治(7)的加權計算結果。",
+      "complianceStatus": "clean",
+      "complianceReason": "",
+      "isTarget": false,
+      "targetTier": 0,
+      "targetTierName": ""
     }
   ]
 }
