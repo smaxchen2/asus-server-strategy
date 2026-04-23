@@ -882,6 +882,9 @@ export default function Home() {
               {t.footerSources}
             </div>
           </div>
+          <div className="mt-2 text-[10px] text-muted-foreground text-center">
+            Maintained by Claude AI · 2026-04-23
+          </div>
         </div>
       </footer>
 
