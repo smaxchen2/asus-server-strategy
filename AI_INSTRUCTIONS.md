@@ -277,4 +277,77 @@ pnpm run check              # TypeScript 型別檢查
 ```
 
 ---
-*本文件由 Manus AI 持續維護，確保反映專案的最新狀態。*
+
+## 10. GitHub / Vercel 協作 Skill（claude.ai 對話窗維護指南）
+
+> 本節說明如何透過 **claude.ai 對話窗**（非 Claude Code CLI）直接維護本專案。  
+> 此為 2026-05-05 實測驗證的工作流程，請接手的 AI 助手優先採用此方式。
+
+### 環境說明
+
+| 工具 | 可用性 | 說明 |
+|------|--------|------|
+| `github.com`（HTTP fetch） | ✅ 可用 | 可讀取 repo 頁面與 raw 檔案 |
+| `git clone / push`（HTTPS） | ✅ 可用 | 透過 PAT token 存取 |
+| `api.github.com`（REST API） | ❌ 封鎖 | 網路白名單限制，無法呼叫 |
+| GitHub Codespaces | ❌ 不需要 | 已改由對話窗直接操作，可刪除 |
+| Vercel 自動部署 | ✅ 自動 | push 到 main 分支後約 1-2 分鐘自動部署 |
+
+### 首次接手流程
+
+```bash
+# 1. 確認 PAT token 有效（用 git clone 測試，不用 api.github.com）
+git clone https://{PAT_TOKEN}@github.com/smaxchen2/asus-server-strategy.git /home/claude/repo
+
+# 2. 設定 git 身份
+cd /home/claude/repo
+git config user.email "claude@anthropic.com"
+git config user.name "Claude AI"
+
+# 3. 確認最新狀態
+git log --oneline -5
+```
+
+### 日常維護流程
+
+```bash
+# 修改前先確認是最新版
+cd /home/claude/repo && git pull
+
+# 修改程式碼（view → str_replace 或 create_file）
+
+# 確認修改正確後 commit & push
+git add {檔案路徑}
+git commit -m "{type}: {說明}"
+git push
+
+# Vercel 收到 push 後自動部署，約 1-2 分鐘生效
+# 可至 https://asus-server-strategy.vercel.app 確認
+```
+
+### Commit 訊息格式
+
+| 前綴 | 用途 |
+|------|------|
+| `feat:` | 新增功能 |
+| `fix:` | 修復 bug |
+| `docs:` | 文件更新（README、AI_INSTRUCTIONS） |
+| `data:` | 企業資料更新（JSON 檔案） |
+| `style:` | UI 樣式調整 |
+| `refactor:` | 程式碼重構 |
+
+### PAT Token 管理
+
+- Token 由專案負責人（smaxchen2）提供，具備 `repo` 完整讀寫權限
+- 若 token 失效（git push 回傳 403），請請負責人至 https://github.com/settings/tokens 重新產生
+- Token 請勿公開貼在對話紀錄中（GitHub 會自動偵測並撤銷）
+
+### 注意事項
+
+1. **每次新對話都需重新 clone**：bash 環境是無狀態的，/home/claude/repo 不會保留
+2. **修改 JSON 資料務必中英雙語同步**
+3. **push 前不需要 build**：Vercel 會自動執行 `pnpm run build:client`
+4. **只推 main 分支**：Vercel 設定只監聽 main，其他分支不會自動部署
+
+---
+*本文件由 Claude AI（Anthropic）持續維護。最後更新：2026-05-05*
